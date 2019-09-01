@@ -9,4 +9,9 @@ html {
 body {
     margin: 0;
     padding: 20px;
+    font-family: Work Sans,sans-serif;
+    background: #fcf2e6;
+}
+a:visited {
+    color: black;
 }

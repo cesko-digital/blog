@@ -3,13 +3,14 @@ import Layout from "../../components/Layout";
 
 export default ({
   data: {
-    authorYaml: { id, bio, twitter },
+    authorYaml: { id, bio, twitter, image },
     allMarkdownRemark: { edges: postNodes }
   }
 }) => (
   <Layout>
     <div>
       <h2>{id}</h2>
+      <img src={image} alt={`Profilová fotka - ${id}`}/>
       <a href={`https://twitter.com/${twitter}/`} target="_blank">
         {`@${twitter}`}
       </a>
@@ -50,6 +51,7 @@ export const pageQuery = graphql`
       id
       bio
       twitter
+      picture
     }
   }
 `;
