@@ -27,6 +27,7 @@
     "gatsby-transformer-sharp": "2.1.10",
     "gatsby-transformer-yaml": "^2.1.12",
     "lodash": "^4.17.4",
+    "lodash.camelcase": "^4.3.0",
     "moment": "^2.23.0",
     "prismjs": "^1.15.0",
     "react": "^16.7.0",
