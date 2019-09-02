@@ -2,15 +2,13 @@ import React from "react";
 import _ from "lodash";
 import Helmet from "react-helmet";
 import { graphql } from "gatsby";
-import Layout from "../../components/Layout";
-import UserInfo from "../../components/UserInfo";
-import PostTags from "../../components/PostTags";
-import SocialLinks from "../../components/SocialLinks";
-import SEO from "../../components/SEO";
-import config from "../../../data/SiteConfig";
+import PostTags from "../../components/post-tags";
+import SEO from "../../components/seo";
+import config from "../../../data/site-config";
 import "../b16-tomorrow-dark.css";
 import "./index.css";
-import { Col, Container, Row } from "react-grid-system"
+import { Container } from "react-grid-system"
+import MainLayout from "../../components/layout"
 
 export default class PostTemplate extends React.Component {
   render() {
@@ -24,7 +22,7 @@ export default class PostTemplate extends React.Component {
       post.category_id = config.postDefaultCategoryID;
     }
     return (
-      <Layout>
+      <MainLayout>
         <Container>
           <Helmet>
             <title>{`${post.title} | ${config.siteTitle}`}</title>
@@ -43,7 +41,7 @@ export default class PostTemplate extends React.Component {
             </div>
           </div>
         </Container>
-      </Layout>
+      </MainLayout>
     );
   }
 }

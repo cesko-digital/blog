@@ -1,5 +1,5 @@
 const urljoin = require("url-join");
-const config = require("./data/SiteConfig");
+const config = require("./data/site-config");
 
 module.exports = {
   pathPrefix: config.pathPrefix === "" ? "/" : config.pathPrefix,
@@ -13,7 +13,7 @@ module.exports = {
       image_url: `${urljoin(
         config.siteUrl,
         config.pathPrefix
-      )}/logos/logo-512.png`,
+      )}/logos/logo-1024.png`,
       copyright: config.copyright
     }
   },
@@ -85,13 +85,13 @@ module.exports = {
         display: "minimal-ui",
         icons: [
           {
-            src: "/logos/logo-192x192.png",
-            sizes: "192x192",
+            src: "/logos/logo-48.png",
+            sizes: "48x48",
             type: "image/png"
           },
           {
-            src: "/logos/logo-512x512.png",
-            sizes: "512x512",
+            src: "/logos/logo-1024.png",
+            sizes: "1024x1024",
             type: "image/png"
           }
         ]

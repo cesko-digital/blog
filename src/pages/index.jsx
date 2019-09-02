@@ -1,10 +1,10 @@
 import React from "react";
 import Helmet from "react-helmet";
 import { Link, graphql } from "gatsby";
-import Layout from "../components/Layout";
-import PostListing from "../components/PostListing";
-import SEO from "../components/SEO";
-import config from "../../data/SiteConfig";
+import Layout from "../components/layout";
+import PostListing from "../components/post-listing";
+import SEO from "../components/seo";
+import config from "../../data/site-config";
 
 class Index extends React.Component {
   render() {

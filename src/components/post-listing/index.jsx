@@ -33,7 +33,7 @@ class PostListing extends React.Component {
   }
 
   render() {
-    const postList = [...this.getPostList(), ...this.getPostList(), ...this.getPostList(), ...this.getPostList(), ...this.getPostList(), ];
+    const postList = this.getPostList();
     const firstPost = postList[0]
     const otherPosts = [...postList.slice(1, postList.length)]
     return (

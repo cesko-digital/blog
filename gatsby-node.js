@@ -1,7 +1,7 @@
 const path = require("path");
 const _ = require("lodash");
 const moment = require("moment");
-const siteConfig = require("./data/SiteConfig");
+const siteConfig = require("./data/site-config");
 
 const postNodes = [];
 
@@ -105,11 +105,11 @@ exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions;
 
   return new Promise((resolve, reject) => {
-    const postPage = path.resolve("src/templates/Post/index.jsx");
-    const tagPage = path.resolve("src/templates/Tag/index.jsx");
-    const categoryPage = path.resolve("src/templates/Category/index.jsx");
-    const authorsPage = path.resolve("src/templates/Authors/index.jsx");
-    const authorPage = path.resolve("src/templates/Author/index.jsx");
+    const postPage = path.resolve("src/templates/post/index.jsx");
+    const tagPage = path.resolve("src/templates/tag/index.jsx");
+    const categoryPage = path.resolve("src/templates/category/index.jsx");
+    const authorsPage = path.resolve("src/templates/authors/index.jsx");
+    const authorPage = path.resolve("src/templates/author/index.jsx");
     resolve(
       graphql(
         `

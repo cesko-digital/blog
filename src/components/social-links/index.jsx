@@ -18,7 +18,7 @@ import {
   RedditIcon
 } from "react-share";
 import urljoin from "url-join";
-import config from "../../../data/SiteConfig";
+import config from "../../../data/site-config";
 import "./s.css";
 
 class SocialLinks extends Component {
