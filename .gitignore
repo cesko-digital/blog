@@ -1,2 +1,8 @@
 # Local Netlify folder
 .netlify
+
+.cache
+
+public
+
+.idea
