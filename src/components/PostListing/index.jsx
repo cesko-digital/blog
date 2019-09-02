@@ -16,10 +16,11 @@ class PostListing extends React.Component {
   getPostList() {
     const postList = [];
     this.props.postEdges.forEach(postEdge => {
+      let author = postEdge.node.frontmatter.author || {id: null}; // TODO
       postList.push({
         path: postEdge.node.fields.slug,
         tags: postEdge.node.frontmatter.tags,
-        author: postEdge.node.frontmatter.author.id,
+        author: author.id,
         cover: postEdge.node.frontmatter.cover,
         description: postEdge.node.frontmatter.description,
         title: postEdge.node.frontmatter.title,

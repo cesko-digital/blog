@@ -47,9 +47,9 @@ export const pageQuery = graphql`
             tags
             cover
             date
-              author {
-                  id
-              }
+            author {
+                id
+            }
           }
         }
       }
