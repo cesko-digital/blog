@@ -10,6 +10,7 @@ import SEO from "../../components/SEO";
 import config from "../../../data/SiteConfig";
 import "../b16-tomorrow-dark.css";
 import "./index.css";
+import { Col, Container, Row } from "react-grid-system"
 
 export default class PostTemplate extends React.Component {
   render() {
@@ -24,7 +25,7 @@ export default class PostTemplate extends React.Component {
     }
     return (
       <Layout>
-        <div>
+        <Container>
           <Helmet>
             <title>{`${post.title} | ${config.siteTitle}`}</title>
           </Helmet>
@@ -41,7 +42,7 @@ export default class PostTemplate extends React.Component {
               <PostTags tags={post.tags} />
             </div>
           </div>
-        </div>
+        </Container>
       </Layout>
     );
   }
