@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "gatsby";
+import { graphql, Link } from "gatsby"
 import _ from "lodash";
 import Layout from "../../components/Layout";
 
