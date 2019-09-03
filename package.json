@@ -4,6 +4,7 @@
   "version": "1.1.0",
   "author": "Wei Gao <wgao19@gmail.com>",
   "dependencies": {
+    "babel-plugin-styled-components": "^1.10.6",
     "gatsby": "2.0.91",
     "gatsby-image": "2.0.26",
     "gatsby-plugin-catch-links": "2.0.9",
@@ -16,6 +17,7 @@
     "gatsby-plugin-react-helmet": "3.0.5",
     "gatsby-plugin-sharp": "2.0.17",
     "gatsby-plugin-sitemap": "2.0.4",
+    "gatsby-plugin-styled-components": "^3.1.4",
     "gatsby-plugin-twitter": "2.0.8",
     "gatsby-remark-autolink-headers": "2.0.12",
     "gatsby-remark-copy-linked-files": "2.0.8",
@@ -36,6 +38,7 @@
     "react-helmet": "^5.2.0",
     "react-share": "^2.4.0",
     "react-twitter-widgets": "^1.7.1",
+    "styled-components": "^4.3.2",
     "url-join": "^4.0.0"
   },
   "devDependencies": {

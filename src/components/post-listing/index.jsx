@@ -1,16 +1,8 @@
 import React from "react";
-import { Link } from "gatsby";
+import Post from './post'
 import { Col, Container, Row } from "react-grid-system"
 
-const Post = ({path, title, description, author}) => {
-    return <Link to={path} >
-      <h2>
-        {title}
-      </h2>
-      <p>{description}</p>
-      <b>{author}</b>
-    </Link>
-}
+
 
 class PostListing extends React.Component {
   getPostList() {

@@ -9,9 +9,18 @@ html {
 body {
     margin: 0;
     padding: 20px;
-    font-family: Work Sans,sans-serif;
-    background: #fcf2e6;
+    font-family: Source Code Pro,sans-serif;
+    background: #fff;
 }
-a:visited {
+a {
     color: black;
+}
+
+h1 {
+    font-family: SanFranciscoText,sans-serif;
+    font-size: 31px;
+    line-height: 39px;
+    /* or 126% */
+
+    letter-spacing: -0.65px;
 }

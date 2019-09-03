@@ -24,6 +24,7 @@ module.exports = {
     "gatsby-transformer-yaml",
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-lodash",
+    `gatsby-plugin-styled-components`,
     {
       resolve: "gatsby-source-filesystem",
       options: {
