@@ -5,7 +5,6 @@ author: Curious Cat
 category: blog
 tags:
   - gatsby
-cover: ""
 ---
 
 ## Headers
