@@ -32,14 +32,14 @@ class PostListing extends React.Component {
       <Container>
         <Row>
           <Col>
-            <Post description={firstPost.description} path={firstPost.path} title={firstPost.title} author={firstPost.author}/>
+            <Post description={firstPost.description} path={firstPost.path} title={firstPost.title} author={firstPost.author} cover={firstPost.cover}/>
           </Col>
         </Row>
         <Row>
           {/* Your post list here. */
             otherPosts.map(post => (
               <Col md={6} xs={12} key={post.title}>
-                  <Post description={post.description} path={post.path} title={post.title} author={post.author}/>
+                  <Post description={post.description} path={post.path} title={post.title} author={post.author} cover={post.cover}/>
               </Col>
 
             ))}

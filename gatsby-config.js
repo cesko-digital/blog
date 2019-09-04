@@ -25,6 +25,8 @@ module.exports = {
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-lodash",
     `gatsby-plugin-styled-components`,
+    `gatsby-transformer-sharp`,
+    "gatsby-plugin-sharp",
     {
       resolve: "gatsby-source-filesystem",
       options: {
@@ -70,7 +72,7 @@ module.exports = {
         color: config.themeColor
       }
     },
-    "gatsby-plugin-sharp",
+
     "gatsby-plugin-catch-links",
     "gatsby-plugin-twitter",
     "gatsby-plugin-sitemap",

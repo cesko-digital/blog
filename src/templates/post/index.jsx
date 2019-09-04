@@ -49,13 +49,18 @@ export default class PostTemplate extends React.Component {
 /* eslint no-undef: "off" */
 export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!) {
-    markdownRemark(fields: { slug: { eq: $slug } }) {
+   markdownRemark(fields: { slug: { eq: $slug } }) {
       html
       timeToRead
       excerpt
       frontmatter {
         title
-        cover
+        cover {
+          childImageSharp{
+            sizes(maxWidth: 630) {
+              ...GatsbyImageSharpSizes
+            }
+          }}
         date
         category
         tags

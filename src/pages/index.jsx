@@ -42,7 +42,13 @@ export const pageQuery = graphql`
             title
             description
             tags
-            cover
+            cover {
+              childImageSharp{
+                sizes(maxWidth: 630) {
+                  ...GatsbyImageSharpSizes
+                }
+              }
+            }
             date
             author {
                 id
