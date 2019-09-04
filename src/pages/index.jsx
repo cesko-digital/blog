@@ -25,37 +25,33 @@ export default Index;
 
 /* eslint no-undef: "off" */
 export const pageQuery = graphql`
-  query IndexQuery {
-    allMarkdownRemark(
-      limit: 2000
-      sort: { fields: [fields___date], order: DESC }
-    ) {
-      edges {
-        node {
-          fields {
-            slug
-            date
-          }
-          excerpt
-          timeToRead
-          frontmatter {
-            title
-            description
-            tags
-            cover {
-              childImageSharp{
-                sizes(maxWidth: 630) {
-                  ...GatsbyImageSharpSizes
+    query IndexQuery {
+        allMarkdownRemark(
+            limit: 2000
+            sort: { fields: [fields___date], order: DESC }
+        ) {
+            edges {
+                node {
+                    fields {
+                        slug
+                        date
+                    }
+                    excerpt
+                    timeToRead
+                    frontmatter {
+                        title
+                        description
+                        tags
+                        cover {
+                            publicURL
+                        }
+                        date
+                        author {
+                            id
+                        }
+                    }
                 }
-              }
             }
-            date
-            author {
-                id
-            }
-          }
         }
-      }
     }
-  }
 `;

@@ -48,36 +48,33 @@ export default class PostTemplate extends React.Component {
 
 /* eslint no-undef: "off" */
 export const pageQuery = graphql`
-  query BlogPostBySlug($slug: String!) {
-   markdownRemark(fields: { slug: { eq: $slug } }) {
-      html
-      timeToRead
-      excerpt
-      frontmatter {
-        title
-        cover {
-          childImageSharp{
-            sizes(maxWidth: 630) {
-              ...GatsbyImageSharpSizes
+    query BlogPostBySlug($slug: String!) {
+        markdownRemark(fields: { slug: { eq: $slug } }) {
+            html
+            timeToRead
+            excerpt
+            frontmatter {
+                title
+                cover {
+                    publicURL
+                }
+                date
+                category
+                tags
+                author {
+                    id
+                    bio
+                    twitter
+                }
             }
-          }}
-        date
-        category
-        tags
-        author {
-          id
-          bio
-          twitter
+            fields {
+                nextTitle
+                nextSlug
+                prevTitle
+                prevSlug
+                slug
+                date
+            }
         }
-      }
-      fields {
-        nextTitle
-        nextSlug
-        prevTitle
-        prevSlug
-        slug
-        date
-      }
     }
-  }
 `;
