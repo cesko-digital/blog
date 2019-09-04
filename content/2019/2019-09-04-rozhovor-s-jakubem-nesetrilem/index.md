@@ -5,8 +5,7 @@ author: Curious Cat
 category: blog
 tags:
   - gatsby
-cover: "./cover.jpg"
+cover: ""
 ---
 
 ## Headers
-![alt text](cover.jpg "Logo Title Text 1")
