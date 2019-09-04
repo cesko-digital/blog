@@ -26,7 +26,7 @@ module.exports = {
     "gatsby-plugin-lodash",
     `gatsby-plugin-styled-components`,
     `gatsby-transformer-sharp`,
-    "gatsby-plugin-sharp",
+    'gatsby-plugin-sharp',
     {
       resolve: "gatsby-source-filesystem",
       options: {
@@ -45,12 +45,7 @@ module.exports = {
       resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
-          {
-            resolve: "gatsby-remark-images",
-            options: {
-              maxWidth: 690
-            }
-          },
+
           {
             resolve: "gatsby-remark-responsive-iframe"
           },
@@ -160,7 +155,6 @@ module.exports = {
                     }
                     frontmatter {
                       title
-                      cover
                       date
                       category
                       tags
