@@ -5,6 +5,7 @@ import config from "../../../data/site-config";
 import "./index.css";
 import { Container, Row, Col } from "react-grid-system";
 import styled from "styled-components";
+import Footer from "./footer";
 
 const Logo = styled.img`
   width: 134px;
@@ -14,7 +15,7 @@ const Logo = styled.img`
 const ToolbarLink = styled.a`
   vertical-align: middle;
   color: #24211d;
-  padding: 20px;
+  margin: 20px;
   font-size: 16px;
   text-decoration: none;
   font-weight: 400;
@@ -29,7 +30,7 @@ const ToolbarLink = styled.a`
   }
 
   @media (max-width: 768px) {
-    padding: 0 25px 10px 0;
+    margin: 0 25px 10px 0;
   }
 `;
 
@@ -45,7 +46,7 @@ const ResponsiveCenterCol = styled(Col)`
   }
 `;
 
-const ResponsiveCenterRow = styled.div`
+export const ResponsiveCenterRow = styled.div`
   display: flex;
   flex-wrap: wrap;
   flex-grow: 0;
@@ -58,41 +59,97 @@ const ResponsiveCenterRow = styled.div`
   }
 `;
 
+const Layout = styled.div`
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+`;
+
+const Content = styled(Container)`
+  flex: 1;
+`;
+
+const ITEMS = [
+  {
+    name: 'Blog',
+    url: '/',
+    bold: false,
+  },
+  {
+    name: 'Naše vize',
+    url: 'https://cesko.digital/#idea',
+    bold: false,
+  },
+  {
+    url: 'https://cesko.digital/#team',
+    name: 'Kdo jsme',
+    bold: false,
+  },
+  {
+    url: 'https://cesko.digital/#media',
+    name: 'Pro média',
+    bold: false,
+  },
+  {
+    url: 'https://cesko.digital/en.html',
+    name: 'English',
+    bold: false,
+  },
+  {
+    url: 'https://slack.cesko.digital/',
+    name: 'Přidej se k Nám',
+    bold: true,
+  },
+  {
+    url: 'https://www.facebook.com/cesko.digital',
+    name: 'Facebook',
+    bold: true,
+  },
+  {
+    url: 'https://twitter.com/CeskoDigital',
+    name: 'Twitter',
+    bold: true,
+  },
+  {
+    url: 'http://github.com/cesko-digital',
+    name: 'Github',
+    bold: true,
+  },
+];
+
 export default class MainLayout extends React.Component {
   render() {
     const { children } = this.props;
+    let navBarItems = ITEMS.slice(0, ITEMS.length - 4);
     return (
-      <Container>
+      <Layout>
         <Helmet>
           <meta name="description" content={config.siteDescription} />
         </Helmet>
-        <NavigationBar align={"center"}>
-          <ResponsiveCenterCol xs={12} md={3}>
-            <Link to={"/"}>
-              <Logo src={"/logos/logo.svg"} alt={"Česko.Digital Logo"} />
-            </Link>
-          </ResponsiveCenterCol>
-          <Col xs={12} md={9}>
-            <ResponsiveCenterRow>
-              <ToolbarLink href="/">Blog</ToolbarLink>
-              <ToolbarLink href="https://cesko.digital/#idea">
-                Naše Vize
-              </ToolbarLink>
-              <ToolbarLink href="https://cesko.digital/#team">
-                Kdo jsme
-              </ToolbarLink>
-              <ToolbarLink href="https://cesko.digital/#media">
-                Pro média
-              </ToolbarLink>
-              <ToolbarLink href="https://cesko.digital/en.html">
-                English
-              </ToolbarLink>
-            </ResponsiveCenterRow>
-          </Col>
-        </NavigationBar>
+        <header>
+          <Container>
+            <NavigationBar align={"center"}>
+              <ResponsiveCenterCol xs={12} md={3}>
+                <Link to={"/"}>
+                  <Logo src={"/logos/logo.svg"} alt={"Česko.Digital Logo"} />
+                </Link>
+              </ResponsiveCenterCol>
+              <Col xs={12} md={9}>
+                <ResponsiveCenterRow>
+                  {navBarItems.map((item, index) => {
+                    return (
+                        <ToolbarLink key={index} href={item.url}>{item.name}</ToolbarLink>
+                    )
+                  })}
 
-        {children}
-      </Container>
+                </ResponsiveCenterRow>
+              </Col>
+            </NavigationBar>
+          </Container>
+        </header>
+        <Content>{children}</Content>
+        <Footer items={ITEMS}/>
+      </Layout>
     );
   }
 }
