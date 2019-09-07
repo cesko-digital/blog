@@ -36,6 +36,7 @@ const ToolbarLink = styled.a`
 
 const NavigationBar = styled(Row)`
   padding-top: 10px;
+  margin-bottom: 20px;
 `;
 
 const ResponsiveCenterCol = styled(Col)`

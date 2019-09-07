@@ -10,6 +10,7 @@ body {
     margin: 0;
     font-family: Work Sans,sans-serif;
     background: #f5e2cc;
+    color: #21262c;
 }
 
 
@@ -19,4 +20,18 @@ h1 {
     /* or 126% */
 
     letter-spacing: -0.65px;
+}
+
+h2 {
+    font-size: 34px;
+    margin-bottom: 30px;
+    max-width: 500px;
+    font-weight: 700;
+    margin-block-start: 0;
+}
+
+p {
+    color: #24211d;
+    line-height: 1.4;
+    font-weight: 400;
 }
