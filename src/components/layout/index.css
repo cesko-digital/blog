@@ -8,16 +8,12 @@ html {
 
 body {
     margin: 0;
-    padding: 20px;
-    font-family: Source Code Pro,sans-serif;
-    background: #fff;
-}
-a {
-    color: black;
+    font-family: Work Sans,sans-serif;
+    background: #f5e2cc;
 }
 
+
 h1 {
-    font-family: SanFranciscoText,sans-serif;
     font-size: 31px;
     line-height: 39px;
     /* or 126% */

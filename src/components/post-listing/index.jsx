@@ -41,7 +41,7 @@ class PostListing extends React.Component {
     const firstPost = postList[0]
     const otherPosts = [...postList.slice(1, postList.length)]
     return (
-      <Container>
+      <Container fluid={true} style={{padding: 0}}>
         <Row>
           <Col>
             <Post description={firstPost.description} path={firstPost.path} title={firstPost.title} author={firstPost.author} cover={firstPost.cover}/>
