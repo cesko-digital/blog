@@ -9,7 +9,8 @@ html {
 body {
     margin: 0;
     font-family: Work Sans,sans-serif;
-    background: #f5e2cc;
+    -webkit-font-smoothing: antialiased;
+    background: #f4e2cc;
     color: #21262c;
 }
 

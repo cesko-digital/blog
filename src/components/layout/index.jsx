@@ -1,15 +1,27 @@
-import React from "react";
-import Helmet from "react-helmet";
-import { Link } from "gatsby";
-import config from "../../../data/site-config";
-import "./index.css";
-import { Container, Row, Col } from "react-grid-system";
-import styled from "styled-components";
-import Footer from "./footer";
+import React from 'react';
+import Helmet from 'react-helmet';
+import { Link } from 'gatsby';
+import config from '../../../data/site-config';
+import './index.css';
+import { Container, Row, Col } from 'react-grid-system';
+import styled from 'styled-components';
+import Footer from './footer';
 
-const Logo = styled.img`
+const Logo = styled.a`
+  display: inline-block;
   width: 134px;
   height: 27px;
+  background: url('/logos/logo.svg');
+  padding: 0 !important;
+color: #1a2c29;
+  &__inner {
+    display: none;
+  }
+  
+  &:hover {
+    transition: all 200ms ease-in-out;
+    opacity: 0.6;
+  }
 `;
 
 const ToolbarLink = styled.a`
@@ -128,28 +140,30 @@ export default class MainLayout extends React.Component {
           <meta name="description" content={config.siteDescription} />
         </Helmet>
         <header>
-          <Container>
-            <NavigationBar align={"center"}>
-              <ResponsiveCenterCol xs={12} md={3}>
-                <Link to={"/"}>
-                  <Logo src={"/logos/logo.svg"} alt={"Česko.Digital Logo"} />
-                </Link>
+          <Container style={{ width: 1040, padding: 0 }}>
+            <NavigationBar
+              align={'center'}
+              style={{ marginLeft: 0, marginRight: 0 }}
+            >
+              <ResponsiveCenterCol xs={12} md={3} style={{ padding: 0 }}>
+                <Logo href={'https://cesko.digital'} />
               </ResponsiveCenterCol>
               <Col xs={12} md={9}>
                 <ResponsiveCenterRow>
                   {navBarItems.map((item, index) => {
                     return (
-                        <ToolbarLink key={index} href={item.url}>{item.name}</ToolbarLink>
-                    )
+                      <ToolbarLink key={index} href={item.url}>
+                        {item.name}
+                      </ToolbarLink>
+                    );
                   })}
-
                 </ResponsiveCenterRow>
               </Col>
             </NavigationBar>
           </Container>
         </header>
         <Content>{children}</Content>
-        <Footer items={ITEMS}/>
+        <Footer items={ITEMS} />
       </Layout>
     );
   }
