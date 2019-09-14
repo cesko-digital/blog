@@ -1,6 +1,7 @@
 import { Link } from 'gatsby';
 import React from 'react';
 import styled from 'styled-components';
+import moment from "moment";
 
 const Container = styled.div`
   background: #ffffff;
@@ -99,7 +100,7 @@ const Row = styled.div`
   align-items: center;
   flex-wrap: wrap-reverse;
 `;
-const Post = ({ path, title, description, author, cover }) => {
+const Post = ({ path, title, description, author, cover, date }) => {
   return (
     <Link to={path} style={{ textDecoration: 'none', color: 'black' }}>
       <Container>
@@ -120,7 +121,7 @@ const Post = ({ path, title, description, author, cover }) => {
             <Button>
               Celý článek <Arrow src={'/icons/arrow.svg'}></Arrow>
             </Button>
-            <AuthorDate>9. 8. 2019 • Petr Novak</AuthorDate>
+            <AuthorDate>{moment(date).format("D. M. Y")} • {author}</AuthorDate>
           </Row>
         </Padding>
       </Container>
