@@ -104,11 +104,6 @@ const ITEMS = [
     bold: false,
   },
   {
-    url: 'https://cesko.digital/en.html',
-    name: 'English',
-    bold: false,
-  },
-  {
     url: 'https://slack.cesko.digital/',
     name: 'Přidej se k Nám',
     bold: true,
@@ -140,7 +135,7 @@ export default class MainLayout extends React.Component {
           <meta name="description" content={config.siteDescription} />
         </Helmet>
         <header>
-          <Container style={{ width: 1040, padding: 0 }}>
+          <Container >
             <NavigationBar
               align={'center'}
               style={{ marginLeft: 0, marginRight: 0 }}

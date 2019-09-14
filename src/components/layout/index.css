@@ -15,24 +15,4 @@ body {
 }
 
 
-h1 {
-    font-size: 31px;
-    line-height: 39px;
-    /* or 126% */
 
-    letter-spacing: -0.65px;
-}
-
-h2 {
-    font-size: 34px;
-    margin-bottom: 30px;
-    max-width: 500px;
-    font-weight: 700;
-    margin-block-start: 0;
-}
-
-p {
-    color: #24211d;
-    line-height: 1.4;
-    font-weight: 400;
-}
