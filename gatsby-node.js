@@ -49,49 +49,55 @@ function addSiblingNodes(createNodeField) {
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions;
+  
+  if (node.internal.type !== "MarkdownRemark") {
+      return;
+  }
+
+  
   let slug;
-  if (node.internal.type === "MarkdownRemark") {
-    const fileNode = getNode(node.parent);
-    const parsedFilePath = path.parse(fileNode.relativePath);
-    if (
+  const fileNode = getNode(node.parent);
+  const parsedFilePath = path.parse(fileNode.relativePath);
+  if (
       Object.prototype.hasOwnProperty.call(node, "frontmatter") &&
       Object.prototype.hasOwnProperty.call(node.frontmatter, "title")
-    ) {
-      slug = `/${_.kebabCase(`${moment(node.frontmatter.date).format(siteConfig.dateFromFormat)} ${node.frontmatter.title}`)}`;
-    } else if (parsedFilePath.name !== "index" && parsedFilePath.dir !== "") {
-      slug = `/${parsedFilePath.dir}/${parsedFilePath.name}/`;
-    } else if (parsedFilePath.dir === "") {
-      slug = `/${parsedFilePath.name}/`;
-    } else {
-      slug = `/${parsedFilePath.dir}/`;
-    }
-
-    if (Object.prototype.hasOwnProperty.call(node, "frontmatter")) {
-      if (Object.prototype.hasOwnProperty.call(node.frontmatter, "slug"))
-        slug = `/${_.kebabCase(node.frontmatter.slug)}`;
-      if (Object.prototype.hasOwnProperty.call(node.frontmatter, "date")) {
-        const date = moment(node.frontmatter.date, siteConfig.dateFromFormat);
-        if (!date.isValid) {
-          console.warn(`WARNING: Invalid date.`, node.frontmatter);
-        }
-
-        createNodeField({
-          node,
-          name: "date",
-          value: date.toISOString()
-        });
-      }
-      if (Object.prototype.hasOwnProperty.call(node.frontmatter, "author")) {
-        createNodeField({
-          node,
-          name: "authorId",
-          value: node.frontmatter.author
-        });
-      }
-    }
-    createNodeField({ node, name: "slug", value: slug });
-    postNodes.push(node);
+  ) {
+    let postDate = moment(node.frontmatter.date);
+    slug = `/${postDate.format('Y')}/${postDate.format('MM')}/${_.kebabCase(`${node.frontmatter.title}`)}`;
+  } else if (parsedFilePath.name !== "index" && parsedFilePath.dir !== "") {
+    slug = `/${parsedFilePath.dir}/${parsedFilePath.name}/`;
+  } else if (parsedFilePath.dir === "") {
+    slug = `/${parsedFilePath.name}/`;
+  } else {
+    slug = `/${parsedFilePath.dir}/`;
   }
+
+  if (Object.prototype.hasOwnProperty.call(node, "frontmatter")) {
+    if (Object.prototype.hasOwnProperty.call(node.frontmatter, "slug"))
+      slug = `/${_.kebabCase(node.frontmatter.slug)}`;
+    if (Object.prototype.hasOwnProperty.call(node.frontmatter, "date")) {
+      const date = moment(node.frontmatter.date, siteConfig.dateFromFormat);
+      if (!date.isValid) {
+        console.warn(`WARNING: Invalid date.`, node.frontmatter);
+      }
+
+      createNodeField({
+        node,
+        name: "date",
+        value: date.toISOString()
+      });
+    }
+    if (Object.prototype.hasOwnProperty.call(node.frontmatter, "author")) {
+      createNodeField({
+        node,
+        name: "authorId",
+        value: node.frontmatter.author
+      });
+    }
+  }
+  createNodeField({ node, name: "slug", value: slug });
+  postNodes.push(node);
+
 };
 
 exports.setFieldsOnGraphQLNodeType = ({ type, actions }) => {
