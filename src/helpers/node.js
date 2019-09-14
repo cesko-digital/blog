@@ -1,3 +1,5 @@
+// IMPORTANT don't change the way of import/export
+
 const _ = require("lodash");
 const moment = require("moment");
 const siteConfig = require("../../data/site-config");
