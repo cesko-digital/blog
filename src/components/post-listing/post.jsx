@@ -109,7 +109,7 @@ const Post = ({ path, title, description, author, cover, date }) => {
             loading="lazy"
             width={'100%'}
             style={{ borderTopLeftRadius: 10, borderTopRightRadius: 10 }}
-            src={cover.publicURL}
+            src={cover.publicURL + '?nf_resize=fit&w=720'}
           />
         ) : null}
 
