@@ -19,3 +19,13 @@ You can use following commands in case of failing deploy:
 yarn build
 ```
 
+## How to Insert Article
+
+Article has these required fields: 
+
+- `cover`
+- `description`
+- `date` in format `YYYY-MM-DD-HH-mm`
+- `author` (author's id)
+
+You can also add `slug` field which will override generated part of slug from title. Article URL does not depend on file position in content folder. URL format is `/year/month/slug`

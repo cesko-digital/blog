@@ -1,8 +1,10 @@
-- id: Johannes Gutenberg
+- id: johannes-gutenberg
+  name: Johannes Gutenberg
   bio: Johannes Gensfleisch zur Laden zum Gutenberg was a German blacksmith, goldsmith, inventor, printer, and publisher who introduced printing to Europe with the printing press.
   twitter: ""
   picture: "test"
-- id: Curious Cat
+- id: curious-cat
+  name: Curious Cat
   bio: Very curious about this world and blogging whenever learned something new
   twitter: nonexistencecuriouscat
   picture: "test"

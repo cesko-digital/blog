@@ -31,9 +31,7 @@ export default class PostTemplate extends React.Component {
           <div>
             <h1>{post.title}</h1>
             <h3>
-              <a href={`/author/${_.kebabCase(post.author.id)}`}>
-                {post.author.id}
-              </a>
+                {post.author.name}
             </h3>
             <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
             <div className="post-meta">
@@ -63,6 +61,7 @@ export const pageQuery = graphql`
                 tags
                 author {
                     id
+                    name
                     bio
                     twitter
                 }
