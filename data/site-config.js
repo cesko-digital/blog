@@ -10,7 +10,7 @@ const config = {
   siteFBAppID: "", // FB Application ID for using app insights
   googleAnalyticsID: "", // GA tracking ID.
   postDefaultCategoryID: "Blog", // Default category for posts.
-  dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
+  dateFromFormat: "YYYY-MM-DD-HH-mm", // Date format used in the frontmatter.
   dateFormat: "DD.MM.YYYY", // Date format for display.
   userName: "Advanced User", // Username to display in the author segment.
   userEmail: "AdvancedUser@example.com", // Email used for RSS feed's author segment

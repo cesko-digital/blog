@@ -1,7 +1,7 @@
 ---
 title: "Style Guide"
-date: 2019-04-26
-author: Curious Cat
+date: 2017-08-18-15-30
+author: curious-cat
 category: blog
 tags:
   - gatsby
