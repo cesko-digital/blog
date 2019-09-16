@@ -59,7 +59,7 @@ class PostListing extends React.Component {
 
         {newsList.map((news, index) => {
           return (
-            <Link to={news.url} key={index}><p>{news.text}</p></Link>
+            <a href={news.url} key={index}><p>{news.text}</p></a>
           );
         })  }
 
