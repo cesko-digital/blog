@@ -21,7 +21,7 @@ yarn build
 
 ## How to Insert Article
 
-Article has these required fields: 
+Articles need to be saved in `content/posts` directory. Article has these required fields: 
 
 - `cover`
 - `description`
@@ -29,3 +29,18 @@ Article has these required fields:
 - `author` (author's id)
 
 You can also add `slug` field which will override generated part of slug from title. Article URL does not depend on file position in content folder. URL format is `/year/month/slug`
+
+## How to Insert News
+
+Articles need to be saved in `content/news` directory. News are saved as YAML file which can contain multiple news, see following example: 
+```yaml
+- type: news
+  date: 2019-09-16-12-00
+  text: Michal Bláha byl hostem podcastu Proti proudu. Poslechněte si jeho názory o e-govermentu.
+  url: https://cesko.digital
+- type: news
+  date: 2019-09-25-12-00
+  text: Dnes je setkání Česko.Digital
+  url: https://cesko.digital
+
+```
