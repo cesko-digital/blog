@@ -67,13 +67,7 @@ const AuthorDate = styled.div`
   opacity: 0.5;
 `;
 
-const Row = styled.div`
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap-reverse;
-`;
+
 const Post = ({ path, title, description, author, cover, date }) => {
   return (
     <Link to={path} style={{ textDecoration: 'none', color: 'black' }}>
