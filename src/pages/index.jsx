@@ -28,7 +28,7 @@ export default Index;
 export const pageQuery = graphql`
     query IndexQuery {
         allMarkdownRemark(
-            limit: 2000
+            limit: 4
             sort: { fields: [fields___date], order: DESC }
         ) {
             edges {

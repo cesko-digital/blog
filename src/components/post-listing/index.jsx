@@ -26,19 +26,22 @@ const PostListing = props => {
     return postList;
   };
 
-  const news = [
-    {
-      text: 'Vláda schválila, že veškerý státní SW bude na GitHubu.',
-      url: '/',
-    },{
-      text: 'Michal Bláha byl hostem podcastu Proti proudu. Poslechněte si jeho názory o e-govermentu.',
-      url: '/',
-    },
-  ];
+  const getNewsList = () => {
+    const newsList = [];
+    props.news.forEach(postEdge => {
+      newsList.push({
+        text: postEdge.node.text,
+        url: postEdge.node.url,
+      });
+    });
+    return newsList
+  }
+
+
   const postList = getPostList();
+  const newsList = getNewsList();
   const firstPost = postList[0];
   const otherPosts = [
-    ...postList.slice(1, postList.length),
     ...postList.slice(1, postList.length),
   ];
   return (
@@ -55,7 +58,7 @@ const PostListing = props => {
             />
           </Col>
           <Col xs={12} md={4} style={{ padding: 10 }}>
-            <News items={news}/>
+            <News items={newsList}/>
           </Col>
 
           {/* Your post list here. */
