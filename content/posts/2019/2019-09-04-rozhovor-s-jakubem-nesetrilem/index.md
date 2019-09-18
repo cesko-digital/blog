@@ -14,8 +14,8 @@ Dnes ale oficiálně po několika měsících příprav začíná novou etapu ž
 
 
 
+![]("cover.jpg")
 <div class="picture-note">
-<img src="cover.jpg" alt="Jakub Nešetřil">
 Jakub Neštřil, Autor: Tomáš Znamenáček
 </div>
 
