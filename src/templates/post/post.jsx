@@ -23,7 +23,6 @@ line-height: 150%;
 
   color: #000000;
   margin: 0;
-  opacity: 0.75;
 `;
 
 const Description = styled.p`
@@ -69,27 +68,25 @@ const AuthorDate = styled.div`
 
 const Post = ({ path, title, description, author, cover, date, html }) => {
   return (
-    <Link to={path} style={{ textDecoration: 'none', color: 'black' }}>
-      <Container>
-        {cover && cover.publicURL ? (
-          <img
-            loading="lazy"
-            width={'100%'}
-            style={{ borderTopLeftRadius: 10, borderTopRightRadius: 10 }}
-            src={cover.publicURL + '?nf_resize=fit&w=720'}
-          />
-        ) : null}
+    <Container>
+      {cover && cover.publicURL ? (
+        <img
+          loading="lazy"
+          width={'100%'}
+          style={{ borderTopLeftRadius: 10, borderTopRightRadius: 10 }}
+          src={cover.publicURL + '?nf_resize=fit&w=720'}
+        />
+      ) : null}
 
-        <Padding>
-          <AuthorDate>
-            {moment(date).format('D. M. Y')} • {author}
-          </AuthorDate>
-          <Title>{title}</Title>
-          {description ? <Description>{description}</Description> : null}
-            <div className={"content"} dangerouslySetInnerHTML={{ __html: html }} />
-        </Padding>
-      </Container>
-    </Link>
+      <Padding>
+        <AuthorDate>
+          {moment(date).format('D. M. Y')} • {author}
+        </AuthorDate>
+        <Title>{title}</Title>
+        {description ? <Description>{description}</Description> : null}
+        <div className={"content"} dangerouslySetInnerHTML={{ __html: html }} />
+      </Padding>
+    </Container>
   );
 };
 

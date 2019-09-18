@@ -27,10 +27,16 @@
 
 .content img {
     border-radius: 10px;
-    width: 100%;
+    max-width: 100%;
 }
 
 .content .picture-note {
     color: gray;
+}
+
+.content a {
+    border-bottom: 1px solid rgba(37, 110, 102, 0.25);
+    color: #256E66;
+    text-decoration: none;
 }
 

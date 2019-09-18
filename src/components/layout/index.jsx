@@ -80,6 +80,7 @@ const Layout = styled.div`
 
 const Content = styled(Container)`
   flex: 1;
+  max-width: 100%;
 `;
 
 const ITEMS = [

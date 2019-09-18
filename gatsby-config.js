@@ -68,7 +68,6 @@ module.exports = {
             },
           },
           "gatsby-large-media-transformations",
-          "gatsby-remark-autolink-headers"
         ]
       }
     },
