@@ -13,6 +13,7 @@ Jakub Nešetřil v roce 2017 prodal svůj technologický startup Apiary do rukou
 Dnes ale oficiálně po několika měsících příprav začíná novou etapu života a spouští projekt nazvaný [Česko.Digital](https://cesko.digital). Ten chce pomocí technologií pomoci v rozvoji státu i společnosti.
 
 
+![](./cover.jpg)
 <div class="picture-note">
 Jakub Neštřil, Autor: Tomáš Znamenáček
 </div>
