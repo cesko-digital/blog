@@ -86,7 +86,7 @@ const Post = ({ path, title, description, author, cover, date, html }) => {
           </AuthorDate>
           <Title>{title}</Title>
           {description ? <Description>{description}</Description> : null}
-            <div dangerouslySetInnerHTML={{ __html: html }} />
+            <div className={"content"} dangerouslySetInnerHTML={{ __html: html }} />
         </Padding>
       </Container>
     </Link>

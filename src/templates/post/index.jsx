@@ -1,8 +1,6 @@
 import React from "react";
-import _ from "lodash";
 import Helmet from "react-helmet";
 import { graphql } from "gatsby";
-import PostTags from "../../components/post-tags";
 import SEO from "../../components/seo";
 import config from "../../../data/site-config";
 import "../b16-tomorrow-dark.css";
@@ -46,7 +44,12 @@ export default class PostTemplate extends React.Component {
                 />
               </Col>
               <Col xs={12} md={4} style={{ padding: 10 }}>
-                <News items={[]}/>
+                <News items={this.props.data.allNews.edges.map((postEdge) => {
+                    return {
+                        text: postEdge.node.text,
+                        url: postEdge.node.url,
+                    } 
+                })}/>
               </Col>
 
               {/* Your post list here. */
@@ -83,6 +86,7 @@ export default class PostTemplate extends React.Component {
   }
 }
 
+// TODO - Filter first article
 /* eslint no-undef: "off" */
 export const pageQuery = graphql`
     query BlogPostBySlug($slug: String!) {
@@ -140,6 +144,15 @@ export const pageQuery = graphql`
                             name
                         }
                     }
+                }
+            }
+        }
+
+        allNews(sort:{ fields: [date], order: DESC} ) {
+            edges {
+                node {
+                    url
+                    text
                 }
             }
         }

@@ -3,9 +3,17 @@
     flex-direction: column;
     justify-content: center;
 }
-
-p {
+.content {
     font-family: Work Sans, sans-serif;
+    font-style: normal;
+
+    /* or 26px */
+
+
+    color: #000000;
+
+}
+.content p {
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -16,3 +24,12 @@ p {
     color: #000000;
 
 }
+
+.content img {
+    border-radius: 10px;
+}
+
+.content .picture-note {
+    color: gray;
+}
+
