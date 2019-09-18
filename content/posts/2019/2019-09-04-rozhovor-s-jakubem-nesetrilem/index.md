@@ -14,7 +14,7 @@ Dnes ale oficiálně po několika měsících příprav začíná novou etapu ž
 
 
 
-![](/static/images/test.png)
+![](/images/test.png)
 <div class="picture-note">
 Jakub Neštřil, Autor: Tomáš Znamenáček
 </div>
