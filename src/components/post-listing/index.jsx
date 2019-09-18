@@ -1,7 +1,7 @@
 import React from "react";
 import Post from './post'
 import { Col, Container, Row } from "react-grid-system"
-
+import { Link } from "gatsby";
 
 
 class PostListing extends React.Component {
@@ -24,8 +24,20 @@ class PostListing extends React.Component {
     return postList;
   }
 
+  getNewsList() {
+    const newsList = [];
+    this.props.news.forEach(postEdge => {
+      newsList.push({
+        text: postEdge.node.text,
+        url: postEdge.node.url,
+      });
+    });
+    return newsList
+  }
+
   render() {
     const postList = this.getPostList();
+    const newsList = this.getNewsList();
     const firstPost = postList[0]
     const otherPosts = [...postList.slice(1, postList.length)]
     return (
@@ -44,6 +56,12 @@ class PostListing extends React.Component {
 
             ))}
         </Row>
+
+        {newsList.map((news, index) => {
+          return (
+            <a href={news.url} key={index}><p>{news.text}</p></a>
+          );
+        })  }
 
       </Container>
     );

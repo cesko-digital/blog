@@ -18,10 +18,15 @@ module.exports = {
     }
   },
   mapping: {
-    "MarkdownRemark.frontmatter.author": `AuthorYaml`
+    "MarkdownRemark.frontmatter.author": `authors`
   },
   plugins: [
-    "gatsby-transformer-yaml",
+    {
+      resolve: `gatsby-transformer-yaml`,
+      options: {
+        typeName: ({ node, object, isArray }) => object.type,
+      },
+    },
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-lodash",
     `gatsby-plugin-styled-components`,
@@ -34,10 +39,17 @@ module.exports = {
       }
     },
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: "news",
+        path: `${__dirname}/content/news/`,
+      },
+    },
+    {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "posts",
-        path: `${__dirname}/content/`
+        path: `${__dirname}/content/posts/`
       }
     },
     {

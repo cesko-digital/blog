@@ -9,12 +9,13 @@ import config from "../../data/site-config";
 class Index extends React.Component {
   render() {
     const postEdges = this.props.data.allMarkdownRemark.edges;
+    const news = this.props.data.allNews.edges;
     return (
       <Layout>
         <div className="index-container">
           <Helmet title={config.siteTitle} />
           <SEO />
-          <PostListing postEdges={postEdges} />
+          <PostListing postEdges={postEdges} news={news} />
         </div>
       </Layout>
     );
@@ -51,6 +52,16 @@ export const pageQuery = graphql`
                             name
                         }
                     }
+                }
+            }
+        }
+
+
+        allNews(sort:{ fields: [date], order: DESC} ) {
+            edges {
+                node {
+                    url
+                    text
                 }
             }
         }
