@@ -82,10 +82,17 @@ Some text to show that the reference links can follow later.
 
 ## Images
 
+Image in article: 
+
+![](cover.jpg)
+<div class="picture-note">
+Jakub Neštřil, Autor: Tomáš Znamenáček
+</div>
+
+
 Here's our logo (hover to see the title text):
 
 Inline-style: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-Inline-style: ![alt text](/images/test.png "Logo Title Text 1")
 
 Reference-style: ![alt text][logo]
 
