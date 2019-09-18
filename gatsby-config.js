@@ -67,6 +67,7 @@ module.exports = {
               ignoreFileExtensions: [],
             },
           },
+          "gatsby-large-media-transformations",
           "gatsby-remark-autolink-headers"
         ]
       }
