@@ -10,11 +10,11 @@ const PostListing = props => {
   const getPostList = () => {
     const postList = [];
     props.postEdges.forEach(postEdge => {
-      let author = postEdge.node.frontmatter.author || { id: null }; // TODO
+      let author = postEdge.node.frontmatter.author || { name: null }; // TODO
       postList.push({
         path: postEdge.node.fields.slug,
         tags: postEdge.node.frontmatter.tags,
-        author: author.id,
+        author: author.name,
         cover: postEdge.node.frontmatter.cover,
         description: postEdge.node.frontmatter.description,
         title: postEdge.node.frontmatter.title,

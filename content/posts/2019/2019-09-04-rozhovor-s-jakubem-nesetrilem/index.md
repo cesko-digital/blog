@@ -7,4 +7,7 @@ tags:
   - gatsby
 ---
 
-## Headers
+# Headers
+Jakub Nešetřil v roce 2017 prodal svůj technologický startup Apiary do rukou obra Oracle, kde následně působil jako viceprezident produktového vývoje.
+
+Dnes ale oficiálně po několika měsících příprav začíná novou etapu života a spouští projekt nazvaný Česko.Digital. Ten chce pomocí technologií pomoci v rozvoji státu i společnosti. 
