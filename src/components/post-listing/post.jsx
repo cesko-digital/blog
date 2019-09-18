@@ -1,7 +1,7 @@
 import { Link } from 'gatsby';
 import React from 'react';
 import styled from 'styled-components';
-import moment from "moment";
+import moment from 'moment';
 
 const Container = styled.div`
   background: #ffffff;
@@ -43,41 +43,16 @@ const Description = styled.p`
   text-overflow: ellipsis;
   /* or 24px */
 
-  margin: 13px 0 0;
+  margin-top: 10px;
   color: #000000;
 
   opacity: 0.75;
 `;
 
-const Button = styled.button`
-  background: #ffffff;
-  border: 2px solid #d3d3d2;
-  box-sizing: border-box;
-  border-radius: 23px;
 
-  font-family: Work Sans, sans-serif;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 14px;
-  line-height: 100%;
-  /* identical to box height, or 14px */
 
-  display: flex;
-  align-items: center;
-  text-align: center;
 
-  color: #000000;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  padding: 12px 16px 12px 16px;
-`;
-
-const Arrow = styled.img`
-  margin-left: 7px;
-  margin-right: 2px;
-`;
-
-const AuthorDate = styled.span`
+const AuthorDate = styled.div`
   font-family: Work Sans, sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -85,11 +60,10 @@ const AuthorDate = styled.span`
   line-height: 150%;
   /* identical to box height, or 24px */
 
-margin-bottom: 5px;
-margin-top: 5px;
-  text-align: right;
+  margin-bottom: 10px;
+  margin-top: 5px;
   color: #000000;
-width: auto;
+  width: auto;
   opacity: 0.5;
 `;
 
@@ -114,15 +88,12 @@ const Post = ({ path, title, description, author, cover, date }) => {
         ) : null}
 
         <Padding>
+          <AuthorDate>
+            {moment(date).format('D. M. Y')} • {author}
+          </AuthorDate>
           <Title>{title}</Title>
           {description ? <Description>{description}</Description> : null}
 
-          <Row>
-            <Button>
-              Celý článek <Arrow src={'/icons/arrow.svg'}></Arrow>
-            </Button>
-            <AuthorDate>{moment(date).format("D. M. Y")} • {author}</AuthorDate>
-          </Row>
         </Padding>
       </Container>
     </Link>

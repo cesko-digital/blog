@@ -1,6 +1,5 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { Link } from 'gatsby';
 import styled from 'styled-components';
 
 const Card = styled.div`
@@ -68,16 +67,23 @@ font-family: Work Sans, sans-serif;
 font-style: normal;
 font-weight: normal;
 font-size: 16px;
-line-height: 150%;
+line-height: 160%;
 /* or 24px */
 
-text-decoration-line: underline;
-
+border-bottom: 1px solid rgba(37, 110, 102, 0.25);
+ padding-bottom: 3px;
 color: #256E66;
+
+`;
+
+const TextContainer = styled.div`
 margin-bottom: 5px;
 margin-top: 5px;
-width: auto;
-`;
+`
+
+const A =styled.a`
+text-decoration: none;
+`
 const News = ({ items }) => (
   <Card>
     <Row>
@@ -87,15 +93,18 @@ const News = ({ items }) => (
       <Scrollable>
           {items.map((item, index) => {
               return (
-                  <Link to={item.url} key={index}>
+                  <A href={item.url} key={index}>
                       <Divider />
                       <Row2>
                           <ItemIcon src={'/icons/item_arrow.svg'} />
-                          <Text>
-                              {item.text}
-                          </Text>
+                          <TextContainer>
+
+                              <Text>
+                                  {item.text}
+                              </Text>
+                          </TextContainer>
                       </Row2>
-                  </Link>
+                  </A>
               );
           })}
       </Scrollable>
@@ -103,8 +112,15 @@ const News = ({ items }) => (
   </Card>
 );
 
-News.propTypes = {};
+News.propTypes = {
+    items: PropTypes.arrayOf(PropTypes.shape({
+        url: PropTypes.string.isRequired,
+        text: PropTypes.string.isRequired,
+    }),),
+};
 
-News.defaultProps = {};
+News.defaultProps = {
+    items: []
+};
 
 export default News;
