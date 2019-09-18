@@ -55,11 +55,18 @@ module.exports = {
       resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
+
           {
             resolve: "gatsby-remark-responsive-iframe"
           },
           "gatsby-remark-prismjs",
-          "gatsby-remark-copy-linked-files",
+          {
+            resolve: "gatsby-remark-copy-linked-files",
+            options: {
+
+              ignoreFileExtensions: [],
+            },
+          },
           "gatsby-remark-autolink-headers"
         ]
       }
