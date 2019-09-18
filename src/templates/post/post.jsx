@@ -65,6 +65,34 @@ const AuthorDate = styled.div`
   opacity: 0.5;
 `;
 
+const Button = styled(Link)`
+  background: #ffffff;
+  border: 2px solid #d3d3d2;
+  box-sizing: border-box;
+  border-radius: 23px;
+
+  font-family: Work Sans, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 100%;
+  /* identical to box height, or 14px */
+
+margin-top: 50px;
+text-decoration: none;
+width: 240px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #000000;
+  padding: 12px 16px 12px 16px;
+`;
+
+const Arrow = styled.img`
+  margin-right: 10px;
+ 
+`;
 
 const Post = ({ path, title, description, author, cover, date, html }) => {
   return (
@@ -85,6 +113,10 @@ const Post = ({ path, title, description, author, cover, date, html }) => {
         <Title>{title}</Title>
         {description ? <Description>{description}</Description> : null}
         <div className={"content"} dangerouslySetInnerHTML={{ __html: html }} />
+        <Button to={'/'}>
+          <Arrow src={'/icons/arrow.svg'}></Arrow>
+          Zpět na všechny články
+        </Button>
       </Padding>
     </Container>
   );

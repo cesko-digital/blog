@@ -3,6 +3,8 @@ title: "Style Guide"
 date: 2017-08-18-15-30
 author: curious-cat
 category: blog
+description: "German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible."
+cover: cover.jpg
 tags:
   - gatsby
 ---

@@ -31,7 +31,12 @@
 }
 
 .content .picture-note {
-    color: gray;
+    margin-top: -15px;
+    margin-left: 5px;
+    font-size: 16px;
+    line-height: 150%;
+
+    opacity: 0.5;
 }
 
 .content a {

@@ -30,7 +30,7 @@ export default class PostTemplate extends React.Component {
           </Helmet>
           <SEO postPath={slug} postNode={postNode} postSEO />
           <Row>
-            <Col xs={12} md={8} style={{ padding: 10 }}>
+            <Col xs={12} md={8} style={{paddingBottom: 30}}>
               <Post
                 description={post.description}
                 path={post.path}
@@ -42,7 +42,7 @@ export default class PostTemplate extends React.Component {
 
               />
             </Col>
-            <Col xs={12} md={4} style={{ padding: 10 }}>
+            <Col xs={12} md={4} >
               <News items={this.props.data.allNews.edges.map((postEdge) => {
                 return {
                   text: postEdge.node.text,
@@ -51,6 +51,9 @@ export default class PostTemplate extends React.Component {
               })}/>
             </Col>
 
+
+          </Row>
+          <Row style={{paddingBottom: 15}}>
             {/* Your post list here. */
               this.props.data.allMarkdownRemark.edges.map(postEdge => {
                 let author = postEdge.node.frontmatter.author || { name: null }; // TODO
@@ -66,7 +69,7 @@ export default class PostTemplate extends React.Component {
                   timeToRead: postEdge.node.timeToRead,
                 }
                 return (
-                  <Col md={6} lg={4} xs={12} key={post.title} style={{padding: 10}}>
+                  <Col md={6} lg={4} xs={12} key={post.title} >
                     <Post2
                       description={post.description}
                       path={post.path}
