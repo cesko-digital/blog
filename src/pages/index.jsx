@@ -43,9 +43,6 @@ export const pageQuery = graphql`
                         title
                         description
                         tags
-                        cover {
-                            publicURL
-                        }
                         date
                         author {
                             id
