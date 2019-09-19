@@ -66,8 +66,7 @@ module.exports = {
 
               ignoreFileExtensions: [],
             },
-          },
-          "gatsby-large-media-transformations",
+          }
         ]
       }
     },
