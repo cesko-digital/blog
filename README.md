@@ -12,7 +12,8 @@ yarn develop
 
 Blog is automatically deployed using [Netlify](https://www.netlify.com/):
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c9e3c5ff-3123-458a-b7a1-136331a3a0f4/deploy-status)](https://app.netlify.com/sites/kind-kepler-fc4111/deploys)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/04cf950a-9616-455f-916e-2947c52c492a/deploy-status)](https://app.netlify.com/sites/blog-cesko-digital/deploys)
 
 You can use following commands in case of failing deploy: 
 ```shell script
