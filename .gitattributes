@@ -1,4 +1,0 @@
-static/images/test.png filter=lfs diff=lfs merge=lfs -text
-content/**/*.jpg filter=lfs diff=lfs merge=lfs -text
-content/**/*.png filter=lfs diff=lfs merge=lfs -text
-
