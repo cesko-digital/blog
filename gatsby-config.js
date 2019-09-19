@@ -30,6 +30,8 @@ module.exports = {
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-lodash",
     `gatsby-plugin-styled-components`,
+    `gatsby-transformer-sharp`,
+    'gatsby-plugin-sharp',
     {
       resolve: "gatsby-source-filesystem",
       options: {
@@ -55,6 +57,13 @@ module.exports = {
       resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
+          {
+            resolve: "gatsby-remark-images",
+            options: {
+              maxWidth: 690,
+              linkImagesToOriginal: false
+            }
+          },
 
           {
             resolve: "gatsby-remark-responsive-iframe"
@@ -64,7 +73,6 @@ module.exports = {
             resolve: "gatsby-remark-copy-linked-files",
             options: {
 
-              ignoreFileExtensions: [],
             },
           }
         ]
@@ -87,6 +95,7 @@ module.exports = {
     "gatsby-plugin-twitter",
     "gatsby-plugin-sitemap",
     "gatsby-plugin-offline",
+
     {
       resolve: "gatsby-plugin-feed",
       options: {
