@@ -97,12 +97,12 @@ const Arrow = styled.img`
 const Post = ({ path, title, description, author, cover, date, html }) => {
   return (
     <Container>
-      {cover && cover.publicURL ? (
+      {cover  ? (
         <img
           loading="lazy"
           width={'100%'}
           style={{ borderTopLeftRadius: 10, borderTopRightRadius: 10 }}
-          src={cover.publicURL + '?nf_resize=fit&w=720'}
+          src={cover}
         />
       ) : null}
 

@@ -42,6 +42,7 @@ export const pageQuery = graphql`
                     frontmatter {
                         title
                         description
+                        cover
                         tags
                         date
                         author {

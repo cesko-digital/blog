@@ -3,6 +3,7 @@ title: "Style Guide"
 date: 2017-08-18-15-30
 author: curious-cat
 category: blog
+cover: https://firebasestorage.googleapis.com/v0/b/blog-cesko-digital.appspot.com/o/2019%2F09%2Frozhovor-s-jakubem-nesetrilem%2FDSCF0011.jpg?alt=media&token=8f4f25fe-2165-4401-a355-72d1670a38c1
 description: "German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible."
 tags:
   - gatsby

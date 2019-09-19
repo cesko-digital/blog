@@ -3,6 +3,7 @@ title: "Johannes Gutenberg: The Birth of Movable Type"
 date: 2017-08-18-08-30
 author: johannes-gutenberg
 category: Typography
+cover: https://firebasestorage.googleapis.com/v0/b/blog-cesko-digital.appspot.com/o/2019%2F09%2Frozhovor-s-jakubem-nesetrilem%2FDSCF0011.jpg?alt=media&token=8f4f25fe-2165-4401-a355-72d1670a38c1
 description: "German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible."
 tags:
   - "Open source"

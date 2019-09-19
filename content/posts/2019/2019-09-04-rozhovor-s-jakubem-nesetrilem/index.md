@@ -3,6 +3,8 @@ title: "Rozhovor s Jakubem Nešetřilem"
 date: 2019-09-04-12-00
 author: curious-cat
 category: blog
+description: Lorem ipsum
+cover: https://firebasestorage.googleapis.com/v0/b/blog-cesko-digital.appspot.com/o/2019%2F09%2Frozhovor-s-jakubem-nesetrilem%2FDSCF0011.jpg?alt=media&token=8f4f25fe-2165-4401-a355-72d1670a38c1
 tags:
   - gatsby
 ---
@@ -14,7 +16,7 @@ Dnes ale oficiálně po několika měsících příprav začíná novou etapu ž
 
 
 
-![](cover.jpg)
+![](https://firebasestorage.googleapis.com/v0/b/blog-cesko-digital.appspot.com/o/2019%2F09%2Frozhovor-s-jakubem-nesetrilem%2FDSCF0011.jpg?alt=media&token=8f4f25fe-2165-4401-a355-72d1670a38c1)
 <div class="picture-note">
 Jakub Neštřil, Autor: Tomáš Znamenáček
 </div>
