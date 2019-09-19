@@ -8,6 +8,7 @@ yarn install
 yarn develop
 ```
 
+
 ## Deploy
 
 Blog is automatically deployed using [Netlify](https://www.netlify.com/):
