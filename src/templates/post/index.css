@@ -3,3 +3,45 @@
     flex-direction: column;
     justify-content: center;
 }
+.content {
+    font-family: Work Sans, sans-serif;
+    font-style: normal;
+
+    /* or 26px */
+
+
+    color: #000000;
+
+}
+.content p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 160%;
+    /* or 26px */
+
+
+    color: #000000;
+
+}
+
+.content img {
+    border-radius: 10px;
+    max-width: 100%;
+}
+
+.content .picture-note {
+    margin-top: -15px;
+    margin-left: 5px;
+    font-size: 16px;
+    line-height: 150%;
+
+    opacity: 0.5;
+}
+
+.content a {
+    border-bottom: 1px solid rgba(37, 110, 102, 0.25);
+    color: #256E66;
+    text-decoration: none;
+}
+

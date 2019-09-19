@@ -1,14 +1,16 @@
-import React from "react";
-import Post from './post'
-import { Col, Container, Row } from "react-grid-system"
-import { Link } from "gatsby";
+import React from 'react';
+import Post, { Padding } from './post';
+import { Col, Container, Row } from 'react-grid-system';
+import styled from "styled-components";
+import News from "./news";
 
 
-class PostListing extends React.Component {
-  getPostList() {
+
+const PostListing = props => {
+  const getPostList = () => {
     const postList = [];
-    this.props.postEdges.forEach(postEdge => {
-      let author = postEdge.node.frontmatter.author || {name: null}; // TODO
+    props.postEdges.forEach(postEdge => {
+      let author = postEdge.node.frontmatter.author || { name: null }; // TODO
       postList.push({
         path: postEdge.node.fields.slug,
         tags: postEdge.node.frontmatter.tags,
@@ -18,15 +20,15 @@ class PostListing extends React.Component {
         title: postEdge.node.frontmatter.title,
         date: postEdge.node.fields.date,
         excerpt: postEdge.node.excerpt,
-        timeToRead: postEdge.node.timeToRead
+        timeToRead: postEdge.node.timeToRead,
       });
     });
     return postList;
-  }
+  };
 
-  getNewsList() {
+  const getNewsList = () => {
     const newsList = [];
-    this.props.news.forEach(postEdge => {
+    props.news.forEach(postEdge => {
       newsList.push({
         text: postEdge.node.text,
         url: postEdge.node.url,
@@ -35,37 +37,45 @@ class PostListing extends React.Component {
     return newsList
   }
 
-  render() {
-    const postList = this.getPostList();
-    const newsList = this.getNewsList();
-    const firstPost = postList[0]
-    const otherPosts = [...postList.slice(1, postList.length)]
-    return (
-      <Container>
+
+  const postList = getPostList();
+  const newsList = getNewsList();
+  const firstPost = postList[0];
+  const otherPosts = [
+    ...postList.slice(1, postList.length),
+  ];
+  return (
+      <Container >
         <Row>
-          <Col>
-            <Post description={firstPost.description} path={firstPost.path} title={firstPost.title} author={firstPost.author} cover={firstPost.cover}/>
+          <Col xs={12} md={8} style={{ padding: 10 }}>
+            <Post
+                description={firstPost.description}
+                path={firstPost.path}
+                title={firstPost.title}
+                author={firstPost.author}
+                cover={firstPost.cover}
+                date={firstPost.date}
+            />
           </Col>
-        </Row>
-        <Row>
+          <Col xs={12} md={4} style={{ padding: 10 }}>
+            <News items={newsList}/>
+          </Col>
+
           {/* Your post list here. */
             otherPosts.map(post => (
-              <Col md={6} xs={12} key={post.title}>
-                  <Post description={post.description} path={post.path} title={post.title} author={post.author} cover={post.cover}/>
-              </Col>
-
+                <Col md={6} lg={4} xs={12} key={post.title} style={{ padding: 10 }}>
+                  <Post
+                      description={post.description}
+                      path={post.path}
+                      title={post.title}
+                      date={post.date}
+                      author={post.author}
+                  />
+                </Col>
             ))}
         </Row>
-
-        {newsList.map((news, index) => {
-          return (
-            <a href={news.url} key={index}><p>{news.text}</p></a>
-          );
-        })  }
-
       </Container>
-    );
-  }
-}
+  );
+};
 
 export default PostListing;

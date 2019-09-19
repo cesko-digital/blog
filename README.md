@@ -32,9 +32,17 @@ Articles need to be saved in `content/posts` directory. Article has these requir
 
 You can also add `slug` field which will override generated part of slug from title. Article URL does not depend on file position in content folder. URL format is `/year/month/slug`
 
+DO NOT USE HEADING LEVEL 1:
+```markdown
+# Wrong
+## Correct
+### Correct
+...
+```
+
 ## How to Insert News
 
-Articles need to be saved in `content/news` directory. News are saved as YAML file which can contain multiple news, see following example: 
+News need to be saved in `content/news` directory. News are saved as YAML file which can contain multiple news, see following example: 
 ```yaml
 - type: news
   date: 2019-09-16-12-00

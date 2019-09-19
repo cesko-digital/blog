@@ -3,6 +3,7 @@ title: "Style Guide"
 date: 2017-08-18-15-30
 author: curious-cat
 category: blog
+description: "German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible."
 tags:
   - gatsby
 ---
@@ -80,10 +81,16 @@ Some text to show that the reference links can follow later.
 
 ## Images
 
+Image in article: 
+
+<div class="picture-note">
+Jakub Neštřil, Autor: Tomáš Znamenáček
+</div>
+
+
 Here's our logo (hover to see the title text):
 
 Inline-style: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-Inline-style: ![alt text](/images/test.png "Logo Title Text 1")
 
 Reference-style: ![alt text][logo]
 
