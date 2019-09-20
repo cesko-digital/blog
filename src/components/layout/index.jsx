@@ -66,6 +66,7 @@ const MainLayout = props => {
   return (
     <Layout>
       <Helmet>
+        <link href='https://fonts.googleapis.com/css?family=Work+Sans:400,700' rel='stylesheet'/>
         <meta name="description" content={config.siteDescription} />
       </Helmet>
       <Header items={navBarItems} />
