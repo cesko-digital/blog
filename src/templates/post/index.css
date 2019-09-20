@@ -39,9 +39,20 @@
     opacity: 0.5;
 }
 
+
 .content a {
     border-bottom: 1px solid rgba(37, 110, 102, 0.25);
     color: #256E66;
     text-decoration: none;
+
+
+}
+.content a:hover {
+
+     transition: all 200ms ease-in-out;
+     opacity: 0.6;
+
+
+
 }
 

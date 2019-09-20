@@ -1,9 +1,7 @@
-import { Link } from 'gatsby';
-import React from 'react';
 import styled from 'styled-components';
-import moment from 'moment';
+import { Link } from 'gatsby';
 
-const Container = styled.div`
+export const Container = styled.div`
   background: #ffffff;
   box-shadow: 0px 4px 14px rgba(10, 10, 10, 0.07);
   border-radius: 14px;
@@ -11,32 +9,40 @@ const Container = styled.div`
 
 export const Padding = styled.div`
   padding: 10px 40px 40px;
+
+  @media (max-width: 768px) {
+    padding: 10px 20px 20px;
+  }
 `;
 
-const Title = styled.h1`
+export const Author = styled.a`
+text-decoration: none;
+color: #000000;
+`
+
+export const Title = styled.h1`
   font-family: Work Sans, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 36px;
-line-height: 150%;
+  line-height: 150%;
   /* identical to box height, or 36px */
 
   color: #000000;
   margin: 0;
 `;
 
-const Description = styled.p`
+export const Description = styled.p`
   font-family: Work Sans, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
-line-height: 150%;
-/* or 30px */
+  line-height: 150%;
+  /* or 30px */
 
+  color: #000000;
 
-color: #000000;
-
-opacity: 0.75;
+  opacity: 0.75;
   display: block;
   display: -webkit-box;
   max-width: 100%;
@@ -44,13 +50,9 @@ opacity: 0.75;
   /* or 24px */
 
   margin-top: 10px;
-
 `;
 
-
-
-
-const AuthorDate = styled.div`
+export const AuthorDate = styled.div`
   font-family: Work Sans, sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -65,7 +67,7 @@ const AuthorDate = styled.div`
   opacity: 0.5;
 `;
 
-const Button = styled(Link)`
+export const Button = styled(Link)`
   background: #ffffff;
   border: 2px solid #d3d3d2;
   box-sizing: border-box;
@@ -78,9 +80,9 @@ const Button = styled(Link)`
   line-height: 100%;
   /* identical to box height, or 14px */
 
-margin-top: 50px;
-text-decoration: none;
-width: 240px;
+  margin-top: 50px;
+  text-decoration: none;
+  width: 240px;
   display: flex;
   align-items: center;
   text-align: center;
@@ -89,37 +91,6 @@ width: 240px;
   padding: 12px 16px 12px 16px;
 `;
 
-const Arrow = styled.img`
+export const Arrow = styled.img`
   margin-right: 10px;
- 
 `;
-
-const Post = ({ path, title, description, author, cover, date, html }) => {
-  return (
-    <Container>
-      {cover  ? (
-        <img
-          loading="lazy"
-          width={'100%'}
-          style={{ borderTopLeftRadius: 10, borderTopRightRadius: 10 }}
-          src={cover}
-        />
-      ) : null}
-
-      <Padding>
-        <AuthorDate>
-          {moment(date).format('D. M. Y')} • {author}
-        </AuthorDate>
-        <Title>{title}</Title>
-        {description ? <Description>{description}</Description> : null}
-        <div className={"content"} dangerouslySetInnerHTML={{ __html: html }} />
-        <Button to={'/'}>
-          <Arrow src={'/icons/arrow.svg'}></Arrow>
-          Zpět na všechny články
-        </Button>
-      </Padding>
-    </Container>
-  );
-};
-
-export default Post;

@@ -3,7 +3,7 @@ title: "Rozhovor s Jakubem Nešetřilem"
 date: 2019-09-04-12-00
 author: curious-cat
 category: blog
-description: Lorem ipsum
+description: Jakub Nešetřil v roce 2017 prodal svůj technologický startup Apiary do rukou obra Oracle, kde následně působil jako viceprezident produktového vývoje. Dnes ale oficiálně po několika měsících příprav začíná novou etapu života a spouští projekt nazvaný Česko.Digital. Ten chce pomocí technologií pomoci v rozvoji státu i společnosti.
 cover: https://firebasestorage.googleapis.com/v0/b/blog-cesko-digital.appspot.com/o/2019%2F09%2Frozhovor-s-jakubem-nesetrilem%2FDSCF0011.jpg?alt=media&token=8f4f25fe-2165-4401-a355-72d1670a38c1
 tags:
   - gatsby
@@ -20,6 +20,7 @@ Dnes ale oficiálně po několika měsících příprav začíná novou etapu ž
 <div class="picture-note">
 Jakub Neštřil, Autor: Tomáš Znamenáček
 </div>
+
 
 ## Takže jsme se dostali k tomu, že rozjíždíš organizaci Česko.Digital. O co přesně jde?
 
