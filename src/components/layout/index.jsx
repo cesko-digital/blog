@@ -36,6 +36,10 @@ const ToolbarLink = styled.a`
   overflow: hidden;
   white-space: nowrap;
   width: min-content;
+  
+  
+  ${props => props.underline ? 'border-bottom: solid 1px rgba(0,0,0,0.5);' : ''}
+  
   &:hover {
     transition: all 200ms ease-in-out;
     opacity: 0.6;
@@ -88,41 +92,49 @@ const ITEMS = [
     name: 'Blog',
     url: '/',
     bold: false,
+    underline: true
   },
   {
     name: 'Naše vize',
     url: 'https://cesko.digital/#idea',
     bold: false,
+    underline: false
   },
   {
     url: 'https://cesko.digital/#team',
     name: 'Kdo jsme',
     bold: false,
+    underline: false
   },
   {
     url: 'https://cesko.digital/#media',
     name: 'Pro média',
     bold: false,
+    underline: false
   },
   {
     url: 'https://slack.cesko.digital/',
     name: 'Přidej se k Nám',
     bold: true,
+    underline: false
   },
   {
     url: 'https://www.facebook.com/cesko.digital',
     name: 'Facebook',
     bold: true,
+    underline: false
   },
   {
     url: 'https://twitter.com/CeskoDigital',
     name: 'Twitter',
     bold: true,
+    underline: false
   },
   {
     url: 'http://github.com/cesko-digital',
     name: 'Github',
     bold: true,
+    underline: false
   },
 ];
 
@@ -148,7 +160,7 @@ export default class MainLayout extends React.Component {
                 <ResponsiveCenterRow>
                   {navBarItems.map((item, index) => {
                     return (
-                      <ToolbarLink key={index} href={item.url}>
+                      <ToolbarLink underline={item.underline} key={index} href={item.url}>
                         {item.name}
                       </ToolbarLink>
                     );

@@ -47,7 +47,7 @@ const PostListing = props => {
   return (
       <Container >
         <Row>
-          <Col xs={12} md={8} style={{ padding: 10 }}>
+          <Col xs={12} lg={8} style={{ padding: 10 }}>
             <Post
                 description={firstPost.description}
                 path={firstPost.path}
@@ -57,7 +57,7 @@ const PostListing = props => {
                 date={firstPost.date}
             />
           </Col>
-          <Col xs={12} md={4} style={{ padding: 10 }}>
+          <Col xs={12} lg={4} style={{ padding: 10 }}>
             <News items={newsList}/>
           </Col>
 
