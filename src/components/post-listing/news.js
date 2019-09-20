@@ -8,13 +8,12 @@ const Card = styled.div`
   border-radius: 14px;
   padding: 20px;
   max-height: 685px;
-  
 `;
 
 const Scrollable = styled.div`
-overflow: scroll;
-max-height: 600px;
-`
+  overflow: scroll;
+  max-height: 600px;
+`;
 
 const Title = styled.h2`
   font-family: Work Sans, sans-serif;
@@ -52,7 +51,7 @@ const TitleIcon = styled.img`
 const ItemIcon = styled.img`
   margin-right: 10px;
   margin-top: 11px;
-  
+
   margin-left: 10px;
 `;
 
@@ -63,64 +62,65 @@ const Divider = styled.div`
 `;
 
 const Text = styled.span`
-font-family: Work Sans, sans-serif;
-font-style: normal;
-font-weight: normal;
-font-size: 16px;
-line-height: 160%;
-/* or 24px */
+  font-family: Work Sans, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 160%;
+  /* or 24px */
 
-border-bottom: 1px solid rgba(37, 110, 102, 0.25);
- padding-bottom: 3px;
-color: #256E66;
-
+  border-bottom: 1px solid rgba(37, 110, 102, 0.25);
+  padding-bottom: 3px;
+  color: #256e66;
+  :hover {
+    transition: all 200ms ease-in-out;
+    opacity: 0.8;
+  }
 `;
 
 const TextContainer = styled.div`
-margin-bottom: 5px;
-margin-top: 5px;
-`
+  margin-bottom: 5px;
+  margin-top: 5px;
+`;
 
-const A =styled.a`
-text-decoration: none;
-`
+const A = styled.a`
+  text-decoration: none;
+`;
 const News = ({ items }) => (
   <Card>
     <Row>
       <TitleIcon src={'/icons/news.svg'} />
       <Title>Krátké aktuality</Title>
     </Row>
-      <Scrollable>
-          {items.map((item, index) => {
-              return (
-                  <A href={item.url} key={index}>
-                      <Divider />
-                      <Row2>
-                          <ItemIcon src={'/icons/item_arrow.svg'} />
-                          <TextContainer>
-
-                              <Text>
-                                  {item.text}
-                              </Text>
-                          </TextContainer>
-                      </Row2>
-                  </A>
-              );
-          })}
-      </Scrollable>
-
+    <Scrollable>
+      {items.map((item, index) => {
+        return (
+          <A href={item.url} key={index}>
+            <Divider />
+            <Row2>
+              <ItemIcon src={'/icons/item_arrow.svg'} />
+              <TextContainer>
+                <Text>{item.text}</Text>
+              </TextContainer>
+            </Row2>
+          </A>
+        );
+      })}
+    </Scrollable>
   </Card>
 );
 
 News.propTypes = {
-    items: PropTypes.arrayOf(PropTypes.shape({
-        url: PropTypes.string.isRequired,
-        text: PropTypes.string.isRequired,
-    }),),
+  items: PropTypes.arrayOf(
+    PropTypes.shape({
+      url: PropTypes.string.isRequired,
+      text: PropTypes.string.isRequired,
+    })
+  ),
 };
 
 News.defaultProps = {
-    items: []
+  items: [],
 };
 
 export default News;
