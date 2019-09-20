@@ -24,64 +24,63 @@ export default class PostTemplate extends React.Component {
     }
     return (
       <MainLayout >
-        <Container >
           <Helmet>
-            <title>{`${post.title} | ${config.siteTitle}`}</title>
+              <title>{`${post.title} | ${config.siteTitle}`}</title>
           </Helmet>
           <SEO postPath={slug} postNode={postNode} postSEO />
           <Row>
-            <Col xs={12} lg={8} style={{padding: 10, paddingBottom: 30}}>
-              <Post
-                description={post.description}
-                path={post.path}
-                title={post.title}
-                author={post.author.name}
-                cover={post.cover}
-                date={this.props.data.markdownRemark.fields.date}
-                html={postNode.html}
+              <Col xs={12} lg={8} style={{padding: 10, paddingBottom: 30}}>
+                  <Post
+                      description={post.description}
+                      path={post.path}
+                      title={post.title}
+                      author={post.author.name}
+                      cover={post.cover}
+                      date={this.props.data.markdownRemark.fields.date}
+                      html={postNode.html}
 
-              />
-            </Col>
-            <Col xs={12} lg={4} style={{padding: 10, paddingBottom: 30}}>
-              <News items={this.props.data.allNews.edges.map((postEdge) => {
-                return {
-                  text: postEdge.node.text,
-                  url: postEdge.node.url,
-                }
-              })}/>
-            </Col>
+                  />
+              </Col>
+              <Col xs={12} lg={4} style={{padding: 10, paddingBottom: 30}}>
+                  <News items={this.props.data.allNews.edges.map((postEdge) => {
+                      return {
+                          text: postEdge.node.text,
+                          url: postEdge.node.url,
+                      }
+                  })}/>
+              </Col>
 
 
           </Row>
           <Row >
-            {/* Your post list here. */
-              this.props.data.allMarkdownRemark.edges.map(postEdge => {
-                let author = postEdge.node.frontmatter.author || { name: null }; // TODO
-                const post = {
-                  path: postEdge.node.fields.slug,
-                  tags: postEdge.node.frontmatter.tags,
-                  author: author.name,
-                  cover: postEdge.node.frontmatter.cover,
-                  description: postEdge.node.frontmatter.description,
-                  title: postEdge.node.frontmatter.title,
-                  date: postEdge.node.fields.date,
-                  excerpt: postEdge.node.excerpt,
-                  timeToRead: postEdge.node.timeToRead,
-                }
-                return (
-                  <Col md={6} lg={4} xs={12} key={post.title}  style={{padding: 10, paddingBottom: 15}}>
-                    <Post2
-                      description={post.description}
-                      path={post.path}
-                      title={post.title}
-                      date={post.date}
-                      author={post.author}
-                    />
-                  </Col>
-                );
-              })}
+              {/* Your post list here. */
+                  this.props.data.allMarkdownRemark.edges.map(postEdge => {
+                      let author = postEdge.node.frontmatter.author || { name: null }; // TODO
+                      const post = {
+                          path: postEdge.node.fields.slug,
+                          tags: postEdge.node.frontmatter.tags,
+                          author: author.name,
+                          cover: postEdge.node.frontmatter.cover,
+                          description: postEdge.node.frontmatter.description,
+                          title: postEdge.node.frontmatter.title,
+                          date: postEdge.node.fields.date,
+                          excerpt: postEdge.node.excerpt,
+                          timeToRead: postEdge.node.timeToRead,
+                      }
+                      return (
+                          <Col md={6} lg={4} xs={12} key={post.title}  style={{padding: 10, paddingBottom: 15}}>
+                              <Post2
+                                  description={post.description}
+                                  path={post.path}
+                                  title={post.title}
+                                  date={post.date}
+                                  author={post.author}
+                              />
+                          </Col>
+                      );
+                  })}
           </Row>
-        </Container>
+
       </MainLayout>
     );
   }

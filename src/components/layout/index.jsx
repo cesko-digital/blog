@@ -156,7 +156,7 @@ export default class MainLayout extends React.Component {
               <ResponsiveCenterCol xs={12} md={3} style={{ padding: 0 }}>
                 <Logo href={'https://cesko.digital'} />
               </ResponsiveCenterCol>
-              <Col xs={12} md={9}>
+              <Col xs={12} md={9} style={{padding: 0}}>
                 <ResponsiveCenterRow>
                   {navBarItems.map((item, index) => {
                     return (

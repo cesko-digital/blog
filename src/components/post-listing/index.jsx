@@ -45,7 +45,7 @@ const PostListing = props => {
     ...postList.slice(1, postList.length),
   ];
   return (
-      <Container >
+      <>
         <Row>
           <Col xs={12} lg={8} style={{ padding: 10 }}>
             <Post
@@ -74,7 +74,7 @@ const PostListing = props => {
                 </Col>
             ))}
         </Row>
-      </Container>
+      </>
   );
 };
 
