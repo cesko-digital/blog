@@ -25,7 +25,7 @@ yarn build
 
 Articles need to be saved in `content/posts` directory. Article has these required fields: 
 
-- `cover`
+- `cover` (as an URL)
 - `description`
 - `date` in format `YYYY-MM-DD-HH-mm`
 - `author` (author's id)

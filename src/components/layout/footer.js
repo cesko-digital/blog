@@ -57,8 +57,17 @@ const Footer = ({items}) => {
   );
 };
 
-Footer.propTypes = {};
+Footer.propTypes = {
+    items: PropTypes.arrayOf(PropTypes.shape({
+        name: PropTypes.string.isRequired,
+        bold: PropTypes.bool.isRequired,
+        url: PropTypes.string.isRequired,
+        underline: PropTypes.bool.isRequired,
+    }),).isRequired,
+};
 
-Footer.defaultProps = {};
+Footer.defaultProps = {
+
+};
 
 export default Footer;
