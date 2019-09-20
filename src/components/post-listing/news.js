@@ -46,13 +46,14 @@ const Row2 = styled.div`
 
 const TitleIcon = styled.img`
   margin-right: 10px;
+  margin-left: 4px;
 `;
 
 const ItemIcon = styled.img`
   margin-right: 10px;
-  margin-top: 11px;
+  margin-top: 7px;
 
-  margin-left: 10px;
+  margin-left: 3px;
 `;
 
 const Divider = styled.div`
