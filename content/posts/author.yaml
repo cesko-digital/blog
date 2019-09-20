@@ -1,4 +1,7 @@
 - type: authors
+  id: zoul
+  name: Tomáš Znamenáček
+- type: authors
   id: johannes-gutenberg
   email: johannes@cesko.digital
   name: Johannes Gutenberg
