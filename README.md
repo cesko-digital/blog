@@ -40,9 +40,9 @@ DO NOT USE HEADING LEVEL 1:
 ...
 ```
 
-## How to Insert News
+## How to Insert NewsCard
 
-News need to be saved in `content/news` directory. News are saved as YAML file which can contain multiple news, see following example: 
+NewsCard need to be saved in `content/news` directory. NewsCard are saved as YAML file which can contain multiple news, see following example: 
 ```yaml
 - type: news
   date: 2019-09-16-12-00

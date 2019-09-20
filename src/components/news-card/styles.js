@@ -1,8 +1,6 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import styled from 'styled-components';
+import styled from "styled-components";
 
-const Card = styled.div`
+export const Card = styled.div`
   background: #ffffff;
   box-shadow: 0px 4px 14px rgba(10, 10, 10, 0.07);
   border-radius: 14px;
@@ -10,12 +8,12 @@ const Card = styled.div`
   max-height: 685px;
 `;
 
-const Scrollable = styled.div`
+export const Scrollable = styled.div`
   overflow: scroll;
   max-height: 600px;
 `;
 
-const Title = styled.h2`
+export const Title = styled.h2`
   font-family: Work Sans, sans-serif;
   font-style: normal;
   font-weight: bold;
@@ -28,7 +26,7 @@ const Title = styled.h2`
   opacity: 0.75;
 `;
 
-const Row = styled.div`
+export const Row = styled.div`
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -36,7 +34,7 @@ const Row = styled.div`
   margin-bottom: 15px;
 `;
 
-const Row2 = styled.div`
+export const Row2 = styled.div`
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -44,25 +42,25 @@ const Row2 = styled.div`
   margin-top: 15px;
 `;
 
-const TitleIcon = styled.img`
+export const TitleIcon = styled.img`
   margin-right: 10px;
   margin-left: 4px;
 `;
 
-const ItemIcon = styled.img`
+export const ItemIcon = styled.img`
   margin-right: 10px;
   margin-top: 7px;
 
   margin-left: 3px;
 `;
 
-const Divider = styled.div`
+export const Divider = styled.div`
   height: 1px;
   width: 100%;
   box-shadow: inset 0px -1px 0px rgba(0, 0, 0, 0.1);
 `;
 
-const Text = styled.span`
+export const Text = styled.span`
   font-family: Work Sans, sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -79,49 +77,11 @@ const Text = styled.span`
   }
 `;
 
-const TextContainer = styled.div`
+export const TextContainer = styled.div`
   margin-bottom: 5px;
   margin-top: 5px;
 `;
 
-const A = styled.a`
+export const A = styled.a`
   text-decoration: none;
 `;
-const News = ({ items }) => (
-  <Card>
-    <Row>
-      <TitleIcon src={'/icons/news.svg'} />
-      <Title>Krátké aktuality</Title>
-    </Row>
-    <Scrollable>
-      {items.map((item, index) => {
-        return (
-          <A href={item.url} key={index}>
-            <Divider />
-            <Row2>
-              <ItemIcon src={'/icons/item_arrow.svg'} />
-              <TextContainer>
-                <Text>{item.text}</Text>
-              </TextContainer>
-            </Row2>
-          </A>
-        );
-      })}
-    </Scrollable>
-  </Card>
-);
-
-News.propTypes = {
-  items: PropTypes.arrayOf(
-    PropTypes.shape({
-      url: PropTypes.string.isRequired,
-      text: PropTypes.string.isRequired,
-    })
-  ),
-};
-
-News.defaultProps = {
-  items: [],
-};
-
-export default News;

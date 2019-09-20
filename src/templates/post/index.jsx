@@ -7,23 +7,20 @@ import '../b16-tomorrow-dark.css';
 import './index.css';
 import { Col, Row } from 'react-grid-system';
 import MainLayout from '../../components/layout';
-import Post from './post';
-import News from '../../components/post-listing/news';
 import PostCard from '../../components/post-card';
 import { edgeToPost } from '../../components/post-card/helpers';
+import NewsCard from '../../components/news-card';
+import { edgeToNews } from '../../components/news-card/helpers';
+import Post from "../../components/post";
 
-const PostTemplate = props => {
-  const { slug } = props.pageContext;
-  const postNode = props.data.markdownRemark;
+const PostTemplate = ({ pageContext, data }) => {
+  const { slug } = pageContext;
+  const postNode = data.markdownRemark;
   const post = postNode.frontmatter;
-  if (!post.id) {
-    post.id = slug;
-  }
-  if (!post.category_id) {
-    post.category_id = config.postDefaultCategoryID;
-  }
 
-  const otherPosts = props.data.allMarkdownRemark.edges.map(edgeToPost);
+  const otherPosts = data.allMarkdownRemark.edges.map(edgeToPost);
+  let news = data.allNews.edges.map(edgeToNews);
+
   return (
     <MainLayout>
       <Helmet>
@@ -34,28 +31,19 @@ const PostTemplate = props => {
         <Col xs={12} lg={8} style={{ padding: 10, paddingBottom: 30 }}>
           <Post
             description={post.description}
-            path={post.path}
             title={post.title}
             author={post.author.name}
             cover={post.cover}
-            date={props.data.markdownRemark.fields.date}
+            date={data.markdownRemark.fields.date}
             html={postNode.html}
           />
         </Col>
         <Col xs={12} lg={4} style={{ padding: 10, paddingBottom: 30 }}>
-          <News
-            items={props.data.allNews.edges.map(postEdge => {
-              return {
-                text: postEdge.node.text,
-                url: postEdge.node.url,
-              };
-            })}
-          />
+          <NewsCard items={news} />
         </Col>
       </Row>
       <Row>
-        {/* Your post list here. */
-        otherPosts.map(post => (
+        {otherPosts.map(post => (
           <Col
             md={6}
             lg={4}
