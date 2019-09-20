@@ -45,7 +45,10 @@ const Post = ({ title, description, author, cover, date, html }) => {
 PostCard.propTypes = {
     description: PropTypes.string.isRequired,
     html: PropTypes.string.isRequired,
-    author: PropTypes.string.isRequired,
+    author: PropTypes.shape({
+        name: PropTypes.string.isRequired,
+        email: PropTypes.string.isRequired,
+    }),
     cover: PropTypes.string,
     title: PropTypes.string.isRequired,
     date: PropTypes.string.isRequired,
