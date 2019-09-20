@@ -80,3 +80,33 @@ export const Content = styled(Container)`
   flex: 1;
   max-width: 100%;
 `;
+
+export const StyledFooter = styled.footer`
+  margin-top: 20px;
+  background: #202d33;
+  padding: 30px;
+`;
+
+export const FooterLink = styled.a`
+  vertical-align: middle;
+
+  font-size: 16px;
+  text-decoration: none;
+  font-weight: 400;
+  line-height: 1.4;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  color: white;
+  white-space: nowrap;
+  width: min-content;
+  &:hover {
+    transition: all 200ms ease-in-out;
+    opacity: 0.6;
+  }
+
+  ${props => (props.bold ? 'font-weight: bold;' : '')}
+`;
+
+export const ToolbarItem = styled.div`
+  padding: 20px;
+`;

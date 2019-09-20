@@ -68,12 +68,13 @@ const AuthorDate = styled.div`
 `;
 
 
-const Post = ({ path, title, description, author, cover, date }) => {
+const Post = ({ slug, title, description, author, cover, date }) => {
   return (
-    <Link to={path} style={{ textDecoration: 'none', color: 'black' }}>
+    <Link to={slug} style={{ textDecoration: 'none', color: 'black' }}>
       <Container>
         {cover  ? (
           <img
+              alt={`Cover článku ${title}`}
             loading="lazy"
             width={'100%'}
             style={{ borderTopLeftRadius: 10, borderTopRightRadius: 10 }}

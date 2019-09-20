@@ -2,10 +2,12 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import config from '../../../data/site-config';
 import './index.css';
-import { Col, Container } from 'react-grid-system';
 import Footer from './footer';
-import { Content, Layout, NavigationBar, ResponsiveCenterCol, ResponsiveCenterRow, ToolbarLink, } from './styles';
-import Header from "./header";
+import {
+  Content,
+  Layout,
+} from './styles';
+import Header from './header';
 
 const ITEMS = [
   {
@@ -59,17 +61,17 @@ const ITEMS = [
 ];
 
 const MainLayout = props => {
-  const {children} = props;
+  const { children } = props;
   let navBarItems = ITEMS.slice(0, ITEMS.length - 4);
   return (
-      <Layout>
-        <Helmet>
-          <meta name="description" content={config.siteDescription}/>
-        </Helmet>
-        <Header items={navBarItems}/>
-        <Content>{children}</Content>
-        <Footer items={ITEMS}/>
-      </Layout>
+    <Layout>
+      <Helmet>
+        <meta name="description" content={config.siteDescription} />
+      </Helmet>
+      <Header items={navBarItems} />
+      <Content>{children}</Content>
+      <Footer items={ITEMS} />
+    </Layout>
   );
 };
-export default MainLayout
+export default MainLayout;
