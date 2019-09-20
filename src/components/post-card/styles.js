@@ -1,9 +1,6 @@
-import { Link } from 'gatsby';
-import React from 'react';
 import styled from 'styled-components';
-import moment from 'moment';
 
-const Container = styled.div`
+export const Container = styled.div`
   background: #ffffff;
   box-shadow: 0px 4px 14px rgba(10, 10, 10, 0.07);
   border-radius: 14px;
@@ -14,7 +11,7 @@ export const Padding = styled.div`
   padding: 20px;
 `;
 
-const Title = styled.h2`
+export const Title = styled.h2`
   font-family: Work Sans, sans-serif;
   font-style: normal;
   font-weight: bold;
@@ -27,7 +24,7 @@ const Title = styled.h2`
   opacity: 0.75;
 `;
 
-const Description = styled.p`
+export const Description = styled.p`
   font-family: Work Sans, sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -49,10 +46,7 @@ const Description = styled.p`
   opacity: 0.75;
 `;
 
-
-
-
-const AuthorDate = styled.div`
+export const AuthorDate = styled.div`
   font-family: Work Sans, sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -66,33 +60,3 @@ const AuthorDate = styled.div`
   width: auto;
   opacity: 0.5;
 `;
-
-
-const Post = ({ slug, title, description, author, cover, date }) => {
-  return (
-    <Link to={slug} style={{ textDecoration: 'none', color: 'black' }}>
-      <Container>
-        {cover  ? (
-          <img
-              alt={`Cover článku ${title}`}
-            loading="lazy"
-            width={'100%'}
-            style={{ borderTopLeftRadius: 10, borderTopRightRadius: 10 }}
-            src={cover}
-          />
-        ) : null}
-
-        <Padding>
-          <AuthorDate>
-            {moment(date).format('D. M. Y')} • {author}
-          </AuthorDate>
-          <Title>{title}</Title>
-          {description ? <Description>{description}</Description> : null}
-
-        </Padding>
-      </Container>
-    </Link>
-  );
-};
-
-export default Post;

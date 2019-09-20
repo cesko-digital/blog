@@ -1,8 +1,8 @@
 import React from 'react';
-import Post  from './post';
 import { Col, Row } from 'react-grid-system';
 import News from './news';
 import PropTypes from 'prop-types';
+import PostCard from "../post-card";
 
 const PostListing = ({ posts, news }) => {
   const firstPost = posts[0];
@@ -11,7 +11,7 @@ const PostListing = ({ posts, news }) => {
     <>
       <Row>
         <Col xs={12} lg={8} style={{ padding: 10 }}>
-          <Post
+          <PostCard
             description={firstPost.description}
             slug={firstPost.slug}
             title={firstPost.title}
@@ -26,7 +26,7 @@ const PostListing = ({ posts, news }) => {
 
         {otherPosts.map(post => (
           <Col md={6} lg={4} xs={12} key={post.title} style={{ padding: 10 }}>
-            <Post
+            <PostCard
               description={post.description}
               slug={post.slug}
               title={post.title}
