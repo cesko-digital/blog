@@ -15,6 +15,11 @@ export const Padding = styled.div`
   }
 `;
 
+export const Author = styled.a`
+text-decoration: none;
+color: #000000;
+`
+
 export const Title = styled.h1`
   font-family: Work Sans, sans-serif;
   font-style: normal;

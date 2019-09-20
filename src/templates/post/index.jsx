@@ -32,7 +32,7 @@ const PostTemplate = ({ pageContext, data }) => {
           <Post
             description={post.description}
             title={post.title}
-            author={post.author.name}
+            author={post.author}
             cover={post.cover}
             date={data.markdownRemark.fields.date}
             html={postNode.html}
@@ -86,6 +86,7 @@ export const pageQuery = graphql`
           name
           bio
           twitter
+            email
         }
       }
       fields {
