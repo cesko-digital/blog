@@ -120,6 +120,7 @@ export const pageQuery = graphql`
         }
         allMarkdownRemark(
             limit: 3
+            filter: { fields: { slug: { ne: $slug } } }
             sort: { fields: [fields___date], order: DESC }
         ) {
             edges {
