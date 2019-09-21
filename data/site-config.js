@@ -10,7 +10,6 @@ const config = {
   googleAnalyticsID: "", // GA tracking ID.
   postDefaultCategoryID: "Blog", // Default category for posts.
   dateFromFormat: "YYYY-MM-DD-HH-mm", // Date format used in the frontmatter.
-  dateFormat: "DD.MM.YYYY", // Date format for display.
   twitter: "CeskoDigital", // Optionally renders "Follow Me" in the UserInfo segment.
   copyright: "Copyright © 2019. >Česko.Digital", // Copyright string for the footer of the website and RSS feed.
 };
