@@ -80,5 +80,8 @@
     "plugins": [
       "remark-preset-lint-recommended"
     ]
+  },
+  "resolutions": {
+    "sharp": "0.22.1"
   }
 }
