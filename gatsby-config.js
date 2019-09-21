@@ -12,8 +12,9 @@ module.exports = {
       description: config.siteDescription,
       image_url: `${urljoin(
         config.siteUrl,
-        config.pathPrefix
-      )}/logos/logo-1024.png`,
+        config.pathPrefix,
+          config.siteLogo
+      )}`,
       copyright: config.copyright,
     },
   },
@@ -128,7 +129,7 @@ module.exports = {
                 guid: rssMetadata.site_url + edge.node.fields.slug,
                 custom_elements: [
                   { 'content:encoded': edge.node.html },
-                  { author: edge.node.frontmatter.author.name },
+                  { author: `${edge.node.frontmatter.author.name} (${edge.node.frontmatter.author.email})` },
                 ],
               }));
             },
@@ -155,6 +156,7 @@ module.exports = {
                       tags
                       author {
                       name
+                      email
                       }
                     }
                   }
