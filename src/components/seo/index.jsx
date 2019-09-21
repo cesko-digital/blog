@@ -91,7 +91,7 @@ const SEO = ({postNode, postPath, postSEO}) => {
             <meta name="twitter:card" content="summary_large_image"/>
             <meta
                 name="twitter:creator"
-                content={config.userTwitter ? config.userTwitter : ""}
+                content={config.twitter ? config.twitter : ""}
             />
             <meta name="twitter:title" content={title}/>
             <meta name="twitter:description" content={description}/>
