@@ -1,8 +1,12 @@
 - type: news
+  date: 2019-09-25-12-00
+  text: Dnes je setkání Česko.Digital
+  url: https://cesko.digital
+- type: news
   date: 2019-09-16-12-00
   text: Michal Bláha byl hostem podcastu Proti proudu. Poslechněte si jeho názory o e-govermentu.
   url: https://cesko.digital
 - type: news
-  date: 2019-09-25-12-00
-  text: Dnes je setkání Česko.Digital
+  date: 2019-09-04-12-00
+  text: Vláda schválila, že veškerý státní SW bude na GitHubu.
   url: https://cesko.digital
