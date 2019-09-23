@@ -71,7 +71,7 @@ export const Button = styled(Link)`
   background: #ffffff;
   border: 2px solid #d3d3d2;
   box-sizing: border-box;
-  border-radius: 23px;
+  border-radius: 26px;
 
   font-family: Work Sans, sans-serif;
   font-style: normal;
@@ -89,6 +89,11 @@ export const Button = styled(Link)`
 
   color: #000000;
   padding: 12px 16px 12px 16px;
+  
+  transition: all 200ms ease-in-out;
+  :hover {
+  border: 2px solid rgba(0, 0, 0, 0.6);
+  }
 `;
 
 export const Arrow = styled.img`
