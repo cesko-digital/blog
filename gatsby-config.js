@@ -50,9 +50,16 @@ module.exports = {
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-        name: 'posts',
-        path: `${__dirname}/content/posts/`,
-      },
+        name: "posts",
+        path: `${__dirname}/content/authors.yaml`
+      }
+    },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "posts",
+        path: `${__dirname}/content/posts/`
+      }
     },
     {
       resolve: 'gatsby-transformer-remark',
@@ -143,7 +150,7 @@ module.exports = {
                   node {
                     excerpt
                     html
-                    
+
                     timeToRead
                     fields {
                       slug
