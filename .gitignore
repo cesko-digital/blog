@@ -1,9 +1,7 @@
 # Local Netlify folder
 .netlify
-
 .cache
-
 public
-
 .idea
 node_modules
+.DS_Store
