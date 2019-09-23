@@ -3,6 +3,7 @@ title: „Naším hlavním produktem je největší dobrovolnická digitální k
 date: 2019-09-20-12-00
 author: zoul
 category: blog
+slug: rozhovor-nesetril
 description: "Jakub Nešetřil vybudoval a v roce 2017 prodal úspěšnou technologickou firmu Apiary. Místo aby si vydělané peníze užíval někde na pláži, jak se na milionáře sluší a patří, rozhodl se, že si bude život dál komplikovat – a to tím, že se pomocí digitálních technologií bude snažit zjednodušit životy ostatních. S několika společníky založil organizaci Česko.Digital, která má za cíl usnadňovat spolupráci státu, nevládních organizací a dobrovolníků z IT komunity. A jelikož dnes digitální technologie tvoří velkou část pojmu „stát“, dá se tento cíl shrnout i stručněji: lepší Česko pro všechny."
 cover: https://firebasestorage.googleapis.com/v0/b/blog-cesko-digital.appspot.com/o/2019%2F09%2Frozhovor-s-jakubem-nesetrilem%2FDSCF0011.jpg?alt=media&token=8f4f25fe-2165-4401-a355-72d1670a38c1
 ---
