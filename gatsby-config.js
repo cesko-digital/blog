@@ -1,8 +1,8 @@
-const urljoin = require("url-join");
-const config = require("./data/site-config");
+const urljoin = require('url-join');
+const config = require('./data/site-config');
 
 module.exports = {
-  pathPrefix: config.pathPrefix === "" ? "/" : config.pathPrefix,
+  pathPrefix: config.pathPrefix === '' ? '/' : config.pathPrefix,
   siteMetadata: {
     siteUrl: urljoin(config.siteUrl, config.pathPrefix),
     rssMetadata: {
@@ -12,13 +12,14 @@ module.exports = {
       description: config.siteDescription,
       image_url: `${urljoin(
         config.siteUrl,
-        config.pathPrefix
-      )}/logos/logo-1024.png`,
-      copyright: config.copyright
-    }
+        config.pathPrefix,
+          '/images/cover.png'
+      )}`,
+      copyright: config.copyright,
+    },
   },
   mapping: {
-    "MarkdownRemark.frontmatter.author": `authors`
+    'MarkdownRemark.frontmatter.author': `authors`,
   },
   plugins: [
     {
@@ -27,82 +28,77 @@ module.exports = {
         typeName: ({ node, object, isArray }) => object.type,
       },
     },
-    "gatsby-plugin-react-helmet",
-    "gatsby-plugin-lodash",
+    'gatsby-plugin-react-helmet',
+    'gatsby-plugin-lodash',
     `gatsby-plugin-styled-components`,
     `gatsby-transformer-sharp`,
     'gatsby-plugin-sharp',
     {
-      resolve: "gatsby-source-filesystem",
+      resolve: 'gatsby-source-filesystem',
       options: {
-        name: "assets",
-        path: `${__dirname}/static/`
-      }
+        name: 'assets',
+        path: `${__dirname}/static/`,
+      },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: "news",
+        name: 'news',
         path: `${__dirname}/content/news.yaml`,
       },
     },
     {
-      resolve: "gatsby-source-filesystem",
+      resolve: 'gatsby-source-filesystem',
       options: {
-        name: "posts",
-        path: `${__dirname}/content/posts/`
-      }
+        name: 'posts',
+        path: `${__dirname}/content/posts/`,
+      },
     },
     {
-      resolve: "gatsby-transformer-remark",
+      resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
           {
-            resolve: "gatsby-remark-images",
+            resolve: 'gatsby-remark-images',
             options: {
               maxWidth: 690,
-              linkImagesToOriginal: false
-            }
-          },
-
-          {
-            resolve: "gatsby-remark-responsive-iframe"
-          },
-          "gatsby-remark-prismjs",
-          {
-            resolve: "gatsby-remark-copy-linked-files",
-            options: {
-
+              linkImagesToOriginal: false,
             },
-          }
-        ]
-      }
+          },
+
+          {
+            resolve: 'gatsby-remark-responsive-iframe',
+          },
+          'gatsby-remark-prismjs',
+          {
+            resolve: 'gatsby-remark-copy-linked-files',
+            options: {},
+          },
+        ],
+      },
     },
     {
-      resolve: "gatsby-plugin-google-analytics",
+      resolve: 'gatsby-plugin-google-analytics',
       options: {
-        trackingId: config.googleAnalyticsID
-      }
+        trackingId: config.googleAnalyticsID,
+      },
     },
     {
-      resolve: "gatsby-plugin-nprogress",
-      options: {
-        color: config.themeColor
-      }
+      resolve: 'gatsby-plugin-nprogress',
     },
 
-    "gatsby-plugin-catch-links",
-    "gatsby-plugin-twitter",
-    "gatsby-plugin-sitemap",
-    "gatsby-plugin-offline",
+    'gatsby-plugin-catch-links',
+    'gatsby-plugin-twitter',
+    'gatsby-plugin-sitemap',
+    'gatsby-plugin-offline',
 
     {
-      resolve: "gatsby-plugin-feed",
+      resolve: 'gatsby-plugin-feed',
       options: {
         setup(ref) {
           const ret = ref.query.site.siteMetadata.rssMetadata;
           ret.allMarkdownRemark = ref.query.allMarkdownRemark;
-          ret.generator = "GatsbyJS Advanced Starter";
+          ret.generator = 'GatsbyJS Advanced Starter';
           return ret;
         },
         query: `
@@ -126,16 +122,15 @@ module.exports = {
             serialize(ctx) {
               const { rssMetadata } = ctx.query.site.siteMetadata;
               return ctx.query.allMarkdownRemark.edges.map(edge => ({
-                categories: edge.node.frontmatter.tags,
                 date: edge.node.fields.date,
                 title: edge.node.frontmatter.title,
                 description: edge.node.excerpt,
                 url: rssMetadata.site_url + edge.node.fields.slug,
                 guid: rssMetadata.site_url + edge.node.fields.slug,
                 custom_elements: [
-                  { "content:encoded": edge.node.html },
-                  { author: config.userEmail }
-                ]
+                  { 'content:encoded': edge.node.html },
+                  { author: `${edge.node.frontmatter.author.name} &lt;${edge.node.frontmatter.author.email}&gt;` },
+                ],
               }));
             },
             query: `
@@ -148,6 +143,7 @@ module.exports = {
                   node {
                     excerpt
                     html
+                    
                     timeToRead
                     fields {
                       slug
@@ -158,16 +154,20 @@ module.exports = {
                       date
                       category
                       tags
+                      author {
+                      name
+                      email
+                      }
                     }
                   }
                 }
               }
             }
           `,
-            output: config.siteRss
-          }
-        ]
-      }
-    }
-  ]
+            output: config.siteRss,
+          },
+        ],
+      },
+    },
+  ],
 };

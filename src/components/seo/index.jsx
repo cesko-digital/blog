@@ -14,12 +14,12 @@ const SEO = ({postNode, postPath, postSEO}) => {
         description = postMeta.description
             ? postMeta.description
             : postNode.excerpt;
-        image = postMeta.cover || ''; // TODO - Image URL
+        image = postMeta.cover || '/images/cover.png'; // TODO - Image URL
         postURL = urljoin(config.siteUrl, config.pathPrefix, postPath);
     } else {
         title = config.siteTitle;
         description = config.siteDescription;
-        image = config.siteLogo;
+        image = '/images/cover.png';
     }
 
     image = urljoin(config.siteUrl, config.pathPrefix, image);
@@ -91,7 +91,7 @@ const SEO = ({postNode, postPath, postSEO}) => {
             <meta name="twitter:card" content="summary_large_image"/>
             <meta
                 name="twitter:creator"
-                content={config.userTwitter ? config.userTwitter : ""}
+                content={config.twitter ? config.twitter : ""}
             />
             <meta name="twitter:title" content={title}/>
             <meta name="twitter:description" content={description}/>
