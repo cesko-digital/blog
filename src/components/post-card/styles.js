@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import { Link } from 'gatsby';
 
 export const Container = styled.div`
   background: #ffffff;
@@ -19,10 +20,29 @@ export const Title = styled.h2`
   line-height: 150%;
   /* identical to box height, or 36px */
 
-  color: #000000;
   margin: 0;
-  opacity: 0.75;
 `;
+
+export const Span = styled.span`
+  padding-bottom: 2px;
+  border-bottom: solid 1px rgba(0, 0, 0, 0.25);
+
+  transition: all 200ms ease-in-out;
+  :hover {
+    border-bottom: solid 1px rgba(0, 0, 0, 0.6);
+  }
+  
+  
+`;
+
+export const StyledLink = styled(Link)`
+text-decoration: none;
+color: black;
+:visited  {
+   color: #808080;
+   opacity: 0.75;
+  }
+`
 
 export const Description = styled.p`
   font-family: Work Sans, sans-serif;

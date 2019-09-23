@@ -1,13 +1,13 @@
 import { Link } from 'gatsby';
 import React from 'react';
 import moment from 'moment';
-import { AuthorDate, Container, Description, Padding, Title } from './styles';
+import { AuthorDate, Container, Description, Padding, Span, StyledLink, Title } from './styles';
 import { DATE_FORMAT } from './helpers';
 import PropTypes from "prop-types";
 
 const PostCard = ({ slug, title, description, author, cover, date }) => {
   return (
-    <Link to={slug} style={{ textDecoration: 'none', color: 'black' }}>
+    <StyledLink to={slug} >
       <Container>
         {cover ? (
           <img
@@ -23,11 +23,11 @@ const PostCard = ({ slug, title, description, author, cover, date }) => {
           <AuthorDate>
             {moment(date).format(DATE_FORMAT)} • {author}
           </AuthorDate>
-          <Title>{title}</Title>
+          <Title><Span>{title}</Span></Title>
           {description ? <Description>{description}</Description> : null}
         </Padding>
       </Container>
-    </Link>
+    </StyledLink>
   );
 };
 
