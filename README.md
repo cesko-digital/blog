@@ -1,22 +1,20 @@
-# blog-cesko-digital
-
-Repository for Cesko.Digital blog 
+# Česko.Digital Blog
 
 ## Setup
+
 ```shell script
 yarn install
 yarn develop
 ```
 
-
 ## Deploy
 
 Blog is automatically deployed using [Netlify](https://www.netlify.com/):
 
-
 [![Netlify Status](https://api.netlify.com/api/v1/badges/04cf950a-9616-455f-916e-2947c52c492a/deploy-status)](https://app.netlify.com/sites/blog-cesko-digital/deploys)
 
-You can use following commands in case of failing deploy: 
+You can use the following commands in case of a failing deploy:
+
 ```shell script
 yarn build
 ```
@@ -30,9 +28,10 @@ Articles need to be saved in `content/posts` directory. Article has these requir
 - `date` in format `YYYY-MM-DD-HH-mm`
 - `author` (author's id)
 
-You can also add `slug` field which will override generated part of slug from title. Article URL does not depend on file position in content folder. URL format is `/year/month/slug`
+You can also add a `slug` field which will override the generated part of slug from title. Article URL does not depend on file position in content folder. URL format is `/year/month/slug`
 
 DO NOT USE HEADING LEVEL 1:
+
 ```markdown
 # Wrong
 ## Correct
@@ -40,9 +39,10 @@ DO NOT USE HEADING LEVEL 1:
 ...
 ```
 
-## How to Insert NewsCard
+## How to Insert News Items
 
-NewsCard need to be saved in `content/news` directory. NewsCard are saved as YAML file which can contain multiple news, see following example: 
+News items are stored in the `content/news.yaml` file in the following format:
+
 ```yaml
 - type: news
   date: 2019-09-16-12-00
@@ -52,5 +52,4 @@ NewsCard need to be saved in `content/news` directory. NewsCard are saved as YAM
   date: 2019-09-25-12-00
   text: Dnes je setkání Česko.Digital
   url: https://cesko.digital
-
 ```
