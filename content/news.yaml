@@ -1,0 +1,31 @@
+- type: news
+  date: 2019-09-9-12-00
+  url: https://1url.cz/yM5hX
+  text: |
+    Druhé setkání Česko.Digital se uskuteční ve středu 25. září v prostorách
+    STRV v Praze. Srdečně zveme, ať už fyzicky, nebo na livestream!
+- type: news
+  date: 2019-09-3-12-00
+  url: https://www.youtube.com/watch?v=inJB-7G-lMQ
+  text: |
+    Jakub Nešetřil byl hostem podcastu Petra Máry. Kromě projektu Česko.Digital
+    zde mluví například o své temné minulosti spojené s pašováním amerických
+    vojenských technologií do komunistického Československa; neváhejte!
+- type: news
+  date: 2019-08-21-12-00
+  url: https://zoom.rba.cz/prednasky/bb-cesko-raj-exekuci-nebo-ne
+  text: |
+    Radek Hábl, autor Mapy exekucí, mluví v Brain&Breakfast o půjčkách a exekucích
+    v ČR. Dobré shrnutí tématu a důvodů, proč Česko.Digital pracuje na projektu
+    Přehled dluhů.
+- type: news
+  date: 2019-05-21-12-00
+  url: https://www.lupa.cz/clanky/jakub-nesetril-cesko-digital-je-moje-nova-zivotni-etapa-skrze-it-chceme-pomoci-spolecnosti/
+  text: |
+    Jakub Nešetřil mluví v rozhovoru pro Lupa.cz o začátcích projektu Česko.Digital.
+- type: news
+  date: 2019-03-13-12-00
+  url: https://protiproudu.net/michal-blaha/
+  text: |
+    Michal Bláha, autor projektu Hlídač státu, byl hostem podcastu Proti proudu,
+    kde mimo jiné mluvil o projektu Hlídač státu a efektivním digitálním Česku.
