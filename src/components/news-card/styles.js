@@ -5,12 +5,12 @@ export const Card = styled.div`
   box-shadow: 0px 4px 14px rgba(10, 10, 10, 0.07);
   border-radius: 14px;
   padding: 20px;
-  max-height: 685px;
+  max-height: 740px;
 `;
 
 export const Scrollable = styled.div`
   overflow: scroll;
-  max-height: 600px;
+  max-height: 630px;
 `;
 
 export const Title = styled.h2`
