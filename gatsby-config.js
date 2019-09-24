@@ -130,7 +130,7 @@ module.exports = {
               return ctx.query.allMarkdownRemark.edges.map(edge => ({
                 date: edge.node.fields.date,
                 title: edge.node.frontmatter.title,
-                description: edge.node.excerpt,
+                description: edge.node.frontmatter.description,
                 url: rssMetadata.site_url + edge.node.fields.slug,
                 guid: rssMetadata.site_url + edge.node.fields.slug,
                 custom_elements: [
@@ -158,6 +158,7 @@ module.exports = {
                     frontmatter {
                       title
                       date
+                      description
                       category
                       tags
                       author {
