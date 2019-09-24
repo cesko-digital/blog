@@ -103,13 +103,10 @@ const SEO = ({ postNode, postPath, postSEO }) => {
         <meta name="twitter:description" content={description} />
         <meta name="twitter:image" content={image} />
       </Helmet>
-      <script >
-        {`window.dataLayer.push({
-              \'event\': \'new_page_view\',
-              \'url\': \'${postSEO ?  postURL : '/'}\',
-              \'title\': \'${title}\'
-            })`}
-      </script>
+      <div dangerouslySetInnerHTML={{__html: `
+      <script>window.dataLayer.push({event: 'new_page_view',url: '${postSEO ?  postURL : '/'}',title: '${title}'})</script>
+      `}}>
+      </div>
     </>
   );
 };
