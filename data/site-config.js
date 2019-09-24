@@ -1,6 +1,6 @@
 const config = {
-  siteTitle: ">Česko.Digital Blog", // Site title.
-  siteTitleAlt: ">Česko.Digital Blog", // Alternative site title for SEO.
+  siteTitle: "Česko.Digital Blog", // Site title.
+  siteTitleAlt: "Česko.Digital Blog", // Alternative site title for SEO.
   siteLogo: "/logos/logo.svg", // Logo used for SEO and manifest.
   siteUrl: "https://blog.cesko.digital/", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
@@ -11,7 +11,7 @@ const config = {
   postDefaultCategoryID: "Blog", // Default category for posts.
   dateFromFormat: "YYYY-MM-DD-HH-mm", // Date format used in the frontmatter.
   twitter: "CeskoDigital", // Optionally renders "Follow Me" in the UserInfo segment.
-  copyright: "Copyright © >Česko.Digital", // Copyright string for the footer of the website and RSS feed.
+  copyright: "Copyright © Česko.Digital", // Copyright string for the footer of the website and RSS feed.
 };
 
 // Validate
