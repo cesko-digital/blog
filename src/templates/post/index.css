@@ -50,7 +50,13 @@
 .content a:hover {
 
      transition: all 200ms ease-in-out;
-     opacity: 0.6;
+    color: #226259;
+
+
+}
+.content a:visited {
+    color: #808080;
+    border-bottom: 1px solid #808080;
 
 
 

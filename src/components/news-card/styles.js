@@ -68,12 +68,16 @@ export const Text = styled.span`
   line-height: 160%;
   /* or 24px */
 
-  border-bottom: 1px solid rgba(37, 110, 102, 0.25);
+  border-bottom: 1px solid rgba(80, 80, 80, 0.25);
   padding-bottom: 3px;
-  color: #256e66;
+  opacity: 0.9;
   :hover {
     transition: all 200ms ease-in-out;
-    opacity: 0.8;
+  opacity: 1;
+  }
+  
+  :visited span {
+    
   }
 `;
 
@@ -84,4 +88,9 @@ export const TextContainer = styled.div`
 
 export const A = styled.a`
   text-decoration: none;
+  color: #256e66;
+  :visited {
+  color: #808080;
+  }
+  
 `;
