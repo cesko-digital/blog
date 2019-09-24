@@ -105,9 +105,9 @@ const SEO = ({ postNode, postPath, postSEO }) => {
       </Helmet>
       <script>
         {`window.dataLayer.push({
-              "event": "new_page_view",
-              "url": "${postSEO ?  postURL : '/'}",
-              "title": "${title}"
+              'event': 'new_page_view',
+              'url': '${postSEO ?  postURL : '/'}',
+              'title': '${title}'
             })`}
       </script>
     </>
