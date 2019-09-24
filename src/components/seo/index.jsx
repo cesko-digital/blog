@@ -81,6 +81,7 @@ const SEO = ({postNode, postPath, postSEO}) => {
             <meta property="og:title" content={title}/>
             <meta property="og:description" content={description}/>
             <meta property="og:image" content={image}/>
+            <meta property="og:image:alt" content={postSEO ? 'Obrázek článku ' + title : 'Obrázek blogu'}/>
             <meta
                 property="fb:app_id"
                 content={config.siteFBAppID ? config.siteFBAppID : ""}
