@@ -96,6 +96,14 @@ const SEO = ({postNode, postPath, postSEO}) => {
             <meta name="twitter:title" content={title}/>
             <meta name="twitter:description" content={description}/>
             <meta name="twitter:image" content={image}/>
+
+            <script>
+              {`dataLayer.push({
+              "event": "new_page_view",
+              "url": "${postSEO ?  postURL : ''}",
+              "title": "${title}"
+            })`}
+            </script>
         </Helmet>
     );
 };
