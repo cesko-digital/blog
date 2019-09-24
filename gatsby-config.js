@@ -85,9 +85,12 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-plugin-google-analytics',
+      resolve: 'gatsby-plugin-google-marketing-platform',
       options: {
-        trackingId: config.googleAnalyticsID,
+        tagmanager: {
+          id: 'GTM-KTZCXT7',
+        },
+        includeInDevelopment: true,
       },
     },
     {
