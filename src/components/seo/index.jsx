@@ -98,7 +98,7 @@ const SEO = ({postNode, postPath, postSEO}) => {
             <meta name="twitter:image" content={image}/>
 
             <script>
-              {`dataLayer.push({
+              {`window.dataLayer.push({
               "event": "new_page_view",
               "url": "${postSEO ?  postURL : '/'}",
               "title": "${title}"
