@@ -100,7 +100,7 @@ const SEO = ({postNode, postPath, postSEO}) => {
             <script>
               {`dataLayer.push({
               "event": "new_page_view",
-              "url": "${postSEO ?  postURL : ''}",
+              "url": "${postSEO ?  postURL : '/'}",
               "title": "${title}"
             })`}
             </script>
