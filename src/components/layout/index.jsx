@@ -11,33 +11,27 @@ import Header from './header';
 
 const ITEMS = [
   {
+    name: 'Kdo jsme',
+    url: 'https://cesko.digital/#idea',
+    bold: false,
+    underline: false,
+  },
+  {
+    url: 'https://cesko.digital/#projects',
+    name: 'Co děláme',
+    bold: false,
+    underline: false,
+  },
+  {
     name: 'Blog',
     url: '/',
     bold: false,
     underline: true,
   },
   {
-    name: 'Naše vize',
-    url: 'https://cesko.digital/#idea',
+    url: 'https://cesko.digital/en.html',
+    name: 'English',
     bold: false,
-    underline: false,
-  },
-  {
-    url: 'https://cesko.digital/#team',
-    name: 'Kdo jsme',
-    bold: false,
-    underline: false,
-  },
-  {
-    url: 'https://cesko.digital/#media',
-    name: 'Pro média',
-    bold: false,
-    underline: false,
-  },
-  {
-    url: 'https://slack.cesko.digital/',
-    name: 'Přidej se k Nám',
-    bold: true,
     underline: false,
   },
   {
@@ -62,7 +56,7 @@ const ITEMS = [
 
 const MainLayout = props => {
   const { children } = props;
-  let navBarItems = ITEMS.slice(0, ITEMS.length - 4);
+  let navBarItems = ITEMS.slice(0, ITEMS.length - 3);
   return (
     <Layout>
       <Helmet>
