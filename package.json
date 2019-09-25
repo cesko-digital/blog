@@ -9,8 +9,6 @@
     "gatsby-image": "^2.2.17",
     "gatsby-plugin-catch-links": "2.0.9",
     "gatsby-plugin-feed": "2.0.11",
-    "gatsby-plugin-google-analytics": "2.0.9",
-    "gatsby-plugin-google-marketing-platform": "^0.1.14",
     "gatsby-plugin-google-tagmanager": "^2.1.10",
     "gatsby-plugin-lodash": "3.0.3",
     "gatsby-plugin-manifest": "2.0.13",
@@ -82,5 +80,8 @@
     "plugins": [
       "remark-preset-lint-recommended"
     ]
+  },
+  "resolutions": {
+    "sharp": "0.22.1"
   }
 }
