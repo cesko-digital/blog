@@ -3,11 +3,9 @@ import Helmet from 'react-helmet';
 import config from '../../../data/site-config';
 import './index.css';
 import Footer from './footer';
-import {
-  Content,
-  Layout,
-} from './styles';
+import { Content, Layout } from './styles';
 import Header from './header';
+import Head from './head';
 
 const ITEMS = [
   {
@@ -59,10 +57,7 @@ const MainLayout = props => {
   let navBarItems = ITEMS.slice(0, ITEMS.length - 3);
   return (
     <Layout>
-      <Helmet>
-        <link href='https://fonts.googleapis.com/css?family=Work+Sans:400,700' rel='stylesheet'/>
-        <meta name="description" content={config.siteDescription} />
-      </Helmet>
+      <Head/>
       <Header items={navBarItems} />
       <Content>{children}</Content>
       <Footer items={ITEMS} />
