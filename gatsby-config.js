@@ -134,6 +134,7 @@ module.exports = {
                 url: rssMetadata.site_url + edge.node.fields.slug,
                 guid: rssMetadata.site_url + edge.node.fields.slug,
                 custom_elements: [
+                  { 'content:cover': edge.node.frontmatter.cover },
                   { 'content:encoded': edge.node.html },
                   { author: `${edge.node.frontmatter.author.name} &lt;${edge.node.frontmatter.author.email}&gt;` },
                 ],
@@ -158,6 +159,7 @@ module.exports = {
                     frontmatter {
                       title
                       date
+                      cover
                       description
                       category
                       tags
