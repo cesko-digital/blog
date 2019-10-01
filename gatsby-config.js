@@ -132,7 +132,6 @@ module.exports = {
                 title: edge.node.frontmatter.title,
                 description: edge.node.frontmatter.description,
                 url: rssMetadata.site_url + edge.node.fields.slug,
-                guid: rssMetadata.site_url + edge.node.fields.slug,
                 custom_elements: [
                   { 'content:encoded': edge.node.html },
                   { author: `${edge.node.frontmatter.author.name} &lt;${edge.node.frontmatter.author.email}&gt;` },
