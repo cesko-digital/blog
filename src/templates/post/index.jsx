@@ -84,9 +84,7 @@ export const pageQuery = graphql`
         author {
           id
           name
-          bio
-          twitter
-            email
+          email
         }
       }
       fields {
