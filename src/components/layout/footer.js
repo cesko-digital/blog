@@ -16,8 +16,12 @@ const Footer = ({ items }) => {
             </ToolbarItem>
           ))}
         </Row>
-          <Row justify={'center'}>
-              <CookiesNote>Tento web používá k poskytování služeb a analýze návštěvnosti soubory cookie. Používáním tohoto webu s tím souhlasíte.</CookiesNote></Row>
+        <Row justify={'center'}>
+          <CookiesNote>
+            Tento web používá k poskytování služeb a analýze návštěvnosti
+            soubory cookie. Používáním tohoto webu s tím souhlasíte.
+          </CookiesNote>
+        </Row>
       </Container>
     </StyledFooter>
   );
