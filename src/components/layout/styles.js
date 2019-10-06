@@ -110,3 +110,10 @@ export const FooterLink = styled.a`
 export const ToolbarItem = styled.div`
   padding: 20px;
 `;
+
+export const CookiesNote = styled.div`
+    color: white;
+    font-weight: 400;
+  line-height: 1.4;
+   font-size: 14px;
+`;
