@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { Row, Container } from 'react-grid-system';
-import { FooterLink, StyledFooter, ToolbarItem } from './styles';
+import { CookiesNote, FooterLink, StyledFooter, ToolbarItem } from './styles';
 
 const Footer = ({ items }) => {
   return (
@@ -15,6 +15,12 @@ const Footer = ({ items }) => {
               </FooterLink>
             </ToolbarItem>
           ))}
+        </Row>
+        <Row justify={'center'}>
+          <CookiesNote>
+            Tento web používá k poskytování služeb a analýze návštěvnosti
+            soubory cookie. Používáním tohoto webu s tím souhlasíte.
+          </CookiesNote>
         </Row>
       </Container>
     </StyledFooter>

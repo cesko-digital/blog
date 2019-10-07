@@ -1,5 +1,5 @@
-import styled from "styled-components";
-import { Col, Container, Row } from "react-grid-system";
+import styled from 'styled-components';
+import { Col, Container, Row } from 'react-grid-system';
 
 export const Logo = styled.a`
   display: inline-block;
@@ -7,11 +7,11 @@ export const Logo = styled.a`
   height: 27px;
   background: url('/logos/logo.svg');
   padding: 0 !important;
-color: #1a2c29;
+  color: #1a2c29;
   &__inner {
     display: none;
   }
-  
+
   &:hover {
     transition: all 200ms ease-in-out;
     opacity: 0.6;
@@ -30,10 +30,10 @@ export const ToolbarLink = styled.a`
   overflow: hidden;
   white-space: nowrap;
   width: min-content;
-  
-  
-  ${props => props.underline ? 'border-bottom: solid 1px rgba(0,0,0,0.5);' : ''}
-  
+
+  ${props =>
+    props.underline ? 'border-bottom: solid 1px rgba(0,0,0,0.5);' : ''}
+
   &:hover {
     transition: all 200ms ease-in-out;
     opacity: 0.6;
@@ -57,7 +57,7 @@ export const ResponsiveCenterCol = styled(Col)`
   }
 `;
 
- export const ResponsiveCenterRow = styled.div`
+export const ResponsiveCenterRow = styled.div`
   display: flex;
   flex-wrap: wrap;
   flex-grow: 0;
@@ -109,4 +109,11 @@ export const FooterLink = styled.a`
 
 export const ToolbarItem = styled.div`
   padding: 20px;
+`;
+
+export const CookiesNote = styled.div`
+  color: white;
+  font-weight: 400;
+  line-height: 1.4;
+  font-size: 14px;
 `;
