@@ -1,6 +1,14 @@
 const urljoin = require('url-join');
 const config = require('./data/site-config');
 
+function getArticleWithDescription(edge) {
+  return `<p>${edge.node.frontmatter.description}</p>` + edge.node.html;
+}
+
+function getAuthor(edge) {
+  return `${edge.node.frontmatter.author.name} &lt;${edge.node.frontmatter.author.email}&gt;`;
+}
+
 module.exports = {
   pathPrefix: config.pathPrefix === '' ? '/' : config.pathPrefix,
   siteMetadata: {
@@ -133,8 +141,8 @@ module.exports = {
                 description: edge.node.frontmatter.description,
                 url: rssMetadata.site_url + edge.node.fields.slug,
                 custom_elements: [
-                  { 'content:encoded': edge.node.html },
-                  { author: `${edge.node.frontmatter.author.name} &lt;${edge.node.frontmatter.author.email}&gt;` },
+                  { 'content:encoded': getArticleWithDescription(edge) },
+                  { author: getAuthor(edge) },
                 ],
               }));
             },
