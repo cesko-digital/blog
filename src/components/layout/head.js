@@ -5,6 +5,7 @@ import React from 'react';
 const Head = () => (
   <>
     <Helmet>
+        <html lang={config.siteDefaultLanguage} />
       <link
         href="https://fonts.googleapis.com/css?family=Work+Sans:400,700"
         rel="stylesheet"

@@ -6,6 +6,7 @@ category: blog
 slug: zaznam-setkani
 description: "Ve středu 25. 9. se v prostorách STRV sešlo na 120 členů a podporovatelů komunity Česko.Digital. Pokud jste se nestihli zúčastnit osobně ani na live streamu, nabízíme záznam všech vystoupení."
 cover: https://i.imgur.com/ObMcG33.jpg
+lang: cs
 langVersion:
     en: test
 ---

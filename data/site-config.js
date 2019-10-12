@@ -6,6 +6,7 @@ const config = {
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: "Skrz jedničky a nuly měníme svět k lepšímu.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
+  siteDefaultLanguage: "cs",
   siteFBAppID: "", // FB Application ID for using app insights
   googleTagManagerId: "GTM-KTZCXT7", // GA tracking ID.
   dateFromFormat: "YYYY-MM-DD-HH-mm", // Date format used in the frontmatter.

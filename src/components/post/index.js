@@ -1,19 +1,20 @@
 import React from 'react';
 import moment from 'moment';
 import {
-    Arrow,
-    Author,
-    AuthorDate,
-    Button,
-    Container,
-    Description, LangVersionLink,
-    Padding,
-    Title,
+  Arrow,
+  Author,
+  AuthorDate,
+  Button,
+  Container,
+  Description,
+  LangVersionLink,
+  Padding,
+  Title,
 } from './styles';
 import PropTypes from 'prop-types';
 import PostCard from '../post-card';
 import { DATE_FORMAT } from '../post-card/helpers';
-
+import config from '../../../data/site-config';
 const Post = ({
   title,
   description,
@@ -22,9 +23,11 @@ const Post = ({
   date,
   html,
   langVersion,
+  lang,
 }) => {
+  console.log(lang);
   return (
-    <Container>
+    <Container lang={lang || config.siteDefaultLanguage}>
       {cover ? (
         <img
           alt={`Cover článku ${title}`}
@@ -70,6 +73,7 @@ PostCard.propTypes = {
   cover: PropTypes.string,
   title: PropTypes.string.isRequired,
   date: PropTypes.string.isRequired,
+  lang: PropTypes.string,
 };
 
 export default Post;

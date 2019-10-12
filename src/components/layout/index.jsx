@@ -56,7 +56,7 @@ const MainLayout = props => {
   const { children } = props;
   let navBarItems = ITEMS.slice(0, ITEMS.length - 3);
   return (
-    <Layout>
+    <Layout >
       <Head/>
       <Header items={navBarItems} />
       <Content>{children}</Content>

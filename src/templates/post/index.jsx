@@ -11,7 +11,7 @@ import PostCard from '../../components/post-card';
 import { edgeToPost } from '../../components/post-card/helpers';
 import NewsCard from '../../components/news-card';
 import { edgeToNews } from '../../components/news-card/helpers';
-import Post from "../../components/post";
+import Post from '../../components/post';
 
 const PostTemplate = ({ pageContext, data }) => {
   const { slug } = pageContext;
@@ -21,7 +21,7 @@ const PostTemplate = ({ pageContext, data }) => {
   const otherPosts = data.allMarkdownRemark.edges.map(edgeToPost);
   let news = data.allNews.edges.map(edgeToNews);
 
-  console.log(post);
+
   return (
     <MainLayout>
       <Helmet>
@@ -32,6 +32,7 @@ const PostTemplate = ({ pageContext, data }) => {
         <Col xs={12} lg={8} style={{ padding: 10, paddingBottom: 30 }}>
           <Post
             langVersion={post.langVersion}
+            lang={post.lang}
             description={post.description}
             title={post.title}
             author={post.author}
@@ -83,6 +84,7 @@ export const pageQuery = graphql`
         category
         tags
         cover
+        lang
         author {
           id
           name
