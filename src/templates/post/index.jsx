@@ -92,6 +92,7 @@ export const pageQuery = graphql`
         }
         langVersion {
           en
+          cs
         }
       }
       fields {

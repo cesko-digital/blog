@@ -7,7 +7,6 @@ import {
   Button,
   Container,
   Description,
-  LangVersionLink,
   Padding,
   Title,
 } from './styles';
@@ -15,6 +14,7 @@ import PropTypes from 'prop-types';
 import PostCard from '../post-card';
 import { DATE_FORMAT } from '../post-card/helpers';
 import config from '../../../data/site-config';
+import LangVersions from './lang-versions';
 const Post = ({
   title,
   description,
@@ -41,15 +41,11 @@ const Post = ({
       <Padding>
         <AuthorDate>
           {moment(date).format(DATE_FORMAT)} •{' '}
-          <Author href={`mailto:${author.email}`}>{author.name}</Author>
+          <Author href={`mailto:${author.email}`}>{author.name}</Author>{' '}
         </AuthorDate>
         <Title>{title}</Title>
         {description ? <Description>{description}</Description> : null}
-        {langVersion && langVersion.en && (
-          <LangVersionLink to={langVersion.en}>
-            This article is available also in English
-          </LangVersionLink>
-        )}
+        <LangVersions versions={langVersion} />
         <div className={'content'} dangerouslySetInnerHTML={{ __html: html }} />
         <Button to={'/'}>
           <Arrow src={'/icons/arrow.svg'}></Arrow>
@@ -69,6 +65,7 @@ PostCard.propTypes = {
   }),
   langVersion: PropTypes.shape({
     en: PropTypes.string,
+    cs: PropTypes.string,
   }),
   cover: PropTypes.string,
   title: PropTypes.string.isRequired,
