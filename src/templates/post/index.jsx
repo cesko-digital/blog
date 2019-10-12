@@ -21,6 +21,7 @@ const PostTemplate = ({ pageContext, data }) => {
   const otherPosts = data.allMarkdownRemark.edges.map(edgeToPost);
   let news = data.allNews.edges.map(edgeToNews);
 
+  console.log(post);
   return (
     <MainLayout>
       <Helmet>
@@ -30,6 +31,7 @@ const PostTemplate = ({ pageContext, data }) => {
       <Row>
         <Col xs={12} lg={8} style={{ padding: 10, paddingBottom: 30 }}>
           <Post
+            langVersion={post.langVersion}
             description={post.description}
             title={post.title}
             author={post.author}
@@ -85,6 +87,9 @@ export const pageQuery = graphql`
           id
           name
           email
+        }
+        langVersion {
+          en
         }
       }
       fields {

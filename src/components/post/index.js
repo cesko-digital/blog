@@ -1,19 +1,28 @@
 import React from 'react';
 import moment from 'moment';
 import {
-    Arrow, Author,
+    Arrow,
+    Author,
     AuthorDate,
     Button,
     Container,
-    Description,
+    Description, LangVersionLink,
     Padding,
     Title,
 } from './styles';
-import PropTypes from "prop-types";
-import PostCard from "../post-card";
-import { DATE_FORMAT } from "../post-card/helpers";
+import PropTypes from 'prop-types';
+import PostCard from '../post-card';
+import { DATE_FORMAT } from '../post-card/helpers';
 
-const Post = ({ title, description, author, cover, date, html }) => {
+const Post = ({
+  title,
+  description,
+  author,
+  cover,
+  date,
+  html,
+  langVersion,
+}) => {
   return (
     <Container>
       {cover ? (
@@ -28,10 +37,16 @@ const Post = ({ title, description, author, cover, date, html }) => {
 
       <Padding>
         <AuthorDate>
-            {moment(date).format(DATE_FORMAT)} • <Author href={`mailto:${author.email}`}>{author.name}</Author>
+          {moment(date).format(DATE_FORMAT)} •{' '}
+          <Author href={`mailto:${author.email}`}>{author.name}</Author>
         </AuthorDate>
         <Title>{title}</Title>
         {description ? <Description>{description}</Description> : null}
+        {langVersion && langVersion.en && (
+          <LangVersionLink to={langVersion.en}>
+            This article is available also in English
+          </LangVersionLink>
+        )}
         <div className={'content'} dangerouslySetInnerHTML={{ __html: html }} />
         <Button to={'/'}>
           <Arrow src={'/icons/arrow.svg'}></Arrow>
@@ -43,16 +58,18 @@ const Post = ({ title, description, author, cover, date, html }) => {
 };
 
 PostCard.propTypes = {
-    description: PropTypes.string.isRequired,
-    html: PropTypes.string.isRequired,
-    author: PropTypes.shape({
-        name: PropTypes.string.isRequired,
-        email: PropTypes.string.isRequired,
-    }),
-    cover: PropTypes.string,
-    title: PropTypes.string.isRequired,
-    date: PropTypes.string.isRequired,
-}
-
+  description: PropTypes.string.isRequired,
+  html: PropTypes.string.isRequired,
+  author: PropTypes.shape({
+    name: PropTypes.string.isRequired,
+    email: PropTypes.string.isRequired,
+  }),
+  langVersion: PropTypes.shape({
+    en: PropTypes.string,
+  }),
+  cover: PropTypes.string,
+  title: PropTypes.string.isRequired,
+  date: PropTypes.string.isRequired,
+};
 
 export default Post;
