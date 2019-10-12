@@ -42,10 +42,11 @@ const Post = ({
         <AuthorDate>
           {moment(date).format(DATE_FORMAT)} •{' '}
           <Author href={`mailto:${author.email}`}>{author.name}</Author>{' '}
+          <LangVersions versions={langVersion} />
         </AuthorDate>
         <Title>{title}</Title>
         {description ? <Description>{description}</Description> : null}
-        <LangVersions versions={langVersion} />
+
         <div className={'content'} dangerouslySetInnerHTML={{ __html: html }} />
         <Button to={'/'}>
           <Arrow src={'/icons/arrow.svg'}></Arrow>

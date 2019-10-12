@@ -1,26 +1,20 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { LangVersionLink, Padding } from './styles';
+import { Author, AuthorDate, LangVersionLink, Padding } from './styles';
 
 const LangVersions = ({ versions }) => (
-  <div>
+  <>
     {versions && versions.en && (
-        <p>
-          <LangVersionLink to={versions.en}>
-            This article is available also in English.
-          </LangVersionLink>
-        </p>
-
+      <Author href={versions.en}>
+        •{' '} 🇬🇧 English Version{' '}
+      </Author>
     )}
     {versions && versions.cs && (
-        <p>
-          <LangVersionLink to={versions.cs}>
-            Tento článek je dostupný i v Češtině.
-          </LangVersionLink>
-        </p>
-
+      <Author href={versions.cs}>
+        •{' '} 🇨🇿 Česká verze{' '}
+      </Author>
     )}
-  </div>
+  </>
 );
 
 LangVersions.propTypes = {
