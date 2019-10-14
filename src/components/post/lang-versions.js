@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { Author, AuthorDate, LangVersionLink, Padding } from './styles';
+import { Author } from './styles';
 
 const LangVersions = ({ versions }) => (
   <>

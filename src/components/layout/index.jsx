@@ -1,6 +1,4 @@
 import React from 'react';
-import Helmet from 'react-helmet';
-import config from '../../../data/site-config';
 import './index.css';
 import Footer from './footer';
 import { Content, Layout } from './styles';
