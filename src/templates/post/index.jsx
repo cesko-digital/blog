@@ -106,7 +106,9 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       limit: 3
-      filter: { fields: { slug: { ne: $slug } } }
+      filter: { fields: { slug: { ne: $slug } }
+        frontmatter: {lang: {in: ["cs", null]}}
+      }
       sort: { fields: [fields___date], order: DESC }
     ) {
       edges {
