@@ -57,7 +57,7 @@ export const pageQuery = graphql`
     }
 
     allNews(
-      limit: 5
+      limit: 3
       sort: { fields: [date], order: DESC }
     ) {
       edges {

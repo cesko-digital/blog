@@ -4,12 +4,8 @@ import {
   A,
   Card,
   Divider,
-  ItemIcon,
   Row,
-  Row2,
-  Scrollable,
   Text,
-  TextContainer,
   Title,
   TitleIcon,
 } from './styles';
@@ -20,21 +16,16 @@ const NewsCard = ({ items }) => (
       <TitleIcon src={'/icons/news.svg'} />
       <Title>Krátké aktuality</Title>
     </Row>
-    <Scrollable>
-      {items.map((item, index) => {
-        return (
+    {items.map((item, index) => {
+      return (
+        <>
+          <Divider />
           <A href={item.url} key={index}>
-            <Divider />
-            <Row2>
-              <ItemIcon src={'/icons/item_arrow.svg'} />
-              <TextContainer>
-                <Text>{item.text}</Text>
-              </TextContainer>
-            </Row2>
+            <Text>{item.text}</Text>
           </A>
-        );
-      })}
-    </Scrollable>
+        </>
+      );
+    })}
   </Card>
 );
 

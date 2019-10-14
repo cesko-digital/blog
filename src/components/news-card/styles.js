@@ -4,13 +4,9 @@ export const Card = styled.div`
   background: #ffffff;
   box-shadow: 0px 4px 14px rgba(10, 10, 10, 0.07);
   border-radius: 14px;
-  padding: 20px;
+  padding: 20px 20px 0 20px;
   max-height: 740px;
-`;
-
-export const Scrollable = styled.div`
-  overflow: scroll;
-  max-height: 630px;
+  height: 100%; 
 `;
 
 export const Title = styled.h2`
@@ -34,24 +30,9 @@ export const Row = styled.div`
   margin-bottom: 15px;
 `;
 
-export const Row2 = styled.div`
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  margin-bottom: 15px;
-  margin-top: 15px;
-`;
-
 export const TitleIcon = styled.img`
   margin-right: 10px;
   margin-left: 4px;
-`;
-
-export const ItemIcon = styled.img`
-  margin-right: 10px;
-  margin-top: 7px;
-
-  margin-left: 3px;
 `;
 
 export const Divider = styled.div`
@@ -61,36 +42,57 @@ export const Divider = styled.div`
 `;
 
 export const Text = styled.span`
+  display: block;
   font-family: Work Sans, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 160%;
   /* or 24px */
-
-  border-bottom: 1px solid rgba(80, 80, 80, 0.25);
-  padding-bottom: 3px;
-  opacity: 0.9;
   :hover {
     transition: all 200ms ease-in-out;
-  opacity: 1;
+    opacity: 1;
   }
-  
-  :visited span {
-    
+  :before {
+    display: inline-block;
+    content: '►';
+    font-family: Work Sans, sans-serif;
+    transform: translateX(0);
+    font-size: 0.8em;
+    margin-right: 8px;
+    vertical-align: top;
+    transition: 0.25s transform ease-out;
   }
-`;
-
-export const TextContainer = styled.div`
-  margin-bottom: 5px;
-  margin-top: 5px;
 `;
 
 export const A = styled.a`
+  display: block;
+  padding: 1rem 20px;
   text-decoration: none;
-  color: #256e66;
-  :visited {
-  color: #808080;
+  color: #2b2b2b;
+  margin-left: -20px;
+  margin-right: -20px;
+  width: calc(100% + 40px);
+  position: relative;
+  :before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 20px;
+    bottom: 0;
+    left: 20px;
+    width: calc(100% - 40px);
+    height: 100%;
+    box-shadow: 0 4px 5px -5px #ffffff;
+    transition: 0.25s box-shadow ease-out;
   }
-  
+
+  :hover:before {
+    box-shadow: 0 4px 5px -5px #bebebe;
+  }
+
+  :hover ${Text}:before {
+    transform: translateX(5px);
+  }
 `;
