@@ -6,12 +6,12 @@ import PostListing from '../components/post-listing';
 import SEO from '../components/seo';
 import config from '../../data/site-config';
 import { edgeToPost } from '../components/post-card/helpers';
-import { edgeToNews } from "../components/news-card/helpers";
+import { edgeToNews } from '../components/news-card/helpers';
 
 const Index = ({ data }) => {
   const posts = data.allMarkdownRemark.edges.map(edgeToPost);
 
-    const news = data.allNews.edges.map(edgeToNews);
+  const news = data.allNews.edges.map(edgeToNews);
 
   return (
     <Layout>
@@ -32,7 +32,7 @@ export const pageQuery = graphql`
     allMarkdownRemark(
       limit: 13
       sort: { fields: [fields___date], order: DESC }
-      filter: {frontmatter: {lang: {in: ["cs", null]}}}
+      filter: { frontmatter: { lang: { in: ["cs", null] } } }
     ) {
       edges {
         node {
