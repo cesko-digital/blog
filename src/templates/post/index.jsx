@@ -113,22 +113,7 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
-          fields {
-            slug
-            date
-          }
-          excerpt
-          timeToRead
-          frontmatter {
-            title
-            description
-            tags
-            date
-            author {
-              id
-              name
-            }
-          }
+          ...PostCardData
         }
       }
     }

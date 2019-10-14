@@ -36,22 +36,9 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
-          fields {
-            slug
-            date
-          }
-          excerpt
-          timeToRead
+          ...PostCardData
           frontmatter {
-            title
-            description
             cover
-            tags
-            date
-            author {
-              id
-              name
-            }
           }
         }
       }
