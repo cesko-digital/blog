@@ -57,9 +57,9 @@ export const Text = styled.span`
     display: inline-block;
     content: '►';
     font-family: Work Sans, sans-serif;
-    transform: rotate(0deg);
+    transform: translateX(0);
     font-size: 0.8em;
-    margin-right: 5px;
+    margin-right: 8px;
     vertical-align: top;
     transition: 0.25s transform ease-out;
   }
@@ -93,6 +93,6 @@ export const A = styled.a`
   }
 
   :hover ${Text}:before {
-    transform: rotate(90deg);
+    transform: translateX(5px);
   }
 `;
