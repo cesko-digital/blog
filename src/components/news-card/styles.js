@@ -6,6 +6,7 @@ export const Card = styled.div`
   border-radius: 14px;
   padding: 20px 20px 0 20px;
   max-height: 740px;
+  height: 100%; 
 `;
 
 export const Title = styled.h2`
@@ -41,6 +42,7 @@ export const Divider = styled.div`
 `;
 
 export const Text = styled.span`
+  display: block;
   font-family: Work Sans, sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -51,9 +53,15 @@ export const Text = styled.span`
     transition: all 200ms ease-in-out;
     opacity: 1;
   }
-  
-  :visited span {
-    
+  :before {
+    display: inline-block;
+    content: '►';
+    font-family: Work Sans, sans-serif;
+    transform: rotate(0deg);
+    font-size: 0.8em;
+    margin-right: 5px;
+    vertical-align: top;
+    transition: 0.25s transform ease-out;
   }
 `;
 
@@ -65,4 +73,26 @@ export const A = styled.a`
   margin-left: -20px;
   margin-right: -20px;
   width: calc(100% + 40px);
+  position: relative;
+  :before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 20px;
+    bottom: 0;
+    left: 20px;
+    width: calc(100% - 40px);
+    height: 100%;
+    box-shadow: 0 4px 5px -5px #ffffff;
+    transition: 0.25s box-shadow ease-out;
+  }
+
+  :hover:before {
+    box-shadow: 0 4px 5px -5px #bebebe;
+  }
+
+  :hover ${Text}:before {
+    transform: rotate(90deg);
+  }
 `;
