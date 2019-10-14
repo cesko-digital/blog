@@ -15,6 +15,7 @@ import PostCard from '../post-card';
 import { DATE_FORMAT } from '../post-card/helpers';
 import config from '../../../data/site-config';
 import LangVersions from './lang-versions';
+
 const Post = ({
   title,
   description,
@@ -24,38 +25,35 @@ const Post = ({
   html,
   langVersion,
   lang,
-}) => {
-  console.log(lang);
-  return (
-    <Container lang={lang || config.siteDefaultLanguage}>
-      {cover ? (
-        <img
-          alt={`Cover článku ${title}`}
-          loading="lazy"
-          width={'100%'}
-          style={{ borderTopLeftRadius: 10, borderTopRightRadius: 10 }}
-          src={cover}
-        />
-      ) : null}
+}) => (
+  <Container lang={lang || config.siteDefaultLanguage}>
+    {cover ? (
+      <img
+        alt={`Cover článku ${title}`}
+        loading="lazy"
+        width={'100%'}
+        style={{ borderTopLeftRadius: 10, borderTopRightRadius: 10 }}
+        src={cover}
+      />
+    ) : null}
 
-      <Padding>
-        <AuthorDate>
-          {moment(date).format(DATE_FORMAT)} •{' '}
-          <Author href={`mailto:${author.email}`}>{author.name}</Author>{' '}
-          <LangVersions versions={langVersion} />
-        </AuthorDate>
-        <Title>{title}</Title>
-        {description ? <Description>{description}</Description> : null}
+    <Padding>
+      <AuthorDate>
+        {moment(date).format(DATE_FORMAT)} •{' '}
+        <Author href={`mailto:${author.email}`}>{author.name}</Author>{' '}
+        <LangVersions versions={langVersion} />
+      </AuthorDate>
+      <Title>{title}</Title>
+      {description ? <Description>{description}</Description> : null}
 
-        <div className={'content'} dangerouslySetInnerHTML={{ __html: html }} />
-        <Button to={'/'}>
-          <Arrow src={'/icons/arrow.svg'}></Arrow>
-          Zpět na všechny články
-        </Button>
-      </Padding>
-    </Container>
-  );
-};
+      <div className={'content'} dangerouslySetInnerHTML={{ __html: html }} />
+      <Button to={'/'}>
+        <Arrow src={'/icons/arrow.svg'}></Arrow>
+        Zpět na všechny články
+      </Button>
+    </Padding>
+  </Container>
+);
 
 PostCard.propTypes = {
   description: PropTypes.string.isRequired,
