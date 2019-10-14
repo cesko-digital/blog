@@ -8,9 +8,10 @@ description: "Ve středu 25. 9. se v prostorách STRV sešlo na 120 členů a p
 cover: https://i.imgur.com/ObMcG33.jpg
 lang: cs
 langVersion:
-    en: test
-    cs: test
+    en: ""
+    cs: ""
 ---
+[//]: # (Do not remove lang and langVersion attributes! Need to be there for successful build)
 
 Na druhém setkání komunity zazněly z úst Jakuba Nešetřila novinky z Česko.Digital. Co se za uplynulé týdny podařilo, jak se můžou dobrovolníci, neziskovky i státní sféra zapojit, to vše se dozvíte z Jakubovy prezentace.
 
