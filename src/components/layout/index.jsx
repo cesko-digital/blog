@@ -1,6 +1,4 @@
 import React from 'react';
-import Helmet from 'react-helmet';
-import config from '../../../data/site-config';
 import './index.css';
 import Footer from './footer';
 import { Content, Layout } from './styles';
@@ -56,7 +54,7 @@ const MainLayout = props => {
   const { children } = props;
   let navBarItems = ITEMS.slice(0, ITEMS.length - 3);
   return (
-    <Layout>
+    <Layout >
       <Head/>
       <Header items={navBarItems} />
       <Content>{children}</Content>

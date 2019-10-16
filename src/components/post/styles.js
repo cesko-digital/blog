@@ -16,9 +16,9 @@ export const Padding = styled.div`
 `;
 
 export const Author = styled.a`
-text-decoration: none;
-color: #000000;
-`
+  text-decoration: none;
+  color: #000000;
+`;
 
 export const Title = styled.h1`
   font-family: Work Sans, sans-serif;
@@ -89,13 +89,28 @@ export const Button = styled(Link)`
 
   color: #000000;
   padding: 12px 16px 12px 16px;
-  
+
   transition: all 200ms ease-in-out;
   :hover {
-  border: 2px solid rgba(0, 0, 0, 0.6);
+    border: 2px solid rgba(0, 0, 0, 0.6);
   }
 `;
 
+export const LangVersionLink = styled(Link)`
+  border-bottom: 1px solid rgba(37, 110, 102, 0.25);
+  color: #256e66;
+  text-decoration: none;
+
+  :hover {
+    transition: all 200ms ease-in-out;
+    color: #226259;
+  }
+
+  :visited {
+    color: #808080;
+    border-bottom: 1px solid #808080;
+  }
+`;
 export const Arrow = styled.img`
   margin-right: 10px;
 `;
