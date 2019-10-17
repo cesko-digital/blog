@@ -6,12 +6,12 @@ const LangVersions = ({ versions }) => (
   <>
     {versions && versions.en && (
       <Author href={versions.en}>
-        •{' '} 🇬🇧 English version{' '}
+        •{' '} 🇬🇧English version{' '}
       </Author>
     )}
     {versions && versions.cs && (
       <Author href={versions.cs}>
-        •{' '} 🇨🇿 Česká verze{' '}
+        •{' '} 🇨🇿Česká verze{' '}
       </Author>
     )}
   </>
