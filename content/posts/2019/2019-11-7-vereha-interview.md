@@ -2,7 +2,7 @@
 title: We have replaced pen & paper and a six months long process with something that happens in real time
 cover: https://i.imgur.com/Z6ODyiG.jpg
 author: zoul
-date: 2019-10-16-08-00
+date: 2019-11-07-08-00
 category: blog
 slug: vereha-interview
 lang: en
