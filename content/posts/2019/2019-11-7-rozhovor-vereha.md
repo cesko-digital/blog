@@ -7,7 +7,7 @@ category: blog
 slug: rozhovor-vereha
 lang: cs
 langVersion:
-     en: "/2019/10/vereha-interview"
+     en: "/2019/11/vereha-interview"
 description: "Olivia Vereha je Chief Operations Officer v Code for Romania, neziskové organizaci, která se od roku 2016 snaží pomocí technologií řešit sociální a občanské problémy Rumunska a fungovat jako prostředník mezi vládou, neziskovým sektorem, IT dobrovolníky a občany. Olivia byla jedním z řečníků na druhém setkání komunity Česko.Digital. Ještě předtím se nám ale podařilo ukrást si hodinu na rozhovor o tom, jak mohou „civic tech“ neboli občanské technologie změnit naše státy a jak se dá vést organizace se stovkami dobrovolníků."
 ---
 

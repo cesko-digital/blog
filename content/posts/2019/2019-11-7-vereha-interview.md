@@ -7,7 +7,7 @@ category: blog
 slug: vereha-interview
 lang: en
 langVersion:
-     cs: "/2019/10/rozhovor-vereha"
+     cs: "/2019/11/rozhovor-vereha"
 description: "Olivia Vereha is the Chief Operations Officer of Code for Romania, a non-profit organization founded in 2016 to fix social and civic problems in Romania using technology, trying to bridge the gap between the government, non-profit sector, tech volunteers and citizens. Olivia was invited to speak at the second Česko.Digital meetup. We have managed to steal an hour before that to talk about the change civic technology can bring into our countries and how to run an organization with hundreds of volunteers."
 ---
 
