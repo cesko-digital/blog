@@ -151,6 +151,7 @@ module.exports = {
               allMarkdownRemark(
                 limit: 1000,
                 sort: { order: DESC, fields: [fields___date] },
+                filter: { frontmatter: { lang: { in: ["cs", null] } } }
               ) {
                 edges {
                   node {
