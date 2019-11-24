@@ -9,9 +9,11 @@ import { edgeToPost } from '../components/post-card/helpers';
 import { edgeToNews } from '../components/news-card/helpers';
 
 const Index = ({ data }) => {
-  const posts = data.allMarkdownRemark.edges.map(edgeToPost);
+  const posts = [...data.featuredPosts.edges, ...data.otherPosts.edges]
+    .slice(0, 13)
+    .map(edgeToPost);
 
-  const news = data.allNews.edges.map(edgeToNews);
+  const news = data.news.edges.map(edgeToNews);
 
   return (
     <Layout>
@@ -29,25 +31,29 @@ export default Index;
 /* eslint no-undef: "off" */
 export const pageQuery = graphql`
   query IndexQuery {
-    allMarkdownRemark(
-      limit: 13
+    featuredPosts: allMarkdownRemark(
+      limit: 4
       sort: { fields: [fields___date], order: DESC }
-      filter: { frontmatter: { lang: { in: ["cs", null] } } }
+      filter: {
+        frontmatter: { lang: { in: ["cs", null] }, featured: { eq: true } }
+      }
     ) {
-      edges {
-        node {
-          ...PostCardData
-          frontmatter {
-            cover
-          }
+      ...PostEdges
+    }
+    otherPosts: allMarkdownRemark(
+      limit: 12
+      sort: { fields: [fields___date], order: DESC }
+      filter: {
+        frontmatter: {
+          lang: { in: ["cs", null] }
+          featured: { in: [false, null] }
         }
       }
+    ) {
+      ...PostEdges
     }
 
-    allNews(
-      limit: 3
-      sort: { fields: [date], order: DESC }
-    ) {
+    news: allNews(limit: 3, sort: { fields: [date], order: DESC }) {
       edges {
         node {
           url

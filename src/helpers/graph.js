@@ -17,3 +17,16 @@ export const PostCardFragment = graphql`
     }
   }
 `;
+
+export const PostEdges = graphql`
+  fragment PostEdges on MarkdownRemarkConnection {
+    edges {
+      node {
+        ...PostCardData
+        frontmatter {
+          cover
+        }
+      }
+    }
+  }
+`;
