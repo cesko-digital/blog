@@ -2,13 +2,14 @@ const {
   hasNodeIncorrectType,
   hasNodeNonCompleteFrontmatter,
   getPostSlug,
+  getPostFeatured,
   GET_ALL_POST_SLUGS_QUERY,
-  compareByDate
-} = require("./src/helpers/node");
+  compareByDate,
+} = require('./src/helpers/node');
 
-const path = require("path");
-const moment = require("moment");
-const siteConfig = require("./data/site-config");
+const path = require('path');
+const moment = require('moment');
+const siteConfig = require('./data/site-config');
 
 const postNodes = [];
 
@@ -24,20 +25,22 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     return;
   }
   let slug = getPostSlug(node, postMoment);
+  let featured = getPostFeatured(node);
 
   createNodeField({
     node,
-    name: "date",
-    value: postMoment.toISOString()
+    name: 'date',
+    value: postMoment.toISOString(),
   });
-  createNodeField({ node, name: "slug", value: slug });
+  createNodeField({ node, name: 'slug', value: slug });
+  createNodeField({ node, name: 'featured', value: featured });
   postNodes.push(node);
 };
 
 exports.setFieldsOnGraphQLNodeType = ({ type, actions }) => {
   const { name } = type;
   const { createNodeField } = actions;
-  if (name !== "MarkdownRemark") {
+  if (name !== 'MarkdownRemark') {
     return;
   }
 
@@ -50,23 +53,23 @@ exports.setFieldsOnGraphQLNodeType = ({ type, actions }) => {
     const prevNode = sortedNodes[prevID];
     createNodeField({
       node: currNode,
-      name: "nextTitle",
-      value: nextNode.frontmatter.title
+      name: 'nextTitle',
+      value: nextNode.frontmatter.title,
     });
     createNodeField({
       node: currNode,
-      name: "nextSlug",
-      value: nextNode.fields.slug
+      name: 'nextSlug',
+      value: nextNode.fields.slug,
     });
     createNodeField({
       node: currNode,
-      name: "prevTitle",
-      value: prevNode.frontmatter.title
+      name: 'prevTitle',
+      value: prevNode.frontmatter.title,
     });
     createNodeField({
       node: currNode,
-      name: "prevSlug",
-      value: prevNode.fields.slug
+      name: 'prevSlug',
+      value: prevNode.fields.slug,
     });
   }
 };
@@ -75,7 +78,7 @@ exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions;
 
   return new Promise((resolve, reject) => {
-    const postPage = path.resolve("src/templates/post/index.jsx");
+    const postPage = path.resolve('src/templates/post/index.jsx');
     resolve(
       graphql(GET_ALL_POST_SLUGS_QUERY).then(result => {
         if (result.errors) {
@@ -89,8 +92,8 @@ exports.createPages = ({ graphql, actions }) => {
             path: edge.node.fields.slug,
             component: postPage,
             context: {
-              slug: edge.node.fields.slug
-            }
+              slug: edge.node.fields.slug,
+            },
           });
         });
       })
