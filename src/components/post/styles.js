@@ -96,21 +96,55 @@ export const Button = styled(Link)`
   }
 `;
 
-export const LangVersionLink = styled(Link)`
-  border-bottom: 1px solid rgba(37, 110, 102, 0.25);
-  color: #256e66;
-  text-decoration: none;
+export const Content = styled.div`
+  font-family: Work Sans, sans-serif;
+  font-style: normal;
 
-  :hover {
-    transition: all 200ms ease-in-out;
-    color: #226259;
+  /* or 26px */
+
+  color: #000000;
+
+  p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 160%;
+    /* or 26px */
+
+    color: #000000;
   }
 
-  :visited {
-    color: #808080;
-    border-bottom: 1px solid #808080;
+  img {
+    border-radius: 10px;
+    max-width: 100%;
+  }
+
+  .picture-note {
+    margin-top: -15px;
+    margin-left: 5px;
+    font-size: 16px;
+    line-height: 150%;
+
+    opacity: 0.5;
+  }
+
+  a {
+    border-bottom: 1px solid rgba(37, 110, 102, 0.25);
+    color: #256e66;
+    text-decoration: none;
+
+    :hover {
+      transition: all 200ms ease-in-out;
+      color: #226259;
+    }
+
+    :visited {
+      color: #808080;
+      border-bottom: 1px solid #808080;
+    }
   }
 `;
+
 export const Arrow = styled.img`
   margin-right: 10px;
 `;

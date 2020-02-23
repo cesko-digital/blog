@@ -5,7 +5,7 @@ import {
   Author,
   AuthorDate,
   Button,
-  Container,
+  Container, Content,
   Description,
   Padding,
   Title,
@@ -15,6 +15,7 @@ import PostCard from '../post-card';
 import { DATE_FORMAT } from '../post-card/helpers';
 import config from '../../../data/site-config';
 import LangVersions from './lang-versions';
+import './b16-tomorrow-dark.css';
 
 const Post = ({
   title,
@@ -46,7 +47,7 @@ const Post = ({
       <Title>{title}</Title>
       {description ? <Description>{description}</Description> : null}
 
-      <div className={'content'} dangerouslySetInnerHTML={{ __html: html }} />
+      <Content dangerouslySetInnerHTML={{ __html: html }} />
       <Button to={'/'}>
         <Arrow src={'/icons/arrow.svg'}></Arrow>
         Zpět na všechny články

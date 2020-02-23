@@ -3,8 +3,6 @@ import Helmet from 'react-helmet';
 import { graphql } from 'gatsby';
 import SEO from '../../components/seo';
 import config from '../../../data/site-config';
-import '../b16-tomorrow-dark.css';
-import './index.css';
 import { Col, Row } from 'react-grid-system';
 import MainLayout from '../../components/layout';
 import PostCard from '../../components/post-card';
