@@ -143,6 +143,10 @@ export const Content = styled.div`
       border-bottom: 1px solid #808080;
     }
   }
+
+  h2 {
+    margin-top: 50px;
+  }
 `;
 
 export const Arrow = styled.img`
