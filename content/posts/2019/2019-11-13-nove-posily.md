@@ -49,8 +49,6 @@ Z Prahy, konkrétně již osmým rokem žiju na Zahradním městě.
 
 ---
 
-<br>
-
 ## Radka Horáková
 
 **Jaká je tvoje specializace?**
