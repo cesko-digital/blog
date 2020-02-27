@@ -47,8 +47,6 @@ Věnuji svůj čas lidem a projektům, které mají pro mě osobně smysl. Pro d
 
 Z Prahy, konkrétně již osmým rokem žiju na Zahradním městě.
 
----
-
 ## Radka Horáková
 
 **Jaká je tvoje specializace?**
