@@ -1,6 +1,6 @@
 ---
 title: Příručka řízení státních IT projektů
-cover: https://i.imgur.com/25W4E94.jpg
+cover: https://data.cesko.digital/img/160e9654.jpg
 author: zoul
 date: 2020-01-30-11-10
 category: blog

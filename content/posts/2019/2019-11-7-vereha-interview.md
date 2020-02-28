@@ -1,6 +1,6 @@
 ---
 title: We have replaced pen & paper and a six months long process with something that happens in real time
-cover: https://i.imgur.com/Z6ODyiG.jpg
+cover: https://data.cesko.digital/img/559b7e82.jpg
 author: zoul
 date: 2019-11-07-08-00
 category: blog
@@ -53,7 +53,7 @@ The fact that we were never militant also helped us in securing a good relations
 
 What also got us credibility is that they understand what comes out of this. We make it simple, easy to measure – number of visitors, what kind of impact was achieved, it’s all very numeric and very simple to understand. This was also the reason I have joined Code for Romania when I first heard about it – it was the first place where my skills as a UX designer were useful in the public sector. It was the first time a devops engineer finally found a place to volunteer. If you’re going to make me plant a tree, that tree is going to die. I’m awful with plants. But I can design a tool that’s going to increase awareness on why you should plant trees and get the people who actually can do it.
 
-![Olivia Vereha](https://i.imgur.com/4z9XNpV.jpg)
+![Olivia Vereha](https://data.cesko.digital/img/cd29d538.jpg)
 
 ## Lots of trial and error
 

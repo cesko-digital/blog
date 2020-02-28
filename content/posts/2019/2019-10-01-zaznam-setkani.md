@@ -5,7 +5,7 @@ author: radja
 category: blog
 slug: zaznam-setkani
 description: "Ve středu 25. 9. se v prostorách STRV sešlo na 120 členů a podporovatelů komunity Česko.Digital. Pokud jste se nestihli zúčastnit osobně ani na live streamu, nabízíme záznam všech vystoupení."
-cover: https://i.imgur.com/ObMcG33.jpg
+cover: https://data.cesko.digital/img/02711d51.jpg
 ---
 
 Na druhém setkání komunity zazněly z úst Jakuba Nešetřila novinky z Česko.Digital. Co se za uplynulé týdny podařilo, jak se můžou dobrovolníci, neziskovky i státní sféra zapojit, to vše se dozvíte z Jakubovy prezentace.

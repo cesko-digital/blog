@@ -1,6 +1,6 @@
 ---
 title: Nahradili jsme pero, papír a šestiměsíční proces něčím, co funguje v reálném čase
-cover: https://i.imgur.com/Z6ODyiG.jpg
+cover: https://data.cesko.digital/img/559b7e82.jpg
 author: zoul
 date: 2019-11-07-08-00
 category: blog
@@ -53,7 +53,7 @@ To, že jsme nikdy nebyli militantní, nám umožnilo navázat se státní sprá
 
 Naše důvěryhodnost pramení také z toho, že máme jednoduše měřitelné výsledky – počty návštěvníků, dopad na společnost, to jsou jasně měřitelné a srozumitelné ukazatele. Což je ostatně důvod, proč jsem se ke Code for Romania přidala já. Byla to pro mě první možnost, jak se coby UX designér nějak zapojit do veřejného sektoru. První místo, kde mohl jako dobrovolník pracovat i devops inženýr. Kdybych měla sázet stromy, nedopadlo by to dobře, vůbec to s rostlinami neumím. Ale co umím, je navrhnout nástroj, který veřejnosti vysvětlí, jak je důležité sázet stromy – a sehnat lidi, kteří to pak udělají.
 
-![Olivia Vereha](https://i.imgur.com/4z9XNpV.jpg)
+![Olivia Vereha](https://data.cesko.digital/img/cd29d538.jpg)
 
 ## Hodně pokusů, hodně omylů
 
