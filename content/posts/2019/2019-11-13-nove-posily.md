@@ -1,6 +1,6 @@
 ---
 title: Nové posily v týmu
-cover: https://i.imgur.com/3yD3DlB.jpg
+cover: https://data.cesko.digital/img/fb31efbe.jpg
 author: jakub
 date: 2019-11-13-08-00
 category: blog

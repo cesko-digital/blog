@@ -1,6 +1,6 @@
 ---
 title: "Cityvizor do každé obce"
-cover: https://d1auyf4nfs2kod.cloudfront.net/img/0f118dbf.jpg
+cover: https://data.cesko.digital/img/0f118dbf.jpg
 author: eva
 date: 2020-02-21-16-16
 category: blog
