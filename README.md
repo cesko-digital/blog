@@ -34,6 +34,10 @@ Article has these required fields:
 
 You can also add a `slug` field which will override the generated part of slug from title. Article URL does not depend on file position in content folder. URL format is `/year/month/slug`
 
+### Images
+
+Please try to avoid adding images directly to the repository. Česko.Digital has own data storage on [data.cesko.digital](https://data.cesko.digital). You can ask in [#p-ceskodigital_mktg](https://app.slack.com/client/TG21XF887/CMAS7H63D) Slack channel about new image upload or you can just attach links from other storage and responsible person will finalize images in a pull request before the merge. 
+
 ### Featured posts
 
 You can use `featured: true` if you want to highlight older article on the main page. Please don't forget to remove this field for older articles if you are inserting a new one. 
