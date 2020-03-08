@@ -21,7 +21,11 @@ yarn build
 
 ## How to Insert Article
 
-Articles need to be saved in `content/posts` directory. Article has these required fields: 
+Articles need to be saved in `content/posts` directory. 
+
+### Required fields
+
+Article has these required fields: 
 
 - `cover` (as an URL)
 - `description`
@@ -30,9 +34,12 @@ Articles need to be saved in `content/posts` directory. Article has these requir
 
 You can also add a `slug` field which will override the generated part of slug from title. Article URL does not depend on file position in content folder. URL format is `/year/month/slug`
 
+### Featured posts
+
 You can use `featured: true` if you want to highlight older article on the main page. Please don't forget to remove this field for older articles if you are inserting a new one. 
 
-DO NOT USE HEADING LEVEL 1:
+### Headings
+Do not use heading level 1:
 
 ```markdown
 # Wrong
