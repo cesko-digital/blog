@@ -108,10 +108,12 @@ export const Content = styled.div`
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
-    line-height: 160%;
-    /* or 26px */
 
     color: #000000;
+  }
+  
+  p, li {
+    line-height: 26px;
   }
 
   img {
