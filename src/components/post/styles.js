@@ -147,6 +147,41 @@ export const Content = styled.div`
   h2 {
     margin-top: 50px;
   }
+  
+  .volunteers {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .volunteer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 15px;
+    width: 170px;
+    text-align: center;
+    
+    img {
+      width: 80px;
+      height: 80px;
+      border-radius: 40px;
+      object-fit: cover;
+    }
+    
+    .name {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    }
+    
+    .note {
+      font-size: 14px;
+      opacity: 0.5;
+      
+    }
+   
+  }
 `;
 
 export const Arrow = styled.img`
