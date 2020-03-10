@@ -52,6 +52,19 @@ Do not use heading level 1:
 ...
 ```
 
+### Volunteers section (WIP)
+
+You can also add volunteers to the article by adding this HTML: 
+```html
+<div class="volunteers">
+    <div class="volunteer">
+        <img width="80px" height="80px" src="https://data.cesko.digital/picture.jpg" alt=""/>
+        <div class="name">John Doe</div>
+        <div class="note">Software Developer</div>
+    </div>
+</div>
+```
+
 ## How to Insert News Items
 
 News items are stored in the `content/news.yaml` file in the following format:
