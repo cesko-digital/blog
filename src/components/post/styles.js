@@ -116,6 +116,10 @@ export const Content = styled.div`
     line-height: 26px;
   }
 
+  ul, ol {
+    padding-left: 1.2em;
+  }
+
   img {
     border-radius: 10px;
     max-width: 100%;
