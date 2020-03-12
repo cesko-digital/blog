@@ -2,7 +2,7 @@
 title: 'Nová superschopnost Hlídače státu: Hlídač insolvencí'
 cover: https://data.cesko.digital/img/a183033e.jpeg
 author: zoul
-date: 2020-03-10-13-00
+date: 2020-03-12-9-29
 category: blog
 slug: hlidac-insolvenci
 lang: cs
