@@ -1,5 +1,5 @@
 ---
-title: 'Nová superschopnost Hlídače státu: Hlídač insolvencí'
+title: 'Dobrovolníci z Česko.Digital pomohli Hlídači státu sledovat insolvence'
 cover: https://data.cesko.digital/img/a183033e.jpeg
 author: zoul
 date: 2020-03-12-9-29
