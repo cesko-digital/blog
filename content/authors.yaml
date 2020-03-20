@@ -14,3 +14,7 @@
   id: eva
   name: Eva Pavlíková
   email: eva@cesko.digital
+- type: authors
+  id: vjirovsky
+  name: Václav Jirovský
+  email: vjirovsky@vjirovsky.cz
