@@ -1,17 +1,17 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 html {
-    height: 100%;
+  height: 100%;
 }
 
 body {
-    margin: 0;
-    font-family: Work Sans,sans-serif;
-    -webkit-font-smoothing: antialiased;
-    background: #f4e2cc;
-    color: #21262c;
+  margin: 0;
+  font-family: Work Sans,sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background: #f4e2cc;
+  color: #21262c;
 }
 
 

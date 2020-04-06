@@ -35,16 +35,14 @@ export const Span = styled.span`
   :hover {
     border-bottom: solid 1px rgba(0, 0, 0, 0.6);
   }
-  
-  
 `;
 
 export const StyledLink = styled(Link)`
-text-decoration: none;
-color: black;
-:visited  {
-   color: #808080;
-   opacity: 0.75;
+  text-decoration: none;
+  color: black;
+  :visited {
+    color: #808080;
+    opacity: 0.75;
   }
 `
 
