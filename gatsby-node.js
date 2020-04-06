@@ -4,7 +4,6 @@ const {
   getPostSlug,
   getPostFeatured,
   GET_ALL_POST_SLUGS_QUERY,
-  compareByDate,
 } = require('./src/helpers/node');
 
 const path = require('path');
@@ -13,7 +12,7 @@ const siteConfig = require('./data/site-config');
 
 const postNodes = [];
 
-exports.onCreateNode = ({ node, actions, getNode }) => {
+exports.onCreateNode = ({ node, actions }) => {
   const { createNodeField } = actions;
 
   if (hasNodeIncorrectType(node) || hasNodeNonCompleteFrontmatter(node)) {
@@ -35,43 +34,6 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   createNodeField({ node, name: 'slug', value: slug });
   createNodeField({ node, name: 'featured', value: featured });
   postNodes.push(node);
-};
-
-exports.setFieldsOnGraphQLNodeType = ({ type, actions }) => {
-  const { name } = type;
-  const { createNodeField } = actions;
-  if (name !== 'MarkdownRemark') {
-    return;
-  }
-
-  const sortedNodes = postNodes.sort(compareByDate);
-  for (let i = 0; i < sortedNodes.length; i += 1) {
-    const nextID = i + 1 < sortedNodes.length ? i + 1 : 0;
-    const prevID = i - 1 >= 0 ? i - 1 : sortedNodes.length - 1;
-    const currNode = sortedNodes[i];
-    const nextNode = sortedNodes[nextID];
-    const prevNode = sortedNodes[prevID];
-    createNodeField({
-      node: currNode,
-      name: 'nextTitle',
-      value: nextNode.frontmatter.title,
-    });
-    createNodeField({
-      node: currNode,
-      name: 'nextSlug',
-      value: nextNode.fields.slug,
-    });
-    createNodeField({
-      node: currNode,
-      name: 'prevTitle',
-      value: prevNode.frontmatter.title,
-    });
-    createNodeField({
-      node: currNode,
-      name: 'prevSlug',
-      value: prevNode.fields.slug,
-    });
-  }
 };
 
 exports.createPages = ({ graphql, actions }) => {
