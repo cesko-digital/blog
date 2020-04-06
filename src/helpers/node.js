@@ -43,29 +43,15 @@ exports.hasNodeNonCompleteFrontmatter = function(node) {
 };
 
 exports.GET_ALL_POST_SLUGS_QUERY = `
-          {
-            allMarkdownRemark {
-              edges {
-                node {
-                  fields {
-                    slug
-                  }
-                }
-              }
-            }
+  {
+    allMarkdownRemark {
+      edges {
+        node {
+          fields {
+            slug
           }
-        `;
-
-exports.compareByDate = function(
-  { frontmatter: { date: date1 } },
-  { frontmatter: { date: date2 } }
-) {
-  const dateA = moment(date1, siteConfig.dateFromFormat);
-  const dateB = moment(date2, siteConfig.dateFromFormat);
-
-  if (dateA.isBefore(dateB)) return 1;
-
-  if (dateB.isBefore(dateA)) return -1;
-
-  return 0;
-};
+        }
+      }
+    }
+  }
+`;
