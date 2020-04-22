@@ -3,13 +3,13 @@ import Helmet from 'react-helmet';
 import { graphql } from 'gatsby';
 import SEO from '../../components/seo';
 import config from '../../../data/site-config';
-import { Col, Row } from 'react-grid-system';
 import MainLayout from '../../components/layout';
 import PostCard from '../../components/post-card';
 import { edgeToPost } from '../../components/post-card/helpers';
 import NewsCard from '../../components/news-card';
 import { edgeToNews } from '../../components/news-card/helpers';
 import Post from '../../components/post';
+import { MainPost, News, Row, Post as PostContainer } from '../../components/post-listing/styles';
 
 const PostTemplate = ({ pageContext, data }) => {
   const { slug } = pageContext;
@@ -19,7 +19,6 @@ const PostTemplate = ({ pageContext, data }) => {
   const otherPosts = data.allMarkdownRemark.edges.map(edgeToPost);
   let news = data.allNews.edges.map(edgeToNews);
 
-
   return (
     <MainLayout>
       <Helmet>
@@ -27,7 +26,7 @@ const PostTemplate = ({ pageContext, data }) => {
       </Helmet>
       <SEO postPath={slug} postNode={postNode} postSEO />
       <Row>
-        <Col xs={12} lg={8} style={{ padding: 10, paddingBottom: 30 }}>
+        <MainPost>
           <Post
             langVersion={post.langVersion}
             lang={post.lang}
@@ -38,20 +37,12 @@ const PostTemplate = ({ pageContext, data }) => {
             date={data.markdownRemark.fields.date}
             html={postNode.html}
           />
-        </Col>
-        <Col xs={12} lg={4} style={{ padding: 10, paddingBottom: 30 }}>
+        </MainPost>
+        <News>
           <NewsCard items={news} />
-        </Col>
-      </Row>
-      <Row>
-        {otherPosts.map(post => (
-          <Col
-            md={6}
-            lg={4}
-            xs={12}
-            key={post.title}
-            style={{ padding: 10, paddingBottom: 15 }}
-          >
+        </News>
+        {otherPosts.map((post) => (
+          <PostContainer>
             <PostCard
               description={post.description}
               slug={post.slug}
@@ -59,7 +50,7 @@ const PostTemplate = ({ pageContext, data }) => {
               date={post.date}
               author={post.author}
             />
-          </Col>
+          </PostContainer>
         ))}
       </Row>
     </MainLayout>
@@ -100,10 +91,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       limit: 3
-      filter: {
-        fields: { slug: { ne: $slug } }
-        frontmatter: { lang: { in: ["cs", null] } }
-      }
+      filter: { fields: { slug: { ne: $slug } }, frontmatter: { lang: { in: ["cs", null] } } }
       sort: { fields: [fields___date], order: DESC }
     ) {
       edges {
@@ -113,10 +101,7 @@ export const pageQuery = graphql`
       }
     }
 
-    allNews(
-      limit: 3
-      sort: { fields: [date], order: DESC }
-    ) {
+    allNews(limit: 3, sort: { fields: [date], order: DESC }) {
       edges {
         node {
           url
