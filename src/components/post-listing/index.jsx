@@ -1,8 +1,8 @@
 import React from 'react';
-import { Col, Row } from 'react-grid-system';
 import PropTypes from 'prop-types';
 import PostCard from "../post-card";
 import NewsCard from "../news-card";
+import { MainPost, News, Post, Row } from './styles';
 
 const PostListing = ({ posts, news }) => {
   const firstPost = posts[0];
@@ -10,7 +10,7 @@ const PostListing = ({ posts, news }) => {
   return (
     <>
       <Row>
-        <Col xs={12} lg={8} style={{ padding: 10 }}>
+        <MainPost>
           <PostCard
             description={firstPost.description}
             slug={firstPost.slug}
@@ -19,13 +19,13 @@ const PostListing = ({ posts, news }) => {
             cover={firstPost.cover}
             date={firstPost.date}
           />
-        </Col>
-        <Col xs={12} lg={4} style={{ padding: 10 }}>
+        </MainPost>
+        <News>
           <NewsCard items={news} />
-        </Col>
+        </News>
 
         {otherPosts.map(post => (
-          <Col md={6} lg={4} xs={12} key={post.title} style={{ padding: 10 }}>
+          <Post key={post.slug}>
             <PostCard
               description={post.description}
               slug={post.slug}
@@ -33,7 +33,7 @@ const PostListing = ({ posts, news }) => {
               date={post.date}
               author={post.author}
             />
-          </Col>
+          </Post>
         ))}
       </Row>
     </>

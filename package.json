@@ -34,7 +34,6 @@
     "prismjs": "^1.20.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-grid-system": "^6.3.0",
     "react-helmet": "^5.2.1",
     "react-share": "^4.1.0",
     "react-twitter-widgets": "^1.7.1",

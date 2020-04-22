@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { Col, Container, Row } from 'react-grid-system';
+import media from './media-queries';
 
 export const Logo = styled.a`
   display: inline-block;
@@ -8,6 +8,7 @@ export const Logo = styled.a`
   background: url('/logos/logo.svg');
   padding: 0 !important;
   color: #1a2c29;
+  margin: 20px 20px 20px 0;
   &__inner {
     display: none;
   }
@@ -15,6 +16,10 @@ export const Logo = styled.a`
   &:hover {
     transition: all 200ms ease-in-out;
     opacity: 0.6;
+  }
+
+  ${media.tablet} {
+    margin-left: 20px;
   }
 `;
 
@@ -30,41 +35,45 @@ export const ToolbarLink = styled.a`
   overflow: hidden;
   white-space: nowrap;
   width: min-content;
-
-  ${props =>
-    props.underline ? 'border-bottom: solid 1px rgba(0,0,0,0.5);' : ''}
+  ${(props) => (props.underline ? 'border-bottom: solid 1px rgba(0,0,0,0.5);' : '')}
 
   &:hover {
     transition: all 200ms ease-in-out;
     opacity: 0.6;
   }
 
-  @media (max-width: 768px) {
+  ${media.tablet} {
     margin: 0 25px 10px 0;
   }
-`;
 
-export const NavigationBar = styled(Row)`
-  padding-top: 10px;
-  margin-bottom: 20px;
-`;
-
-export const ResponsiveCenterCol = styled(Col)`
-  @media (max-width: 768px) {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 20px;
+  :last-child {
+    margin-right: 0;
   }
 `;
 
-export const ResponsiveCenterRow = styled.div`
+export const NavigationBar = styled.div`
   display: flex;
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  margin-right: 20px;
+  margin-left: 20px;
+  ${media.tablet} {
+    flex-direction: column;
+  }
+`;
+
+export const Links = styled.div`
+  display: flex;
+  width: 100%;
   flex-wrap: wrap;
   flex-grow: 0;
   flex-shrink: 0;
   align-items: normal;
   justify-content: flex-end;
-  @media (max-width: 768px) {
+  ${media.tablet} {
     justify-content: flex-start;
     border-bottom: #1d1f21 solid 1px;
   }
@@ -74,17 +83,26 @@ export const Layout = styled.div`
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  align-items: center;
 `;
 
-export const Content = styled(Container)`
-  flex: 1;
-  max-width: 100%;
+export const Content = styled.div`
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  max-width: 1140px;
+  margin-right: 20px;
+  margin-left: 20px;
+  width: 100%;
 `;
 
 export const StyledFooter = styled.footer`
   margin-top: 20px;
   background: #202d33;
   padding: 30px;
+  width: 100%;
+  margin-left: -20px;
+  margin-right: -20px;
 `;
 
 export const FooterLink = styled.a`
@@ -104,7 +122,7 @@ export const FooterLink = styled.a`
     opacity: 0.6;
   }
 
-  ${props => (props.bold ? 'font-weight: bold;' : '')}
+  ${(props) => (props.bold ? 'font-weight: bold;' : '')}
 `;
 
 export const ToolbarItem = styled.div`
@@ -116,4 +134,18 @@ export const CookiesNote = styled.div`
   font-weight: 400;
   line-height: 1.4;
   font-size: 14px;
+  text-align: center;
+`;
+
+export const Row = styled.div`
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+`;
+
+export const Container = styled.div`
+  display: flex;
+  flex-direction: column;
 `;

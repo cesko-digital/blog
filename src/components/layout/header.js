@@ -1,38 +1,24 @@
-import { Col, Container } from 'react-grid-system';
-import {
-  Logo,
-  NavigationBar,
-  ResponsiveCenterCol,
-  ResponsiveCenterRow,
-  ToolbarLink,
-} from './styles';
+import { Content, Logo, NavigationBar, Links, ToolbarLink } from './styles';
 import React from 'react';
 import PropTypes from 'prop-types';
 
-
 const Header = ({ items }) => (
-  <header>
-    <Container>
-      <NavigationBar align={'center'} style={{ marginLeft: 0, marginRight: 0 }}>
-        <ResponsiveCenterCol xs={12} md={3} style={{ padding: 0 }}>
-          <Logo href={'https://cesko.digital'} />
-        </ResponsiveCenterCol>
-        <Col xs={12} md={9} style={{ padding: 0 }}>
-          <ResponsiveCenterRow>
-            {items.map((item, index) => (
-              <ToolbarLink
-                underline={item.underline}
-                key={index}
-                href={item.url}
-              >
-                {item.name}
-              </ToolbarLink>
-            ))}
-          </ResponsiveCenterRow>
-        </Col>
-      </NavigationBar>
-    </Container>
-  </header>
+  <Content>
+    <NavigationBar>
+      <div>
+        <Logo href={'https://cesko.digital'} />
+      </div>
+      <div>
+        <Links>
+          {items.map((item, index) => (
+            <ToolbarLink underline={item.underline} key={index} href={item.url}>
+              {item.name}
+            </ToolbarLink>
+          ))}
+        </Links>
+      </div>
+    </NavigationBar>
+  </Content>
 );
 
 Header.propTypes = {
