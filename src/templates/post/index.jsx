@@ -7,9 +7,10 @@ import MainLayout from '../../components/layout';
 import PostCard from '../../components/post-card';
 import { edgeToPost } from '../../components/post-card/helpers';
 import NewsCard from '../../components/news-card';
+import PressCard from '../../components/press-card';
 import { edgeToNews } from '../../components/news-card/helpers';
 import Post from '../../components/post';
-import { MainPost, News, Row, Post as PostContainer } from '../../components/post-listing/styles';
+import { MainPost, News, Press, Row, Post as PostContainer } from '../../components/post-listing/styles';
 
 const PostTemplate = ({ pageContext, data }) => {
   const { slug } = pageContext;
@@ -18,7 +19,9 @@ const PostTemplate = ({ pageContext, data }) => {
 
   const otherPosts = data.allMarkdownRemark.edges.map(edgeToPost);
   let news = data.allNews.edges.map(edgeToNews);
+  const press = data.press.edges.map(edgeToPost);
 
+  const panel = press.length ? (<Press><PressCard items={press} /></Press>) : (<News><NewsCard items={news} /></News>);
   return (
     <MainLayout>
       <Helmet>
@@ -36,19 +39,19 @@ const PostTemplate = ({ pageContext, data }) => {
             cover={post.cover}
             date={data.markdownRemark.fields.date}
             html={postNode.html}
+            category={post.category}
           />
         </MainPost>
-        <News>
-          <NewsCard items={news} />
-        </News>
+        {panel}
         {otherPosts.map((post) => (
-          <PostContainer>
+          <PostContainer key={post.slug}>
             <PostCard
               description={post.description}
               slug={post.slug}
               title={post.title}
               date={post.date}
               author={post.author}
+              category={post.category}
             />
           </PostContainer>
         ))}
@@ -93,6 +96,21 @@ export const pageQuery = graphql`
       limit: 3
       filter: { fields: { slug: { ne: $slug } }, frontmatter: { lang: { in: ["cs", null] } } }
       sort: { fields: [fields___date], order: DESC }
+    ) {
+      edges {
+        node {
+          ...PostCardData
+        }
+      }
+    }
+
+    press: allMarkdownRemark(
+      limit: 15
+      sort: { fields: [fields___date], order: DESC }
+      filter: {
+        frontmatter: { lang: { in: ["cs", null] }, category: { eq: "press" } }
+        fields: { featured: { in: [false, null] } }
+      }
     ) {
       edges {
         node {

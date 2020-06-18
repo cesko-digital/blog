@@ -22,7 +22,8 @@ exports.onCreateNode = ({ node, actions }) => {
   let postMoment = moment(node.frontmatter.date, siteConfig.dateFromFormat);
   if (!postMoment.isValid()) {
     return;
-  }
+    }
+
   let slug = getPostSlug(node, postMoment);
   let featured = getPostFeatured(node);
 
@@ -49,7 +50,9 @@ exports.createPages = ({ graphql, actions }) => {
           reject(result.errors);
         }
 
-        result.data.allMarkdownRemark.edges.forEach(edge => {
+          console.log(result.data.press);
+          result.data.allMarkdownRemark.edges.forEach(edge => {
+              
           createPage({
             path: edge.node.fields.slug,
             component: postPage,

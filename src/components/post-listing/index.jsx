@@ -1,12 +1,16 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import PostCard from "../post-card";
-import NewsCard from "../news-card";
-import { MainPost, News, Post, Row } from './styles';
+import PostCard from '../post-card';
+import NewsCard from '../../components/news-card';
+import PressCard from '../press-card';
+import { MainPost, News, Press, Post, Row } from './styles';
 
-const PostListing = ({ posts, news }) => {
+const PostListing = ({ posts, news, press }) => {
   const firstPost = posts[0];
   const otherPosts = [...posts.slice(1, posts.length)];
+
+  const panel = press.length ? (<Press><PressCard items={press} /></Press>) : (<News><NewsCard items={news} /></News>);
+
   return (
     <>
       <Row>
@@ -20,11 +24,10 @@ const PostListing = ({ posts, news }) => {
             date={firstPost.date}
           />
         </MainPost>
-        <News>
-          <NewsCard items={news} />
-        </News>
 
-        {otherPosts.map(post => (
+        {panel}
+
+        {otherPosts.map((post) => (
           <Post key={post.slug}>
             <PostCard
               description={post.description}
@@ -55,6 +58,16 @@ PostListing.propTypes = {
     PropTypes.shape({
       url: PropTypes.string.isRequired,
       text: PropTypes.string.isRequired,
+    })
+  ),
+  press: PropTypes.arrayOf(
+    PropTypes.shape({
+      description: PropTypes.string,
+      slug: PropTypes.string.isRequired,
+      author: PropTypes.string,
+      cover: PropTypes.string,
+      title: PropTypes.string.isRequired,
+      date: PropTypes.string.isRequired,
     })
   ).isRequired,
 };

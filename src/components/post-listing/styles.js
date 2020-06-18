@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 import media from '../layout/media-queries';
 
-export const MainPost = styled.div`
+export const MainPost = styled.div `
   width: 66%;
   padding: 10px;
 
@@ -9,7 +9,7 @@ export const MainPost = styled.div`
     width: 100%;
   }
 `;
-export const News = styled.div`
+export const News = styled.div `
   width: 34%;
   padding: 10px;
 
@@ -18,7 +18,16 @@ export const News = styled.div`
   }
 `;
 
-export const Post = styled.div`
+export const Press = styled.div `
+  width: 34%;
+  padding: 10px;
+
+  ${media.tablet} {
+    width: 100%;
+  }
+`;
+
+export const Post = styled.div `
   width: 33%;
   padding: 10px;
 
@@ -31,7 +40,7 @@ export const Post = styled.div`
   }
 `;
 
-export const Row = styled.div`
+export const Row = styled.div `
   display: flex;
   flex-wrap: wrap;
   flex-grow: 0;

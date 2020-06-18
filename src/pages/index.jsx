@@ -18,12 +18,14 @@ const Index = ({ data }) => {
 
   const news = data.news.edges.map(edgeToNews);
 
+  const press = data.press.edges.map(edgeToPost);
+
   return (
     <Layout>
       <div className="index-container">
         <Helmet title={config.siteTitle} />
         <SEO />
-        <PostListing posts={posts} news={news} />
+          <PostListing posts={posts} news={news} press={press} />
       </div>
     </Layout>
   );
@@ -38,7 +40,7 @@ export const pageQuery = graphql`
       limit: 4
       sort: { fields: [fields___date], order: DESC }
       filter: {
-        frontmatter: { lang: { in: ["cs", null] } }
+        frontmatter: { lang: { in: ["cs", null] }, category: {eq: "blog"} }
         fields: { featured: { eq: true } }
       }
     ) {
@@ -48,7 +50,18 @@ export const pageQuery = graphql`
       limit: 12
       sort: { fields: [fields___date], order: DESC }
       filter: {
-        frontmatter: { lang: { in: ["cs", null] } }
+        frontmatter: { lang: { in: ["cs", null] }, category: {eq: "blog"} }
+        fields: { featured: { in: [false, null] } }
+      }
+    ) {
+      ...PostEdges
+    }
+
+    press: allMarkdownRemark(
+      limit: 15
+      sort: { fields: [fields___date], order: DESC }
+      filter: {
+        frontmatter: { lang: { in: ["cs", null] }, category: {eq: "press"} }
         fields: { featured: { in: [false, null] } }
       }
     ) {

@@ -4,7 +4,7 @@ import { AuthorDate, Container, Description, Padding, Span, StyledLink, Title } 
 import { DATE_FORMAT } from './helpers';
 import PropTypes from "prop-types";
 
-const PostCard = ({ slug, title, description, author, cover, date }) => {
+const PostCard = ({ slug, title, description, author, cover, date, category }) => {
   return (
     <StyledLink to={slug} >
       <Container>
@@ -20,7 +20,9 @@ const PostCard = ({ slug, title, description, author, cover, date }) => {
 
         <Padding>
           <AuthorDate>
-            {moment(date).format(DATE_FORMAT)} • {author}
+            {moment(date).format(DATE_FORMAT)}
+            {category !== 'press' ? ' • ' : null}
+            {category !== 'press' ? author : null}
           </AuthorDate>
           <Title><Span>{title}</Span></Title>
           {description ? <Description>{description}</Description> : null}
@@ -37,6 +39,7 @@ PostCard.propTypes = {
     cover: PropTypes.string,
     title: PropTypes.string.isRequired,
     date: PropTypes.string.isRequired,
+    category: PropTypes.string
 }
 
 export default PostCard;

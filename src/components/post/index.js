@@ -26,6 +26,7 @@ const Post = ({
   html,
   langVersion,
   lang,
+  category,
 }) => (
   <Container lang={lang || config.siteDefaultLanguage}>
     {cover ? (
@@ -40,8 +41,9 @@ const Post = ({
 
     <Padding>
       <AuthorDate>
-        {moment(date).format(DATE_FORMAT)} •{' '}
-        <Author href={`mailto:${author.email}`}>{author.name}</Author>{' '}
+                    {moment(date).format(DATE_FORMAT)}
+                    {category !== 'press' ? ' • ' : null }
+                    {category !== 'press' ? (<Author href={`mailto:${author.email}`}>{author.name}</Author>) : null }
         <LangVersions versions={langVersion} />
       </AuthorDate>
       <Title>{title}</Title>
@@ -71,6 +73,7 @@ PostCard.propTypes = {
   title: PropTypes.string.isRequired,
   date: PropTypes.string.isRequired,
   lang: PropTypes.string,
+  category: PropTypes.string,
 };
 
 export default Post;
