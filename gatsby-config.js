@@ -18,11 +18,7 @@ module.exports = {
       feed_url: urljoin(config.siteUrl, config.pathPrefix, config.siteRss),
       title: config.siteTitle,
       description: config.siteDescription,
-      image_url: `${urljoin(
-        config.siteUrl,
-        config.pathPrefix,
-          '/images/cover.png'
-      )}`,
+      image_url: `${urljoin(config.siteUrl, config.pathPrefix, '/images/cover.png')}`,
       copyright: config.copyright,
     },
   },
@@ -44,30 +40,38 @@ module.exports = {
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-        name: 'assets',
         path: `${__dirname}/static/`,
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: 'news',
         path: `${__dirname}/content/news.yaml`,
       },
     },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-        name: "posts",
-        path: `${__dirname}/content/authors.yaml`
-      }
+        path: `${__dirname}/content/authors.yaml`,
+      },
     },
     {
-      resolve: "gatsby-source-filesystem",
+      resolve: 'gatsby-source-filesystem',
       options: {
-        name: "posts",
-        path: `${__dirname}/content/posts/`
-      }
+        path: `${__dirname}/content/posts/`,
+      },
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/content/authors.yaml`,
+      },
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/content/press/`,
+      },
     },
     {
       resolve: 'gatsby-transformer-remark',
@@ -93,7 +97,7 @@ module.exports = {
       },
     },
     {
-      resolve: "gatsby-plugin-google-tagmanager",
+      resolve: 'gatsby-plugin-google-tagmanager',
       options: {
         id: config.googleTagManagerId,
       },
@@ -135,15 +139,12 @@ module.exports = {
           {
             serialize(ctx) {
               const { rssMetadata } = ctx.query.site.siteMetadata;
-              return ctx.query.allMarkdownRemark.edges.map(edge => ({
+              return ctx.query.allMarkdownRemark.edges.map((edge) => ({
                 date: edge.node.fields.date,
                 title: edge.node.frontmatter.title,
                 description: edge.node.frontmatter.description,
                 url: rssMetadata.site_url + edge.node.fields.slug,
-                custom_elements: [
-                  { 'content:encoded': getArticleWithDescription(edge) },
-                  { author: getAuthor(edge) },
-                ],
+                custom_elements: [{ 'content:encoded': getArticleWithDescription(edge) }, { author: getAuthor(edge) }],
               }));
             },
             query: `

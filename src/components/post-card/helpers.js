@@ -1,6 +1,6 @@
 export const DATE_FORMAT = 'D. M. Y';
 
-export const edgeToPost = postEdge => {
+export const edgeToPost = (postEdge) => {
   const node = postEdge.node;
   let author = node.frontmatter.author || { name: null };
   return {
@@ -13,5 +13,6 @@ export const edgeToPost = postEdge => {
     date: node.fields.date,
     excerpt: node.excerpt,
     timeToRead: node.timeToRead,
+    category: node.frontmatter.category,
   };
 };

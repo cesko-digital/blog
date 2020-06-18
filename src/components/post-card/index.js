@@ -2,11 +2,11 @@ import React from 'react';
 import moment from 'moment';
 import { AuthorDate, Container, Description, Padding, Span, StyledLink, Title } from './styles';
 import { DATE_FORMAT } from './helpers';
-import PropTypes from "prop-types";
+import PropTypes from 'prop-types';
 
-const PostCard = ({ slug, title, description, author, cover, date }) => {
+const PostCard = ({ slug, title, description, author, cover, date, category }) => {
   return (
-    <StyledLink to={slug} >
+    <StyledLink to={slug}>
       <Container>
         {cover ? (
           <img
@@ -20,9 +20,13 @@ const PostCard = ({ slug, title, description, author, cover, date }) => {
 
         <Padding>
           <AuthorDate>
-            {moment(date).format(DATE_FORMAT)} • {author}
+            {moment(date).format(DATE_FORMAT)}
+            {category !== 'press' ? ' • ' : null}
+            {category !== 'press' ? author : null}
           </AuthorDate>
-          <Title><Span>{title}</Span></Title>
+          <Title>
+            <Span>{title}</Span>
+          </Title>
           {description ? <Description>{description}</Description> : null}
         </Padding>
       </Container>
@@ -31,12 +35,13 @@ const PostCard = ({ slug, title, description, author, cover, date }) => {
 };
 
 PostCard.propTypes = {
-    description: PropTypes.string.isRequired,
-    slug: PropTypes.string.isRequired,
-    author: PropTypes.string.isRequired,
-    cover: PropTypes.string,
-    title: PropTypes.string.isRequired,
-    date: PropTypes.string.isRequired,
-}
+  description: PropTypes.string.isRequired,
+  slug: PropTypes.string.isRequired,
+  author: PropTypes.string.isRequired,
+  cover: PropTypes.string,
+  title: PropTypes.string.isRequired,
+  date: PropTypes.string.isRequired,
+  category: PropTypes.string,
+};
 
 export default PostCard;
