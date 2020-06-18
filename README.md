@@ -79,3 +79,15 @@ News items are stored in the `content/news.yaml` file in the following format:
   text: Dnes je setkání Česko.Digital
   url: https://cesko.digital
 ```
+
+## How to Insert Press Release
+
+Press Release is a kind of an [Article](#How-to-Insert-Article). Press Releases need to be saved in `content/press` directory. 
+
+### Required fields
+
+Press releases has same required fields as Articles. Just set `category: press`.
+
+### Author
+
+Author of Press Release should be the person, who added the press release. **Author is not visible on the website.**

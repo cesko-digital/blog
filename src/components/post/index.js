@@ -1,15 +1,6 @@
 import React from 'react';
 import moment from 'moment';
-import {
-  Arrow,
-  Author,
-  AuthorDate,
-  Button,
-  Container, Content,
-  Description,
-  Padding,
-  Title,
-} from './styles';
+import { Arrow, Author, AuthorDate, Button, Container, Content, Description, Padding, Title } from './styles';
 import PropTypes from 'prop-types';
 import PostCard from '../post-card';
 import { DATE_FORMAT } from '../post-card/helpers';
@@ -17,16 +8,7 @@ import config from '../../../data/site-config';
 import LangVersions from './lang-versions';
 import './b16-tomorrow-dark.css';
 
-const Post = ({
-  title,
-  description,
-  author,
-  cover,
-  date,
-  html,
-  langVersion,
-  lang,
-}) => (
+const Post = ({ title, description, author, cover, date, html, langVersion, lang, category }) => (
   <Container lang={lang || config.siteDefaultLanguage}>
     {cover ? (
       <img
@@ -40,8 +22,12 @@ const Post = ({
 
     <Padding>
       <AuthorDate>
-        {moment(date).format(DATE_FORMAT)} •{' '}
-        <Author href={`mailto:${author.email}`}>{author.name}</Author>{' '}
+        {moment(date).format(DATE_FORMAT)}
+        {category !== 'press' && (
+          <>
+            ` • ` <Author href={`mailto:${author.email}`}>{author.name}</Author>
+          </>
+        )}
         <LangVersions versions={langVersion} />
       </AuthorDate>
       <Title>{title}</Title>
@@ -71,6 +57,7 @@ PostCard.propTypes = {
   title: PropTypes.string.isRequired,
   date: PropTypes.string.isRequired,
   lang: PropTypes.string,
+  category: PropTypes.string,
 };
 
 export default Post;

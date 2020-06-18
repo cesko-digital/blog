@@ -18,6 +18,15 @@ export const News = styled.div`
   }
 `;
 
+export const Press = styled.div`
+  width: 34%;
+  padding: 10px;
+
+  ${media.tablet} {
+    width: 100%;
+  }
+`;
+
 export const Post = styled.div`
   width: 33%;
   padding: 10px;

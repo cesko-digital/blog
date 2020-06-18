@@ -8,3 +8,4 @@ node_modules
 .vscode
 # We use yarn(.lock)
 package-lock.json
+/.vs

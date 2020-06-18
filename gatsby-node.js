@@ -23,6 +23,7 @@ exports.onCreateNode = ({ node, actions }) => {
   if (!postMoment.isValid()) {
     return;
   }
+
   let slug = getPostSlug(node, postMoment);
   let featured = getPostFeatured(node);
 
@@ -35,21 +36,19 @@ exports.onCreateNode = ({ node, actions }) => {
   createNodeField({ node, name: 'featured', value: featured });
   postNodes.push(node);
 };
-
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions;
 
   return new Promise((resolve, reject) => {
     const postPage = path.resolve('src/templates/post/index.jsx');
     resolve(
-      graphql(GET_ALL_POST_SLUGS_QUERY).then(result => {
+      graphql(GET_ALL_POST_SLUGS_QUERY).then((result) => {
         if (result.errors) {
           /* eslint no-console: "off" */
           console.log(result.errors);
           reject(result.errors);
         }
-
-        result.data.allMarkdownRemark.edges.forEach(edge => {
+        result.data.allMarkdownRemark.edges.forEach((edge) => {
           createPage({
             path: edge.node.fields.slug,
             component: postPage,
