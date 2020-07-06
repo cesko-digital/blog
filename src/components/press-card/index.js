@@ -7,7 +7,7 @@ import { A, Card, Divider, Row, Text, Title, TitleIcon } from './styles';
 const PressCard = ({ items }) => (
   <Card>
     <Row>
-      <TitleIcon src={'/icons/news.svg'} />
+      <TitleIcon src={'/icons/press-releases.svg'} />
       <Title>Tiskové zprávy</Title>
     </Row>
     {items.map((item, index) => (

@@ -65,21 +65,6 @@ You can also add volunteers to the article by adding this HTML:
 </div>
 ```
 
-## How to Insert News Items
-
-News items are stored in the `content/news.yaml` file in the following format:
-
-```yaml
-- type: news
-  date: 2019-09-16-12-00
-  text: Michal Bláha byl hostem podcastu Proti proudu. Poslechněte si jeho názory o e-govermentu.
-  url: https://cesko.digital
-- type: news
-  date: 2019-09-25-12-00
-  text: Dnes je setkání Česko.Digital
-  url: https://cesko.digital
-```
-
 ## How to Insert Press Release
 
 Press Release is a kind of an [Article](#How-to-Insert-Article). Press Releases need to be saved in `content/press` directory. 
