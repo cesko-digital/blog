@@ -1,23 +1,12 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import PostCard from '../post-card';
-import NewsCard from '../../components/news-card';
 import PressCard from '../press-card';
-import { MainPost, News, Press, Post, Row } from './styles';
+import { MainPost, Post, Press, Row } from './styles';
 
-const PostListing = ({ posts, news, press }) => {
+const PostListing = ({ posts, press }) => {
   const firstPost = posts[0];
   const otherPosts = [...posts.slice(1, posts.length)];
-
-  const panel = press.length ? (
-    <Press>
-      <PressCard items={press} />
-    </Press>
-  ) : (
-    <News>
-      <NewsCard items={news} />
-    </News>
-  );
 
   return (
     <>
@@ -33,7 +22,9 @@ const PostListing = ({ posts, news, press }) => {
           />
         </MainPost>
 
-        {panel}
+        <Press>
+          <PressCard items={press} />
+        </Press>
 
         {otherPosts.map((post) => (
           <Post key={post.slug}>
@@ -62,12 +53,6 @@ PostListing.propTypes = {
       date: PropTypes.string.isRequired,
     })
   ).isRequired,
-  news: PropTypes.arrayOf(
-    PropTypes.shape({
-      url: PropTypes.string.isRequired,
-      text: PropTypes.string.isRequired,
-    })
-  ),
   press: PropTypes.arrayOf(
     PropTypes.shape({
       description: PropTypes.string,

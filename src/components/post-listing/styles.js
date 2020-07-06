@@ -9,14 +9,6 @@ export const MainPost = styled.div`
     width: 100%;
   }
 `;
-export const News = styled.div`
-  width: 34%;
-  padding: 10px;
-
-  ${media.tablet} {
-    width: 100%;
-  }
-`;
 
 export const Press = styled.div`
   width: 34%;

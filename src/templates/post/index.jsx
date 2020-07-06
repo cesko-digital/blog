@@ -6,11 +6,9 @@ import config from '../../../data/site-config';
 import MainLayout from '../../components/layout';
 import PostCard from '../../components/post-card';
 import { edgeToPost } from '../../components/post-card/helpers';
-import NewsCard from '../../components/news-card';
 import PressCard from '../../components/press-card';
-import { edgeToNews } from '../../components/news-card/helpers';
 import Post from '../../components/post';
-import { MainPost, News, Press, Row, Post as PostContainer } from '../../components/post-listing/styles';
+import { MainPost, Post as PostContainer, Press, Row } from '../../components/post-listing/styles';
 
 const PostTemplate = ({ pageContext, data }) => {
   const { slug } = pageContext;
@@ -18,18 +16,7 @@ const PostTemplate = ({ pageContext, data }) => {
   const post = postNode.frontmatter;
 
   const otherPosts = data.allMarkdownRemark.edges.map(edgeToPost);
-  let news = data.allNews.edges.map(edgeToNews);
   const press = data.press.edges.map(edgeToPost);
-
-  const panel = press.length ? (
-    <Press>
-      <PressCard items={press} />
-    </Press>
-  ) : (
-    <News>
-      <NewsCard items={news} />
-    </News>
-  );
 
   return (
     <MainLayout>
@@ -51,7 +38,9 @@ const PostTemplate = ({ pageContext, data }) => {
             category={post.category}
           />
         </MainPost>
-        {panel}
+        <Press>
+          <PressCard items={press} />
+        </Press>
         {otherPosts.map((post) => (
           <PostContainer key={post.slug}>
             <PostCard
@@ -124,15 +113,6 @@ export const pageQuery = graphql`
       edges {
         node {
           ...PostCardData
-        }
-      }
-    }
-
-    allNews(limit: 3, sort: { fields: [date], order: DESC }) {
-      edges {
-        node {
-          url
-          text
         }
       }
     }
