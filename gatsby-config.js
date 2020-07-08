@@ -114,21 +114,21 @@ module.exports = {
           return ret;
         },
         query: `
-        {
-          site {
-            siteMetadata {
-              rssMetadata {
-                site_url
-                feed_url
-                title
-                description
-                image_url
-                copyright
+          {
+            site {
+              siteMetadata {
+                rssMetadata {
+                  site_url
+                  feed_url
+                  title
+                  description
+                  image_url
+                  copyright
+                }
               }
             }
           }
-        }
-      `,
+        `,
         feeds: [
           {
             serialize(ctx) {
@@ -142,38 +142,38 @@ module.exports = {
               }));
             },
             query: `
-            {
-              allMarkdownRemark(
-                limit: 1000,
-                sort: { order: DESC, fields: [fields___date] },
-                filter: { frontmatter: { lang: { in: ["cs", null] } } }
-              ) {
-                edges {
-                  node {
-                    excerpt
-                    html
+              {
+                allMarkdownRemark(
+                  limit: 1000
+                  sort: { order: DESC, fields: [fields___date] }
+                  filter: { frontmatter: { lang: { in: ["cs", null] }, category: { eq: "blog" } } }
+                ) {
+                  edges {
+                    node {
+                      excerpt
+                      html
 
-                    timeToRead
-                    fields {
-                      slug
-                      date
-                    }
-                    frontmatter {
-                      title
-                      date
-                      description
-                      category
-                      tags
-                      author {
-                      name
-                      email
+                      timeToRead
+                      fields {
+                        slug
+                        date
+                      }
+                      frontmatter {
+                        title
+                        date
+                        description
+                        category
+                        tags
+                        author {
+                          name
+                          email
+                        }
                       }
                     }
                   }
                 }
               }
-            }
-          `,
+            `,
             output: config.siteRss,
           },
         ],
