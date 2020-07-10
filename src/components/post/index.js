@@ -25,7 +25,7 @@ const Post = ({ title, description, author, cover, date, html, langVersion, lang
         {moment(date).format(DATE_FORMAT)}
         {category !== 'press' && (
           <>
-            ` • ` <Author href={`mailto:${author.email}`}>{author.name}</Author>
+            {` • `} <Author href={`mailto:${author.email}`}>{author.name}</Author>
           </>
         )}
         <LangVersions versions={langVersion} />
