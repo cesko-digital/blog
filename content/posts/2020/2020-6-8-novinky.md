@@ -49,7 +49,7 @@ Příprava webu pokračuje na několika frontách zároveň – chystáme texty 
 
 Cílem projektu s pracovním názvem Paragonek je vznik jednotného místa pro plné využití elektronických účtenek tak, aby papírové účtenky už nebyly potřeba. Projekt kultivuje digitální prostředí sjednocením úložišť dodavatelů na trhu, snižuje náklady podnikatelů a podporuje bezpapírová řešení. **V současnosti hledáme pro projekt koordinátora** – kdyby vám byl blízký a chtěli jste se ho ujmout, ozvěte se v kanálu [#p-paragonek](https://cesko-digital.slack.com/archives/CUM0HJ5QB).
 
-### Napsali o nás
+## Napsali o nás
 
 - [Česko.Digital získává 5 milionů na podporu vzdělávání](https://www.czechcrunch.cz/2020/05/cesko-digital-ziskava-5-milionu-na-podporu-vzdelavani-otevrenim-skol-nase-prace-zacina-hlasi-projekt-ucime-online/), píše CzechCrunch. A Eva Pavlíková, koordinátorka projektu Učíme online, k tomu dodává: „Otevřením škol naše práce nekončí, naopak začíná.“
 - K budoucnosti projektu Učíme online se Eva Pavlíková vyjadřuje i pro [TV Nova](https://tn.nova.cz/clanek/reditele-se-boji-druhe-vlny-skoly-se-mohou-na-podzim-zase-zavrit.html), kde ministr školství Robert Plaga zmiňuje Učíme online jako jeden nástrojů ke zvládnutí digitálního vzdělávání.
