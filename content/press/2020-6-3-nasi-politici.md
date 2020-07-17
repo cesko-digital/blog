@@ -11,7 +11,7 @@ description: 'Protikorupční organizace Transparency International (TI) ve spol
 
 Cílem je obsáhnout všechny politiky, od těch celostátních až po ty komunální, a to jak bývalé, tak současné. S ohledem na obsáhlost projektu ho zveřejňujeme ve fázi, kdy byly ručně zkontrolovány profily aktuálního složení Poslanecké sněmovny a Senátu Parlamentu ČR a jednotlivých členů vlády.
 
-V současné době tedy databáze obsahuje téměř 300 verifikovaných profilů, které prošly ruční kontrolou a další tři tisíce, které společně s Hlídačem státu postupně ověřujeme. S ohledem na blížící se podzimní krajské a senátní volby bude v průběhu léta databáze rozšířena o další stovky zkontrolovaných profilů krajských politiků.
+V současné době tedy [databáze nasipolitici.cz](https://nasipolitici.cz/) obsahuje téměř 300 verifikovaných profilů, které prošly ruční kontrolou a další tři tisíce, které společně s Hlídačem státu postupně ověřujeme. S ohledem na blížící se podzimní krajské a senátní volby bude v průběhu léta databáze rozšířena o další stovky zkontrolovaných profilů krajských politiků.
 
 Pro celý projekt je zásadním parametrem otevřenost dat a jejich ověřitelnost, proto je možné u jakékoliv informace dohledat její zdroj. Otevřenost celé databáze není zajištěna pouze z pohledu dostupnosti dat, ale v otevřenosti celého zdrojového kódu, tedy v open-source.
 
