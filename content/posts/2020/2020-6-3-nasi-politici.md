@@ -60,6 +60,10 @@ Do budoucna bychom rádi dál zvyšovali kvalitu předkládaných informací a p
         <img width="80px" height="80px" src="https://data.cesko.digital/img/030b8117.jpg" alt=""/>
         <div class="name">Lucia Vilimovská</div>
     </div>
+    <div class="volunteer">
+        <img width="80px" height="80px" src="https://data.cesko.digital/img/28c5771d.jpg" alt=""/>
+        <div class="name">Marek Chromý</div>
+    </div>
 </div>
 
 ## Tým Hlídače státu
