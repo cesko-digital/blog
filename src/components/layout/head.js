@@ -1,15 +1,12 @@
 import Helmet from 'react-helmet';
-import config from '../../../data/site-config';
+import config from '@data/site-config';
 import React from 'react';
 
 const Head = () => (
   <>
     <Helmet>
-        <html lang={config.siteDefaultLanguage} />
-      <link
-        href="https://fonts.googleapis.com/css?family=Work+Sans:400,700"
-        rel="stylesheet"
-      />
+      <html lang={config.siteDefaultLanguage} />
+      <link href="https://fonts.googleapis.com/css?family=Work+Sans:400,700" rel="stylesheet" />
       <meta name="description" content={config.siteDescription} />
     </Helmet>
   </>

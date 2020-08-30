@@ -1,14 +1,14 @@
 import React from 'react';
 import Helmet from 'react-helmet';
 import { graphql } from 'gatsby';
-import SEO from '../../components/seo';
-import config from '../../../data/site-config';
-import MainLayout from '../../components/layout';
-import PostCard from '../../components/post-card';
-import { edgeToPost } from '../../components/post-card/helpers';
-import PressCard from '../../components/press-card';
-import Post from '../../components/post';
-import { MainPost, Post as PostContainer, Press, Row } from '../../components/post-listing/styles';
+import SEO from 'components/seo';
+import config from '@data/site-config';
+import MainLayout from 'components/layout';
+import PostCard from 'components/post-card';
+import { edgeToPost } from 'components/post-card/helpers';
+import PressCard from 'components/press-card';
+import Post from 'components/post';
+import { MainPost, Post as PostContainer, Press, Row } from 'components/post-listing/styles';
 
 const PostTemplate = ({ pageContext, data }) => {
   const { slug } = pageContext;

@@ -1,6 +1,6 @@
 import React from 'react';
 import moment from 'moment';
-import { DATE_FORMAT } from '../post-card/helpers';
+import { DATE_FORMAT } from 'components/post-card/helpers';
 import PropTypes from 'prop-types';
 import { A, Card, Divider, Row, Text, Title, TitleIcon } from './styles';
 

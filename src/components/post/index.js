@@ -2,9 +2,9 @@ import React from 'react';
 import moment from 'moment';
 import { Arrow, Author, AuthorDate, Button, Container, Content, Description, Padding, Title } from './styles';
 import PropTypes from 'prop-types';
-import PostCard from '../post-card';
-import { DATE_FORMAT } from '../post-card/helpers';
-import config from '../../../data/site-config';
+import PostCard from 'components/post-card';
+import { DATE_FORMAT } from 'components/post-card/helpers';
+import config from '@data/site-config';
 import LangVersions from './lang-versions';
 import './b16-tomorrow-dark.css';
 
