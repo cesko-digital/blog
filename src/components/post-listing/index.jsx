@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import PostCard from '../post-card';
-import PressCard from '../press-card';
+import PostCard from 'components/post-card';
+import PressCard from 'components/press-card';
 import { MainPost, Post, Press, Row } from './styles';
 
 const PostListing = ({ posts, press }) => {

@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import media from '../layout/media-queries';
+import media from 'components/layout/media-queries';
 
 export const MainPost = styled.div`
   width: 66%;

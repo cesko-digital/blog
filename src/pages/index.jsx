@@ -1,11 +1,11 @@
 import React from 'react';
 import Helmet from 'react-helmet';
 import { graphql } from 'gatsby';
-import Layout from '../components/layout';
-import PostListing from '../components/post-listing';
-import SEO from '../components/seo';
-import config from '../../data/site-config';
-import { edgeToPost } from '../components/post-card/helpers';
+import Layout from 'components/layout';
+import PostListing from 'components/post-listing';
+import SEO from 'components/seo';
+import config from '@data/site-config';
+import { edgeToPost } from 'components/post-card/helpers';
 
 const Index = ({ data }) => {
   const posts = [...(data.featuredPosts || { edges: [] }).edges, ...data.otherPosts.edges].slice(0, 13).map(edgeToPost);
