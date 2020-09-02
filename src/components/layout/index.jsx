@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import './index.css';
 import Footer from './footer';
 import { Content, Layout } from './styles';
@@ -50,16 +51,21 @@ const ITEMS = [
   },
 ];
 
-const MainLayout = props => {
+const MainLayout = (props) => {
   const { children } = props;
   let navBarItems = ITEMS.slice(0, ITEMS.length - 3);
   return (
-    <Layout >
-      <Head/>
+    <Layout>
+      <Head />
       <Header items={navBarItems} />
       <Content>{children}</Content>
       <Footer items={ITEMS} />
     </Layout>
   );
 };
+
+MainLayout.propTypes = {
+  children: PropTypes.node,
+};
+
 export default MainLayout;

@@ -4,16 +4,8 @@ import { Author } from './styles';
 
 const LangVersions = ({ versions }) => (
   <>
-    {versions && versions.en && (
-      <Author href={versions.en}>
-        •{' '} 🇬🇧English version{' '}
-      </Author>
-    )}
-    {versions && versions.cs && (
-      <Author href={versions.cs}>
-        •{' '} 🇨🇿Česká verze{' '}
-      </Author>
-    )}
+    {versions && versions.en && <Author href={versions.en}>• 🇬🇧English version </Author>}
+    {versions && versions.cs && <Author href={versions.cs}>• 🇨🇿Česká verze </Author>}
   </>
 );
 
@@ -25,7 +17,7 @@ LangVersions.propTypes = {
 };
 
 LangVersions.defaultProps = {
-    versions: {}
+  versions: {},
 };
 
 export default LangVersions;

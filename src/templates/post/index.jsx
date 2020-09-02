@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import { graphql } from 'gatsby';
 import SEO from 'components/seo';
@@ -9,6 +10,7 @@ import { edgeToPost } from 'components/post-card/helpers';
 import PressCard from 'components/press-card';
 import Post from 'components/post';
 import { MainPost, Post as PostContainer, Press, Row } from 'components/post-listing/styles';
+import { PostNodePropTypes } from 'pages';
 
 const PostTemplate = ({ pageContext, data }) => {
   const { slug } = pageContext;
@@ -57,6 +59,14 @@ const PostTemplate = ({ pageContext, data }) => {
     </MainLayout>
   );
 };
+
+PostTemplate.propTypes = {
+  pageContext: PropTypes.shape({
+    slug: PropTypes.string,
+  }).isRequired,
+  data: PostNodePropTypes.isRequired,
+};
+
 export default PostTemplate;
 
 // TODO - Filter first article

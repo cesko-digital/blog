@@ -1,7 +1,9 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import urljoin from 'url-join';
 import config from '@data/site-config';
+import { PostNodePropTypes } from 'pages';
 
 const SEO = ({ postNode, postPath, postSEO }) => {
   let title;
@@ -11,12 +13,8 @@ const SEO = ({ postNode, postPath, postSEO }) => {
   if (postSEO) {
     const postMeta = postNode.frontmatter;
     ({ title } = postMeta);
-    description = postMeta.description
-      ? postMeta.description
-      : postNode.excerpt;
-    image =
-      postMeta.cover ||
-      urljoin(config.siteUrl, config.pathPrefix, '/images/cover.png'); // TODO - Image URL
+    description = postMeta.description ? postMeta.description : postNode.excerpt;
+    image = postMeta.cover || urljoin(config.siteUrl, config.pathPrefix, '/images/cover.png'); // TODO - Image URL
     postURL = urljoin(config.siteUrl, config.pathPrefix, postPath);
   } else {
     title = config.siteTitle;
@@ -74,9 +72,7 @@ const SEO = ({ postNode, postPath, postSEO }) => {
         <meta name="image" content={image} />
 
         {/* Schema.org tags */}
-        <script type="application/ld+json">
-          {JSON.stringify(schemaOrgJSONLD)}
-        </script>
+        <script type="application/ld+json">{JSON.stringify(schemaOrgJSONLD)}</script>
 
         {/* OpenGraph tags */}
         <meta property="og:url" content={postSEO ? postURL : blogURL} />
@@ -84,28 +80,24 @@ const SEO = ({ postNode, postPath, postSEO }) => {
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
         <meta property="og:image" content={image} />
-        <meta
-          property="og:image:alt"
-          content={postSEO ? 'Obrázek článku ' + title : 'Obrázek blogu'}
-        />
-        <meta
-          property="fb:app_id"
-          content={config.siteFBAppID ? config.siteFBAppID : ''}
-        />
+        <meta property="og:image:alt" content={postSEO ? 'Obrázek článku ' + title : 'Obrázek blogu'} />
+        <meta property="fb:app_id" content={config.siteFBAppID ? config.siteFBAppID : ''} />
 
         {/* Twitter Card tags */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta
-          name="twitter:creator"
-          content={config.twitter ? config.twitter : ''}
-        />
+        <meta name="twitter:creator" content={config.twitter ? config.twitter : ''} />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
         <meta name="twitter:image" content={image} />
       </Helmet>
-
     </>
   );
+};
+
+SEO.propTypes = {
+  postSEO: PropTypes.bool,
+  postPath: PropTypes.string,
+  postNode: PostNodePropTypes.isRequired,
 };
 
 export default SEO;

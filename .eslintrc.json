@@ -1,0 +1,31 @@
+{
+  "env": {
+    "browser": true,
+    "jest": true,
+    "es6": true
+  },
+  "plugins": [
+    "react",
+    "eslint-plugin-prettier"
+  ],
+  "extends": ["eslint:recommended", "plugin:react/recommended", "eslint-config-prettier"],
+  "parserOptions": {
+    "ecmaVersion": 2018,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "rules": {
+    "prettier/prettier": 2,
+    "jsx-no-multiline-js": 0,
+    "jsx-no-lambda": 0,
+    "import-name": 0,
+    "no-boolean-literal-compare": 0
+  },
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  }
+}
