@@ -11,7 +11,7 @@ description: 'Ahoj, Česko.Digital! Díky posilám kmenového týmu, o kterých 
 
 Za uplynulý rok fungování jsme zjistili, že ne všechny projekty, které k nám přicházejí, mají srozumitelně definované zadání. Některé potřebují problém, se kterým přichází, ověřit na trhu nebo potřebují jiný typ nasměrování. V průběhu léta jsme proto připravili inkubátor, který je tímto procesem provede, pomůže zapojit více dobrovolníků a zpřístupní pomoc Česko.Digital více neziskovým organizacím. Nový inkubační proces teď pilotujeme na několika vybraných projektech a od nového roku jej chceme spustit naostro.
 
-Druhým zmíněným projektem, lepším onboardingem dobrovolníků, chceme nově příchozím i stávajícím dobrovolníkům usnadnit orientaci v tom, co se v Česko.Digital aktuálně děje, jak můžete využít naši bohatou organizační i technickou infrastrukturu a zjednodušit vám všem zapojení do probíhajících aktivit a projektů.
+Druhým zmíněným projektem, lepším onboardingem dobrovolníků, chceme nově příchozím i stávajícím dobrovolníkům usnadnit orientaci v tom, co se v Česko.Digital aktuálně děje, jak využít naši bohatou organizační i technickou infrastrukturu a zjednodušit tak vám všem zapojení do probíhajících aktivit a projektů.
 
 ## Novinky v projektech
 
