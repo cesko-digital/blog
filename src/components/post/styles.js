@@ -111,12 +111,14 @@ export const Content = styled.div`
 
     color: #000000;
   }
-  
-  p, li {
+
+  p,
+  li {
     line-height: 26px;
   }
 
-  ul, ol {
+  ul,
+  ol {
     padding-left: 1.2em;
   }
 
@@ -153,14 +155,14 @@ export const Content = styled.div`
   h2 {
     margin-top: 50px;
   }
-  
+
   .volunteers {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
   }
-  
+
   .volunteer {
     display: flex;
     flex-direction: column;
@@ -168,25 +170,23 @@ export const Content = styled.div`
     margin: 15px;
     width: 170px;
     text-align: center;
-    
+
     img {
       width: 80px;
       height: 80px;
       border-radius: 40px;
       object-fit: cover;
     }
-    
+
     .name {
-    margin-top: 10px;
-    margin-bottom: 5px;
+      margin-top: 10px;
+      margin-bottom: 5px;
     }
-    
+
     .note {
       font-size: 14px;
       opacity: 0.5;
-      
     }
-   
   }
 `;
 

@@ -8,7 +8,7 @@ export const Container = styled.div`
   height: 100%;
   transition: all 250ms ease-in-out;
   :hover {
-  box-shadow: 0px 8px 18px rgba(10, 10, 10, 0.12);
+    box-shadow: 0px 8px 18px rgba(10, 10, 10, 0.12);
   }
 `;
 
@@ -44,7 +44,7 @@ export const StyledLink = styled(Link)`
     color: #808080;
     opacity: 0.75;
   }
-`
+`;
 
 export const Description = styled.p`
   font-family: Work Sans, sans-serif;

@@ -42,16 +42,17 @@
   },
   "devDependencies": {
     "cli-glob": "^0.1.0",
-    "eslint": "^6.8.0",
+    "eslint": "^7.8.1",
     "eslint-config-airbnb": "^18.1.0",
-    "eslint-config-prettier": "^6.10.1",
+    "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-import": "^2.20.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
-    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.20.6",
     "gh-pages": "^2.2.0",
     "prettier": "^2.0.4",
+    "prop-types": "^15.7.2",
     "remark-cli": "^8.0.0",
-    "remark-preset-lint-recommended": "^4.0.0",
     "stylefmt": "^6.0.3",
     "stylelint": "^13.3.0",
     "stylelint-config-standard": "^20.0.0",
@@ -70,14 +71,8 @@
     "build:pp": "gatsby build --prefix-paths",
     "build:gh": "npm run clean && npm run build:pp && gh-pages -d public",
     "clean": "rm -rf public && rm -rf .cache",
-    "lint:js": "eslint --ext .js,.jsx .",
-    "lint:md": "remark content/",
+    "lint": "eslint --ext .js --ext .jsx src",
     "write-good": "write-good $(glob 'content/**/*.md')",
     "format:js": "prettier '**/*.{js,jsx}' --write"
-  },
-  "remarkConfig": {
-    "plugins": [
-      "remark-preset-lint-recommended"
-    ]
   }
 }
