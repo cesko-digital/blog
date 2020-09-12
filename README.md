@@ -69,10 +69,6 @@ You can also add volunteers to the article by adding this HTML:
 
 Press Release is a kind of an [Article](#How-to-Insert-Article). Press Releases need to be saved in `content/press` directory. 
 
-### Required fields
-
-Press releases has same required fields as Articles. Just set `category: press`.
-
 ### Author
 
 Author of Press Release should be the person, who added the press release. **Author is not visible on the website.**

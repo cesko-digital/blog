@@ -3,7 +3,8 @@ const {
   hasNodeNonCompleteFrontmatter,
   getPostSlug,
   getPostFeatured,
-  GET_ALL_POST_SLUGS_QUERY,
+  GET_PRESS_POST_SLUGS_QUERY,
+  GET_BLOG_POST_SLUGS_QUERY,
 } = require('./src/helpers/node');
 
 const path = require('path');
@@ -12,20 +13,29 @@ const siteConfig = require('./data/site-config');
 
 const postNodes = [];
 
-exports.onCreateNode = ({ node, actions }) => {
+exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions;
 
   if (hasNodeIncorrectType(node) || hasNodeNonCompleteFrontmatter(node)) {
     return;
   }
 
-  let postMoment = moment(node.frontmatter.date, siteConfig.dateFromFormat);
+  const postMoment = moment(node.frontmatter.date, siteConfig.dateFromFormat);
   if (!postMoment.isValid()) {
     return;
   }
 
-  let slug = getPostSlug(node, postMoment);
-  let featured = getPostFeatured(node);
+  const slug = getPostSlug(node, postMoment);
+  const featured = getPostFeatured(node);
+
+  const parent = getNode(node.parent);
+  if (parent) {
+    createNodeField({
+      node,
+      name: 'category',
+      value: parent.sourceInstanceName,
+    });
+  }
 
   createNodeField({
     node,
@@ -36,25 +46,27 @@ exports.onCreateNode = ({ node, actions }) => {
   createNodeField({ node, name: 'featured', value: featured });
   postNodes.push(node);
 };
+
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions;
 
   return new Promise((resolve, reject) => {
     const postPage = path.resolve('src/templates/post/index.jsx');
     resolve(
-      graphql(GET_ALL_POST_SLUGS_QUERY).then((result) => {
-        if (result.errors) {
-          /* eslint no-console: "off" */
-          console.log(result.errors);
-          reject(result.errors);
-        }
-        result.data.allMarkdownRemark.edges.forEach((edge) => {
-          createPage({
-            path: edge.node.fields.slug,
-            component: postPage,
-            context: {
-              slug: edge.node.fields.slug,
-            },
+      Promise.all([graphql(GET_BLOG_POST_SLUGS_QUERY), graphql(GET_PRESS_POST_SLUGS_QUERY)]).then((results) => {
+        results.forEach((result) => {
+          if (result.errors) {
+            console.error(result.errors);
+            reject(result.errors);
+          }
+          result.data.allMarkdownRemark.edges.forEach((edge) => {
+            createPage({
+              path: edge.node.fields.slug,
+              component: postPage,
+              context: {
+                slug: edge.node.fields.slug,
+              },
+            });
           });
         });
       })

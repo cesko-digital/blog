@@ -3,7 +3,6 @@ title: Příručka řízení státních IT projektů
 cover: https://data.cesko.digital/img/160e9654.jpg
 author: zoul
 date: 2020-01-30-11-10
-category: blog
 slug: prirucka
 lang: cs
 description: 'Velké pozdvižení způsobil v poslední době systém elektronických dálničních známek. Je dobré hledat řešení problémů u konkrétních zakázek, ale ještě důležitější je začít něco dělat se systémovou příčinou: stávající podmínky a zavedená praxe ve veřejné správě prakticky znemožňují úspěšně zadávat, řídit a provozovat IT projekty. Jedním z kroků, kterými bychom chtěli k řešení této situace přispět za Česko.Digital, je vydání Příručky řízení státních IT projektů.'

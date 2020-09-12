@@ -2,7 +2,6 @@
 title: Záznam z druhého setkání komunity
 date: 2019-10-1-10-00
 author: radja
-category: blog
 slug: zaznam-setkani
 description: "Ve středu 25. 9. se v prostorách STRV sešlo na 120 členů a podporovatelů komunity Česko.Digital. Pokud jste se nestihli zúčastnit osobně ani na live streamu, nabízíme záznam všech vystoupení."
 cover: https://data.cesko.digital/img/02711d51.jpg

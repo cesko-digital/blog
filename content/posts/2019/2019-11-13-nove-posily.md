@@ -3,7 +3,6 @@ title: Nové posily v týmu
 cover: https://data.cesko.digital/img/fb31efbe.jpg
 author: jakub
 date: 2019-11-13-08-00
-category: blog
 slug: nove-posily
 lang: cs
 description: "Velkou změnou ve fungování Česko.Digital jsou první zaměstnanci organizace. Po mnoha měsících skvělé dobrovolnické práce v Česko.Digital s radostí oznamujeme, že Eva Pavlíková nastoupila v listopadu na pozici COO a bude (kromě jiného) vytvářet kvalitní zázemí pro projekty Česko.Digital a jejich koordinátory. Obdobně po spoustě skvělé práce v komunitě Radka Horáková nastupuje na pozici CMO a bude pečovat o kvalitní externí a interní komunikaci, marketing a partnery Česko.Digital. Profesionalizace organizačního týmu Česko.Digital je důležitá, abychom udržovali vysoký standard práce a posouvali se rychle dopředu. Proč se Eva s Radkou rozhodly zapojit, v čem vidí hlavní výzvy a čím by chtěly v Česko.Digital přispět?"

@@ -3,7 +3,6 @@ title: 'Novinky za květen 2020: Spouštíme Naše politiky a hledáme posily'
 cover: https://data.cesko.digital/img/1f7c3e48.jpg
 author: zoul
 date: 2020-06-8-10-00
-category: blog
 slug: novinky
 lang: cs
 description: 'Ahoj, Česko.Digital! Na přelomu května a června jsme vypustili do světa první dlouhodobý projekt, který v Česko.Digital vznikl úplně od nuly – společně s Transparency International a Hlídačem státu vám představujeme Naše politiky, největší databázi českých politiků a političek. O startu projektu už si můžete přečíst například v CzechCrunch nebo na iRozhlas.cz, další zajímavé texty od Česko.Digital i médií budou následovat.'

@@ -3,7 +3,6 @@ title: 'V krizi spojila tisíce Čechů a pomohla předat statisíce roušek. C
 cover: https://data.cesko.digital/img/70d22ced.jpg
 author: zoul
 date: 2020-06-22-13-00
-category: press
 slug: tz-damerousky
 lang: cs
 description: 'Tisíce lidí z celé České republiky spojila komunitní mapa pro sdílení roušek a materiálů Damerousky.cz. V kritické situaci na počátku pandemie ji během několika hodin vytvořili dobrovolníci z komunity Česko.Digital. Pomohla vyrobit a sdílet statisíce ušitých roušek. Nyní se loučí. Svůj účel splnila.'

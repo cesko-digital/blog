@@ -52,6 +52,7 @@ module.exports = {
     {
       resolve: 'gatsby-source-filesystem',
       options: {
+        name: 'blog',
         path: `${__dirname}/content/posts/`,
       },
     },
@@ -64,6 +65,7 @@ module.exports = {
     {
       resolve: 'gatsby-source-filesystem',
       options: {
+        name: 'press',
         path: `${__dirname}/content/press/`,
       },
     },
@@ -146,23 +148,22 @@ module.exports = {
                 allMarkdownRemark(
                   limit: 1000
                   sort: { order: DESC, fields: [fields___date] }
-                  filter: { frontmatter: { lang: { in: ["cs", null] }, category: { eq: "blog" } } }
+                  filter: { fields: { category: { eq: "blog"} }, frontmatter: { lang: { in: ["cs", null] } } }
                 ) {
                   edges {
                     node {
                       excerpt
                       html
-
                       timeToRead
                       fields {
                         slug
                         date
+                        category
                       }
                       frontmatter {
                         title
                         date
                         description
-                        category
                         tags
                         author {
                           name

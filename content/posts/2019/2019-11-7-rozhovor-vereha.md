@@ -3,7 +3,6 @@ title: Nahradili jsme pero, papír a šestiměsíční proces něčím, co fungu
 cover: https://data.cesko.digital/img/559b7e82.jpg
 author: zoul
 date: 2019-11-07-08-00
-category: blog
 slug: rozhovor-vereha
 lang: cs
 langVersion:

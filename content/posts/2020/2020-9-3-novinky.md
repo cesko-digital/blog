@@ -3,7 +3,6 @@ title: 'Novinky za srpen 2020: Inkubátor projektů a lepší onboarding dobrovo
 cover: https://data.cesko.digital/img/6f1b058e.png
 author: zoul
 date: 2020-09-03-11-00
-category: blog
 slug: novinky
 lang: cs
 description: 'Ahoj, Česko.Digital! Díky posilám kmenového týmu, o kterých jsme psali minulý měsíc, jsme se v srpnu mohli intenzivně pustit do dvou důležitých vnitřních projektů – inkubátoru přicházejících projektů a vylepšení onboardingu dobrovolníků.'

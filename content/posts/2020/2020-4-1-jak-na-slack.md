@@ -3,7 +3,6 @@ title: 'Jak na Slack (nejen) v Česko.Digital'
 cover: https://data.cesko.digital/img/540022c1.png
 author: zoul
 date: 2020-04-1-12-00
-category: blog
 slug: jak-na-slack
 lang: cs
 description: 'Centrálním komunikačním nástrojem celé komunity Česko.Digital, která se v posledních týdnech rychle rozrostla přes 2000 lidí, je „pracovní chat“ Slack. Jeho hlavním úkolem je zařídit, aby spolu mohly desítky, stovky či tisíce lidí vést souběžné konverzace, nikomu nic důležitého neuteklo a nikdo nebyl zahlcený zbytečnými informacemi. Proč Slack v Česko.Digital používáme a jak na něj, aby se tento ideální cíl podařilo co nejvíc naplnit?'

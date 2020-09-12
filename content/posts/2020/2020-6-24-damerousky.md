@@ -3,7 +3,6 @@ title: 'Nebyl čas na invenci, museli jsme být rychlí. Za týden by bylo pozd�
 cover: https://data.cesko.digital/img/a21ed6d6.jpg
 author: zoul
 date: 2020-06-24-11-00
-category: blog
 slug: damerousky
 lang: cs
 description: 'Na koronavirovou epidemii se na českém internetu snažily reagovat stovky nových projektů. Jedním z nejúspěšnějších byla podle dat CZ.NIC komunitní mapa Dáme roušky, která propojovala dobrovolné i profesionální výrobce roušek s těmi, kdo roušku potřebovali. Přinášíme vám rozhovor s Martinem Hassmanem, Annamáriou Sedlákovou a Janem Tlapákem, dobrovolníky a autory projektu, který má na kontě stovky tisíc předaných roušek, miliony zobrazených stránek a inspiroval vznik několika zahraničních komunitních map.'

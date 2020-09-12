@@ -3,7 +3,6 @@ title: 'Dobrovolníci z Česko.Digital jsou připraveni. Web MZČR ke COVID-19 
 cover: https://data.cesko.digital/img/6a2c9d41.jpeg
 author: zoul
 date: 2020-03-13-13-00
-category: press
 slug: tz-koronaweb
 lang: cs
 description: 'Tým expertů z Česko.Digital pomohl v rekordním čase s webem Ministerstva zdravotnictví ČR pro veřejnost. Dále Česko.Digital spouští ve spolupráci s Google ČR a American Academy pomoc školám s online vzděláváním a komunita Česko.Digital je zároveň součástí aliance vedoucích českých IT firem, které chtějí státu pomoci zkrotit šíření koronaviru pomocí technologií.'

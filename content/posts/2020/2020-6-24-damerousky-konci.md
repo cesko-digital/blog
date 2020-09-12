@@ -3,7 +3,6 @@ title: 'Dáme roušky: 130 lidí z komunity pomohlo tisícům lidí a inspirova
 cover: https://data.cesko.digital/img/a3edc1db.jpeg
 author: jana
 date: 2020-06-24-09-00
-category: blog
 slug: damerousky-konci
 lang: cs
 description: 'Během hektických dní začátku koronavirové krize se spojila komunita Česko.Digital spolu se startupem Mapotic a v řádu několika hodin vytvořila komunitní nástroj pro distribuci roušek.'

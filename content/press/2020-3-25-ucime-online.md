@@ -3,7 +3,6 @@ title: 'Školy úspěšně najíždí na online výuku. Pomáhají jim v tom dob
 cover: https://data.cesko.digital/img/78d9d141.jpg
 author: zoul
 date: 2020-03-25-13-00
-category: press
 slug: tz-ucime-online
 lang: cs
 description: 'Jen za první týden fungování se 106 škol obrátilo na expertní dobrovolníky z komunity Česko.Digital, kteří v rámci projektu ucimeonline.cz pomáhají učitelům vybrat a zprovozňovat nástroje pro online vyučování. Tento týden se navíc první skupiny pedagogů ocitnou v roli žáků, aby si vyzkoušeli specifika vzdělávání na dálku na vlastní kůži.'

@@ -81,7 +81,6 @@ export const pageQuery = graphql`
         description
         date
         title
-        category
         tags
         cover
         lang
@@ -98,11 +97,12 @@ export const pageQuery = graphql`
       fields {
         slug
         date
+        category
       }
     }
     allMarkdownRemark(
       limit: 3
-      filter: { fields: { slug: { ne: $slug } }, frontmatter: { lang: { in: ["cs", null] }, category: { eq: "blog" } } }
+      filter: { fields: { slug: { ne: $slug }, category: { eq: "blog" } }, frontmatter: { lang: { in: ["cs", null] } } }
       sort: { fields: [fields___date], order: DESC }
     ) {
       edges {
@@ -116,8 +116,8 @@ export const pageQuery = graphql`
       limit: 6
       sort: { fields: [fields___date], order: DESC }
       filter: {
-        frontmatter: { lang: { in: ["cs", null] }, category: { eq: "press" } }
-        fields: { featured: { in: [false, null] } }
+        frontmatter: { lang: { in: ["cs", null] } }
+        fields: { featured: { in: [false, null] }, category: { eq: "press" } }
       }
     ) {
       edges {

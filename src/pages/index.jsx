@@ -66,8 +66,8 @@ export const pageQuery = graphql`
       limit: 4
       sort: { fields: [fields___date], order: DESC }
       filter: {
-        frontmatter: { lang: { in: ["cs", null] }, category: { eq: "blog" } }
-        fields: { featured: { eq: true } }
+        frontmatter: { lang: { in: ["cs", null] } }
+        fields: { featured: { eq: true }, category: { eq: "blog" } }
       }
     ) {
       ...PostEdges
@@ -76,8 +76,8 @@ export const pageQuery = graphql`
       limit: 12
       sort: { fields: [fields___date], order: DESC }
       filter: {
-        frontmatter: { lang: { in: ["cs", null] }, category: { eq: "blog" } }
-        fields: { featured: { in: [false, null] } }
+        frontmatter: { lang: { in: ["cs", null] } }
+        fields: { featured: { in: [false, null] }, category: { eq: "blog" } }
       }
     ) {
       ...PostEdges
@@ -87,8 +87,8 @@ export const pageQuery = graphql`
       limit: 6
       sort: { fields: [fields___date], order: DESC }
       filter: {
-        frontmatter: { lang: { in: ["cs", null] }, category: { eq: "press" } }
-        fields: { featured: { in: [false, null] } }
+        frontmatter: { lang: { in: ["cs", null] } }
+        fields: { featured: { in: [false, null] }, category: { eq: "press" } }
       }
     ) {
       ...PostEdges
