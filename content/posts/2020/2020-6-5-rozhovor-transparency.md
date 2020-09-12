@@ -3,7 +3,6 @@ title: 'Transparency International: Chceme, aby se voliči rozhodovali na zákla
 cover: https://data.cesko.digital/img/c972efbe.jpg
 author: zoul
 date: 2020-06-5-13-00
-category: blog
 slug: rozhovor-transparency
 lang: cs
 description: 'Česko.Digital společně s Transparency International a Hlídačem státu v těchto dnech spouští novou generaci projektu Naši politici, databáze ověřených informací o českých politicích – zatím celostátních, výhledově i „o tom nejposlednějším zastupiteli“. Projekt představujeme v rozhovoru s Milanem Eiblem a Davidem Kotorou z Transparency International.'

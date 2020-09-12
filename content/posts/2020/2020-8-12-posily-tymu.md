@@ -3,7 +3,6 @@ title: 'Nové posily v týmu'
 cover: https://data.cesko.digital/img/5ac568d3.png
 author: zoul
 date: 2020-08-12-10-00
-category: blog
 slug: posily-tymu
 lang: cs
 description: 'Představujeme nové posily kmenového týmu Česko.Digital!'

@@ -28,9 +28,10 @@ exports.hasNodeNonCompleteFrontmatter = function (node) {
   return !node.frontmatter || !node.frontmatter.title || !node.frontmatter.date || !node.frontmatter.author;
 };
 
-exports.GET_ALL_POST_SLUGS_QUERY = `
+function getPostSlugsQueryByCategory(category) {
+  return `
   {
-    allMarkdownRemark {
+    allMarkdownRemark(filter: {fields: {category: {eq: "${category}"}}}) {
       edges {
         node {
           fields {
@@ -41,3 +42,7 @@ exports.GET_ALL_POST_SLUGS_QUERY = `
     }
   }
 `;
+}
+
+exports.GET_PRESS_POST_SLUGS_QUERY = getPostSlugsQueryByCategory('press');
+exports.GET_BLOG_POST_SLUGS_QUERY = getPostSlugsQueryByCategory('blog');

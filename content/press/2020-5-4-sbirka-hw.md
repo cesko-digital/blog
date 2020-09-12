@@ -3,7 +3,6 @@ title: 'Rodinám, které jsou offline, se vzděláváním pomůže síť nezisko
 cover: https://data.cesko.digital/img/518c7ba7.jpg
 author: zoul
 date: 2020-05-4-13-00
-category: press
 slug: tz-sbirka-hw
 lang: cs
 description: 'V České republice je podle odhadů organizací Člověk v tísni a Nadace OSF kolem 4 000 dětí úplně offline. Další tisíce dětí a rodin nemají potřebné technické vybavení, aby zvládaly distanční výuku, ke které s vyhlášením nouzového stavu musely školy přistoupit. Právě organizace Člověk v tísni a Nadace OSF spolu s iniciativou Česko.Digital a Nadačním fondem Eduzměna se rozhodly situaci řešit a v současnosti koordinují distribuci nebo přímo distribuují počítače do rodin a zajišťují jim potřebnou konektivitu. Jejich práce už má první výsledky.'

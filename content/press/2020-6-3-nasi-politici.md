@@ -3,7 +3,6 @@ title: 'Spouštíme největší online databázi o českých politicích'
 cover: https://data.cesko.digital/img/83e82798.jpg
 author: zoul
 date: 2020-06-3-13-00
-category: press
 slug: tz-nasi-politici
 lang: cs
 description: 'Protikorupční organizace Transparency International (TI) ve spolupráci s komunitou expertních dobrovolníků Česko.Digital a organizací  Hlídač státu spouští webový portál nasipolitici.cz. Hlavním cílem projektu je přinést široké veřejnosti unikátní a faktický přehled informací o českých politicích.'

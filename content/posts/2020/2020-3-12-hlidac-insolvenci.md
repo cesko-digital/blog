@@ -3,7 +3,6 @@ title: 'Dobrovolníci z Česko.Digital pomohli Hlídači státu sledovat insolve
 cover: https://data.cesko.digital/img/a183033e.jpeg
 author: zoul
 date: 2020-03-12-9-29
-category: blog
 slug: hlidac-insolvenci
 lang: cs
 description: 'Oblíbený projekt Hlídač státu shromažďuje, propojuje, analyzuje a prezentuje důležitá data o fungování veřejné správy, například uzavřené smlouvy, veřejné zakázky nebo dotace. Cílem projektu je nabídnout „datový rentgen“ pro odhalování špatně viditelných problémů, a jedním z důležitých dílků této skládačky jsou data o insolvencích, která Česko.Digital pomohlo do Hlídače státu přidat.'

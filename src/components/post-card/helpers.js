@@ -13,6 +13,6 @@ export const edgeToPost = (postEdge) => {
     date: node.fields.date,
     excerpt: node.excerpt,
     timeToRead: node.timeToRead,
-    category: node.frontmatter.category,
+    category: node.fields.category,
   };
 };

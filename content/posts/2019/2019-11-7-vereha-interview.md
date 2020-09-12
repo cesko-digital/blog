@@ -3,7 +3,6 @@ title: We have replaced pen & paper and a six months long process with something
 cover: https://data.cesko.digital/img/559b7e82.jpg
 author: zoul
 date: 2019-11-07-08-00
-category: blog
 slug: vereha-interview
 lang: en
 langVersion:

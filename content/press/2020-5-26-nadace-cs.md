@@ -3,7 +3,6 @@ title: 'Česko.Digital získává svou první velkou finanční podporu, díky k
 cover: https://data.cesko.digital/img/24cf1eec.jpg
 author: zoul
 date: 2020-05-26-13-00
-category: press
 slug: tz-nadace-cs
 lang: cs
 description: 'Komunita expertních dobrovolníků Česko.Digital, která od května loňského roku pomáhá nestátním i státním organizacím s digitálními projekty, získala svou první velkou finanční podporu. Nadace České spořitelny podpořila organizaci a její projekt Ucimeonline.cz ze svého krizového fondu částkou 5 milionů korun. Cílem je jak podpořit kmenový tým organizace, tak prostřednictvím komunity dobrovolníků zajistit a rozšířit počítače do 2500 potřebných rodin, zprovoznit výuku ve více než 500 škol a proškolit 1600 učitelů.'
