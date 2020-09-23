@@ -5,7 +5,7 @@ date: 2020-09-22-11-00
 slug: tz-ucime-online
 lang: cs
 description: 'Pomoc se zpřístupněním online výuky na 441 školách, 31 inspirativních webinářů, sbírka počítačů pro nejohroženější děti, technologická mapa škol – to jsou výsledky práce komunity expertních dobrovolníků Česko.Digital. Ti ve svém projektu Učíme online (Ucimeonline.cz) od března 2020 pomáhají školám rozjet distanční vzdělávání. Dobrovolníci v projektu stále pokračují a vyzývají ředitele škol, aby se zaváděním online výuky neotáleli.'
-cover: 'https://firebasestorage.googleapis.com/v0/b/blog-cesko-digital.appspot.com/o/2020%2Ftz_ucime_online.png?alt=media&token=cf2660a6-5b45-44d8-be3b-80b320edff3a'
+cover: https://data.cesko.digital/img/f0771aeb.png
 ---
 
 Dobrovolníci z Česko.Digital v těchto dnech aktivně oslovují vybrané školy a nabízejí ředitelům zdarma svou pomoc. „Budeme rádi, když školy zůstanou otevřené. Současná situace ale ukazuje, že k druhé vlně uzavírání škol už pozvolna dochází. Chceme, aby školy byly na tuto situaci lépe připravené. Jaké to je řešit zprovozňování online výuky ve spěchu, si řada škol na jaře zažila a my nechceme, aby se tato situace opakovala,“ uvádí Eva Pavlíková z Česko.Digital.
