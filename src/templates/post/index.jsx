@@ -15,7 +15,7 @@ import { PostNodePropTypes } from 'pages';
 const PostTemplate = ({ pageContext, data }) => {
   const { slug } = pageContext;
   const postNode = data.markdownRemark;
-  const post = postNode.frontmatter;
+  const frontmatter = postNode.frontmatter;
 
   const otherPosts = data.allMarkdownRemark.edges.map(edgeToPost);
   const press = data.press.edges.map(edgeToPost);
@@ -23,21 +23,21 @@ const PostTemplate = ({ pageContext, data }) => {
   return (
     <MainLayout>
       <Helmet>
-        <title>{`${post.title} | ${config.siteTitle}`}</title>
+        <title>{`${frontmatter.title} | ${config.siteTitle}`}</title>
       </Helmet>
       <SEO postPath={slug} postNode={postNode} postSEO />
       <Row>
         <MainPost>
           <Post
-            langVersion={post.langVersion}
-            lang={post.lang}
-            description={post.description}
-            title={post.title}
-            author={post.author}
-            cover={post.cover}
+            langVersion={frontmatter.langVersion}
+            lang={frontmatter.lang}
+            description={frontmatter.description}
+            title={frontmatter.title}
+            author={frontmatter.author}
+            cover={frontmatter.cover}
             date={data.markdownRemark.fields.date}
             html={postNode.html}
-            category={post.category}
+            category={postNode.fields.category}
           />
         </MainPost>
         <Press>
