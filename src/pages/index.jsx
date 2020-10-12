@@ -9,7 +9,7 @@ import config from '@data/site-config';
 import { edgeToPost } from 'components/post-card/helpers';
 
 const Index = ({ data }) => {
-  const posts = [...(data.featuredPosts || { edges: [] }).edges, ...data.otherPosts.edges].slice(0, 13).map(edgeToPost);
+  const posts = [...(data.featuredPosts || { edges: [] }).edges, ...data.otherPosts.edges].map(edgeToPost);
 
   const press = data.press.edges.map(edgeToPost);
 
@@ -73,7 +73,6 @@ export const pageQuery = graphql`
       ...PostEdges
     }
     otherPosts: allMarkdownRemark(
-      limit: 12
       sort: { fields: [fields___date], order: DESC }
       filter: {
         frontmatter: { lang: { in: ["cs", null] } }
