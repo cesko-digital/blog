@@ -8,13 +8,13 @@ description: 'Komunita expertních dobrovolníků Česko.Digital startuje v rám
 cover: https://data.cesko.digital/img/f0771aeb.png
 ---
 
-Druhá série bezplatných webinářů “Učíme nanečisto” navazuje na kurzy z března tohoto roku, kdy se musely školy vůbec poprvé vyrovnat s přechodem na distanční výuku. Komunita dobrovolných učitelů z praxe tehdy odvysílala pro své kolegy učitele ze základníchi středních škol celkem 31 živých bezplatných webinářů na nejrůznější témata – od reálných hodin matematiky nebo češtiny přes ukázku online nástrojů až po formativní hodnocení. Podobné zaměření, včetně metodických tipů, mají i nové webináře, které čerstvě odstartovaly.
+Druhá série bezplatných webinářů „Učíme nanečisto“ navazuje na kurzy z března tohoto roku, kdy se musely školy vůbec poprvé vyrovnat s přechodem na distanční výuku. Komunita dobrovolných učitelů z praxe tehdy odvysílala pro své kolegy učitele ze základníchi středních škol celkem 31 živých bezplatných webinářů na nejrůznější témata – od reálných hodin matematiky nebo češtiny přes ukázku online nástrojů až po formativní hodnocení. Podobné zaměření, včetně metodických tipů, mají i nové webináře, které čerstvě odstartovaly.
 
-„Přechod na online výuku může být náročný. Proto je pro nás důležité vytvořit ve webinářích bezpečné prostředí, ve kterém si učitel může zažít, jaké to je být žákem online. Na webinářích je pak unikátní to, že je pro své kolegy připravují ve svém volném čase sami učitelé a předávají tak svoje praktické znalosti, jak vést hodiny online a jaké typy úkolů zadávat,“říká Eva Pavlíková z Česko.Digital.
+„Přechod na online výuku může být náročný. Proto je pro nás důležité vytvořit ve webinářích bezpečné prostředí, ve kterém si učitel může zažít, jaké to je být žákem online. Na webinářích je pak unikátní to, že je pro své kolegy připravují ve svém volném čase sami učitelé a předávají tak svoje praktické znalosti, jak vést hodiny online a jaké typy úkolů zadávat,“ říká Eva Pavlíková z Česko.Digital.
 
 Podle Pavlíkové zájem o webináře oproti jarním měsícům výrazně vzrostl a s každým dalšímvysílaným webinářem učitelů přibývá. Například webináře zaměřeného na interaktivní vedení online výuky se zúčastnilo naživo přes tisíc učitelů. „Abychom uspokojili tak vysokou poptávku, přesunuli jsme webinář z videokonferenčního prostředí i do streamování na sociálních sítích“, dodává Pavlíková a upřesňuje, že od spuštění celého projektu projevilo o webináře naživo zájem 3 085 učitelů a 16 023 se vzdělávalo přes zpřístupněné nahrávky. A to i díky finanční podpoře Nadace České spořitelny, která projekt v květnu podpořila jako jeden z projektů přispívajících v boji proti covid-19.
 
-„To další, co jsme kromě pomoci se zprovozněním online výuky využívali, byly právě zmiňované webináře. Já jsem vždy nabídku poslala všem pedagogům. Bylo na nich, aby si zvolili jim vyhovující téma. Často jsme se tam potkávali celá sborovna. Opravdu se nám osvědčily webináře o formativním hodnocení, dále webinář ‘Matematika je zábavná’. Kolegyně zeměpisářka využívala ‘Google nástroje na zeměpis’,“ uvádí PhDr. Bc. Gabriela Hrušková, ředitelka Základní školy T. G. Masaryka ve Štětí.
+„To další, co jsme kromě pomoci se zprovozněním online výuky využívali, byly právě zmiňované webináře. Já jsem vždy nabídku poslala všem pedagogům. Bylo na nich, aby si zvolili jim vyhovující téma. Často jsme se tam potkávali celá sborovna. Opravdu se nám osvědčily webináře o formativním hodnocení, dále webinář ‚Matematika je zábavná‘. Kolegyně zeměpisářka využívala ‚Google nástroje na zeměpis‘,“ uvádí PhDr. Bc. Gabriela Hrušková, ředitelka Základní školy T. G. Masaryka ve Štětí.
 
 ## Nově i mikrokurzy
 
@@ -33,7 +33,7 @@ Nejbližší připravované webináře:
 
 ### Kontakt pro média:
 
-Radka Horáková, CMO & Co-founder, ČeskoDigital\
+Radka Horáková, CMO & Co-founder, Česko.Digital\
 radka@cesko.digital, 734 420 216
 
 ---
@@ -52,6 +52,6 @@ Více o Česko.Digital na [www.cesko.digital](https://cesko.digital/).
 
 ### Nadace České spořitelny
 
-V květnu 2020 udělila Nadace České spořitelny projektu Učíme online finanční příspěvek s cílem podpořit distanční vzdělávání ve školách se zaměřením na ohrožené děti. Finanční příspěvek umožnilČesko.Digital vytvoření rozšířeného týmu pro Učíme Online. Děkujeme Nadaci České spořitelny za její finanční podporu.
+V květnu 2020 udělila Nadace České spořitelny projektu Učíme online finanční příspěvek s cílem podpořit distanční vzdělávání ve školách se zaměřením na ohrožené děti. Finanční příspěvek umožnil Česko.Digital vytvoření rozšířeného týmu pro Učíme Online. Děkujeme Nadaci České spořitelny za její finanční podporu.
 
 Více o Nadaci České spořitelny na [www.nadacecs.cz](https://www.nadacecs.cz/)
