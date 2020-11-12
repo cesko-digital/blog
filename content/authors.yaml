@@ -26,3 +26,7 @@
   id: marketaz
   name: Markéta Zadražilová
   email: m.zadrazilova@gmail.com
+- type: authors
+  id: urbant
+  name: Tomáš Urban
+  email: tomas.urban@clovekvtisni.cz
