@@ -1,5 +1,5 @@
 ---
-title: 'Covid portál za 14 dní? Ale ovšem, stačí říct!'
+title: 'Rychlost a spolupráce: Jak jsme během 14 dní spustili nový Covid portál'
 cover: https://data.cesko.digital/img/20320f87.jpeg
 author: zoul
 date: 2020-12-01-09-03
