@@ -34,3 +34,7 @@
   id: urbant
   name: Tomáš Urban
   email: tomas.urban@clovekvtisni.cz
+- type: authors
+  id: hrudka
+  name: Petr Hrudka
+  email: phrudka@post.cz
