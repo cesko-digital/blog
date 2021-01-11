@@ -5,7 +5,7 @@ author: katka
 date: 2021-1-11-17-03
 slug: inkubator
 lang: cs
-description: 'Za 1,5 roku existence Česko.Digital máme na kontě více než 15 projektů. Od samotného začátku se nám ozývají desítky organizací, které chtějí pomoct s digitálním řešením svých projektů v různé fázi rozpracovanosti. Aby bylo možné realizovat co největší počet z nich, rozhodli jsme se s Nadací OSF vytvořit inkubátor.'
+description: 'Za 1,5 roku existence Česko.Digital máme na kontě více než 15 projektů. Od samotného začátku se nám ozývají desítky organizací, které potřebují pomoc s digitálním řešením svých projektů v různé fázi rozpracovanosti. Aby bylo možné realizovat co největší počet z nich, rozhodli jsme se s Nadací OSF vytvořit inkubátor.'
 ---
 
 ## S čím inkubátor pomůže?
