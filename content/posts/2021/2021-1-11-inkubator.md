@@ -61,3 +61,5 @@ V průběhu procesu inkubace neustále sledujeme, zda se nezapomnělo na zmíně
 Vybrané projekty, které provedeme inkubačním programem, budeme v rámci komunity Česko.Digital rovnou realizovat. Ostatním můžeme doporučit vhodného partnera, který jim s realizací pomůže, nebo se tvůrci mohou s připraveným projektem pustit do realizace sami, stejně jako tým projektu Moje česká škola.
 
 V tuto chvíli **máme více než 10 mentorů**, kteří budou projekty vést, a celou řadu seniorních expertních konzultantů pro jednotlivé obory, kteří mohou s jednotlivými částmi projektu v inkubaci pomoci. Víte-li tedy o nějakém zajímavém projektu, nápadu či myšlence, určitě se jej nebojte [do našeho inkubátoru přihlásit](https://docs.google.com/forms/d/e/1FAIpQLScxOjG29DI92BepAOTgUqiK_05uOxCWFM3D1uAi4wRdamo4LQ/viewform).
+
+Detailní informace k inkubátoru [najdete na naší wiki](https://wiki.cesko.digital/x/HBgY).
