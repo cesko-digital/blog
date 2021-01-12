@@ -1,6 +1,6 @@
 ---
 title: 'Spustili jsme inkubátor. Pomůže připravit projekty na realizaci a digitalizovat Česko'
-cover: https://data.cesko.digital/img/92624d85.png
+cover: https://data.cesko.digital/img/7f3270ab.png
 author: katka
 date: 2021-1-11-17-03
 slug: inkubator
