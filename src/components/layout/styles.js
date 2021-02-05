@@ -98,7 +98,7 @@ export const Content = styled.div`
 
 export const StyledFooter = styled.footer`
   margin-top: 20px;
-  background: #202d33;
+  background: #080831;
   padding: 30px;
   width: 100%;
   margin-left: -20px;
