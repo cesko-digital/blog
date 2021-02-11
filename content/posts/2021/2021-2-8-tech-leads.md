@@ -1,5 +1,5 @@
 ---
-title: 'Ani nebudete vědět jak, a budete tech lead'
+title: 'Ani nebudete vědět jak, a budete tech lead'
 cover: https://data.cesko.digital/img/13b00061.png
 author: dana
 date: 2021-2-8-10-02
