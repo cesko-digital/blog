@@ -5,7 +5,7 @@ author: zaneta
 date: 2021-2-11-10-02
 slug: rozhovor-inkubator
 lang: cs
-description: 'Začátkem roku jsme v Česko.Digital spustili inkubátor, který neziskovkám pomáhá lépe definovat jejich digitální projekty a připravit je na úspěšnou realizaci. O tom, proč je občas důležitější dělat na správné věci než dělat věci správně, a co se můžete o projektovém řízení naučit z textů Prago Union, jsme si povídali s koordinátorkou příchozích projektů Romanou Pokornou a mentory Jiřím Sekerou a Jakubem Štogrem.'
+description: 'Začátkem roku jsme v Česko.Digital spustili inkubátor, který neziskovkám pomáhá lépe definovat jejich digitální projekty a připravit je na úspěšnou realizaci. V následujícím rozhovoru se dozvíte, proč je občas důležitější dělat na správné věci než dělat věci správně, a co se můžete o projektovém řízení naučit z textů Prago Union. Povídali jsme si s koordinátorkou příchozích projektů Romanou Pokornou a mentory Jakubem Štogrem a Jiřím Sekerou, který je s Česko.Digital od jeho založení.'
 ---
 
 **O tom, co inkubátor je a jak funguje, se čtenáři mohli dozvědět už v našem [úvodním článku](https://blog.cesko.digital/2021/01/inkubator). Uměli byste to stručně shrnout?**
