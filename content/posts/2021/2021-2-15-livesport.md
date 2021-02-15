@@ -1,6 +1,6 @@
 ---
 title: 'Máme prvního technologického partnera! Od Livesportu jsme na provoz získali 3 miliony'
-cover: https://data.cesko.digital/img/975e652a.png
+cover: https://data.cesko.digital/img/78b9a354.png
 author: zoul
 date: 2021-2-15-10-02
 slug: livesport
