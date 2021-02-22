@@ -24,7 +24,7 @@ Jakub Nešetřil se z exekutivní role ředitele přesouvá na pozici předsedy 
 
 ### Kontakt pro média
 
-Radka Horáková, Co-founder & CMO, radka@cesko.digital, 734 420 216
+Radka Horáková, Co-founder & CMO, <radka@cesko.digital>, 734 420 216
 
 ### Česko.Digital
 
