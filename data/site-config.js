@@ -3,6 +3,7 @@ const config = {
   siteTitleAlt: 'Česko.Digital Blog', // Alternative site title for SEO.
   siteLogo: '/logos/logo.svg', // Logo used for SEO and manifest.
   siteUrl: 'https://blog.cesko.digital/', // Domain of your website without pathPrefix.
+  siteImage: 'https://data.cesko.digital/img/172a1526.png', // Image to use in Open Graph metadata
   pathPrefix: '/', // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: 'Skrz jedničky a nuly měníme svět k lepšímu.', // Website description used for RSS feeds/meta description tag.
   siteRss: '/rss.xml', // Path to the RSS file.

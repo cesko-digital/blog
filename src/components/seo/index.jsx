@@ -14,12 +14,12 @@ const SEO = ({ postNode, postPath, postSEO }) => {
     const postMeta = postNode.frontmatter;
     ({ title } = postMeta);
     description = postMeta.description ? postMeta.description : postNode.excerpt;
-    image = postMeta.cover || urljoin(config.siteUrl, config.pathPrefix, '/images/cover.png'); // TODO - Image URL
+    image = postMeta.cover || config.siteImage;
     postURL = urljoin(config.siteUrl, config.pathPrefix, postPath);
   } else {
     title = config.siteTitle;
     description = config.siteDescription;
-    image = urljoin(config.siteUrl, config.pathPrefix, '/images/cover.png');
+    image = config.siteImage;
   }
 
   const blogURL = urljoin(config.siteUrl, config.pathPrefix);
