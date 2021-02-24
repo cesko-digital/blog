@@ -2,7 +2,7 @@
 title: 'Chcete se stát učitelem a nevíte, jak na to? Právě pro vás je Začni učit!'
 cover: https://data.cesko.digital/img/8c8ee75e.png
 author: iva
-date: 2021-2-22-10-02
+date: 2021-2-24-10-02
 slug: zacnete-ucit
 lang: cs
 description: 'Přes Inkubátor Česko.Digital až do reálného světa. Tak začala cesta, jejímž cílem je zvýšit počet učitelů v českém školství a prestiž tohoto smysluplného povolání. Projekt Začni učit! nabízí zájemcům o učitelství elegantním a přístupným způsobem potřebné informace a usnadňuje jim cestu za katedru. Přehledně poradí s doplněním nutné kvalifikace i s prvními kroky.'
