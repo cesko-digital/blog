@@ -1,6 +1,6 @@
 ---
 title: 'Chcete se stát učitelem a nevíte, jak na to? Právě pro vás je Začni učit!'
-cover: https://data.cesko.digital/img/12223abd.png
+cover: https://i.imgur.com/DfBh6g1.png
 author: iva
 date: 2021-2-22-10-02
 slug: zacnete-ucit
