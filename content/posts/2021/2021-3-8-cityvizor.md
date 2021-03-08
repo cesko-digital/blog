@@ -1,6 +1,6 @@
 ---
 title: 'Nový web aplikace Cityvizor je na světě. Usnadňuje cestu k informacím o hospodaření obcí'
-cover: https://via.placeholder.com/1200x630
+cover: https://data.cesko.digital/img/2d3b0961.png
 author: bara
 date: 2021-3-8-10-02
 slug: cityvizor
