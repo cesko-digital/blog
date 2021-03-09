@@ -28,7 +28,7 @@ Lucie díky svým předchozím zkušenostem ze start-upů a nezisku a svému nad
 
 [Více o Lucce na LinkedIn](https://www.linkedin.com/in/zajickovalucie/)
 
-### Martin Wenisch – Chief Technical Officer
+### Martin Wenisch – Chief Technology Officer
 
 Martin, profesí programátor, má letité zkušenosti z pre-product startupů, kde pomáhal zakladatelům rychle postavit první verze jejich produktů, a to v Česku i v zahraničí. Jako dobrovolnický tech lead pomáhá v Česko.Digital od jeho založení.
 
