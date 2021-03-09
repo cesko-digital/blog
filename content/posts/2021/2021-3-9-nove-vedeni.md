@@ -1,6 +1,6 @@
 ---
 title: 'Představujeme nové posily, které pomohou dále rozvíjet a směřovat Česko.Digital'
-cover: https://data.cesko.digital/img/dc7f52fa.png
+cover: https://data.cesko.digital/img/28feb897.png
 author: radja
 date: 2021-3-9-10-02
 slug: nove-vedeni
