@@ -1,7 +1,7 @@
 ---
 title: 'První online školní rok za námi. Oslava počká. Projekt Učíme online má stále napilno'
 cover: https://data.cesko.digital/img/f5f4cd8b.jpg
-author: zoul
+author: alena
 date: 2021-3-22-10-02
 slug: rok-ucime-online
 lang: cs
