@@ -2,7 +2,7 @@
 title: 'První online školní rok za námi. Oslava počká. Projekt Učíme online má stále napilno'
 cover: https://data.cesko.digital/img/f5f4cd8b.jpg
 author: alena
-date: 2021-3-22-10-02
+date: 2021-3-23-15-02
 slug: rok-ucime-online
 lang: cs
 description: 'Česko.Digital skrze jedničky a nuly mění Česko k lepšímu. Od března minulého roku se mimo jiné zasloužilo i o rychlou pomoc školám, učitelům a rodinám v nouzi. V okamžiku, kdy pandemie ochromila celý svět, tým expertních dobrovolníků v oblasti IT spojil své síly s American Academy, komunitami GUG.cz a Microsoft Studentské trenérské centrum a odstartovali okamžitou pomoc školám, kterým výrazně usnadnili přechod na distanční výuku. Tak vznikl projekt Učíme online.'
