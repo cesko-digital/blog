@@ -62,3 +62,7 @@
   id: alena
   name: Alena Teclová
   email: teclova.a@gmail.com
+- type: authors
+  id: lukas
+  name: Lukáš Krištof
+  email: lukristof.89@gmail.com
