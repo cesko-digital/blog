@@ -10,11 +10,11 @@ description: 'Cityvizor spustil nový web a dokázal, že spolupráce státu a n
 
 **Jak se Otevřená města dostala k projektu, který začal na Ministerstvu financí ČR?**
 
-Pavla: Tento projekt byl vymyšlen nadšenci z Ministerstva financí. Především Martinem Kopečkem a Benem Kotmelem a dalšími, kteří navazovali na projekt Supervizor. Následně hledali způsob, jak projekt provozovat, a už netuším, jak přišli na Otevřená města. Prostě správná náhoda.
+Pavla: Tento projekt byl vymyšlen nadšenci z Ministerstva financí. Především Martinem Kopečkem a Benem Kotmelem a dalšími, kteří navazovali na projekt Supervizor. Následně ministerstvo hledalo způsob, jak projekt provozovat, a s Ondřejem Profantem se domluvili na předání aplikace pod křídla [Otevřených měst](https://www.otevrenamesta.cz).
 
 **Co jsou Otevřená města?**
 
-Pavla: Otevřená města je nezisková organizace, která sdružuje obce zajímající se o digitalizaci lokálních samospráv a zavádění otevřených řešení do chodu místních úřadů. Cílem organizace je především pomáhat s řešením společných problémů s digitalizací obcí a prostřednictvím spolupráce šetřit jejich čas i peníze. Je to spolek obcí, který svým členům pomáhá s běžnou obecní a městskou agendou.
+Pavla: Otevřená města jsou nezisková organizace, která sdružuje obce zajímající se o digitalizaci lokálních samospráv a zavádění otevřených řešení do chodu místních úřadů. Cílem organizace je především pomáhat s řešením společných problémů s digitalizací obcí a prostřednictvím spolupráce šetřit jejich čas i peníze. Je to spolek obcí, který svým členům pomáhá s běžnou obecní a městskou agendou.
 
 **Jak vás napadlo spojení Cityvizoru a Česko.Digital? Jaké bylo očekávání od Česko.Digital?**
 
