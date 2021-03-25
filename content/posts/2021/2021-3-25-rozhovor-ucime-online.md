@@ -2,7 +2,7 @@
 title: 'Učitelé zasluhují větší podporu, uznání a ohodnocení. Svěřujeme jim budoucnost naší země'
 cover: https://data.cesko.digital/img/5aa78b02.png
 author: dana
-date: 2021-3-24-11-02
+date: 2021-3-25-09-02
 slug: rozhovor-ucime-online
 lang: cs
 description: 'Rok fungování oslavil projekt Učíme online, ve kterém dobrovolníci pomáhají učitelům i žákům překonávat překážky v online výuce. O výzvách i emocích spojených s vedením projektu, ale i o širších problémech českého školství jsme si při té příležitosti povídali s Evou Pavlíkovou, CEO Česko.Digital, a Ondřejem Zapletalem, ředitelem Nadace České spořitelny, která provoz projektu podpořila.'
