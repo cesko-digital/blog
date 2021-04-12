@@ -8,26 +8,20 @@ import Head from './head';
 
 const ITEMS = [
   {
-    name: 'Kdo jsme',
-    url: 'https://cesko.digital/#idea',
-    bold: false,
-    underline: false,
-  },
-  {
-    url: 'https://cesko.digital/#projects',
-    name: 'Co děláme',
-    bold: false,
-    underline: false,
-  },
-  {
     name: 'Blog',
     url: '/',
     bold: false,
     underline: true,
   },
   {
-    url: 'https://cesko.digital/en.html',
-    name: 'English',
+    name: 'Kdo jsme',
+    url: 'https://cesko.digital/',
+    bold: false,
+    underline: false,
+  },
+  {
+    url: 'https://cesko.digital/projekty',
+    name: 'Co děláme',
     bold: false,
     underline: false,
   },
