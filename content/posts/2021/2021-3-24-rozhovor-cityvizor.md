@@ -10,7 +10,7 @@ description: 'Cityvizor spustil nový web a dokázal, že spolupráce státu a n
 
 **Jak se Otevřená města dostala k projektu, který začal na Ministerstvu financí ČR?**
 
-Pavla: Tento projekt byl vymyšlen nadšenci z Ministerstva financí. Především Martinem Kopečkem a Benem Kotmelem a dalšími, kteří navazovali na projekt Supervizor. Následně ministerstvo hledalo způsob, jak projekt provozovat, a s Ondřejem Profantem se domluvili na předání aplikace pod křídla [Otevřených měst](https://www.otevrenamesta.cz).
+Pavla: Tento projekt byl vymyšlen nadšenci z Ministerstva financí. Především Honzou Vlasatým, Martinem Kopečkem a Benem Kotmelem, kteří navazovali na projekt Supervizor. Následně ministerstvo hledalo způsob, jak projekt provozovat, a s Ondřejem Profantem se domluvili na předání aplikace pod křídla [Otevřených měst](https://www.otevrenamesta.cz).
 
 **Co jsou Otevřená města?**
 
