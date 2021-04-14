@@ -34,7 +34,7 @@ const Post = ({ title, description, author, cover, date, html, langVersion, lang
 
       <Content dangerouslySetInnerHTML={{ __html: html }} />
       <Button to={'/'}>
-        <Arrow src={'/icons/arrow.svg'}></Arrow>
+        <Arrow src={'/icons/arrow-light.svg'}></Arrow>
         Zpět na všechny články
       </Button>
     </Padding>

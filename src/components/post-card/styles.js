@@ -3,7 +3,7 @@ import { Link } from 'gatsby';
 
 export const Container = styled.div`
   background: #ffffff;
-  box-shadow: 0px 4px 14px rgba(10, 10, 10, 0.07);
+  border: 2px solid rgb(237, 237, 239);
   border-radius: 14px;
   height: 100%;
   transition: all 250ms ease-in-out;
@@ -17,7 +17,7 @@ export const Padding = styled.div`
 `;
 
 export const Title = styled.h2`
-  font-family: Work Sans, sans-serif;
+  font-family: Cesko Digital, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 24px;
@@ -29,25 +29,15 @@ export const Title = styled.h2`
 
 export const Span = styled.span`
   padding-bottom: 2px;
-  border-bottom: solid 1px rgba(0, 0, 0, 0.25);
-
-  transition: all 200ms ease-in-out;
-  :hover {
-    border-bottom: solid 1px rgba(0, 0, 0, 0.6);
-  }
 `;
 
 export const StyledLink = styled(Link)`
   text-decoration: none;
   color: black;
-  :visited {
-    color: #808080;
-    opacity: 0.75;
-  }
 `;
 
 export const Description = styled.p`
-  font-family: Work Sans, sans-serif;
+  font-family: Cesko Digital, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -63,13 +53,11 @@ export const Description = styled.p`
   /* or 24px */
 
   margin-top: 10px;
-  color: #000000;
-
-  opacity: 0.75;
+  color: #080831;
 `;
 
 export const AuthorDate = styled.div`
-  font-family: Work Sans, sans-serif;
+  font-family: Cesko Digital, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;

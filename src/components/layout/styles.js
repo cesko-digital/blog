@@ -3,19 +3,15 @@ import media from './media-queries';
 
 export const Logo = styled.a`
   display: inline-block;
-  width: 134px;
-  height: 27px;
+  width: 183px;
+  height: 36px;
   background: url('/logos/logo.svg');
+  background-size: contain;
   padding: 0 !important;
   color: #1a2c29;
-  margin: 20px 20px 20px 0;
+  margin: 32px 20px 28px 0;
   &__inner {
     display: none;
-  }
-
-  &:hover {
-    transition: all 200ms ease-in-out;
-    opacity: 0.6;
   }
 
   ${media.tablet} {
@@ -25,21 +21,21 @@ export const Logo = styled.a`
 
 export const ToolbarLink = styled.a`
   vertical-align: middle;
-  color: #24211d;
+  color: #080831;
   margin: 20px;
-  font-size: 16px;
-  text-decoration: none;
-  font-weight: 400;
-  line-height: 1.4;
+  font-size: 15px;
+  text-decoration: underline;
+  font-weight: 500;
+  line-height: 1.3;
   text-overflow: ellipsis;
   overflow: hidden;
   white-space: nowrap;
   width: min-content;
-  ${(props) => (props.underline ? 'border-bottom: solid 1px rgba(0,0,0,0.5);' : '')}
+  ${(props) => (props.underline ? '' : '')}
 
   &:hover {
     transition: all 200ms ease-in-out;
-    opacity: 0.6;
+    text-decoration: none;
   }
 
   ${media.tablet} {
@@ -90,7 +86,7 @@ export const Content = styled.div`
   display: flex;
   justify-content: center;
   flex-direction: row;
-  max-width: 1140px;
+  max-width: 1200px;
   margin-right: 20px;
   margin-left: 20px;
   width: 100%;

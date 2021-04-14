@@ -8,20 +8,20 @@ import Head from './head';
 
 const ITEMS = [
   {
+    url: 'https://cesko.digital/projekty',
+    name: 'Projekty',
+    bold: false,
+    underline: false,
+  },
+  {
     name: 'Blog',
     url: '/',
     bold: false,
     underline: true,
   },
   {
-    name: 'Kdo jsme',
-    url: 'https://cesko.digital/',
-    bold: false,
-    underline: false,
-  },
-  {
-    url: 'https://cesko.digital/projekty',
-    name: 'Co děláme',
+    url: 'https://www.darujme.cz/projekt/1203553',
+    name: 'Přispět',
     bold: false,
     underline: false,
   },
@@ -38,6 +38,12 @@ const ITEMS = [
     underline: false,
   },
   {
+    url: 'https://www.linkedin.com/company/cesko-digital/',
+    name: 'LinkedIn',
+    bold: true,
+    underline: false,
+  },
+  {
     url: 'http://github.com/cesko-digital',
     name: 'Github',
     bold: true,
@@ -47,7 +53,7 @@ const ITEMS = [
 
 const MainLayout = (props) => {
   const { children } = props;
-  let navBarItems = ITEMS.slice(0, ITEMS.length - 3);
+  let navBarItems = ITEMS.slice(0, ITEMS.length - 4);
   return (
     <Layout>
       <Head />

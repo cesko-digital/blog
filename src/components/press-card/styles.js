@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Card = styled.div`
   background: #ffffff;
-  box-shadow: 0px 4px 14px rgba(10, 10, 10, 0.07);
+  border: 2px solid rgb(237, 237, 239);
   border-radius: 14px;
   padding: 20px 20px 0 20px;
   max-height: 800px;
@@ -10,16 +10,15 @@ export const Card = styled.div`
 `;
 
 export const Title = styled.h2`
-  font-family: Work Sans, sans-serif;
+  font-family: Cesko Digital, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 24px;
   line-height: 150%;
   /* identical to box height, or 36px */
 
-  color: #000000;
+  color: #080831;
   margin: 0;
-  opacity: 0.75;
 `;
 
 export const Row = styled.div`
@@ -43,7 +42,7 @@ export const Divider = styled.div`
 
 export const Text = styled.span`
   display: block;
-  font-family: Work Sans, sans-serif;
+  font-family: Cesko Digital, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
