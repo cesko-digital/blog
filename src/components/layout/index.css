@@ -8,8 +8,40 @@ html {
 
 body {
   margin: 0;
-  font-family: Work Sans, sans-serif;
+  font-family: Cesko Digital, sans-serif;
   -webkit-font-smoothing: antialiased;
-  background: #e5e5ff;
+  background: #ffffff;
   color: #21262c;
 }
+
+@font-face{
+  font-family:Cesko Digital;
+  src:url(https://data.cesko.digital/font/regular.woff2) format("woff2"),
+      url(https://data.cesko.digital/font/regular.woff) format("woff"),
+      url(https://data.cesko.digital/font/regular.eot) format("eot");
+  font-weight:400;
+  font-style:normal}
+      
+  @font-face{
+    font-family:Cesko Digital;
+    src:url(https://data.cesko.digital/font/medium.woff2) format("woff2"),
+        url(https://data.cesko.digital/font/medium.woff) format("woff"),
+        url(https://data.cesko.digital/font/medium.eot) format("eot");
+    font-weight:500;
+    font-style:normal}
+    
+  @font-face{
+    font-family:Cesko Digital;
+    src:url(https://data.cesko.digital/font/semibold.woff2) format("woff2"),
+        url(https://data.cesko.digital/font/semibold.woff) format("woff"),
+        url(https://data.cesko.digital/font/semibold.eot) format("eot");
+    font-weight:600;
+    font-style:normal}
+    
+  @font-face{
+    font-family:Cesko Digital;
+    src:url(https://data.cesko.digital/font/bold.woff2) format("woff2"),
+        url(https://data.cesko.digital/font/bold.woff) format("woff"),
+        url(https://data.cesko.digital/font/bold.eot) format("eot");
+    font-weight:700;
+    font-style:normal}

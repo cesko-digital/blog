@@ -3,7 +3,7 @@ import { Link } from 'gatsby';
 
 export const Container = styled.div`
   background: #ffffff;
-  box-shadow: 0px 4px 14px rgba(10, 10, 10, 0.07);
+  border: 2px solid rgb(237, 237, 239);
   border-radius: 14px;
 `;
 
@@ -21,11 +21,11 @@ export const Author = styled.a`
 `;
 
 export const Title = styled.h1`
-  font-family: Work Sans, sans-serif;
+  font-family: Cesko Digital, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 36px;
-  line-height: 150%;
+  line-height: 130%;
   /* identical to box height, or 36px */
 
   color: #000000;
@@ -33,16 +33,16 @@ export const Title = styled.h1`
 `;
 
 export const Description = styled.p`
-  font-family: Work Sans, sans-serif;
+  font-family: Cesko Digital, sans-serif;
   font-style: normal;
   font-weight: normal;
-  font-size: 20px;
+  font-size: 23px;
   line-height: 150%;
   /* or 30px */
 
-  color: #000000;
+  color: #080831;
 
-  opacity: 0.75;
+  opacity: 1;
   display: block;
   display: -webkit-box;
   max-width: 100%;
@@ -53,7 +53,7 @@ export const Description = styled.p`
 `;
 
 export const AuthorDate = styled.div`
-  font-family: Work Sans, sans-serif;
+  font-family: Cesko Digital, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -69,35 +69,35 @@ export const AuthorDate = styled.div`
 
 export const Button = styled(Link)`
   background: #ffffff;
-  border: 2px solid #d3d3d2;
   box-sizing: border-box;
-  border-radius: 26px;
+  border-radius: 8px;
 
-  font-family: Work Sans, sans-serif;
+  font-family: Cesko Digital, sans-serif;
   font-style: normal;
-  font-weight: bold;
-  font-size: 14px;
+  font-weight: 600;
+  font-size: 18px;
   line-height: 100%;
   /* identical to box height, or 14px */
 
   margin-top: 50px;
   text-decoration: none;
-  width: 240px;
+  width: 260px;
   display: flex;
   align-items: center;
   text-align: center;
 
-  color: #000000;
+  background-color:#0000ff;
+  color: #ffffff;
   padding: 12px 16px 12px 16px;
 
   transition: all 200ms ease-in-out;
   :hover {
-    border: 2px solid rgba(0, 0, 0, 0.6);
+    background-color:#080831;
   }
 `;
 
 export const Content = styled.div`
-  font-family: Work Sans, sans-serif;
+  font-family: Cesko Digital, sans-serif;
   font-style: normal;
 
   /* or 26px */
@@ -107,9 +107,9 @@ export const Content = styled.div`
   p {
     font-style: normal;
     font-weight: normal;
-    font-size: 16px;
+    font-size: 20px;
 
-    color: #000000;
+    color: #080831;
   }
 
   p,
@@ -137,18 +137,13 @@ export const Content = styled.div`
   }
 
   a {
-    border-bottom: 1px solid rgba(37, 110, 102, 0.25);
-    color: #256e66;
+    border-bottom: 2px solid rgba(0, 0, 255, 0.25);
+    color: #0000ff;
     text-decoration: none;
 
     :hover {
       transition: all 200ms ease-in-out;
-      color: #226259;
-    }
-
-    :visited {
-      color: #808080;
-      border-bottom: 1px solid #808080;
+      border-bottom: none;
     }
   }
 
