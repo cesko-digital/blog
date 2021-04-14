@@ -114,7 +114,7 @@ export const Content = styled.div`
 
   p,
   li {
-    line-height: 26px;
+    line-height: 30px;
   }
 
   ul,
