@@ -6,7 +6,7 @@ export const Logo = styled.a`
   width: 183px;
   height: 36px;
   background: url('/logos/logo.svg');
-  background-size:contain;
+  background-size: contain;
   padding: 0 !important;
   color: #1a2c29;
   margin: 32px 20px 28px 0;
@@ -35,7 +35,7 @@ export const ToolbarLink = styled.a`
 
   &:hover {
     transition: all 200ms ease-in-out;
-    text-decoration:none;
+    text-decoration: none;
   }
 
   ${media.tablet} {

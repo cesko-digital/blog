@@ -86,13 +86,13 @@ export const Button = styled(Link)`
   align-items: center;
   text-align: center;
 
-  background-color:#0000ff;
+  background-color: #0000ff;
   color: #ffffff;
   padding: 12px 16px 12px 16px;
 
   transition: all 200ms ease-in-out;
   :hover {
-    background-color:#080831;
+    background-color: #080831;
   }
 `;
 
