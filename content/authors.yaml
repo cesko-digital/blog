@@ -66,3 +66,7 @@
   id: lukas
   name: Lukáš Krištof
   email: lukristof.89@gmail.com
+- type: authors
+  id: tt
+  name: Tomáš Trumpeš
+  email: tomas.trumpes@gmail.com
