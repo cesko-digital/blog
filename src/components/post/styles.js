@@ -120,6 +120,7 @@ export const Content = styled.div`
   ul,
   ol {
     padding-left: 1.2em;
+    font-size: 20px;
   }
 
   img {
