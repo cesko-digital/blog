@@ -70,3 +70,7 @@
   id: tt
   name: Tomáš Trumpeš
   email: tomas.trumpes@gmail.com
+- type: authors
+  id: kaku
+  name: Kateřina Kocianová
+  email: katerina@cesko.digital
