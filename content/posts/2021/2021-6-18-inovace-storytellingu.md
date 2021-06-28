@@ -1,7 +1,7 @@
 ---
 title: 'Chceme změnit přístup Čechů ke sledování zpráv'
 cover: https://data.cesko.digital/img/e0327d87.jpg
-author: iva
+author: gabi
 date: 2021-6-18-10-02
 slug: inovace-storytellingu
 lang: cs
