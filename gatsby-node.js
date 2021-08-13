@@ -6,12 +6,17 @@ const {
   GET_PRESS_POST_SLUGS_QUERY,
   GET_BLOG_POST_SLUGS_QUERY,
 } = require('./src/helpers/node');
+const express= require('express');
 
 const path = require('path');
 const moment = require('moment');
 const siteConfig = require('./data/site-config');
 
 const postNodes = [];
+
+exports.onCreateDevServer = ({ app }) => {
+  app.use(express.static("static"))
+}
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions;
