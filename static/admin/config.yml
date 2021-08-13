@@ -1,0 +1,24 @@
+
+backend:
+  name: github
+  repo: cesko-digital/blog
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+publish_mode: editorial_workflow
+site_url: "https://blog.cesko.digital"
+collections:
+  - label: "Posts"
+    label_singular: "Post"
+    name: "posts"
+    folder: "content/posts"
+    nested:
+      depth: 3
+      summary: '{{year}}'
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        required: true
+      - label: "Text"
+        name: "body"
+        widget: "markdown"
