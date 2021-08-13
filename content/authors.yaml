@@ -94,3 +94,7 @@
   name: Lukáš Vaňous
   id: lvanous
   email: lukas.vanous@gmail.com
+- type: authors
+  name: Matěj Horák
+  id: horm
+  email: horm@horm.codes
