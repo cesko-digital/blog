@@ -11,9 +11,11 @@ collections:
     label_singular: "Post"
     name: "posts"
     folder: "content/posts"
-    nested:
-      depth: 3
-      summary: '{{year}}'
+    path: '{{year}}/{{year}}-{{month}}-{{day}}-{{slug}}'
+    view_groups:
+      - label: Year
+        field: date
+        pattern: \d{4}
     fields:
       - label: "Title"
         name: "title"
