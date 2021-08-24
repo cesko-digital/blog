@@ -2,7 +2,7 @@
 title: 'Dobrovolníci jsou už 2 roky náš hnací motor – 2. část'
 cover: https://data.cesko.digital/img/aa411096.jpg
 author: gabi
-date: 2021-8-13-08-24
+date: 2021-8-24
 slug: leadership-rozhovor-2
 lang: cs
 description: 'V Česko.Digital jsme oslavili druhé narozeniny a připomněli si, čeho jsme za tu dobu dosáhli. Projekty jako Dáme roušky, Covid portál či Učíme online jsou jen částí aktivit, kterými jsme se snažili pomoct nebo změnit Česko k lepšímu. Jak se bude Česko.Digital dál vyvíjet, záleží velkou mírou i na samotných dobrovolnících, kterých je v tuto chvíli už přes 4000. Jak se pracuje s dobrovolníky, odkud čerpáme inspiraci a proč chceme působit i za hranicemi Česka? Dočtěte 2. část rozhovoru.'
