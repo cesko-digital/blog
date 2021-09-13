@@ -2,6 +2,8 @@
 backend:
   name: github
   repo: cesko-digital/blog
+  base_url: https://oauth.cesko.digital
+  auth_endpoint: /auth
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
 publish_mode: editorial_workflow
