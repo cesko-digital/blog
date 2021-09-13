@@ -1,11 +1,17 @@
 ---
-title: 'Dobrovolníci jsou už 2 roky náš hnací motor – 2. část'
-cover: https://data.cesko.digital/img/aa411096.jpg
+title: Dobrovolníci jsou už 2 roky náš hnací motor – druhá část
 author: gabi
+cover: https://data.cesko.digital/img/aa411096.jpg
 date: 2021-8-24
 slug: leadership-rozhovor-2
+description: V Česko.Digital jsme oslavili druhé narozeniny a připomněli si,
+  čeho jsme za tu dobu dosáhli. Projekty jako Dáme roušky, Covid portál či Učíme
+  online jsou jen částí aktivit, kterými jsme se snažili pomoct nebo změnit
+  Česko k lepšímu. Jak se bude Česko.Digital dál vyvíjet, záleží velkou mírou i
+  na samotných dobrovolnících, kterých je v tuto chvíli už přes 4000. Jak se
+  pracuje s dobrovolníky, odkud čerpáme inspiraci a proč chceme působit i za
+  hranicemi Česka? Dočtěte 2. část rozhovoru.
 lang: cs
-description: 'V Česko.Digital jsme oslavili druhé narozeniny a připomněli si, čeho jsme za tu dobu dosáhli. Projekty jako Dáme roušky, Covid portál či Učíme online jsou jen částí aktivit, kterými jsme se snažili pomoct nebo změnit Česko k lepšímu. Jak se bude Česko.Digital dál vyvíjet, záleží velkou mírou i na samotných dobrovolnících, kterých je v tuto chvíli už přes 4000. Jak se pracuje s dobrovolníky, odkud čerpáme inspiraci a proč chceme působit i za hranicemi Česka? Dočtěte 2. část rozhovoru.'
 ---
 
 V panelové diskusi v příjemných prostorách coworkingového centra Opero v Praze se o realizovaných projektech, vizi do budoucna a udržitelném fungování Česko.Digital rozpovídali členové leadership týmu Eva Pavlíková (Co-Founder & CEO), Eva Zehnálková (Chief Marketing Officer), Tereza Gagnon (Head of Partnerships / Fundraising), Romana Pokorná (Chief Delivery Officer) a naši CTO Tomáš Znamenáček a Martin Wenisch. První část rozhovoru najdete také [na našem blogu](https://blog.cesko.digital/2021/08/leadership-rozhovor-1?utm_source=blog&utm_medium=%C4%8Dl%C3%A1nek&utm_campaign=Dobrovoln%C3%ADci+jsou+u%C5%BE+2+roky+n%C3%A1%C5%A1+hnac%C3%AD+motor+%E2%80%93+1.+%C4%8D%C3%A1st).
