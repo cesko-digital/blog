@@ -102,3 +102,15 @@
   name: Zuzana Šrůmová
   id: zu
   email: zu.srumova@gmail.com
+- type: authors
+  name: Lukáš Návesník
+  id: lukas.n
+  email: lukas.navesnik@cesko.digital
+- type: authors
+  name: Tereza Lattová
+  id: tereza.lattova
+  email: tereza.lattova@cesko.digital
+- type: authors
+  name: Jan Hobler
+  id: jan.hobler
+  email: hobler.jan@gmail.com
