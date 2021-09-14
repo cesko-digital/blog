@@ -26,15 +26,15 @@ Projektový tým by chtěl inovovaný web dostat už během prvního měsíce od
 
 Nedlužíte státu i vy? **Ověřte si případné dluhy na webu [Nedlužím státu](https://nedluzimstatu.cz/)** a rovnou si celé prostředí i s novými funkcionalitami otestujte. Zpětná vazba je samozřejmě vítaná – ozvat se můžete v kanálu [na Slacku](https://cesko-digital.slack.com/archives/CHTQQN5AL) nebo na email [podnety@nedluzimstatu.cz](<>). Děkujeme!
 
-## Členové týmu
+# Členové týmu
 
-### Zakladatelé
+## Zakladatelé
 
 **Radek Hábl** – zakladatel projektu / IPŘP
 
 **Petra Adamovská** – spoluzakladatelka projektu / IPŘP
 
-### Koordinace
+## Koordinace
 
 **Tomáš Walek** – projektový koordinátor / č.d
 
@@ -46,7 +46,7 @@ Nedlužíte státu i vy? **Ověřte si případné dluhy na webu [Nedlužím st�
 
 **Josef Frnka** – analytika / č.d
 
-### UX, design a grafika
+## UX, design a grafika
 
 **Tomáš Svěrák** – UX, UI, design / č.d
 
@@ -56,7 +56,7 @@ Nedlužíte státu i vy? **Ověřte si případné dluhy na webu [Nedlužím st�
 
 **Lenka Široká** – webdesignérka / VOŠG
 
-### Marketing
+## Marketing
 
 **Jana Kneschke** – koordinátorka marketingu a komunikace / č.d
 
@@ -74,7 +74,7 @@ Nedlužíte státu i vy? **Ověřte si případné dluhy na webu [Nedlužím st�
 
 **Jiří Horváth** – Google Analytics / č.d
 
-### Vývoj
+## Vývoj
 
 **Míla Votradovec** – tech lead / č.d
 
@@ -92,7 +92,9 @@ Nedlužíte státu i vy? **Ověřte si případné dluhy na webu [Nedlužím st�
 
 **Filip Jirsák** – konzultace, vývoj / č.d
 
-### Za spolupráci také děkujeme
+
+
+## Za spolupráci také děkujeme
 
 **Tomáš Zemanec** – projektový koordinátor / č.d
 
