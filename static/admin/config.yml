@@ -16,7 +16,7 @@ collections:
     folder: "content/posts"
     path: '{{year}}/{{year}}-{{month}}-{{day}}-{{slug}}'
     create: true
-    slug: '{{field.slug}}'
+    slug: '{{fields.slug}}'
     view_groups:
       - label: Year
         field: date
@@ -47,6 +47,7 @@ collections:
         name: "slug"
         widget: "string"
         required: true
+        slug: '{{title}}'
       - label: "Description"
         name: "description"
         widget: "string"
