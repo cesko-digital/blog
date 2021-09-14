@@ -1,11 +1,8 @@
-# Local Netlify folder
-.netlify
 .cache
 public
 .idea
 node_modules
 .DS_Store
 .vscode
-# We use yarn(.lock)
 package-lock.json
-/.vs
+.vercel
