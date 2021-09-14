@@ -2,7 +2,7 @@
 title: Nedlužím státu? Občané díky novým funkcím portálu vyřeší případné dluhy
   zase o něco snadněji
 author: jan.hobler
-cover: https://data.cesko.digital/img/zacni-ucit-web.png
+cover: https://data.cesko.digital/img/Nedluzim_statu_launch_1.5_final.png
 date: 2021-09-14-02-42
 slug: novy-web-nedluzim-statu
 description: Věděli jste, že poplatky za psa nebo zapomenutý rest z pokuty v
