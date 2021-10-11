@@ -4,7 +4,7 @@ title: "Od perfekcionismu k flexibilitě: Jak se vytvářela nová verze webu
 author: zaneta
 cover: https://data.cesko.digital/img/nedluzim_statu_1.5.png
 date: 2021-10-11-07-52
-slug: nova-verze-webu-nedluzim-statu
+slug: rozhovor-nova-verze-webu-nedluzim-statu
 description: Od spuštění nové verze webu projektu Nedlužím státu uběhl měsíc. A
   my jsme těsně předtím vyzpovídali dobrovolníky, kteří se na jeho tvorbě
   podíleli. UX designér Tomáš Svěrák a tech lead Míla Votradovec vám prozradí,
