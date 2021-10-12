@@ -12,7 +12,7 @@ description: Od spuštění nové verze stránek projektu Nedlužím státu ubě
   by chtěli web za pár let vypnout.
 lang: cs
 ---
-**Jak náročný byl přesun z vývojového prostředí v Česko.Digital pod zadavatele projektu, Radka Hábla? Kolik potřeboval času a naskytly se během projektu nějaké nesnáze?**
+#### **Jak náročný byl přesun z vývojového prostředí v Česko.Digital pod zadavatele projektu, Radka Hábla? Kolik potřeboval času a naskytly se během projektu nějaké nesnáze?**
 
  
 
@@ -20,7 +20,7 @@ lang: cs
 
 
 
-**Tomáši, ty jsi do projektu Nedlužím státu nastoupil nově a přišel jsi úplně s novým pohledem na vzhled webu. Co jsi změnil a proč jsi nezůstal u původního vzhledu?**
+#### **Tomáši, ty jsi do projektu Nedlužím státu nastoupil nově a přišel jsi úplně s novým pohledem na vzhled webu. Co jsi změnil a proč jsi nezůstal u původního vzhledu?**
 
  
 
@@ -28,7 +28,7 @@ lang: cs
 
 
 
-**Kolik času jsi tím strávil?**
+#### **Kolik času jsi tím strávil?**
 
  
 
@@ -36,7 +36,7 @@ lang: cs
 
  
 
-**Co si myslíš o přínosu UX designera při stavbě jakéhokoliv webu? Proč je důležitý a co je při této práci zásadní?**
+#### **Co si myslíš o přínosu UX designera při stavbě jakéhokoliv webu? Proč je důležitý a co je při této práci zásadní?**
 
   
 
@@ -60,7 +60,7 @@ U [nedluzimstatu.cz](http://nedluzimstatu.cz/) se ukázalo, že některé nápad
 
  
 
-**Dalším přínosem nového řešení webu je jeho digitalizace, kdy uživatel na podstránce s generováním žádostí zadá potřebné osobní údaje pouze jednou, a ty se již propíší do vybraných formulářů pro jednotlivé státní úřady. Jak probíhal vývoj této automatizace? A je něco, co se při tom nepovedlo hned napoprvé?**
+#### **Dalším přínosem nového řešení webu je jeho digitalizace, kdy uživatel na podstránce s generováním žádostí zadá potřebné osobní údaje pouze jednou, a ty se již propíší do vybraných formulářů pro jednotlivé státní úřady. Jak probíhal vývoj této automatizace? A je něco, co se při tom nepovedlo hned napoprvé?**
 
  
 
@@ -72,7 +72,7 @@ U [nedluzimstatu.cz](http://nedluzimstatu.cz/) se ukázalo, že některé nápad
 
  
 
-**Jak hodnotíte spolupráci UX a vývoje celkem? Co byste dnes možná udělali jinak?**
+#### **Jak hodnotíte spolupráci UX a vývoje celkem? Co byste dnes možná udělali jinak?**
 
  
 
@@ -88,7 +88,7 @@ A co bych dnes udělal jinak? Napadají mě jen procesní záležitosti, napří
 
  
 
-**Co se vám naopak povedlo a co byste doporučili jiným projektům Česko.Digital nebo odborníkům ve vaší oblasti?**
+#### **Co se vám naopak povedlo a co byste doporučili jiným projektům Česko.Digital nebo odborníkům ve vaší oblasti?**
 
  
 
@@ -108,7 +108,7 @@ Velkou zásluhu na tom, že tým odvedl dobrou práci, měl náš koordinátor, 
 
  
 
-**Jaký je váš nejemotivnější zážitek během vašeho působení na tomto projektu?**
+#### **Jaký je váš nejemotivnější zážitek během vašeho působení na tomto projektu?**
 
  
 
@@ -120,7 +120,7 @@ Velkou zásluhu na tom, že tým odvedl dobrou práci, měl náš koordinátor, 
 
  
 
-**Co chcete projektu, potažmo jeho zadavateli popřát do následujících let?**
+#### **Co chcete projektu, potažmo jeho zadavateli popřát do následujících let?**
 
  
 
