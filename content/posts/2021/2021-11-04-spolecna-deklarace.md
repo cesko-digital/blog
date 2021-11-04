@@ -17,7 +17,7 @@ lang: cs
 ---
 ## Znění celé deklarace
 
-**Fungování státní správy v České republice není vyhovující ani pro řešení běžných problémů, natož pro zvládání krizí.** Jsme přesvědčeni, že státní správa vyžaduje významnou organizační transformaci. Na nízkou efektivitu státní správy a její limity totiž běžně naráží nejen občané, ale při snaze realizovat své priority také každá vláda. Podmínkou úspěšné transformace státní správy je, že vláda za transformaci převezme odpovědnost a ustaví k jejím dílčím cílům kompetentní týmy, které budou realizaci na denní bázi spravovat.*
+**Fungování státní správy v České republice není vyhovující ani pro řešení běžných problémů, natož pro zvládání krizí.** Jsme přesvědčeni, že státní správa vyžaduje významnou organizační transformaci. Na nízkou efektivitu státní správy a její limity totiž běžně naráží nejen občané, ale při snaze realizovat své priority také každá vláda. Podmínkou úspěšné transformace státní správy je, že vláda za transformaci převezme odpovědnost a ustaví k jejím dílčím cílům kompetentní týmy, které budou realizaci na denní bázi spravovat.
 
 **Experti, nezávislé analýzy i samotní státní zaměstnanci upozorňují na velmi nízkou efektivitu státní správy,** která se projevuje mimo jiné pomalostí, administrativní náročností procesů, nepředvídatelností budoucích kroků a neschopností přicházet s řešeními aktuálních komplexních výzev (od digitalizace po vzdělávání). Prvotním projevem neefektivity je nedostatečná kvalita služeb, které státní správa poskytuje občanům a politikům. 
 
@@ -83,8 +83,6 @@ Tomáš **Havel**, vysokoškolský pedagog Právnické fakulty Univerzity Karlov
 Tomáš **Louda**, vedoucí Katedry veřejné správy Západočeské univerzity v Plzni
 
 Lukáš **Tóth**, ekonom a spoluzakladatel Behavio Labs
-
-
 
 ## Proč je modernizace státní správy potřeba?
 
