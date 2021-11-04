@@ -17,7 +17,7 @@ lang: cs
 ---
 ## Znění celé deklarace
 
-**Fungování státní správy v České republice není vyhovující ani pro řešení běžných problémů, natož pro zvládání krizí.** Jsme přesvědčeni, že státní správa vyžaduje významnou organizační transformaci. Na nízkou efektivitu státní správy a její limity totiž běžně naráží nejen občané, ale při snaze realizovat své priority také každá vláda. Podmínkou úspěšné transformace státní správy je, že vláda za transformaci převezme odpovědnost a ustaví k jejím dílčím cílům kompetentní týmy, které budou realizaci na denní bázi spravovat.*
+**Fungování státní správy v České republice není vyhovující ani pro řešení běžných problémů, natož pro zvládání krizí.** Jsme přesvědčeni, že státní správa vyžaduje významnou organizační transformaci. Na nízkou efektivitu státní správy a její limity totiž běžně naráží nejen občané, ale při snaze realizovat své priority také každá vláda. Podmínkou úspěšné transformace státní správy je, že vláda za transformaci převezme odpovědnost a ustaví k jejím dílčím cílům kompetentní týmy, které budou realizaci na denní bázi spravovat.
 
 **Experti, nezávislé analýzy i samotní státní zaměstnanci upozorňují na velmi nízkou efektivitu státní správy,** která se projevuje mimo jiné pomalostí, administrativní náročností procesů, nepředvídatelností budoucích kroků a neschopností přicházet s řešeními aktuálních komplexních výzev (od digitalizace po vzdělávání). Prvotním projevem neefektivity je nedostatečná kvalita služeb, které státní správa poskytuje občanům a politikům. 
 
@@ -84,43 +84,41 @@ Tomáš **Louda**, vedoucí Katedry veřejné správy Západočeské univerzity 
 
 Lukáš **Tóth**, ekonom a spoluzakladatel Behavio Labs
 
-
-
 ## Proč je modernizace státní správy potřeba?
 
-*Státní správa uspokojivě nezvládá ani běžnou servisní činnost, natož aby uměla řešit náhlé krize či se připravovat na očekávané společenské změny a jejich management, o čemž vypovídají jak nezávislé analýzy, včetně mezinárodních, tak názory české veřejnosti i samotných zaměstnanců státní správy. Strategické dokumenty, které navrhují pozitivní řešení, zůstávají nenaplněny, stejně jako zůstávají bez reálné odezvy v krocích politků vládou zadané analýzy současného  stavu.*
+Státní správa uspokojivě nezvládá ani běžnou servisní činnost, natož aby uměla řešit náhlé krize či se připravovat na očekávané společenské změny a jejich management, o čemž vypovídají jak nezávislé analýzy, včetně mezinárodních, tak názory české veřejnosti i samotných zaměstnanců státní správy. Strategické dokumenty, které navrhují pozitivní řešení, zůstávají nenaplněny, stejně jako zůstávají bez reálné odezvy v krocích politků vládou zadané analýzy současného stavu.
 
 **Důvody pro modernizaci státní správy:**
 
 1. **Občané i státní úředníci jsou se státní správou nespokojeni a požadují její reformu.**
 
-*Občané nejsou spokojeni s úrovní poskytovaných služeb. Státní správu považují za pomalou (83 %), byrokratickou (82 %), zkorumpovanou (70 %) a nevstřícnou (67 %). Podobně o ní smýšlí i státní zaměstnanci. Reformu považuje za nezbytnou 81 % občanů (59 % chce zásadní reformu). Nespokojenost se stavem státní správy vyjadřují i státní zaměstnanci, ti reformu považují za nezbytnou v 74 % případů (47 % chce zásadní reformu). ([The Aspen Institute Central Europe & NMS Market Research, 2021. Vnímání státní správy: Závěrečná zpráva.](https://s3.eu-central-1.amazonaws.com/uploads.mangoweb.org/shared-prod/aspeninstitutece.org/uploads/2021/06/NMS_Vnimani-statni-spravy_2021-06-18.pdf))*
+Občané nejsou spokojeni s úrovní poskytovaných služeb. Státní správu považují za pomalou (83 %), byrokratickou (82 %), zkorumpovanou (70 %) a nevstřícnou (67 %). Podobně o ní smýšlí i státní zaměstnanci. Reformu považuje za nezbytnou 81 % občanů (59 % chce zásadní reformu). Nespokojenost se stavem státní správy vyjadřují i státní zaměstnanci, ti reformu považují za nezbytnou v 74 % případů (47 % chce zásadní reformu). ([The Aspen Institute Central Europe & NMS Market Research, 2021. Vnímání státní správy: Závěrečná zpráva.](https://s3.eu-central-1.amazonaws.com/uploads.mangoweb.org/shared-prod/aspeninstitutece.org/uploads/2021/06/NMS_Vnimani-statni-spravy_2021-06-18.pdf))
 
 2. **Česká státní správa v mezinárodním srovnání výkonu významně zaostává.**
 
-*ČR se v Global Competitiveness Report umístila v klíčovém ukazateli výkonu veřejného sektoru mezi nejhoršími (Public-sector performance - 99. místo ze 141), mimo jiné kvůli podoblastem “Efficiency of legal framework in settling disputes” (#85), “Burden of government regulation” (#121) či “E-Participation” (#89). ([World Economic Forum, 2019. Global Competitiveness Report](https://www3.weforum.org/docs/WEF_TheGlobalCompetitivenessReport2019.pdf)). V oblasti poskytování veřejných digitální služeb se ČR pohybuje hluboko pod průměrem EU ([Index digitální ekonomiky a společnosti 2020 (DESI)](https://digital-strategy.ec.europa.eu/en/library/digital-economy-and-society-index-desi-2020), Digital public services - 22. místo z 28).*
+ČR se v Global Competitiveness Report umístila v klíčovém ukazateli výkonu veřejného sektoru mezi nejhoršími (Public-sector performance - 99. místo ze 141), mimo jiné kvůli podoblastem “Efficiency of legal framework in settling disputes” (#85), “Burden of government regulation” (#121) či “E-Participation” (#89). ([World Economic Forum, 2019. Global Competitiveness Report](https://www3.weforum.org/docs/WEF_TheGlobalCompetitivenessReport2019.pdf)). V oblasti poskytování veřejných digitální služeb se ČR pohybuje hluboko pod průměrem EU ([Index digitální ekonomiky a společnosti 2020 (DESI)](https://digital-strategy.ec.europa.eu/en/library/digital-economy-and-society-index-desi-2020), Digital public services - 22. místo z 28).
 
 3. **Služební zákon nesplnil očekávání. Mnohé problémy zůstávají.**
 
-*Zákon o státní službě sice přispěl ke zvýšení transparentnosti a stability státní správy. Profesionalizovat ani plně odpolitizovat státní správu se však nepodařilo. Negativně se zákon podepsal na efektivitě a výkonnosti. ([KPMG, 2019. Zpráva z ex post hodnocení dopadů regulace (RIA) k zákonu č. 234/2014 Sb., o státní službě](https://texty.hlidacstatu.cz/wp-content/uploads/2021/04/Zprava_z_ex-post_hodnoceni_dopadu_regulace_RIA.pdf).)*
+Zákon o státní službě sice přispěl ke zvýšení transparentnosti a stability státní správy. Profesionalizovat ani plně odpolitizovat státní správu se však nepodařilo. Negativně se zákon podepsal na efektivitě a výkonnosti. ([KPMG, 2019. Zpráva z ex post hodnocení dopadů regulace (RIA) k zákonu č. 234/2014 Sb., o státní službě](https://texty.hlidacstatu.cz/wp-content/uploads/2021/04/Zprava_z_ex-post_hodnoceni_dopadu_regulace_RIA.pdf).)
 
 4. **Samotná česká státní správa si své problémy uvědomuje. Nikdo je ale neřeší.**
 
-*Veřejná správa hovoří kromě jiného o nedostatečných analytických kapacitách nebo centrální evidenci dat či jejich nekoordinovaném sběru. ([Vláda ČR, 2020. Koncepce Klientsky orientovaná veřejná správa 2030](https://www.mvcr.cz/clanek/koncepce-klientsky-orientovana-verejna-sprava-2030.aspx)) Na efektivitě vládnutí se negativně podepisuje orientace činnosti státní správy primárně na operativní aktivity na úkor těch strategických. ([Úřad vlády ČR, 2017. Strategický rámec Česká republika 2030](https://www.cr2030.cz/strategie/)) Ve státní správě neexistuje systém pro přenos vědeckých poznatků do praxe vládnutí. Státní správa tak neposkytuje politikům potřebné odborné zázemí pro jejich rozhodování. ([OCHRANA, František and Arnošt VESELÝ, Martin NEKOLA, Blanka TOLLAROVÁ. Ministerští úředníci ČR a využívání sociálně vědních poznatků. Vojenské rozhledy. 2018, 27 (2), 109-124.](https://www.vojenskerozhledy.cz/kategorie-clanku/vyuziti-poznatku-uredniky)).*
+Veřejná správa hovoří kromě jiného o nedostatečných analytických kapacitách nebo centrální evidenci dat či jejich nekoordinovaném sběru. ([Vláda ČR, 2020. Koncepce Klientsky orientovaná veřejná správa 2030](https://www.mvcr.cz/clanek/koncepce-klientsky-orientovana-verejna-sprava-2030.aspx)) Na efektivitě vládnutí se negativně podepisuje orientace činnosti státní správy primárně na operativní aktivity na úkor těch strategických. ([Úřad vlády ČR, 2017. Strategický rámec Česká republika 2030](https://www.cr2030.cz/strategie/)) Ve státní správě neexistuje systém pro přenos vědeckých poznatků do praxe vládnutí. Státní správa tak neposkytuje politikům potřebné odborné zázemí pro jejich rozhodování. ([OCHRANA, František and Arnošt VESELÝ, Martin NEKOLA, Blanka TOLLAROVÁ. Ministerští úředníci ČR a využívání sociálně vědních poznatků. Vojenské rozhledy. 2018, 27 (2), 109-124.](https://www.vojenskerozhledy.cz/kategorie-clanku/vyuziti-poznatku-uredniky)).
 
 ![](https://data.cesko.digital/img/spolecna_deklarace/postoj_verejnosti.png)
 
 ![](https://data.cesko.digital/img/spolecna_deklarace/postoj_statnich_zamestnancu.png)
 
-*Zdroj: [The Aspen Institute Central Europe & NMS Market Research, 2021. Vnímání státní správy: Závěrečná zpráva.](https://s3.eu-central-1.amazonaws.com/uploads.mangoweb.org/shared-prod/aspeninstitutece.org/uploads/2021/06/NMS_Vnimani-statni-spravy_2021-06-18.pdf) Vlastní zpracování.*
+Zdroj: [The Aspen Institute Central Europe & NMS Market Research, 2021. Vnímání státní správy: Závěrečná zpráva.](https://s3.eu-central-1.amazonaws.com/uploads.mangoweb.org/shared-prod/aspeninstitutece.org/uploads/2021/06/NMS_Vnimani-statni-spravy_2021-06-18.pdf) Vlastní zpracování.
 
 ## Pilíře modernizace
 
-*K modernizaci státní správy může výrazně přispět zejména uskutečnění klíčových kroků ve třech pilířích, kterými jsou: efektivnější řízení státní správy a kvalitnější management (Pilíř I), zavádění prvků informovaného vládnutí (Pilíř II) a provedení skutečné digitální transformace (Pilíř III). Spustit modernizaci je nezbytné ve všech pilířích. Důležité jsou první rychlé kroky, primárně ustanovení realizačních týmů pro každý pilíř a zaměření se v realizaci na v krátkém horizontu dosažitelné pozitivní cíle. Současně je ale třeba, aby realizační týmy pracovaly na komplexní reformě, která bude mít politickou podporu.*
+K modernizaci státní správy může výrazně přispět zejména uskutečnění klíčových kroků ve třech pilířích, kterými jsou: efektivnější řízení státní správy a kvalitnější management (Pilíř I), zavádění prvků informovaného vládnutí (Pilíř II) a provedení skutečné digitální transformace (Pilíř III). Spustit modernizaci je nezbytné ve všech pilířích. Důležité jsou první rychlé kroky, primárně ustanovení realizačních týmů pro každý pilíř a zaměření se v realizaci na v krátkém horizontu dosažitelné pozitivní cíle. Současně je ale třeba, aby realizační týmy pracovaly na komplexní reformě, která bude mít politickou podporu.
 
 ## **Informace o autorských organizacích**
 
-*Jsme zástupci občanského sektoru, kteří se dlouhodobě zabývají kvalitou vládnutí v České republice. Uvědomujeme si, že česká státní správa není už dlouho v dobré kondici. Právě proto jsme přesvědčeni, že je nejvyšší čas zahájit její modernizaci, chceme-li jako společnost obstát před výzvami budoucnosti.  Víme, že modernizace je náročným úkolem. Nástroje k jejímu provedení třímá v rukou politická reprezentace. My, jako zástupci občanského sektoru, nabízíme pomocnou ruku.*
+Jsme zástupci občanského sektoru, kteří se dlouhodobě zabývají kvalitou vládnutí v České republice. Uvědomujeme si, že česká státní správa není už dlouho v dobré kondici. Právě proto jsme přesvědčeni, že je nejvyšší čas zahájit její modernizaci, chceme-li jako společnost obstát před výzvami budoucnosti.  Víme, že modernizace je náročným úkolem. Nástroje k jejímu provedení třímá v rukou politická reprezentace. My, jako zástupci občanského sektoru, nabízíme pomocnou ruku.
 
 ![](http://data.cesko.digital/img/spolecna_deklarace/pilire-grafika.png)
 
