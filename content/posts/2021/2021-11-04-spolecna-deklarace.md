@@ -4,16 +4,19 @@ author: eva
 cover: http://data.cesko.digital/img/spolecna_deklarace/pilire-grafika.png
 date: 2021-11-04-12-18
 slug: spolecna-deklarace
-description: Fungování státní správy v České republice není vyhovující ani pro
-  řešení běžných problémů, natož pro zvládání krizí. Jsme přesvědčeni, že státní
-  správa vyžaduje významnou organizační transformaci. Na nízkou efektivitu
-  státní správy a její limity totiž běžně naráží nejen občané, ale při snaze
-  realizovat své priority také každá vláda. Podmínkou úspěšné transformace
-  státní správy je, že vláda za transformaci převezme odpovědnost a ustaví k
-  jejím dílčím cílům kompetentní týmy, které budou realizaci na denní bázi
-  spravovat.
+description: Pokud je prostor, vždy hledáme spolupráci a synergii. A jedna
+  taková spolupráce napříč aktéry se podařila v tématu modernizace státní
+  správy. Jsme moc rádi, že jsme společně s organizacemi Aspen Institute Central
+  Europe, Rekonstrukce státu, Nadace OSF, České priority a Hlídač státu
+  spoluautory deklarace, která spojuje neziskové organizace, experty, akademiky
+  i podnikatele. Apelujeme na vládu, aby modernizaci státní správy zařadila mezi
+  své priority a zároveň nabízíme pomocnou ruku, protože modernizace je
+  společným zájmem nás všech. Chcete vědět, co organizace deklarují a jakou
+  změnu podporují? Přečtěte si celé znění deklarace.
 lang: cs
 ---
+***Fungování státní správy v České republice není vyhovující ani pro řešení běžných problémů, natož pro zvládání krizí.** Jsme přesvědčeni, že státní správa vyžaduje významnou organizační transformaci. Na nízkou efektivitu státní správy a její limity totiž běžně naráží nejen občané, ale při snaze realizovat své priority také každá vláda. Podmínkou úspěšné transformace státní správy je, že vláda za transformaci převezme odpovědnost a ustaví k jejím dílčím cílům kompetentní týmy, které budou realizaci na denní bázi spravovat.*
+
 **Experti, nezávislé analýzy i samotní státní zaměstnanci upozorňují na velmi nízkou efektivitu státní správy,** která se projevuje mimo jiné pomalostí, administrativní náročností procesů, nepředvídatelností budoucích kroků a neschopností přicházet s řešeními aktuálních komplexních výzev (od digitalizace po vzdělávání). Prvotním projevem neefektivity je nedostatečná kvalita služeb, které státní správa poskytuje občanům a politikům. 
 
 Současně zdůrazňujeme, že **tato deklarace není kritikou státních zaměstnanců**, kteří často dělají, co mohou, podávají i nadstandardní výkony v prostředí, které tomu nepřeje, a marně hledají podporu, uznání a zastání. 
