@@ -2,7 +2,7 @@
 title: "Společná deklarace: Je nejvyšší čas modernizovat státní správu"
 author: eva
 cover: http://data.cesko.digital/img/spolecna_deklarace/pilire-grafika.png
-date: 2021-11-04-12-18
+date: 2021-11-04-03-14
 slug: spolecna-deklarace
 description: Pokud je prostor, vždy hledáme spolupráci a synergii. A jedna
   taková spolupráce napříč aktéry se podařila v tématu modernizace státní
