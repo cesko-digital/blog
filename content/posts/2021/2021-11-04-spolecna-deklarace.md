@@ -15,7 +15,9 @@ description: Pokud je prostor, vždy hledáme spolupráci a synergii. A jedna
   změnu podporují? Přečtěte si celé znění deklarace.
 lang: cs
 ---
-***Fungování státní správy v České republice není vyhovující ani pro řešení běžných problémů, natož pro zvládání krizí.** Jsme přesvědčeni, že státní správa vyžaduje významnou organizační transformaci. Na nízkou efektivitu státní správy a její limity totiž běžně naráží nejen občané, ale při snaze realizovat své priority také každá vláda. Podmínkou úspěšné transformace státní správy je, že vláda za transformaci převezme odpovědnost a ustaví k jejím dílčím cílům kompetentní týmy, které budou realizaci na denní bázi spravovat.*
+## Znění celé deklarace
+
+**Fungování státní správy v České republice není vyhovující ani pro řešení běžných problémů, natož pro zvládání krizí.** Jsme přesvědčeni, že státní správa vyžaduje významnou organizační transformaci. Na nízkou efektivitu státní správy a její limity totiž běžně naráží nejen občané, ale při snaze realizovat své priority také každá vláda. Podmínkou úspěšné transformace státní správy je, že vláda za transformaci převezme odpovědnost a ustaví k jejím dílčím cílům kompetentní týmy, které budou realizaci na denní bázi spravovat.*
 
 **Experti, nezávislé analýzy i samotní státní zaměstnanci upozorňují na velmi nízkou efektivitu státní správy,** která se projevuje mimo jiné pomalostí, administrativní náročností procesů, nepředvídatelností budoucích kroků a neschopností přicházet s řešeními aktuálních komplexních výzev (od digitalizace po vzdělávání). Prvotním projevem neefektivity je nedostatečná kvalita služeb, které státní správa poskytuje občanům a politikům. 
 
@@ -81,6 +83,8 @@ Tomáš **Havel**, vysokoškolský pedagog Právnické fakulty Univerzity Karlov
 Tomáš **Louda**, vedoucí Katedry veřejné správy Západočeské univerzity v Plzni
 
 Lukáš **Tóth**, ekonom a spoluzakladatel Behavio Labs
+
+
 
 ## Proč je modernizace státní správy potřeba?
 
@@ -148,4 +152,4 @@ Nadace OSF je česká nadace s 30 letou historií. Jejím posláním je podpoři
 
 Rekonstrukce státu už osmým rokem prosazuje protikorupční zákony a opatření pro dobrou správu. Tvoří ji právníci, experti, podnikatelé a všichni občané, kterým záleží na transparentní a odpovědné politice. Iniciátorem vzniku Rekonstrukce státu byl v roce 2013 tým právníků Frank Bold. Mezi její garantské organizace patří kromě Frank Bold ještě Hlídač státu, Oživení, Otevřená společnost a Datlab Institut. Mezi nejvýznamnější úspěchy Rekonstrukce státu patří prosazení registru smluv, ve kterém musí být zveřejněné všechny státem uzavřené smlouvy, nebo zákon o evidenci skutečných majitelů, který zakazuje přidělit dotaci nebo veřejnou zakázku firmě s nejasnou vlastnickou strukturou. Více informací o aktivitách a týmu Rekonstrukce státu najdete na [www.rekonstrukcestatu.cz](http://www.rekonstrukcestatu.cz/).
 
-Dokument s deklarací ke stažení [ZDE](https://docs.google.com/document/d/1JLzdsUBhvBMdWXJEujLxxzLQjeBB3R1FycmUXTiFMgY/edit#heading=h.qo1xj74gondc).
+Dokument s deklarací ke stažení [ZDE](https://data.cesko.digital/img/spolecna_deklarace/spolecna_deklarace.pdf).
