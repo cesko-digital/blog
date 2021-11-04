@@ -115,7 +115,7 @@ Lukáš **Tóth**, ekonom a spoluzakladatel Behavio Labs
 
 *Jsme zástupci občanského sektoru, kteří se dlouhodobě zabývají kvalitou vládnutí v České republice. Uvědomujeme si, že česká státní správa není už dlouho v dobré kondici. Právě proto jsme přesvědčeni, že je nejvyšší čas zahájit její modernizaci, chceme-li jako společnost obstát před výzvami budoucnosti.  Víme, že modernizace je náročným úkolem. Nástroje k jejímu provedení třímá v rukou politická reprezentace. My, jako zástupci občanského sektoru, nabízíme pomocnou ruku.*
 
-![]()
+![](http://data.cesko.digital/img/spolecna_deklarace/pilire-grafika.png)
 
 **Aspen Institute Central Europe**
 
