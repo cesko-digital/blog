@@ -31,11 +31,11 @@ Zároveň deklarujeme zájem tento dlouhodobý proces podporovat a spolupracovat
 
 **Autoři společné deklarace:**
 
-![]()
+![](https://data.cesko.digital/img/spolecna_deklarace/autori_deklarace.png)
 
 **Signatáři:**
 
-![]()
+![](https://data.cesko.digital/img/spolecna_deklarace/signatari_deklarace.png)
 
 Bob **Kartous**, publicista, ředitel Pražského inovačního institutu
 
@@ -79,10 +79,6 @@ Tomáš **Louda**, vedoucí Katedry veřejné správy Západočeské univerzity 
 
 Lukáš **Tóth**, ekonom a spoluzakladatel Behavio Labs
 
-
-
-
-
 ## Proč je modernizace státní správy potřeba?
 
 *Státní správa uspokojivě nezvládá ani běžnou servisní činnost, natož aby uměla řešit náhlé krize či se připravovat na očekávané společenské změny a jejich management, o čemž vypovídají jak nezávislé analýzy, včetně mezinárodních, tak názory české veřejnosti i samotných zaměstnanců státní správy. Strategické dokumenty, které navrhují pozitivní řešení, zůstávají nenaplněny, stejně jako zůstávají bez reálné odezvy v krocích politků vládou zadané analýzy současného  stavu.*
@@ -105,23 +101,21 @@ Lukáš **Tóth**, ekonom a spoluzakladatel Behavio Labs
 
 *Veřejná správa hovoří kromě jiného o nedostatečných analytických kapacitách nebo centrální evidenci dat či jejich nekoordinovaném sběru. ([Vláda ČR, 2020. Koncepce Klientsky orientovaná veřejná správa 2030](https://www.mvcr.cz/clanek/koncepce-klientsky-orientovana-verejna-sprava-2030.aspx)) Na efektivitě vládnutí se negativně podepisuje orientace činnosti státní správy primárně na operativní aktivity na úkor těch strategických. ([Úřad vlády ČR, 2017. Strategický rámec Česká republika 2030](https://www.cr2030.cz/strategie/)) Ve státní správě neexistuje systém pro přenos vědeckých poznatků do praxe vládnutí. Státní správa tak neposkytuje politikům potřebné odborné zázemí pro jejich rozhodování. ([OCHRANA, František and Arnošt VESELÝ, Martin NEKOLA, Blanka TOLLAROVÁ. Ministerští úředníci ČR a využívání sociálně vědních poznatků. Vojenské rozhledy. 2018, 27 (2), 109-124.](https://www.vojenskerozhledy.cz/kategorie-clanku/vyuziti-poznatku-uredniky)).*
 
-![]()
+![](https://data.cesko.digital/img/spolecna_deklarace/postoj_verejnosti.png)
 
-![]()
+![](https://data.cesko.digital/img/spolecna_deklarace/postoj_statnich_zamestnancu.png)
 
 *Zdroj: [The Aspen Institute Central Europe & NMS Market Research, 2021. Vnímání státní správy: Závěrečná zpráva.](https://s3.eu-central-1.amazonaws.com/uploads.mangoweb.org/shared-prod/aspeninstitutece.org/uploads/2021/06/NMS_Vnimani-statni-spravy_2021-06-18.pdf) Vlastní zpracování.*
-
-
 
 ## Pilíře modernizace
 
 *K modernizaci státní správy může výrazně přispět zejména uskutečnění klíčových kroků ve třech pilířích, kterými jsou: efektivnější řízení státní správy a kvalitnější management (Pilíř I), zavádění prvků informovaného vládnutí (Pilíř II) a provedení skutečné digitální transformace (Pilíř III). Spustit modernizaci je nezbytné ve všech pilířích. Důležité jsou první rychlé kroky, primárně ustanovení realizačních týmů pro každý pilíř a zaměření se v realizaci na v krátkém horizontu dosažitelné pozitivní cíle. Současně je ale třeba, aby realizační týmy pracovaly na komplexní reformě, která bude mít politickou podporu.*
 
-
-
 ## **Informace o autorských organizacích**
 
 *Jsme zástupci občanského sektoru, kteří se dlouhodobě zabývají kvalitou vládnutí v České republice. Uvědomujeme si, že česká státní správa není už dlouho v dobré kondici. Právě proto jsme přesvědčeni, že je nejvyšší čas zahájit její modernizaci, chceme-li jako společnost obstát před výzvami budoucnosti.  Víme, že modernizace je náročným úkolem. Nástroje k jejímu provedení třímá v rukou politická reprezentace. My, jako zástupci občanského sektoru, nabízíme pomocnou ruku.*
+
+![]()
 
 **Aspen Institute Central Europe**
 
