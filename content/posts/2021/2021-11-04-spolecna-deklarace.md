@@ -86,7 +86,7 @@ Lukáš **Tóth**, ekonom a spoluzakladatel Behavio Labs
 
 ## Proč je modernizace státní správy potřeba?
 
-*Státní správa uspokojivě nezvládá ani běžnou servisní činnost, natož aby uměla řešit náhlé krize či se připravovat na očekávané společenské změny a jejich management, o čemž vypovídají jak nezávislé analýzy, včetně mezinárodních, tak názory české veřejnosti i samotných zaměstnanců státní správy. Strategické dokumenty, které navrhují pozitivní řešení, zůstávají nenaplněny, stejně jako zůstávají bez reálné odezvy v krocích politků vládou zadané analýzy současného  stavu.*
+Státní správa uspokojivě nezvládá ani běžnou servisní činnost, natož aby uměla řešit náhlé krize či se připravovat na očekávané společenské změny a jejich management, o čemž vypovídají jak nezávislé analýzy, včetně mezinárodních, tak názory české veřejnosti i samotných zaměstnanců státní správy. Strategické dokumenty, které navrhují pozitivní řešení, zůstávají nenaplněny, stejně jako zůstávají bez reálné odezvy v krocích politků vládou zadané analýzy současného stavu.
 
 **Důvody pro modernizaci státní správy:**
 
