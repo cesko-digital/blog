@@ -1,7 +1,7 @@
 ---
 title: Safezóna je na světě. Naučí děti říkat si o pomoc v tíživých životních
   situacích
-author: lukas.n
+author: zoul
 cover: http://data.cesko.digital/img/safezona_blog.png
 date: 2021-11-08-09-30
 slug: safezona-je-na-svete
