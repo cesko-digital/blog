@@ -150,4 +150,4 @@ Nadace OSF je česká nadace s 30 letou historií. Jejím posláním je podpoři
 
 Rekonstrukce státu už osmým rokem prosazuje protikorupční zákony a opatření pro dobrou správu. Tvoří ji právníci, experti, podnikatelé a všichni občané, kterým záleží na transparentní a odpovědné politice. Iniciátorem vzniku Rekonstrukce státu byl v roce 2013 tým právníků Frank Bold. Mezi její garantské organizace patří kromě Frank Bold ještě Hlídač státu, Oživení, Otevřená společnost a Datlab Institut. Mezi nejvýznamnější úspěchy Rekonstrukce státu patří prosazení registru smluv, ve kterém musí být zveřejněné všechny státem uzavřené smlouvy, nebo zákon o evidenci skutečných majitelů, který zakazuje přidělit dotaci nebo veřejnou zakázku firmě s nejasnou vlastnickou strukturou. Více informací o aktivitách a týmu Rekonstrukce státu najdete na [www.rekonstrukcestatu.cz](http://www.rekonstrukcestatu.cz/).
 
-Dokument s deklarací ke stažení [ZDE](https://data.cesko.digital/img/spolecna_deklarace/spolecna_deklarace.pdf).
+Dokument s deklarací ke stažení [ZDE](https://data.cesko.digital/img/spolecna_deklarace/Spolecna_deklarace_V3.pdf).
