@@ -2,7 +2,7 @@
 title: "Digitální vzdělávání, které má budoucnost: Komu předáváme Učíme online?"
 author: dana
 cover: https://data.cesko.digital/img/predani_UO.png
-date: 2021-11-10-03-52
+date: 2021-11-10-04-15
 slug: predani-ucime-online
 description: Projekt, který si za více než rok a půl vývoje v Česko.Digital
   prošel náročnou, ale perspektivní cestou. Teď nastal čas jít ještě dál a
