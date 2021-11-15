@@ -40,7 +40,7 @@ Zároveň deklarujeme zájem tento dlouhodobý proces podporovat a spolupracovat
 
 **Signatáři:**
 
-![](https://data.cesko.digital/img/spolecna_deklarace/signatari_deklarace.png)
+![](https://data.cesko.digital/img/spolecna_deklarace/signatari_deklaraceV2.png)
 
 Bob **Kartous**, publicista, ředitel Pražského inovačního institutu
 
