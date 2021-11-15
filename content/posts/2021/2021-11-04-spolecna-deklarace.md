@@ -40,6 +40,8 @@ Zároveň deklarujeme zájem tento dlouhodobý proces podporovat a spolupracovat
 
 **Signatáři:**
 
+![](https://data.cesko.digital/img/spolecna_deklarace/signatari_deklarace.png)
+
 Bob **Kartous**, publicista, ředitel Pražského inovačního institutu
 
 Danuše **Nerudová**, rektorka Mendelovy univerzity
