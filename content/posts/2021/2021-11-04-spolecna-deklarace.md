@@ -40,8 +40,6 @@ Zároveň deklarujeme zájem tento dlouhodobý proces podporovat a spolupracovat
 
 **Signatáři:**
 
-
-
 Bob **Kartous**, publicista, ředitel Pražského inovačního institutu
 
 Danuše **Nerudová**, rektorka Mendelovy univerzity
