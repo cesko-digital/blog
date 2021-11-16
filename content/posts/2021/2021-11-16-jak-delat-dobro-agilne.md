@@ -17,7 +17,7 @@ Níže představujeme tři dobrovolnice, které nad rámec svých povinností po
 
 ![](https://data.cesko.digital/img/scrum-master-ladies.png)
 
-*`Zleva: Adéla Kalusová, Markéta Ryklová, Kristýna Tvrdá`*
+> *Zleva: Adéla Kalusová, Markéta Ryklová, Kristýna Tvrdá*
 
 ## Adéla Kalusová 
 
