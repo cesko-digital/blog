@@ -32,7 +32,7 @@ collections:
         options: ["zoul", "radja", "jakub", "eva", "vjirovsky", "jana", "marketaz",
           "teryii", "urbant", "hrudka", "katka", "dana", "zaneta", "iva", "bara",
           "alena", "lukas", "tt", "kaku", "martina", "gabi", "lenkab", "rona",
-          "lvanous", "horm", "zu", "lukas.n", "tereza.lattova", "jan.hobler", "marketa.horakova"]
+          "lvanous", "horm", "zu", "lukas.n", "tereza.lattova", "jan.hobler", "marketa.horakova", "jindrich.oukropec"]
         required: true
       - label: "Cover"
         name: "cover"
