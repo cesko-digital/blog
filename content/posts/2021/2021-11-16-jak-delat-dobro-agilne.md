@@ -3,7 +3,7 @@ title: Agilními prvky posouvají dobročinné projekty. Jak dělat dobro agiln�
   představí 3 skvělé Scrum Masterky
 author: jindrich.oukropec
 cover: https://data.cesko.digital/events/Skvely-Scrum_Master_blog-1.png
-date: 2021-11-16-11-05
+date: 2021-11-16-03-04
 slug: jak-delat-dobro-agilne
 description: "Jsou srdcem celého týmu, vedou agilní ceremonie a vytváří
   prostředí, ve kterém se může projekt efektivně a svižně posouvat. Tak bychom
