@@ -84,9 +84,7 @@ Tomáš **Louda**, vedoucí Katedry veřejné správy Západočeské univerzity 
 
 Lukáš **Tóth**, ekonom a spoluzakladatel Behavio Labs
 
-Michal **Kukuc**, vedoucí oddělení zpracování a správy dat z CENIA (MŽP)
-
-
+Miroslav **Kukuc**, vedoucí oddělení zpracování a správy dat z CENIA (MŽP)
 
 ## Proč je modernizace státní správy potřeba?
 
