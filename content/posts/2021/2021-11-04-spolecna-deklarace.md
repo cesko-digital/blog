@@ -84,6 +84,10 @@ Tomáš **Louda**, vedoucí Katedry veřejné správy Západočeské univerzity 
 
 Lukáš **Tóth**, ekonom a spoluzakladatel Behavio Labs
 
+Michal **Kukuc**, vedoucí oddělení zpracování a správy dat z CENIA (MŽP)
+
+
+
 ## Proč je modernizace státní správy potřeba?
 
 Státní správa uspokojivě nezvládá ani běžnou servisní činnost, natož aby uměla řešit náhlé krize či se připravovat na očekávané společenské změny a jejich management, o čemž vypovídají jak nezávislé analýzy, včetně mezinárodních, tak názory české veřejnosti i samotných zaměstnanců státní správy. Strategické dokumenty, které navrhují pozitivní řešení, zůstávají nenaplněny, stejně jako zůstávají bez reálné odezvy v krocích politků vládou zadané analýzy současného stavu.
