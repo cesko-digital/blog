@@ -1,7 +1,7 @@
 ---
 title: Agilními prvky posouvají dobročinné projekty. Jak dělat dobro agilně
   představí 3 skvělé Scrum Masterky
-author: lukas.n
+author: jindrich.oukropec
 cover: https://data.cesko.digital/events/Skvely-Scrum_Master_blog-1.png
 date: 2021-11-16-11-05
 slug: jak-delat-dobro-agilne
@@ -16,6 +16,8 @@ Už 7. prosince 2021 se v 17:30 koná online webinář k představení role **[S
 Níže představujeme tři dobrovolnice, které nad rámec svých povinností podporují ostatní v projektech z oblasti duševního zdraví, adiktologie a včasné prevence závažných onemocnění.
 
 ![](https://data.cesko.digital/img/scrum-master-ladies.png)
+
+*`Zleva: Adéla Kalusová, Markéta Ryklová, Kristýna Tvrdá`*
 
 ## Adéla Kalusová 
 
@@ -35,8 +37,6 @@ Adéla je v projektu Loono od samého začátku, zapojila se už v inkubační f
 
 Kristýna aktuálně působí na pozici konzultantky ve společnosti Kogi CON a věnuje se oblasti firemní kultury a business transformace. Zkušenosti sbírala v manažerských i expertních rolích v telekomunikacích a FMCG, v posledních letech vedla marketingové a komerční týmy. Zajímá ji rozvoj lidí, ráda řeší komplexní problémy a zbožňuje dobré jídlo.
 
- 
-
 Kristýna se zapojila začátkem léta a původně váhala mezi marketingem a rolí Scrum Mastera, kterou nikdy nedělala. Nakonec rozhodlo téma a chuť rozvíjet se. *“Hodně mě zajímá téma duševního zdraví a věřím, že se mu pořád nevěnuje dost pozornosti. Navíc jsem dostala možnost naučit se něco nového, scrum master jsem nikdy nebyla.”* Kristýna kromě svých zkušeností s vedením lidí a intuice využila i agilního kouče Tomáše Walka, který v komunitě zastřešuje kompetenci agilního řízení.
 
 *“Na Střeše je super, že jsem součástí týmu, který chce přinést něco, co má smysl. Baví mě tým povzbuzovat, podporovat jeho náladu. A hodně zajímavé je pro mě zůstávat víc stranou z hlediska obsahu, jsem zvyklá věci vlastnit.”* vysvětluje Kristýna, co jí baví na roli Scrum Mastera.
@@ -47,11 +47,7 @@ Kristýna se zapojila začátkem léta a původně váhala mezi marketingem a ro
 
 Rodačka z Plzně působí jako analytik/tester ve společnosti Exon, kde momentálně zavádějí agilní přístup, na čemž se Markéta aktivně podílí. Zapojuje se do vzdělávacích programů CzechItas a mluví anglicky a francouzsky. 
 
-
-
 V létě se Markéta připojila do projektu Jehlomat, který má zbavit ČR injekčních stříkaček prostřednictvím aplikace pro veřejnost a terénní pracovníky. Díky Markétě se podařilo převést projekt do agilního řízení, což v případě Jehlomatu znamenalo nastavit pravidelné týmové ceremonie, uvést roli Product Owner a pomoci Tech-leadovi spravovat technické úkoly. 
-
-
 
 *“Na roli Scrum Mastera mě baví rozmanitá komunikace, multitasking či nutnost empatie a dobrého odhadu lidí pro fungující tým a dobrou motivaci každého z týmu. Ze všeho nejraději mám progres ať už v rámci vývoje aplikace nebo fungování týmu, který jsme udělali společným odhodláním,”* doplňuje Markéta.
 
