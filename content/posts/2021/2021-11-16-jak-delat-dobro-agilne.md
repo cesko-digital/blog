@@ -18,7 +18,7 @@ Už 7. prosince 2021 se v 17:30 koná [online webinář](https://cesko.digital/p
 **\
 Níže představujeme tři dobrovolnice,** které nad rámec svých povinností podporují ostatní v projektech z oblasti duševního zdraví, adiktologie a včasné prevence závažných onemocnění. V úterý 7. prosince se s námi blíže podělí o jejich zkušenosti.
 
-![]()
+![](https://data.cesko.digital/img/adela-kalusova.jpg)
 
 ## Adéla Kalusová 
 
@@ -30,7 +30,7 @@ Adéla je v projektu Loono od samého začátku, zapojila se už v inkubační f
 
 *„Na roli Scrum Mastera v rámci komunity Česko.Digital a projektu pro Loono mě baví především to, jaký jsme vytvořili společně skvělý tým lidí. Mám z nás pocit, že to děláme i srdcem (když zrovna neřešíme proč není dokončená xy user storka v Jiře nebo že nám chybí lidi na backendu). Baví mě i týmová dynamika, řešení problémů a to jak dále tým společně formujeme dle aktuálních potřeb.“*
 
-![]()
+![](https://data.cesko.digital/img/kristyna-tvrda.jpg)
 
 ## Kristýna Tvrdá
 
@@ -38,15 +38,11 @@ Adéla je v projektu Loono od samého začátku, zapojila se už v inkubační f
 
 Kristýna aktuálně působí na pozici konzultantky ve společnosti Kogi CON a věnuje se oblasti firemní kultury a business transformace. Zkušenosti sbírala v manažerských i expertních rolích v telekomunikacích a FMCG, v posledních letech vedla marketingové a komerční týmy. Zajímá ji rozvoj lidí, ráda řeší komplexní problémy a zbožňuje dobré jídlo.
 
- 
-
 Kristýna se zapojila začátkem léta a původně váhala mezi marketingem a rolí Scrum Mastera, kterou nikdy nedělala. Nakonec rozhodlo téma a chuť rozvíjet se. *„Hodně mě zajímá téma duševního zdraví a věřím, že se mu pořád nevěnuje dost pozornosti. Navíc jsem dostala možnost naučit se něco nového, scrum master jsem nikdy nebyla.“* Kristýna kromě svých zkušeností s vedením lidí a intuice využila i agilního kouče Tomáše Walka, který v komunitě zastřešuje kompetenci agilního řízení.
-
- 
 
 *„Na Střeše je super, že jsem součástí týmu, který chce přinést něco, co má smysl. Baví mě tým povzbuzovat, podporovat jeho náladu. A hodně zajímavé je pro mě zůstávat víc stranou z hlediska obsahu, jsem zvyklá věci vlastnit,“* vysvětluje Kristýna, co jí baví na roli Scrum Mastera.
 
-![]()
+![](https://data.cesko.digital/img/marketa-ryklova.jpg)
 
 ## Markéta Ryklová
 
