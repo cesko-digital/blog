@@ -13,7 +13,7 @@ description: Jsou srdcem celého týmu, vedou agilní ceremonie a vytváří
   projektu.
 lang: cs
 ---
-Už 7. prosince 2021 se v 17:30 koná [online webinář](https://cesko.digital/portal-dobrovolnika/), kde vám představíme roli [Scrum Master](https://cesko-digital.atlassian.net/wiki/spaces/CD/pages/87470076/Scrum+Master) pohledem tří expertních dobrovolnic. Ty ve svém volném čase pomáhají přenést agilní prvky známé ze start-upového prostředí do neziskových dobrovolnických projektů v Česko.Digital. Podařilo se nám tak zavést projektovou metodiku, která je **flexibilní a po přináší výsledky po menších částech, což zapojené dlouhodobě motivuje.** 
+Už 7. prosince 2021 se v 17:30 koná [online webinář](https://cesko.digital/portal-dobrovolnika/), kde vám představíme roli [Scrum Master](https://cesko-digital.atlassian.net/wiki/spaces/CD/pages/87470076/Scrum+Master) pohledem tří expertních dobrovolnic. Ty **ve svém volném čase** pomáhají přenést agilní prvky známé ze start-upového prostředí do neziskových dobrovolnických projektů v Česko.Digital. Podařilo se nám tak zavést projektovou metodiku, která je **flexibilní a po přináší výsledky po menších částech, což zapojené dlouhodobě motivuje.** 
 
 **\
 Níže představujeme tři dobrovolnice,** které nad rámec svých povinností podporují ostatní v projektech z oblasti duševního zdraví, adiktologie a včasné prevence závažných onemocnění. V úterý 7. prosince se s námi blíže podělí o jejich zkušenosti.
