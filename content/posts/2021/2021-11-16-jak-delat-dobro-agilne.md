@@ -55,4 +55,4 @@ V létě se Markéta připojila do projektu Jehlomat, který má zbavit ČR inje
 *„Na roli Scrum Mastera mě baví rozmanitá komunikace, multitasking či nutnost empatie a dobrého odhadu lidí pro fungující tým a dobrou motivaci každého z týmu. Ze všeho nejraději mám progres ať už v rámci vývoje aplikace nebo fungování týmu, který jsme udělali společným odhodláním,“* doplňuje Markéta.
 
 \
-**7. prosince 2021 v 17:30, Online na Google Meet, [registrace](https://airtable.com/shrTkwSe15PRFJt2l)**
+**7. prosince 2021 v 17:30, Online na Google Meet, [registrace](https://airtable.com/shrRdNY33xfp6MZzS)**
