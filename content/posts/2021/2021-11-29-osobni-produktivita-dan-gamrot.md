@@ -3,8 +3,8 @@ title: Osobní produktivita neznamená být ve všem perfektní. Daniel Gamrot n
   ukázal, jak skrze ni porozumět sobě
 author: rona
 cover: https://data.cesko.digital/img/daniel-gamrot-clanek/daniel-gamrot-cover.png
-date: 2021-11-29-01-35
-slug: osobni-produktivita-dan-gamrot
+date: 2021-11-30-02-00
+slug: osobni-produktivita-daniel-gamrot
 description: Daniel Gamrot je už devět let lektorem pro lepší time management,
   sebedisciplínu a osobní produktivitu. O těchto tématech školí, píše články,
   točí videa a vzdělává. Jak vypadal jeho workshop osvětlení základních principů
