@@ -2,9 +2,9 @@
 title: Víte, že pedagogické minimum neexistuje? Zájemcům o učitelství pomůže
   nový interaktivní průvodce na portálu Začni učit!
 author: rona
-cover: aaa
-date: 2021-12-06-05-06
-slug: interaktivni-pruvodce-zu
+cover: http://data.cesko.digital/img/ZU_mockup.jpg
+date: 2021-12-07-01-08
+slug: novy-interaktivni-pruvodce-zu
 description: Česko.Digital ve spolupráci s projektem Začni učit! spouští na jeho
   webu beta verzi intuitivního průvodce pro zájemce o pedagogickou profesi.
   Předají tak informace těm, kteří chtějí učit, ale tápou, jak si doplnit
