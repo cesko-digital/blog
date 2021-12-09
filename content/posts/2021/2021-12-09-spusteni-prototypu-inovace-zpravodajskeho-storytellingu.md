@@ -3,7 +3,7 @@ title: Redakce přišly na chuť inovacím ve zpravodajství. A to i díky inici
   našich dobrovolníků!
 author: martina.plechatova
 cover: http://data.cesko.digital/img/prototyp-inovace-storytellingu.jpg
-date: 2021-12-09-11-03
+date: 2021-12-09-01-07
 slug: spusteni-prototypu-inovace-zpravodajskeho-storytellingu
 description: Společný projekt Česko.Digital a Nadačního fondu nezávislé
   žurnalistiky (NFNZ) na téma inovací ve zpravodajském storytellingu je u konce.
