@@ -2,7 +2,7 @@
 title: Sbírka počítačů má nového patrona, který bude nadále podporovat
   digitalizaci vzdělávání
 author: rona
-cover: http://data.cesko.digital/img/Sbirka_clanek.png
+cover: https://data.cesko.digital/img/Sbirka_clanek.png
 date: 2021-12-16-03-25
 slug: sbirka-pocitacu-ma-noveho-patrona-clovek-v-tisni
 description: Když v březnu 2020 vypukla pandemie, projekt Učíme online z dílny
