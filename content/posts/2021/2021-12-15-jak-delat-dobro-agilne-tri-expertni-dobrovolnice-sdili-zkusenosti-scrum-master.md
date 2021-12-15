@@ -2,7 +2,7 @@
 title: Jak dělat dobro agilně? Tři expertní dobrovolnice sdílely své zkušenosti
   s Česko.Digital v roli Scrum Mastera
 author: jindrich.oukropec
-cover: data.cesko.digital/img/Skvely-Scrum-Master.png
+cover: https://data.cesko.digital/img/Skvely-Scrum-Master.png
 date: 2021-12-15-12-15
 slug: jak-delat-dobro-agilne-tri-expertni-dobrovolnice-sdili-zkusenosti-scrum-master
 description: "Adéla Kalusová, Kristýna Tvrdá a Markéta Ryklová přiblížily
