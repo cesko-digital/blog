@@ -6,11 +6,13 @@ cover: https://data.cesko.digital/img/Skvely-Scrum-Master.png
 date: 2021-12-15-12-15
 slug: jak-delat-dobro-agilne-tri-expertni-dobrovolnice-sdili-zkusenosti-scrum-master
 description: "Adéla Kalusová, Kristýna Tvrdá a Markéta Ryklová přiblížily
-  možnosti vedení dobrovolnických projektů agilním způsobem. "
+  možnosti vedení dobrovolnických projektů agilním způsobem. Flexibilní způsob
+  řízení je nyní součást všech projektů, kterými Česko.Digital akceleruje
+  projekty neziskových organizací. V diskusi, která probíhala hodinu a půl, se
+  mluvilo o přechodu na agilní řízení, nastavení agilních ceremonií a spolupráci
+  mezi Scrum Masterem a Product Ownerem. "
 lang: cs
 ---
-**Adéla Kalusová, Kristýna Tvrdá a Markéta Ryklová přiblížily možnosti vedení dobrovolnických projektů agilním způsobem. Flexibilní způsob řízení je nyní součást všech projektů, kterými Česko.Digital akceleruje projekty neziskových organizací. V diskusi, která probíhala hodinu a půl, se mluvilo o přechodu na agilní řízení, nastavení agilních ceremonií a spolupráci mezi Scrum Masterem a Product Ownerem.** 
-
 Adéla, Kristýna a Markéta působí v komunitě jako Scrum Master. Na jejich postřehy se můžete **podívat v záznamu z [akce](https://youtu.be/CpDMIUlK1_8)**, kterou moderoval Jakub Štogr.
 
 Zatímco Adéla se snaží zvědomit si všechny možná rizika, které kolegům mohou zabránit v dodání domluvené práce, Kristýna dává důraz na posun v projektu a snaží se tak motivovat tým k další práci. Tým Markéty upřednostňuje asynchronní komunikaci na Slacku, čemuž Markéta přizpůsobuje týmové ceremonie.
