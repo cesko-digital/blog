@@ -21,9 +21,7 @@ Scrum Masteři nejen pořádají týmové schůzky, ale podporují klíčovou ro
 
 „Product Owner je otec vize produktu, stanovuje priority, měl by předvádět demo. Je ale důležité, aby byl i na retrospektivě, kde najednou vidí i lidskou stránku projektu. Typicky se více spojí s vývojáři, se kterými není v úzkém kontaktu,“ doplnila Marketa Ryklová, která pomáhá týmu Jehlomat na cestě za webovým nástrojem pro sběr a analýzu odhozených injekčních stříkaček.
 
-> „Product Owner je takový táta produktu, Scrum Master je ta máma.“ 
-
-⏤ Adéla Kalusová
+> „Product Owner je takový táta produktu, Scrum Master je ta máma.“ ⏤ Adéla Kalusová
 
 Scrum Masterky rozebíraly i udržitelnost projektu. „Je třeba, aby nás někdo občas zastoupil. V Česko.Digital mi hodně pomohli supporti, zejména Kateřina Kociánová a Tomáš Walek. Supporti mají kontext celého projektu a umí vést ceremonii, když je třeba,“ doplnila Kristýna Tvrdá, která pomáhá projektu Střecha duševního zdraví. Nedávno její tým spustil novou webovou stránku [Safezóna](https://blog.cesko.digital/2021/11/safezona-je-na-svete). 
 
