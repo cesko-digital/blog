@@ -33,7 +33,7 @@ collections:
           "teryii", "urbant", "hrudka", "katka", "dana", "zaneta", "iva", "bara",
           "alena", "lukas", "tt", "kaku", "martina", "gabi", "lenkab", "rona",
           "lvanous", "horm", "zu", "lukas.n", "tereza.lattova", "jan.hobler", "marketa.horakova", 
-          "jindrich.oukropec", "martina.plechatova"]
+          "jindrich.oukropec", "martina.plechatova", "zavis.pexidr"]
         required: true
       - label: "Cover"
         name: "cover"
@@ -80,7 +80,7 @@ collections:
           "teryii", "urbant", "hrudka", "katka", "dana", "zaneta", "iva", "bara",
           "alena", "lukas", "tt", "kaku", "martina", "gabi", "lenkab", "rona",
           "lvanous", "horm", "zu", "lukas.n", "tereza.lattova", "jan.hobler", "marketa.horakova", 
-          "jindrich.oukropec", "martina.plechatova"]
+          "jindrich.oukropec", "martina.plechatova", "zavis.pexidr"]
         required: true
       - label: "Cover"
         name: "cover"
