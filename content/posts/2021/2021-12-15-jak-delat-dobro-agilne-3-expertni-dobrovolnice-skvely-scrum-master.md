@@ -1,7 +1,7 @@
 ---
 title: Jak dělat dobro agilně? Tři expertní dobrovolnice sdílely své zkušenosti
   s Česko.Digital v roli Scrum Mastera
-author: jindrich.oukropec
+author: zavis.pexidr
 cover: data.cesko.digital/img/Skvely-Scrum-Master.png
 date: 2021-12-15-08-06
 slug: jak-delat-dobro-agilne-3-expertni-dobrovolnice-skvely-scrum-master
