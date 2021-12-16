@@ -138,3 +138,7 @@
   name: Martina Cílková
   id: martina.cilkova
   email: martina.cilkova@cesko.digital
+- type: authors
+  name: Kmenový tým Česko.Digital
+  id: coreteam
+  email: my@cesko.digital
