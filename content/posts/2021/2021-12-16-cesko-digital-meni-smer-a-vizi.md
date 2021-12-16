@@ -12,9 +12,9 @@ description: "Už delší dobu nám přicházela zpětná vazba na směřování
   na to říkají jednotliví členové kmenového týmu?"
 lang: cs
 ---
-## Proč jsme se rozhodli změnit směr a vizi
+# Proč jsme se rozhodli změnit směr a vizi
 
-### Eva Pavlíková, CEO
+## Eva Pavlíková, CEO
 
 Když Česko.Digital Jakub Nešetřil zakládal, jeho myšlenka byla jednoduchá. V Česku máme **spoustu šikovných technických lidí**, kteří ve svém volném čase mají chuť programovat na straně jedné, a **neziskové organizace a veřejná správa**, kteří potřebují pomoc s digitalizací a inovací na straně druhé. Pojďme tedy **tyto dva světy propojit v komunitě Česko.Digital** a můžeme neziskových organizacím a veřejné správě s programováním pomoct.
 
@@ -24,9 +24,9 @@ Důležitá pro nás také byla intenzivní zpětná vazba od našich dlouhodob�
 
 Dnes tedy **procházíme změnou od digitální agentury do akcelerátoru lidí a projektů**, protože lidé jsou srdcem komunity a jejich podpora a rozvoj (stejně jako projektů) nám na srdci leží nejvíc.
 
-## Jak jsme si nastavili cíle a novou metodiku
+# Jak jsme si nastavili cíle a novou metodiku
 
-### Tomáš Walek, CDO
+## Tomáš Walek, CDO
 
 Nová vize Česko.Digital s sebou přináší i **změny v metodice pro nastavování strategických cílů**. Česko.Digital přešlo na populární metodiku OKR. Popis metodiky a jejího zavádění uvnitř Česko.Digital a konkrétní seznam cílů a klíčových výsledků je možné nalézt na [naší Confluence stránce](https://cesko-digital.atlassian.net/wiki/spaces/CD/pages/790102026/Metodika+OKR).
 
@@ -47,9 +47,9 @@ Co se týče plnění organizačních cílů, vytvořili jsme v rámci Česko.Di
 
 Všechny 3 týmy jsou složeny z členů kmenového týmu Česko.Digital a vybraných dobrovolníků – zástupců konkrétních cílových skupin. Věříme, že vytvořením tří týmů dle různých cílových skupin **dokážeme lépe a přesněji reagovat na požadavky a nároky těchto cílových skupin**, které se od sebe významně odlišují, a že tak významně přispějeme k naplnění nové vize organizace.
 
-## „Aha“ momenty z workshopů, kde vznikala nová vize
+# „Aha“ momenty z workshopů, kde vznikala nová vize
 
-### Tomáš Znamenáček, CTO
+## Tomáš Znamenáček, CTO
 
 Debaty o vizi organizace jsem se zúčastnil poprvé, takže to pro mě byla celkově fascinující (a trochu děsivá) „cesta tam a zase zpátky“. Jako rozložit fungující auto na prvočinitele a následně z něj znovu poskládat něco, co nejenže opět funguje, ale v ideálním případě funguje lépe.
 
@@ -59,7 +59,7 @@ Je pro mě velká zkušenost, jak moc se tým lidí s velmi podobnými hodnotami
 
 Jsem moc rád, že se nám v rámci strategického workshopu **podařilo odkrýt větší plochu pro zapojování dobrovolníků** a obecně propojování různých stran zapojených do tématu digitalizace – a programátor ve mně doufá, že se nám podařilo zvolit vhodnou „míru abstrakce“, tedy trefit dostatečně kompaktní a obecnou definici toho, co máme dělat, aby Česko bylo víc Digital.
 
-### Romana Pokorná, CDO
+## Romana Pokorná, CDO
 
 **Změna vize či nastavování OKR je aktivita náročná na čas**, proto jsme si na setkání vyhradili celé dva dny. Ukázalo se, že šlo o naivní představu a nakonec jsme se potřebovali sejít ještě 2x, aby celý tým mohl procesem projít a dospěli jsme ke kýženým výstupům.
 
@@ -71,9 +71,9 @@ Někdy je také třeba témata odlehčit a mít i stmelující aktivity jako spo
 
 ![](workshop-nova-vize-cd.jpg)
 
-## Jaké jsou klíčové myšlenky nové vize?
+# Jaké jsou klíčové myšlenky nové vize?
 
-### Tereza Gagnon, Head of Partnership & Fundraising
+## Tereza Gagnon, Head of Partnership & Fundraising
 
 V průběhu setkání jsme se zaměřili na validaci naší mise, vize a strategie. V rámci diskusí byl pro mě zásadní obrat z pohledu dopadu, kde jsme se shodli, že **je potřeba doplnit větší pozornost na naši komunitu**.
 
@@ -85,7 +85,7 @@ Součástí nové strategie, tedy kroků, díky kterým směřujeme k naší st�
 
 Do budoucna proto **chystáme rozšířit plán příležitostí a sdílení know-how** napříč naší komunitou, ale i externě – pomocí eventů, workshopů, labů, online stream diskusí a všech možných formátů, které nám situace dovolí.
 
-### Martina Habová, Marketing Manager
+## Martina Habová, Marketing Manager
 
 Vnímala jsem Česko.Digital hlavně jako „spoludoručovatele“ projektů. Při představení dobrovolnické pyramidy jsem si uvědomila, že většinu energie jsme zaměřovali na její špičku – tedy právě dlouhodobě aktivní dobrovolníky a dodávání aktivit na projektech.
 
