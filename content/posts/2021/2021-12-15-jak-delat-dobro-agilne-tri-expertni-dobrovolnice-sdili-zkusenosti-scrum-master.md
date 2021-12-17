@@ -31,6 +31,10 @@ Scrum Masterky rozebíraly i udržitelnost projektu. „Je třeba, aby nás něk
 
 Pokud jste na živý přenos nemohli přijít, viděli jen část nebo si chcete rozhovor připomenout, podívejte se na [záznam](https://www.youtube.com/watch?v=CpDMIUlK1_8). 
 
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CpDMIUlK1_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
+
 ## Buďte také agilní
 
 Pokud přemýšlíte o roli Scrum Mastera, její popis je k dispozici na naší [Wiki](https://cesko-digital.atlassian.net/wiki/spaces/CD/pages/87470076/Scrum+Master). Na YouTube Česko.Digital najdete také seriál [Agile leaders](https://www.youtube.com/watch?v=gG_9tC12CzY&list=PLOX5xelTsEv-qGxEFwT3piUEDrjK4ow6Z) od našeho agilního kouče Tomáše Walka, kde najdete tipy na konkrétní agilní aktivity.
