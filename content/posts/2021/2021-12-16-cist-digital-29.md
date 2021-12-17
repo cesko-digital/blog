@@ -3,7 +3,7 @@ title: "číst.digital/29: Máme nového partnera | Jak se stát učitelem radí
   interaktivní průvodce"
 author: kristyna.buzkova
 cover: http://data.cesko.digital/newsletter/29/cover29.png
-date: 2021-12-17-03-02
+date: 2021-12-17-10-58
 slug: cist-digital-29
 description: Ahoj Česko.Digital! 👋 Medvědi možná hibernují, ale my nikoliv.
   Plácli jsme si s Nadací PPF, která se tak stala jedním z našich hlavních
@@ -12,6 +12,8 @@ description: Ahoj Česko.Digital! 👋 Medvědi možná hibernují, ale my nikol
   workshopů, průvodců i nových návodů! ☕
 lang: cs
 ---
+![](http://data.cesko.digital/newsletter/29/NL-PF2022.png)
+
 ## K lepšímu neměníme jenom Česko, ale i sebe
 
 Už delší dobu nám přicházela zpětná vazba na směrování naší organizace. Cítili jsme, že je potřeba si říct, co je pro nás důležité a jak a kam chceme růst. Sice na tom ještě pracujeme, ale změna je už jasná: **Postupně měníme směr a vizi Česko.Digital!**
