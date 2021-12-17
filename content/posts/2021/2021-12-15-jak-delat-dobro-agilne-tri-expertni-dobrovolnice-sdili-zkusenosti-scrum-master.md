@@ -31,9 +31,7 @@ Scrum Masterky rozebíraly i udržitelnost projektu. „Je třeba, aby nás něk
 
 Pokud jste na živý přenos nemohli přijít, viděli jen část nebo si chcete rozhovor připomenout, podívejte se na [záznam](https://www.youtube.com/watch?v=CpDMIUlK1_8). 
 
-```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CpDMIUlK1_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
 
 ## Buďte také agilní
 
