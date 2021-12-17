@@ -2,7 +2,7 @@
 title: "K lepšímu neměníme jenom Česko, ale i sebe: Proč vzniká nová vize
   Česko.Digital?"
 author: coreteam
-cover: https://data.cesko.digital/newsletter/29/martina-citace.png
+cover: https://data.cesko.digital/img/nova-vize-cd.jpg
 date: 2021-12-16-07-46
 slug: cesko-digital-meni-smer-a-vizi
 description: "Už delší dobu nám přicházela zpětná vazba na směřování naší
