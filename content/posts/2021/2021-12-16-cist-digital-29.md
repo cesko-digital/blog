@@ -7,24 +7,24 @@ date: 2021-12-17-10-58
 slug: cist-digital-29
 description: Ahoj Česko.Digital! 👋 Medvědi možná hibernují, ale my nikoliv.
   Plácli jsme si s Nadací PPF, která se tak stala jedním z našich hlavních
-  partnerů, a zároveň dokončili 2 projekty. 👏 Nezahálíme ani v osobním rozvoji,
-  s šálkem horkého kakaa nebo punče se teď můžete ponořit do newsletteru plného
-  workshopů, průvodců i nových návodů! ☕
+  partnerů, a zároveň dokončili dva projekty. 👏 Nezahálíme ani v osobním
+  rozvoji, s šálkem horkého kakaa nebo punče se teď můžete ponořit do
+  newsletteru plného workshopů, průvodců i nových návodů! ☕
 lang: cs
 ---
 ![](http://data.cesko.digital/newsletter/29/NL-PF2022.png)
 
 ## K lepšímu neměníme jenom Česko, ale i sebe
 
-Už delší dobu nám přicházela zpětná vazba na směrování naší organizace. Cítili jsme, že je potřeba si říct, co je pro nás důležité a jak a kam chceme růst. Sice na tom ještě pracujeme, ale změna je už jasná: **Postupně měníme směr a vizi Česko.Digital!**
+Už delší dobu nám přicházela zpětná vazba na směřování naší organizace. Cítili jsme, že je potřeba si říct, co je pro nás důležité a jak a kam chceme růst. Sice na tom ještě pracujeme, ale změna je už jasná: **Postupně měníme směr a vizi Česko.Digital!**
 
-**Zaměříme se ještě více na vás, dobrovolníky, kteří jste srdcem komunity**, a také na akceleraci projektů, kterým pomůžeme díky předávání našich digitálních zkušeností se ještě více rozvíjet.
+**Zaměříme se ještě více na vás, dobrovolníky, kteří jste srdcem komunity**, a také na akceleraci projektů, kterým díky předávání našich digitálních zkušeností pomůžeme se ještě více rozvíjet.
 
 ![](https://data.cesko.digital/newsletter/29/martina-citace.png)
 
-Co nás tedy ke změnám vedlo, jak nás to v komunitě ovlivní a co na to říkají jednotliví členové kmenového týmu Česko.Digital? **Nakoukněte pod pokličku vzniku nové vize naší organizace díky speciálnímu blogovému článku**.
+Co nás tedy ke změnám vedlo, jak nás to v komunitě ovlivní a co na to říkají jednotliví členové kmenového týmu Česko.Digital? **Nakoukněte pod pokličku vzniku nové vize naší organizace díky speciálnímu [blogovému článku](https://blog.cesko.digital/2021/12/cesko-digital-meni-smer-a-vizi)**.
 
-## Do světa pouštíme další 2 projekty, které nemají obdoby
+## Do světa pouštíme další dva projekty, které nemají obdoby
 
 ### Vznikl interaktivní průvodce usnadňující vstup do českého školství
 
@@ -66,8 +66,8 @@ Více o celé spolupráci najdete[  v článku na CzechCrunch](https://cc.cz/nad
 
 **A na čem pracujeme dál?**
 
-* Sekce Prevence: jedná se o jádro aplikace, kde uživatel zjistí, na jaké preventivní prohlídky by měl chodit
-* Sekce O zdraví: obsahová část, kde najdete spoustu zajímavých informací o zdraví a prevenci
+* Sekce Prevence: jedná se o jádro aplikace, kde uživatel zjistí, na jaké preventivní prohlídky by měl chodit.
+* Sekce O zdraví: obsahová část, kde najdete spoustu zajímavých informací o zdraví a prevenci.
 
 Jste nedočkaví a zvědaví, jak to celé vypadá? **Mrkněte se na návrh do [Figmy](https://www.figma.com/file/E3BhDWp6O8d1XmsbC46mcr/Loono?node-id=258%3A694)** nebo sledujte na Slacku kanál [\#run-loono_vcas](https://cesko-digital.slack.com/archives/C01P6CK0DDY). Děkujeme všem dobrovolníkům, kteří aplikaci věří stejně jako my a samozřejmě také Loono!
 
@@ -96,11 +96,11 @@ Zeptali jsme se vás, o jaké **typy příležitostí v Česko.Digital** máte z
 \
 **Co jsme zjistili:**
 
-* preferujeme dlouhodobější zapojení (tedy dva měsíce a déle)
-* umíme si zpravidla vyhradit až 5 hodin týdně 
-* nejvíc nás zajímají projekty, kde je zadavatelem přímo Česko.Digital (jako Učíme online nebo Safezóna)
-* nebaví nás administrativa ani časté a neefektivní schůzky
-* chceme se vzdělávat
+* preferujeme dlouhodobější zapojení (tedy dva měsíce a déle),
+* umíme si zpravidla vyhradit až 5 hodin týdně,
+* nejvíc nás zajímají projekty, kde je zadavatelem přímo Česko.Digital (jako Učíme online nebo Safezóna),
+* nebaví nás administrativa ani časté a neefektivní schůzky,
+* chceme se vzdělávat.
 
 Zajímá vás víc? Mrkněte se na [vyhodnocení dotazníku](https://cesko-digital.atlassian.net/wiki/spaces/CD/pages/818217107/Vyhodnocen+dotazov+n+z+jmu+o+r+zn+typy+zapojen+v+esko.Digital) nebo na [akční kroky](https://cesko-digital.atlassian.net/browse/CSD-1021), které v návaznosti na dotazník plánujeme.
 
