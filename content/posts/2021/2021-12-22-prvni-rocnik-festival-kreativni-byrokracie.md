@@ -69,7 +69,6 @@ Na tomto ročníku se sešla skvělá skupina lidí z obou stran, kteří mají 
 
 **Potkal jsem spoustu mladých úředníků, které baví pro stát pracovat a mají zájem o jeho modernizaci.** Musíme se tedy podporovat, vzájemně sdílet zkušenosti, kde jsme si jako seniornější kolegové již naběhli, a nakonec se propojovat s uživateli služeb, které naše práce nakonec ovlivňuje.
 
-#### **\
-Litujete, že jste o akci nevěděli? Podívejte se na záznam z přednášek [prvního](https://www.youtube.com/watch?v=yNylz_lFO3c&ab_channel=Kreativn%C3%ADPraha) i [druhého dne](https://www.youtube.com/watch?v=SQC2j4Y3EFA&ab_channel=Kreativn%C3%ADPraha) a příště se nezapomeňte zapojit!**
+#### Litujete, že jste o akci nevěděli? Podívejte se na záznam z přednášek [prvního](https://www.youtube.com/watch?v=yNylz_lFO3c&ab_channel=Kreativn%C3%ADPraha) i [druhého dne](https://www.youtube.com/watch?v=SQC2j4Y3EFA&ab_channel=Kreativn%C3%ADPraha) a příště se nezapomeňte zapojit!
 
 ##### *Korektura: Filip Šula*
