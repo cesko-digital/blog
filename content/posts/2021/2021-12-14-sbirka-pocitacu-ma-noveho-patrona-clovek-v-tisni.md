@@ -21,25 +21,21 @@ Pro Člověka v tísni je iniciativa Sbírky počítačů projektu Učíme onlin
 
 I proto je převzetí Sbírky počítačů do péče jejich koordinátorů napříč Českou republikou logickým krokem. Dosavadní koordinátorka Sbírky **Gabriela Chladilová tak odevzdá svou agendu Libuši Homolové**, dobrovolnici pro koordinaci webinářové postprodukce v projektu Učíme online. Česko.Digital tak propojuje nejen projekty, ale i lidi a celé organizace. 
 
-
-
 Vedoucí vzdělávacích služeb a projektová manažerka ve společnosti Člověk v tísni Zuzana Ramajzlová přitom připomíná, že **jde o kontinuální pomoc**: *„Od začátku pandemie jsme byli s Česko.Digital v kontaktu a víme, že jdeme podobnou cestou. Hledali jsme různé cesty, jak pomoci dětem. Ať už spoluprací s pedagogickými fakultami, jinými neziskovkami, tak i zprostředkováním přístupu k technice zmírnit jejich digitální propast a nerovné podmínky k učení.“*
 
 <br>
 
 ## Recept na úspěšné řízení projektu
 
-Dlouhodobé vyhlídky sbírky a její know-how dobrovolníci z Učíme online sepsali i do [Digitální kuchařky](https://www.ucimeonline.cz/wp-content/uploads/2021/08/Cesko.Digital_Darujte-techniku.pdf). Už teď je ale Člověku v tísni jasné, že stávající **propojování organizací a firem s neziskovými organizacemi chce udržet a rozšiřovat. **
+Dlouhodobé vyhlídky sbírky a její know-how dobrovolníci z Učíme online sepsali i do [Digitální kuchařky](https://www.ucimeonline.cz/wp-content/uploads/2021/08/Cesko.Digital_Darujte-techniku.pdf). Už teď je ale Člověku v tísni jasné, že stávající propojování organizací a firem s neziskovými organizacemi chce udržet a rozšiřovat.
 
-Podle zprávy České školní inspekce z března 2021 se školní výuky kvůli nedostatku techniky nemohlo účastnit až 50 000 dětí. Dnes se **toto číslo, i zásluhou aktivity Sbírky počítačů, zmenšuje**. S pomocí 66 dárců se podařilo vybavit 2 863 rodin a zapojit 233 organizací, škol a dětských domovů. Distanční výuka se bez počítače/tabletu a hlavně internetu bohužel neobejde. Zároveň se s jejich pomocí prohlubují znalosti ovládání techniky a **zvyšuje se tak digitální gramotnost dětí**. 
+Podle zprávy České školní inspekce z března 2021 se školní výuky kvůli nedostatku techniky nemohlo účastnit až 50 000 dětí. Dnes se **toto číslo, i zásluhou aktivity Sbírky počítačů, zmenšuje**. S pomocí 66 dárců se podařilo vybavit 2 863 rodin a zapojit 233 organizací, škol a dětských domovů. Distanční výuka se bez počítače/tabletu a hlavně internetu bohužel neobejde. Zároveň se s jejich pomocí prohlubují znalosti ovládání techniky a **zvyšuje se tak digitální gramotnost dětí**.
 
 <br>
 
 ## Propojování sbírky je možné i díky finanční podpoře
 
-Finančními příspěvky sbírku podpořily [Nadace České spořitelny](https://www.nadacecs.cz/) a [Bakala Foundation](https://www.bakalafoundation.org/), které tím výrazně pomohly v její lepší organizaci a šíření. P**ro Nadaci České spořitelny je oblast vzdělávání prioritou a byla jedním z prvních podporovatelů** Učíme online, což vyústilo i v darování 350 kusů dobře vybavených použitých počítačů do sbírky pro ty, kteří je nutně potřebovali.
-
-
+Finančními příspěvky sbírku podpořily [Nadace České spořitelny](https://www.nadacecs.cz/) a [Bakala Foundation](https://www.bakalafoundation.org/), které tím výrazně pomohly v její lepší organizaci a šíření. **Pro Nadaci České spořitelny je oblast vzdělávání prioritou a byla jedním z prvních podporovatelů** Učíme online, což vyústilo i v darování 350 kusů dobře vybavených použitých počítačů do sbírky pro ty, kteří je nutně potřebovali.
 
 Rovněž nadace **Bakala Foundation podporuje vzdělávání od svého počátku**. Ačkoliv její primární zaměření jsou stipendijní příspěvky pro studenty v zahraničí, považuje za zásadní **zmírnit nerovné podmínky žáků a studentů během pandemie**. Podpořit Česko.Digital se rozhodli i pro **rychlost a efektivitu**, se kterou se naše organizace pustila do **aktivit pro digitální zlepšování v mnoha oblastech**.
 
