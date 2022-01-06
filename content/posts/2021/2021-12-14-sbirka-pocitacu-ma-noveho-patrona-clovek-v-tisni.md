@@ -27,7 +27,7 @@ Vedoucí vzdělávacích služeb a projektová manažerka ve společnosti Člov�
 
 ## Recept na úspěšné řízení projektu
 
-Dlouhodobé vyhlídky sbírky a její know-how dobrovolníci z Učíme online sepsali i do [Digitální kuchařky](https://www.ucimeonline.cz/wp-content/uploads/2021/08/Cesko.Digital_Darujte-techniku.pdf). Už teď je ale Člověku v tísni jasné, že stávající propojování organizací a firem s neziskovými organizacemi chce udržet a rozšiřovat.
+Dlouhodobé vyhlídky sbírky a její know-how dobrovolníci z Učíme online sepsali i do [Digitální kuchařky](https://www.ucimeonline.cz/wp-content/uploads/2021/08/Cesko.Digital_Darujte-techniku.pdf). Už teď je ale Člověku v tísni jasné, že stávající **propojování organizací a firem s neziskovými organizacemi chce udržet a rozšiřovat.**
 
 Podle zprávy České školní inspekce z března 2021 se školní výuky kvůli nedostatku techniky nemohlo účastnit až 50 000 dětí. Dnes se **toto číslo, i zásluhou aktivity Sbírky počítačů, zmenšuje**. S pomocí 66 dárců se podařilo vybavit 2 863 rodin a zapojit 233 organizací, škol a dětských domovů. Distanční výuka se bez počítače/tabletu a hlavně internetu bohužel neobejde. Zároveň se s jejich pomocí prohlubují znalosti ovládání techniky a **zvyšuje se tak digitální gramotnost dětí**.
 
