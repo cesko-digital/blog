@@ -142,3 +142,8 @@
   name: Kmenový tým Česko.Digital
   id: coreteam
   email: my@cesko.digital
+- type: authors
+  name: Marek Mencl
+  id: marek.mencl
+  email: marek@pabeni.cz
+  
