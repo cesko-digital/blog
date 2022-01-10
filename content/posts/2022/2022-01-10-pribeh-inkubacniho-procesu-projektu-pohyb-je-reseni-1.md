@@ -70,7 +70,7 @@ Výsledkem designového výzkumu se stala **persona a empatická mapa**. Na zá
 
 ![](https://data.cesko.digital/img/clanek-pohyb-je-reseni/6.jpeg)
 
-![Research Wall s hrubými daty a výsledek ve formě persony a empatické mapy](https://data.cesko.digital/img/clanek-pohyb-je-reseni/7.png)
+![](https://data.cesko.digital/img/clanek-pohyb-je-reseni/7.png "Research Wall s hrubými daty a výsledek ve formě persony a empatické mapy")
 
 <br>
 
