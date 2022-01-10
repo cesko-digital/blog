@@ -26,7 +26,7 @@ Dynamiku projektu určovala **remote práce a designový přístup** postaven�
 
 Postupovali jsme následovně:
 
-
+![](https://data.cesko.digital/img/clanek-pohyb-je-reseni/1.jpeg)
 
 <br>
 
@@ -42,7 +42,7 @@ Pokládali jsme si otázky:
 
 ![](https://data.cesko.digital/img/clanek-pohyb-je-reseni/2.png)
 
-> Celý proces (až na ideační workshop) probíhal online pomocí Google Meet a MIRO aplikace
+> *Celý proces (až na ideační workshop) probíhal online pomocí Google Meet a MIRO aplikace*
 
 <br>
 
@@ -74,7 +74,7 @@ Výsledkem designového výzkumu se stala **persona a empatická mapa**. Na zá
 
 ![](https://data.cesko.digital/img/clanek-pohyb-je-reseni/7.png)
 
-> Research Wall s hrubými daty a výsledek ve formě persony a empatické mapy
+> *Research Wall s hrubými daty a výsledek ve formě persony a empatické mapy*
 
 <br>
 
