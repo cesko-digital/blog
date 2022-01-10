@@ -26,9 +26,7 @@ Dynamiku projektu určovala **remote práce a designový přístup** postavený 
 
 Postupovali jsme následovně:
 
-![](data.cesko.digital/img/clanek-pohyb-je-reseni/1.jpeg)
-
-
+![]()
 
 ### 1/ Onboarding týmu, očekávání a potřeby pro dobrovolnickou spolupráci
 
