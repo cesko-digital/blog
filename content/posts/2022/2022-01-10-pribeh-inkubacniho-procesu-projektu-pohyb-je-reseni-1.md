@@ -40,7 +40,7 @@ Pokládali jsme si otázky:
 * Co si chci z projektu odnést? Nového naučit?
 * Co potřebuji od druhých lidí v týmu, aby se mi dobře pracovalo?
 
-![](https://data.cesko.digital/img/clanek-pohyb-je-reseni/2.png "Celý proces (až na ideační workshop) probíhal online pomocí Google Meet a MIRO aplikace")
+![Celý proces (až na ideační workshop) probíhal online pomocí Google Meet a MIRO aplikace](https://data.cesko.digital/img/clanek-pohyb-je-reseni/2.png)
 
 <br>
 
@@ -70,7 +70,7 @@ Výsledkem designového výzkumu se stala **persona a empatická mapa**. Na zá
 
 ![](https://data.cesko.digital/img/clanek-pohyb-je-reseni/6.jpeg)
 
-![](https://data.cesko.digital/img/clanek-pohyb-je-reseni/7.png "Research Wall s hrubými daty a výsledek ve formě persony a empatické mapy")
+![Research Wall s hrubými daty a výsledek ve formě persony a empatické mapy](https://data.cesko.digital/img/clanek-pohyb-je-reseni/7.png)
 
 <br>
 
@@ -80,10 +80,6 @@ Oporou pro tvorbu zadání na ideační workshop jsme využili Influence Framewo
 
 * stávající stav chování — jeho přínosy i nedostatky.
 * řešením požadovanou změnou chování a její případné negativní dopady a výhody.
-
-![](data.cesko.digital/img/clanek-pohyb-je-reseni/8.png)
-
-Ideační workshop byl jediným, kdy jsme nahradili Meet za společné setkání. V průběhu jednoho dne jsme **skrze individuální i týmovou práci** došli ke konkrétní strategii a podobě aktivit, které podporují hlavní cíl — pohyb dětí.
 
 ![](https://data.cesko.digital/img/clanek-pohyb-je-reseni/8.png)
 
