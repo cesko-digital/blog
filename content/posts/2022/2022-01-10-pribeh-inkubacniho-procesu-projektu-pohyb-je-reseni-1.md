@@ -58,7 +58,7 @@ Na začátku procesu jsme se potýkali s častým jevem inovačních projektů �
 
 ![](https://data.cesko.digital/img/clanek-pohyb-je-reseni/5.jpeg)
 
-![](data.cesko.digital/img/clanek-pohyb-je-reseni/4.jpeg)<br>
+<br>
 
 ### 3/ Designový výzkum zaměřený na motivace a potřeby lidí spojené s pohybem dětí
 
@@ -70,9 +70,9 @@ Výsledkem designového výzkumu se stala **persona a empatická mapa**. Na zá
 
 ![](https://data.cesko.digital/img/clanek-pohyb-je-reseni/6.jpeg)
 
-![](https://data.cesko.digital/img/clanek-pohyb-je-reseni/7.png)
+![](https://data.cesko.digital/img/clanek-pohyb-je-reseni/7.png "Research Wall s hrubými daty a výsledek ve formě persony a empatické mapy")
 
-![](data.cesko.digital/img/clanek-pohyb-je-reseni/7.png "Research Wall s hrubými daty a výsledek ve formě persony a empatické mapy")<br>
+<br>
 
 ### 4/ Ideační workshop s cílem pojmenovat konkrétní koncept řešení
 
