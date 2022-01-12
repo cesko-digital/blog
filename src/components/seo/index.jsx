@@ -70,6 +70,7 @@ const SEO = ({ postNode, postPath, postSEO }) => {
         {/* General tags */}
         <meta name="description" content={description} />
         <meta name="image" content={image} />
+        <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://blog.cesko.digital/rss.xml" />
 
         {/* Schema.org tags */}
         <script type="application/ld+json">{JSON.stringify(schemaOrgJSONLD)}</script>
