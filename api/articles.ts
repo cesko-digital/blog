@@ -52,6 +52,7 @@ export default async (_: VercelRequest, response: VercelResponse) => {
     .map(getArticleMetadata);
   const out = JSON.stringify(posts, null, 2);
   response.status(200);
+  response.setHeader('Cache-Control', 'max-age=0, s-maxage=60, stale-while-revalidate=300');
   response.setHeader('Content-type', 'application/json');
   response.send(out);
 };
