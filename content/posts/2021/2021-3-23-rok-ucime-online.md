@@ -6,6 +6,7 @@ date: 2021-3-23-15-02
 slug: rok-ucime-online
 lang: cs
 description: 'Česko.Digital skrze jedničky a nuly mění Česko k lepšímu. Od března minulého roku se mimo jiné zasloužilo i o rychlou pomoc školám, učitelům a rodinám v nouzi. V okamžiku, kdy pandemie ochromila celý svět, tým expertních dobrovolníků v oblasti IT spojil své síly s American Academy, komunitami GUG.cz a Microsoft Studentské trenérské centrum a odstartovali okamžitou pomoc školám, kterým výrazně usnadnili přechod na distanční výuku. Tak vznikl projekt Učíme online.'
+tags: ucime-online
 ---
 
 Prvotním cílem bylo pomoci školám zprovoznit technologie k online výuce. Problémy, s nimiž se nejen školy potýkaly, však byly velmi různorodé. Proto jsme naši pomoc začali na základě jejich potřeb rozšiřovat. Rozjeli jsme vysílání interaktivních webinářů učitelů pro učitele a podporu potřebných rodin, kterým doma chyběla pro děti technika a internetové připojení. A to zejména díky finanční podpoře z krizového fondu Nadace České spořitelny ve výši 5 milionů Kč, kterou projekt získal koncem května 2020. 

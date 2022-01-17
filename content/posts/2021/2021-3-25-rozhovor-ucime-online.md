@@ -6,6 +6,7 @@ date: 2021-3-25-09-02
 slug: rozhovor-ucime-online
 lang: cs
 description: 'Rok fungování oslavil projekt Učíme online, ve kterém dobrovolníci pomáhají učitelům i žákům překonávat překážky v online výuce. O výzvách i emocích spojených s vedením projektu, ale i o širších problémech českého školství jsme si při té příležitosti povídali s Evou Pavlíkovou, CEO Česko.Digital, a Ondřejem Zapletalem, ředitelem Nadace České spořitelny, která provoz projektu podpořila.'
+tags: ucime-online
 ---
 
 **Projekt Učíme online vznikl v týdnu, kdy vláda uzavřela školy. Vznikl tým lidí, který přes víkend vytvořil fungující systém a v pondělí již probíhalo první školení učitelů online. Jak je možné, že to šlo tak rychle? Kde se vzali všichni ti lidé, kteří projekt uvedli v realitu?**

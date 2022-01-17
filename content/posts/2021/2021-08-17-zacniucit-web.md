@@ -6,6 +6,7 @@ date: 2021-8-17-14-00
 slug: spustili-jsme-web-zacni-ucit
 lang: cs
 description: 'Snazší cestu k učitelství mají ode dneška lidé, kteří nestudovali na pedagogické fakultě. Výrazně lepší podpory se dočkají i začínající učitelé. Oběma těmto skupinám pomůže organizace Výluka, která ve spolupráci s experty z Česko.Digital představila novou verzi webu Začni učit!.'
+tags: zacni-ucit
 ---
 
 S výzvou dostat do školství lidi z praxe pomáhá Začni učit! již několika způsoby a **nový web bude místem, kde se vše spojí dohromady**. *„První možností je dát lidem příležitost vyzkoušet si učení nanečisto. Připravili jsme proto týdenní program, díky kterému zažijete přípravu hodiny, samotné učení i reflexi se zkušeným pedagogem,“* vysvětluje **šéfka Výluky Jana Fryzelková**.

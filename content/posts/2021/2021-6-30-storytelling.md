@@ -6,6 +6,7 @@ date: 2021-6-30-09-02
 slug: storytelling
 lang: cs
 description: 'Storytelling je způsob nebo forma, jakým informace sdělujete čtenáři nebo příjemci. Znáte, nebo neznáte? Společně s Nadačním fondem pro nezávislou žurnalistiku vznikl v Česko.Digital projekt Inovace zpravodajského storytellingu, který u nás nemá obdoby.  Povídali jsme si o něm s Jiřím Kučerou z NFNŽ a Šárkou Rauchovou z č.d.'
+tags: inovace-zpravodajstvi
 ---
 
 **Projekt [Inovace zpravodajského storytellingu](https://blog.cesko.digital/2021/06/inovace-storytellingu) si klade za cíl zatraktivnit formu zpravodajského obsahu a přinést redakcím nové čtenáře. Proč je takový projekt potřeba?**

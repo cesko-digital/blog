@@ -10,6 +10,7 @@ description: Když v březnu 2020 vypukla pandemie, projekt Učíme online z dí
   hrozí lockdown situace, se projekt odevzdává z rukou expertních dobrovolníků
   do rukou odborné organizace. Kdo ho povede dál?
 lang: cs
+tags: ucime-online
 ---
 Poslání Česko.Digital a jeho dobrovolníků je práce na projektech, které díky **technologiím pomáhají**. Po úspěšném spuštění a organizačním zabezpečení řízení chodu bylo hlavní prioritou nalezení spolehlivého partnera, který projekty převezme pod svou správu. A to se povedlo! **Učíme online se přesouvá pod Národní pedagogický institut České republiky a Sbírku počítačů převezme Člověk v tísni.** 
 
