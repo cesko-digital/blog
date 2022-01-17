@@ -18,14 +18,15 @@ function getFilesRecursively(dir: string): string[] {
   return found;
 }
 
-function getArticleMetadata(path: string): any {
+function getArticleMetadata(path: string): Record<string, unknown> {
   const src = fs.readFileSync(path, { encoding: 'utf-8' });
   const { content, data } = matter(src);
   return data;
 }
 
 export default async (_: VercelRequest, response: VercelResponse) => {
-  const posts = getFilesRecursively('content/posts')
+  const root = __dirname + '/../content/posts';
+  const posts = getFilesRecursively(root)
     .filter((path) => path.endsWith('.md'))
     .map(getArticleMetadata);
   const out = JSON.stringify(posts, null, 2);
