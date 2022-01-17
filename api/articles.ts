@@ -18,10 +18,31 @@ function getFilesRecursively(dir: string): string[] {
   return found;
 }
 
+function getArticleURL(metadata: Record<string, unknown>): string | undefined {
+  const date = metadata['date'];
+  if (typeof date !== 'string') {
+    return;
+  }
+  const slug = metadata['slug'];
+  if (typeof slug !== 'string') {
+    return;
+  }
+  const matches = date.match(/^(\d+)-(\d+)/);
+  if (!matches || matches.length < 2) {
+    return;
+  }
+  const year = matches[1];
+  const month = matches[2];
+  return `https://blog.cesko.digital/${year}/${month}/${slug}`;
+}
+
 function getArticleMetadata(path: string): Record<string, unknown> {
   const src = fs.readFileSync(path, { encoding: 'utf-8' });
   const { content, data } = matter(src);
-  return data;
+  return {
+    url: getArticleURL(data),
+    ...data,
+  };
 }
 
 export default async (_: VercelRequest, response: VercelResponse) => {
