@@ -6,7 +6,8 @@ date: 2021-3-24-10-02
 slug: rozhovor-cityvizor
 lang: cs
 description: 'Cityvizor spustil nový web a dokázal, že spolupráce státu a neziskové organizace může skvěle fungovat. Všechno nebylo vždy jasně zelené 💚, ale výsledek za to stojí. Jak probíhala spolupráce tří různých organizací a jak se lišila původní představa a finální výsledek? O tom všem si povídali Pavla Kadlecová z Otevřených měst, Martin Šebek ze společnosti Operátor ICT a Kateřina Kocianová z Česko.Digital.'
-tags: cityvizor
+tags:
+    - cityvizor
 ---
 
 **Jak se Otevřená města dostala k projektu, který začal na Ministerstvu financí ČR?**

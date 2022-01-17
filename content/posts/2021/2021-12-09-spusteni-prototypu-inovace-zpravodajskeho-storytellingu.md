@@ -13,7 +13,8 @@ description: Společný projekt Česko.Digital a Nadačního fondu nezávislé
   sledovanost. S jejich propagací směrem k novinářům pomůže NFNZ, spuštění
   aplikací do praxe je už však nyní na redakcích.
 lang: cs
-tags: inovace-zpravodajstvi
+tags:
+    - inovace-zpravodajstvi
 ---
 *„V Česko.Digital jsme od počátku věděli, že technologie mohou radikálním způsobem zlepšit přístup k informacím. Potvrdila to i [studie](https://www.nfnz.cz/studie-a-analyzy/soucasne-trendy-v-sireni-novinarskych-informaci/), se kterou za námi nadační fond přišel. Přestože jsme původně chtěli uspořádat hackathon, na radu expertů z komunity jsme se vrhli na ideační workshopy, abychom si tuto hypotézu ověřili s cílovými skupinami,“* popisuje průběh projektu jeho support koordinátor Jindřich Oukropec.
 

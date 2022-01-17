@@ -10,7 +10,8 @@ description: Česko.Digital ve spolupráci s projektem Začni učit! spouští n
   Předají tak informace těm, kteří chtějí učit, ale tápou, jak si doplnit
   náležité vzdělání. Jak průvodce funguje?
 lang: cs
-tags: zacni-ucit
+tags:
+    - zacni-ucit
 ---
 Když se řekne pedagogické minimum, mnozí z nás si představí řešení pro využití svého vysokoškolského oboru k učitelství na základních nebo středních školách. V praxi to však takhle nefunguje. 
 

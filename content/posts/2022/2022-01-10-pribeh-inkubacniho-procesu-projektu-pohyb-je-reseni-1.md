@@ -9,7 +9,8 @@ description: Příběh tříměsíčního designového procesu, který nás prov
   původní obecné představy technologického řešení ke konkrétní strategii a sérii
   dílčích služeb.
 lang: cs
-tags: pohyb-je-reseni
+tags:
+    - pohyb-je-reseni
 ---
 ## Inkubátor jako reakce na podporu projektů s celospolečenským dopadem
 

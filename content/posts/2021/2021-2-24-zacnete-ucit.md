@@ -6,7 +6,8 @@ date: 2021-2-24-10-02
 slug: zacnete-ucit
 lang: cs
 description: 'Přes Inkubátor Česko.Digital až do reálného světa. Tak začala cesta, jejímž cílem je zvýšit počet učitelů v českém školství a prestiž tohoto smysluplného povolání. Projekt Začni učit! nabízí zájemcům o učitelství elegantním a přístupným způsobem potřebné informace a usnadňuje jim cestu za katedru. Přehledně poradí s doplněním nutné kvalifikace i s prvními kroky.'
-tags: zacni-ucit
+tags:
+    - zacni-ucit
 ---
 
 „Jedná se o projekt neziskové organizace Výluka. Řeší potřeby těch, kteří chtějí začít učit a ptají se: Co musím udělat, abych mohl být učitelem?“ [řekl v nedávném rozhovoru Jakub Štogr](https://blog.cesko.digital/2021/02/rozhovor-inkubator), jeden z mentorů v inkubátoru. Zájemcům o učitelství se nikde nedostává ucelených a přehledných informací o tom, jak se stát učitelem Společně s organizací [Výluka](https://vyluka.org/), která přišla s projektem Začni učit! do Česko.Digital, chceme zlepšit situaci českého školství.

@@ -6,7 +6,8 @@ date: 2021-6-18-10-02
 slug: inovace-storytellingu
 lang: cs
 description: 'Přibývá Čechů s nezájmem o zprávy a aktuální dění ve společnosti. Česko.Digital to chce společně s Nadačním fondem nezávislé žurnalistiky (NFNZ) změnit. Projekt Inovace zpravodajského storytellingu si klade za cíl zatraktivnit formu zpravodajského obsahu a přinést redakcím nové čtenáře. Ve vývoji už jsou tři pilotní řešení. Co zajímavého přináší?'
-tags: inovace-zpravodajstvi
+tags:
+    - inovace-zpravodajstvi
 ---
 
 Podle [výzkumu agentury Median](https://www.nfnz.cz/studie-a-analyzy/cesi-a-zpravodajstvi/) pro NFNZ patří do skupiny nekonzumentů médií třetina Čechů ve věku 15 až 79 let. Jsou to většinou mladí lidé se silnou nedůvěrou k masmédiím. Dělí se na „Mladé a politicky neangažované“ z větších měst a o trochu starší „Zcela apatické“ z malých a menších měst a obcí, se zájmem o bulvár.

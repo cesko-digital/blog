@@ -6,7 +6,8 @@ date: 2021-3-5-18-02
 slug: rozhovor-zacni-ucit
 lang: cs
 description: 'Dobrovolníci z Česko.Digital a organizace Výluka spojili síly a začali spolupracovat na projektu Začni učit!. Pro zájemce o učitelství vytvoří expertní systém, který je cestou za katedru srozumitelně provede. Jak poznat, kdy se v rozjetém projektu vrátit o krok zpátky, a kdy naopak tlačit dopředu? Nejen o tomto rozhodování jsme se bavili se šéfkou organizace Výluka Sandrou Ort Feyglovou a dobrovolnickým koordinátorem projektu Michalem Voráčem z Česko.Digital.'
-tags: zacni-ucit
+tags:
+    - zacni-ucit
 ---
 
 **„Z inkubace do realizace“ by mohlo být jarní heslo projektu Začni učit!, [se kterým organizace Výluka přišla do Česko.Digital](https://blog.cesko.digital/2021/02/zacnete-ucit). Jak se vám líbilo v inkubátoru a co vám utkvělo v paměti?**

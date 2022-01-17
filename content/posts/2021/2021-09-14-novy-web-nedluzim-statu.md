@@ -13,7 +13,8 @@ description: Věděli jste, že poplatky za psa nebo zapomenutý rest z pokuty v
   Ten se nyní dostal do fáze, která výrazně usnadňuje použití pro uživatele a
   navíc přibudou funkce řešící případný dluh. Jaké?
 lang: cs
-tags: nedluzim-statu
+tags:
+    - nedluzim-statu
 ---
 Webová aplikace stojí na myšlence, že by pro občana mělo být jednoduché zjistit, zda nedluží státu. První fáze, která světlo světa spatřila na konci listopadu 2020, nabídla kromě jednoduchého a intuitivního prostředí internetové stránky také **formuláře a srozumitelné návody** na to, jak zjistit případný dluh. Více si o první fázi projektu můžete přečíst na [blogu Česko.Digital](https://blog.cesko.digital/2020/11/nedluzim-statu).
 

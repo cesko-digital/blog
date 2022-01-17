@@ -9,7 +9,8 @@ description: Projekt, který si za více než rok a půl vývoje v Česko.Digita
   vytvořit prostor pro platformu, která sjednotí a podpoří digitální vzdělávání
   v Česku. Na nové cestě k ještě lepšímu školství však už nebudeme sami.
 lang: cs
-tags: ucime-online
+tags:
+    - ucime-online
 ---
 Projekt [Učíme online](http://ucimeonline.cz/) vznikl jakožto reakce na uzavření škol z důvodu pandemie, kdy byla nezbytná rychlá pomoc žákům i učitelům se světem online výuky. **Nyní zkvalitňuje nejen distanční výuku, ale také digitální kompetence žáků**, kteří se bez nich v dnešní době neobejdou.
 

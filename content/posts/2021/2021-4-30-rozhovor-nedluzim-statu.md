@@ -6,7 +6,8 @@ date: 2021-4-30-10-02
 slug: rozhovor-nedluzim-statu
 lang: cs
 description: 'Jak vznikal web, na kterém pracovali především začínající experti a na jehož počátku byla semestrální práce? Kdy se potvrdilo, že copywriting, UX a grafický design webu je lepší dělat společně? A proč by neměl UX designer nastupovat do rozjetého projektového vlaku? Povídali jsme si o tom s dobrovolníky z projektu Nedlužím státu.'
-tags: nedluzim-statu
+tags:
+    - nedluzim-statu
 ---
 
 **Lenka Široká** se jako studentka grafické školy stala webdesignérkou projektu. Její grafický návrh webové stránky vyhrál ve výběrku, a tak se teď stará o veškerou grafiku a design. **Jana Morávková Minaříková** vystupovala v první fázi projektu jako UX designérka. Vytvářela prototypy webu v designovém nástroji, prováděla uživatelské testování a hleděla na to, aby byl celý návrh přehledný a dobře použitelný. **Terézia Palaščáková** nastoupila na začátku projektu jako copywriTerka. Pomáhá s psaním veškerých textů, nastavením komunikace a vymýšlením příspěvků a strategie sociálních sítí projektu. **Stanislav Pilátik** se na projekt připojil společně s Lenkou. Navrhnul projektové logo a momentálně přispívá ilustracemi a designem na web nebo sociální sítě.

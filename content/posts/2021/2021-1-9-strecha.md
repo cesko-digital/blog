@@ -6,7 +6,8 @@ date: 2021-1-9-09-03
 slug: strecha-dusevniho-zdravi
 lang: cs
 description: 'Děti a dospívající zažívají během vládních opatření souvisejících s pandemií Covid-19 hodně stresu a nemají dostatek informací nebo nástrojů, jak situaci řešit. Spustili jsme proto práci na novém projektu Střecha duševního zdraví, který na jednom místě přinese dětem a jejich blízkým kompletní informace k prevenci a včasné pomoci při vnitřní nepohodě. Cílem projektu je snadná orientace v systému péče o duševní zdraví i propojování odborníků a organizací.'
-tags: strecha-dusevniho-zdravi
+tags:
+    - strecha-dusevniho-zdravi
 ---
 
 Každý rok dochází v České republice k růstu výskytu psychických poruch. Tato statistika se o poznání [zhoršila během pandemie koronaviru](https://www.nasezdravotnictvi.cz/aktualita/sebevrazdy-deprese-uzkosti-koronavirus-drti-i-dusevni-zdravi-cechu). Informací věnujících se duševnímu zdraví najdeme sice na internetu mnoho, ale jsou roztříštěné na různých místech. Pro laika jsou navíc často nesrozumitelné, matoucí či zavádějící. Je proto těžké se v nich zorientovat a zjistit, jaké informace jsou vhodné právě pro daného jedince či jeho blízkého. Relevantnost a odbornost těchto zdrojů navíc někdy ani není garantována žádnou institucí.  

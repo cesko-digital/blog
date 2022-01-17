@@ -11,7 +11,8 @@ description: Od spuštění nové verze stránek projektu Nedlužím státu ubě
   proč přišli s úplně novým designem, jaké problémy je při vývoji potkaly a proč
   by chtěli web za pár let vypnout.
 lang: cs
-tags: nedluzim-statu
+tags:
+    - nedluzim-statu
 ---
 ### **Jak náročný byl přesun z vývojového prostředí v Česko.Digital pod zadavatele projektu, Radka Hábla? Kolik potřeboval času a naskytly se během projektu nějaké nesnáze?**
 

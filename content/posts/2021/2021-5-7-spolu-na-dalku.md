@@ -6,7 +6,8 @@ date: 2021-5-7-10-02
 slug: spolu-na-dalku
 lang: cs
 description: 'Cílem projektu Spolu na dálku bylo v jeho začátku nabídnout poskytovatelům zdravotnických a sociálních služeb chytrá zařízení, díky kterým by svým klientům umožnili vzdálenou komunikaci s jejich blízkými. Výzkum, který vznikl ve spolupráci se zástupci nemocnic, domovů pro seniory, domovů se speciální péčí a zástupci dvou pilotních projektů, však ukázal, že finance nejsou vždy tou hlavní překážkou.'
-tags: spolu-na-dalku
+tags:
+    - spolu-na-dalku
 ---
 
 „Příručka Spolu na dálku pro umožnění vzdálené komunikace pacientů nebo klientů a jejich blízkých“ vznikla ve spolupráci Česko.Digital a odbornými garanty z [Národního telemedicínského centra](https://ntmc.fnol.cz/) Fakultní nemocnice Olomouc a [Asociace poskytovatelů sociálních služeb ČR](https://www.apsscr.cz/). Nabízí ucelený přehled jednoduchých a ověřených postupů, doporučení a pravidel, jak na vzdálenou komunikaci, jak řešení implementovat a chytré zařízení tak efektivně využívat. Shrnuje důvody a argumenty, proč zvážit pořízení tabletů a k čemu je používat.

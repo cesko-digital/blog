@@ -10,7 +10,8 @@ description: V Česko.Digital stavíme jednotný digitální prostor, kde děti,
   prevence psychických potíží a odkazy na příslušné organizace. Co všechno
   portál přinese, kdo za ním stojí a co nás k jeho realizaci vedlo?
 lang: cs
-tags: strecha-dusevniho-zdravi
+tags:
+    - strecha-dusevniho-zdravi
 ---
 Podle výzkumu Národního ústavu duševního zdraví se **každé páté dítě** setkalo s nějakou formou **duševních obtíží**. Polovina těchto obtíží se dokonce objeví před jejich 14. narozeninami. Pro děti je často spouštěčem prostředí, ve kterém žijí, a nepříjemné situace, kterým jsou vystaveny. K řešení této alarmující skutečnosti má přispět i [Safezóna](https://www.safezona.cz/), prostřednictvím které se zaměřujeme na starší žáky druhého stupně základních škol, zejména v 7.– 9. třídě. 
 
