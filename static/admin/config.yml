@@ -36,7 +36,7 @@ collections:
           "jindrich.oukropec", "martina.plechatova", "zavis.pexidr", "kristyna.buzkova",
           "martina.cilkova", "coreteam", "marek.mencl"]
         required: true
-      - label: "Tagy"
+      - label: "Tags"
         name: "tags"
         widget: "select"
         multiple: true
