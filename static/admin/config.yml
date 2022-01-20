@@ -36,6 +36,14 @@ collections:
           "jindrich.oukropec", "martina.plechatova", "zavis.pexidr", "kristyna.buzkova",
           "martina.cilkova", "coreteam", "marek.mencl"]
         required: true
+      - label: "Tagy"
+        name: "tags"
+        widget: "select"
+        multiple: true
+        options: ["ucime-online", "cityvizor", "dame-rousky", "nedluzim-statu", "jehlomat",
+          "inovace-zpravodajstvi", "covid-portal", "nasi-politici", "strecha-dusevniho-zdravi",
+          "zacni-ucit", "verejne-zakazky-spolu", "spolu-na-dalku", "loono", "pohyb-je-reseni",
+          "cesko-digital-edu", "cesko-digital-market-place", "open-data-ve-firmach", "hotova-jidla-pomahaji"]
       - label: "Cover"
         name: "cover"
         widget: "string"
