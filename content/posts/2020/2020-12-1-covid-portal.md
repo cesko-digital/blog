@@ -1,11 +1,17 @@
 ---
-title: 'Rychlost a spolupráce: Jak jsme během 14 dní spustili nový Covid portál'
-cover: https://data.cesko.digital/img/20320f87.jpeg
+title: "Rychlost a spolupráce: Jak jsme během 14 dní spustili nový Covid portál"
 author: zoul
+tags:
+  - covid-portal
+cover: https://data.cesko.digital/img/20320f87.jpeg
 date: 2020-12-01-09-03
 slug: covid-portal
+description: Společně se státní správou jsme vytvořili nový Covid portál ČR,
+  který už za první víkend pilotního provozu zaznamenal čtvrt milionu
+  návštěvníků a za tři týdny své existence překročil 7 milionů zobrazených
+  stránek. Jak se nám podařilo různorodý tým s desítkami členů ze tří různých
+  stran uřídit a v šibeničním termínu dvou týdnů projekt skutečně dodat?
 lang: cs
-description: 'Společně se státní správou jsme vytvořili nový Covid portál ČR, který už za první víkend pilotního provozu zaznamenal čtvrt milionu návštěvníků a za tři týdny své existence překročil 7 milionů zobrazených stránek. Jak se nám podařilo různorodý tým s desítkami členů ze tří různých stran uřídit a v šibeničním termínu dvou týdnů projekt skutečně dodat?'
 ---
 
 Nejednotné informace o opatřeních rozptýlené po různých vládních webech, navíc psané odborným jazykem. Chybějící snaha o přehlednost a uživatelskou vstřícnost. Dala se situace zlepšit [dalším webem](https://xkcd.com/927/)? Shodli jsme se, že ano – pokud bude soustředit informace ze všech zdrojů ve srozumitelné formě. Po tweetu Dominika Feriho jsme proto 23. října [nabídli pomoc](https://twitter.com/evapavlikova/status/1319619822007865344) a o 14 dní později spustili v pilotním režimu nový [covid.gov.cz](https://covid.gov.cz).
