@@ -1,11 +1,17 @@
 ---
-title: "Cityvizor do každé obce"
-cover: https://data.cesko.digital/img/0f118dbf.jpg
+title: Cityvizor do každé obce
 author: eva
+tags:
+  - cityvizor
+cover: https://data.cesko.digital/img/0f118dbf.jpg
 date: 2020-02-21-16-16
 slug: cityvizor-letak
+description: Po několika měsících analýzy produktu i trhu, diskusí,
+  probíhajícího výzkumu s uživateli i zapojenými obcemi jsme připravili
+  jednoduchý letáček, který odpovídá na všechny důležité otázky ohledně
+  Cityvizoru – co to je Cityvizor, pro koho je určený a proč je výhodné jej
+  využívat.
 lang: cs
-description: "Po několika měsících analýzy produktu i trhu, diskusí, probíhajícího výzkumu s uživateli i zapojenými obcemi jsme připravili jednoduchý letáček, který odpovídá na všechny důležité otázky ohledně Cityvizoru – co to je Cityvizor, pro koho je určený a proč je výhodné jej využívat."
 ---
 
 [Tento letáček](https://data.cesko.digital/cityvizor/produktovy-letak.pdf) jsme vytvořili proto, abychom mohli obce oslovit s informací, že existuje Cityvizor, který je připraven pomoci s transparentním hospodařením obce.
