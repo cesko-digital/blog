@@ -1,11 +1,20 @@
 ---
-title: 'Technické inovace mohou přitáhnout Čechy zpět ke sledování zpráv'
-cover: https://data.cesko.digital/img/efd12245.png
+title: Technické inovace mohou přitáhnout Čechy zpět ke sledování zpráv
 author: hrudka
+tags:
+  - inovace-zpravodajstvi
+cover: https://data.cesko.digital/img/efd12245.png
 date: 2020-12-16-09-03
 slug: inovace-storytellingu
+description: Třetina Čechů vůbec nesleduje zpravodajství a ti ostatní stále
+  častěji preferují zpravodajství v obrazové podobě nebo výrazně zkráceném
+  textu. Pokud s nimi novináři nechtějí ztratit kontakt, musí nutně přijít s
+  novými způsoby prezentace obsahu. Právě na tom pracujeme v projektu Inovace
+  zpravodajského storytellingu, který jsme nedávno spustili ve spolupráci s
+  Nadačním fondem nezávislé žurnalistiky a českými novináři. V polovině
+  listopadu jsme projekt otevřeli úvodním seminářem a už máme za sebou i první
+  inovační workshopy. Proč tuto problematiku řešíme? Fakta jsou nekompromisní.
 lang: cs
-description: 'Třetina Čechů vůbec nesleduje zpravodajství a ti ostatní stále častěji preferují zpravodajství v obrazové podobě nebo výrazně zkráceném textu. Pokud s nimi novináři nechtějí ztratit kontakt, musí nutně přijít s novými způsoby prezentace obsahu. Právě na tom pracujeme v projektu Inovace zpravodajského storytellingu, který jsme nedávno spustili ve spolupráci s Nadačním fondem nezávislé žurnalistiky a českými novináři. V polovině listopadu jsme projekt otevřeli úvodním seminářem a už máme za sebou i první inovační workshopy. Proč tuto problematiku řešíme? Fakta jsou nekompromisní.'
 ---
 
 ## Třetinu Čechů zpravodajství vůbec nezajímá
