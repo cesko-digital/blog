@@ -1,11 +1,17 @@
 ---
-title: 'Česko.Digital a INCIEN: cirkulární ekonomika mění náš pohled na odpad'
-cover: https://data.cesko.digital/img/incien.png
+title: "Česko.Digital a INCIEN: cirkulární ekonomika mění náš pohled na odpad"
 author: lvanous
+tags:
+  - ucime-online
+cover: https://data.cesko.digital/img/incien.png
 date: 2021-08-01-13-30
 slug: cirkularni-ekonomika
+description: Česko.Digital navázalo spolupráci s Institutem Cirkulární
+  Ekonomiky. Aktivity a zájmy obou organizací se protínají ve Sbírce počítačů
+  projektu Učíme online. Jak spolu souvisí cirkulární ekonomika a sbírka
+  vyřazené elektroniky pro děti, které se bez potřebné techniky nemohly zapojit
+  do online výuky?
 lang: cs
-description: 'Česko.Digital navázalo spolupráci s Institutem Cirkulární Ekonomiky. Aktivity a zájmy obou organizací se protínají ve Sbírce počítačů projektu Učíme online. Jak spolu souvisí cirkulární ekonomika a sbírka vyřazené elektroniky pro děti, které se bez potřebné techniky nemohly zapojit do online výuky?'
 ---
 
 ## Use – Reuse – Recycle
