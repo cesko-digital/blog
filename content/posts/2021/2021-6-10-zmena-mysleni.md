@@ -1,11 +1,17 @@
 ---
-title: 'Digitalizace státu je především změna myšlení a srozumitelná komunikace'
-cover: https://data.cesko.digital/img/72b2c6ef.png
+title: Digitalizace státu je především změna myšlení a srozumitelná komunikace
 author: eva
+tags:
+  - verejne-zakazky-spolu
+cover: https://data.cesko.digital/img/72b2c6ef.png
 date: 2021-6-10-9-02
 slug: zmena-mysleni
+description: "Pro začátek si položme jednoduchou otázku: co pro nás skutečně
+  znamená digitalizace státu? Jde o mantru, kterou používáme léta a rády ji
+  skloňují všechny politické strany jako svou prioritu. Ale co pro nás skutečně
+  znamená nebo by znamenat měla? A jakou o tom my jako společnost máme
+  představu?"
 lang: cs
-description: 'Pro začátek si položme jednoduchou otázku: co pro nás skutečně znamená digitalizace státu? Jde o mantru, kterou používáme léta a rády ji skloňují všechny politické strany jako svou prioritu. Ale co pro nás skutečně znamená nebo by znamenat měla? A jakou o tom my jako společnost máme představu?'
 ---
 
 Digitalizace je na prvním místě – z mého pohledu – především změna myšlení a řízení komplexní změny, což se často z mé zkušenosti nedaří ani ve velkých firmách. Veřejná správa je pak taková globální korporace, taková [Emma Maersk](https://en.wikipedia.org/wiki/Emma_Mærsk), kterou změna směru stojí opravdu velké a dlouhodobé úsilí. Současnost nám tak nabízí vynikající příležitost nově si definovat, co pro nás digitalizace znamená a jak ji využít, abychom takovou situaci boje s pandemií už nemuseli opakovat.
