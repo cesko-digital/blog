@@ -1,11 +1,19 @@
 ---
-title: „Když jsou lidé motivovaní, dokáží během relativně krátkého času udělat fakt skvělou práci“
-cover: https://data.cesko.digital/img/c7381343.jpeg
+title: „Když jsou lidé motivovaní, dokáží během relativně krátkého času udělat
+  fakt skvělou práci“
 author: zoul
+tags:
+  - nedluzim-statu
+cover: https://data.cesko.digital/img/c7381343.jpeg
 date: 2020-11-25-09-02
 slug: rozhovor-nedluzim-statu
+description: "Česko.Digital spouští v těchto dnech první fázi projektu Nedlužím
+  státu. Ten chce předcházet vzniku dluhových pastí a exekucí tím, že zájemcům
+  pomůže najít odpověď na zdánlivě banální otázku: „Jste si jisti, že nikde
+  nedlužíte státu?“ O tom, proč je vlastně odpověď na tuhle otázku složitější a
+  jak ji co nejvíc zjednodušit, jsme si povídali s dobrovolnickým koordinátorem
+  projektu Tomášem Walekem a koordinátorkou Lucií Zajíčkovou z Česko.Digital."
 lang: cs
-description: 'Česko.Digital spouští v těchto dnech první fázi projektu Nedlužím státu. Ten chce předcházet vzniku dluhových pastí a exekucí tím, že zájemcům pomůže najít odpověď na zdánlivě banální otázku: „Jste si jisti, že nikde nedlužíte státu?“ O tom, proč je vlastně odpověď na tuhle otázku složitější a jak ji co nejvíc zjednodušit, jsme si povídali s dobrovolnickým koordinátorem projektu Tomášem Walekem a koordinátorkou Lucií Zajíčkovou z Česko.Digital.'
 ---
 
 **Co vás motivovalo připojit se zrovna k projektu Nedlužím státu? Máte nějakou zkušenost s dluhy nebo exekucemi?**
