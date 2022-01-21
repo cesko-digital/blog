@@ -1,11 +1,16 @@
 ---
-title: 'Dáme roušky: 130 lidí z komunity pomohlo tisícům lidí a inspirovalo hned několik zahraničních projektů'
-cover: https://data.cesko.digital/img/a3edc1db.jpeg
+title: "Dáme roušky: 130 lidí z komunity pomohlo tisícům lidí a inspirovalo hned
+  několik zahraničních projektů"
 author: jana
+tags:
+  - dame-rousky
+cover: https://data.cesko.digital/img/a3edc1db.jpeg
 date: 2020-06-24-09-00
 slug: damerousky-konci
+description: Během hektických dní začátku koronavirové krize se spojila komunita
+  Česko.Digital spolu se startupem Mapotic a v řádu několika hodin vytvořila
+  komunitní nástroj pro distribuci roušek.
 lang: cs
-description: 'Během hektických dní začátku koronavirové krize se spojila komunita Česko.Digital spolu se startupem Mapotic a v řádu několika hodin vytvořila komunitní nástroj pro distribuci roušek.'
 ---
 
 Veškeré funkce a návody se upravovaly na živém webu podle měnících se potřeb uživatelů: šicí místa mohla pomocí semaforu určit stav vytíženosti, na mapu se začali přidávat 3D tiskaři nebo opraváři šicích strojů, rostl počet distribučních míst. „[Nebyl čas na invenci, jen jsme museli být rychlí](https://blog.cesko.digital/2020/06/damerousky),“ komentuje situaci začátků jeden ze zakladatelů a idea makerů Martin Hassman.
