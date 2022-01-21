@@ -1,11 +1,15 @@
 ---
-title: 'Naši politici zaplňují díry v paměti ověřenými fakty'
-cover: https://data.cesko.digital/img/08295e4f.png
+title: Naši politici zaplňují díry v paměti ověřenými fakty
 author: zoul
+tags:
+  - nasi-politici
+cover: https://data.cesko.digital/img/08295e4f.png
 date: 2020-06-3-9-00
 slug: nasi-politici
+description: Na začátku června spustilo Česko.Digital společně s Transparency
+  International a Hlídačem státu novou generaci Našich politiků, největší
+  databázie ověřených informací o českých politicích.
 lang: cs
-description: 'Na začátku června spustilo Česko.Digital společně s Transparency International a Hlídačem státu novou generaci Našich politiků, největší databázie ověřených informací o českých politicích.'
 ---
 
 V databázi aktuálně najdete [přes 300 celostátních politiků](https://nasipolitici.cz), výhledově by měly přibýt další úrovně politiky až po zastupitelstva obcí. Cílem projektu je zprostředkovat veřejnosti nezaujaté, ověřitelné a relevantní informace o politicky exponovaných osobách. Klíčová je pro nás snaha o maximální otevřenost a transparentnost – zdrojový kód aplikace je [volně k dispozici](https://github.com/cesko-digital/nasi-politici) a veškeré prezentované informace jsou doprovázeny odkazy na nezávislé zdroje.
