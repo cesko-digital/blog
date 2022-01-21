@@ -1,11 +1,20 @@
 ---
-title: 'Radek Hábl chystá spuštění webu, kde zjistíte, jestli vám u státu „nezraje“ nějaký dluh'
-cover: https://data.cesko.digital/img/23a4e9f7.jpg
-slug: 'interview-radek-habl'
-lang: cs
-description: 'Vypátrat, zda státu nedlužíte na pokutách či na zdravotním pojištění, vyžaduje skoro detektivní práci. I pro experta, natož pro běžného člověka. Na úrocích nebo v různých skrytých penále může dlužná částka nepěkně nakynout. A pokud jako podnikatel potřebujete běžně požadované potvrzení o bezdlužnosti, musíte dnes oběhat několik úřadů. Radek Hábl chce všechno soustředit na jediném místě – ve webové aplikaci chystané v rámci projektu Nedlužím státu.'
-date: '2020-11-25-09-01'
+title: Radek Hábl chystá spuštění webu, kde zjistíte, jestli vám u státu
+  „nezraje“ nějaký dluh
 author: urbant
+tags:
+  - nedluzim-statu
+cover: https://data.cesko.digital/img/23a4e9f7.jpg
+date: 2020-11-25-09-01
+slug: interview-radek-habl
+description: Vypátrat, zda státu nedlužíte na pokutách či na zdravotním
+  pojištění, vyžaduje skoro detektivní práci. I pro experta, natož pro běžného
+  člověka. Na úrocích nebo v různých skrytých penále může dlužná částka nepěkně
+  nakynout. A pokud jako podnikatel potřebujete běžně požadované potvrzení o
+  bezdlužnosti, musíte dnes oběhat několik úřadů. Radek Hábl chce všechno
+  soustředit na jediném místě – ve webové aplikaci chystané v rámci projektu
+  Nedlužím státu.
+lang: cs
 ---
 
 **Jak tě to celé napadlo?**
