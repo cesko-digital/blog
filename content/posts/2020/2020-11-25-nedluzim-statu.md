@@ -1,11 +1,18 @@
 ---
-title: 'Nedlužím státu? Nejen zapeklitá otázka v hlavách Čechů, ale i nový projekt Česko.Digital'
-cover: https://data.cesko.digital/img/7188eaa5.png
+title: Nedlužím státu? Nejen zapeklitá otázka v hlavách Čechů, ale i nový
+  projekt Česko.Digital
 author: teryii
+tags:
+  - nedluzim-statu
+cover: https://data.cesko.digital/img/7188eaa5.png
 date: 2020-11-25-09-03
 slug: nedluzim-statu
+description: Česko.Digital představilo koncem listopadu první výstup projektu
+  Nedlužím státu. Vzniklý web poukazuje hlavně na fakt, že spousta lidí dnes
+  bohužel neví, zda (ne)dluží státu. Zároveň řeší dosavadní problém, kdy je
+  získání komplexního přehledu o případných dluzích na jednom místě takřka
+  nadlidský úkol. Jak tedy projekt lidem konkrétně pomáhá?
 lang: cs
-description: 'Česko.Digital představilo koncem listopadu první výstup projektu Nedlužím státu. Vzniklý web poukazuje hlavně na fakt, že spousta lidí dnes bohužel neví, zda (ne)dluží státu. Zároveň řeší dosavadní problém, kdy je získání komplexního přehledu o případných dluzích na jednom místě takřka nadlidský úkol. Jak tedy projekt lidem konkrétně pomáhá?'
 ---
 
 Víte jistě, že nedlužíte státu? Hlavně touto otázkou se nový projekt _Nedlužím státu_ zabývá. Projekt vznikl ze zkušeností experta na dluhovou problematiku [Radka Hábla](https://www.radekhabl.cz/). „Poté, co jsem nahlédl do dluhové pasti, v níž se ocitla moje blízká rodina, začal jsem tento záludný systém více zkoumat a zjistil, jak vlastně (ne)funguje. Proto jsem vytvořil [Mapu exekucí](http://www.mapaexekuci.cz/) a teď chci lidem pomoci vyřešit jejich případné dluhy novým projektem Nedlužím státu.“
