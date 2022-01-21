@@ -2,6 +2,8 @@
 title: Státní úředníci otevřeně promluvili o digitalizaci státu. Proběhl první
   Festival kreativní byrokracie
 author: martina.cilkova
+tags:
+  - verejne-zakazky-spolu
 cover: https://data.cesko.digital/img/festival-kreativni-byrokracie.jpg
 date: 2021-12-22-12-20
 slug: prvni-rocnik-festival-kreativni-byrokracie
