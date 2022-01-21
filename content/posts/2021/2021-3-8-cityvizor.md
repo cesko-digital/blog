@@ -1,11 +1,18 @@
 ---
-title: 'Nový web aplikace Cityvizor je na světě. Usnadňuje cestu k informacím o hospodaření obcí'
-cover: https://data.cesko.digital/img/023145fe.png
+title: Nový web aplikace Cityvizor je na světě. Usnadňuje cestu k informacím
+  o hospodaření obcí
 author: bara
+tags:
+  - cityvizor
+cover: https://data.cesko.digital/img/023145fe.png
 date: 2021-3-8-10-02
 slug: cityvizor
+description: Finance obcí přehledně a do detailu každé faktury. Takové je
+  poslání aplikace Cityvizor, jejíž provoz zajišťuje spolek Otevřená města. Ve
+  spolupráci s Česko.Digital vznikl nový web, který má cestu k otevřeným
+  informacím o hospodaření obcí ještě usnadnit. Co všechno se na webu a v
+  aplikaci dozvíte?
 lang: cs
-description: 'Finance obcí přehledně a do detailu každé faktury. Takové je poslání aplikace Cityvizor, jejíž provoz zajišťuje spolek Otevřená města. Ve spolupráci s Česko.Digital vznikl nový web, který má cestu k otevřeným informacím o hospodaření obcí ještě usnadnit. Co všechno se na webu a v aplikaci dozvíte?'
 ---
 
 Za co vaše obec vyplatila minulý měsíc největší fakturu, kdo postavil nový most a kolik projekt stál? Právě takové informace najdete v [aplikaci Cityvizor](https://www.cityvizor.cz/landing/), která už několik let vnáší světlo do hospodaření obcí. Cityvizor původně vyvíjeli na Ministerstvu financí ČR, ale později převzala jeho provoz a vývoj [Otevřená města](https://www.otevrenamesta.cz/) a partnerem se stalo [Česko.Digital](https://cesko.digital/). Výsledkem spolupráce je přehledný web, kde se dozvíte vše podstatné o aplikaci i o tom, jak zapojit svou obec. Nejdůležitější částí je samozřejmě vstup do samotné aplikace, kde si uděláte lepší představu o tom, na co byly použity peníze z vašich daní.
