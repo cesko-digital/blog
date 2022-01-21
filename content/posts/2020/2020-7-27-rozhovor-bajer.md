@@ -1,11 +1,17 @@
 ---
-title: 'Udělat něco z ničeho'
-cover: https://data.cesko.digital/img/93993366.jpeg
+title: Udělat něco z ničeho
 author: zoul
+tags:
+  - nasi-politici
+cover: https://data.cesko.digital/img/93993366.jpeg
 date: 2020-7-27-09-00
 slug: rozhovor-bajer
+description: Česko.Digital společně s Transparency International a Hlídačem
+  státu před několika týdny spustili novou generaci projektu Naši politici,
+  databáze ověřených informací o českých politicích. O projektu už jsme si
+  povídali s Transparency International, následuje rozhovor s koordinátorem
+  projektu Tomášem Bajerem.
 lang: cs
-description: 'Česko.Digital společně s Transparency International a Hlídačem státu před několika týdny spustili novou generaci projektu Naši politici, databáze ověřených informací o českých politicích. O projektu už jsme si povídali s Transparency International, následuje rozhovor s koordinátorem projektu Tomášem Bajerem.'
 ---
 
 **Co děláš ve své běžné práci?**
