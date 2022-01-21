@@ -1,11 +1,18 @@
 ---
-title: 'Transparency International: Chceme, aby se voliči rozhodovali na základě faktů, ne dojmů'
-cover: https://data.cesko.digital/img/c972efbe.jpg
+title: "Transparency International: Chceme, aby se voliči rozhodovali na základě
+  faktů, ne dojmů"
 author: zoul
+tags:
+  - nasi-politici
+cover: https://data.cesko.digital/img/c972efbe.jpg
 date: 2020-06-5-13-00
 slug: rozhovor-transparency
+description: Česko.Digital společně s Transparency International a Hlídačem
+  státu v těchto dnech spouští novou generaci projektu Naši politici, databáze
+  ověřených informací o českých politicích – zatím celostátních, výhledově i „o
+  tom nejposlednějším zastupiteli“. Projekt představujeme v rozhovoru s Milanem
+  Eiblem a Davidem Kotorou z Transparency International.
 lang: cs
-description: 'Česko.Digital společně s Transparency International a Hlídačem státu v těchto dnech spouští novou generaci projektu Naši politici, databáze ověřených informací o českých politicích – zatím celostátních, výhledově i „o tom nejposlednějším zastupiteli“. Projekt představujeme v rozhovoru s Milanem Eiblem a Davidem Kotorou z Transparency International.'
 ---
 
 **Co projekt [Naši politici](https://www.nasipolitici.cz) dělá a komu je určený?**
