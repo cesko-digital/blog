@@ -8,10 +8,10 @@ cover: https://data.cesko.digital/newsletter/30/cover30.png
 date: 2022-01-26-12-13
 slug: cist-digital-30
 description: Ahoj Česko.Digital! 👋 Do nového roku přejeme hodně zdraví,
-  spokojenosti a dobré nálady!  Tu by vám mohl zajistit i dnešní newsletter,
+  spokojenosti a dobré nálady! Tu by vám mohl zajistit i dnešní newsletter,
   který je plný úžasných projektů a novinek. Tak jen malá ochutnávka... Už
-  koncem ledna se k našim partnerům připojí Nadační fond Avast! A protože by
-  byla škoda, aby vize Česko.Digital zůstala pouze na papíře, vdechneme jí život
+  koncem ledna se k našim partnerům připojí Avast Foundation! A protože by byla
+  škoda, aby vize Česko.Digital zůstala pouze na papíře, vdechneme jí život
   pomocí platformy TechForum. Příjemné čtení!
 lang: cs
 ---
