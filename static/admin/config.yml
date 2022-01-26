@@ -43,7 +43,8 @@ collections:
         options: ["ucime-online", "cityvizor", "dame-rousky", "nedluzim-statu", "jehlomat",
           "inovace-zpravodajstvi", "covid-portal", "nasi-politici", "strecha-dusevniho-zdravi",
           "zacni-ucit", "verejne-zakazky-spolu", "spolu-na-dalku", "loono", "pohyb-je-reseni",
-          "cesko-digital-edu", "cesko-digital-market-place", "open-data-ve-firmach", "hotova-jidla-pomahaji"]
+          "cesko-digital-edu", "cesko-digital-market-place", "open-data-ve-firmach", "hotova-jidla-pomahaji",
+          "newsletter"]
       - label: "Cover"
         name: "cover"
         widget: "string"
