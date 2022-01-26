@@ -40,6 +40,7 @@ collections:
         name: "tags"
         widget: "select"
         multiple: true
+        required: false
         options: ["ucime-online", "cityvizor", "dame-rousky", "nedluzim-statu", "jehlomat",
           "inovace-zpravodajstvi", "covid-portal", "nasi-politici", "strecha-dusevniho-zdravi",
           "zacni-ucit", "verejne-zakazky-spolu", "spolu-na-dalku", "loono", "pohyb-je-reseni",
