@@ -4,6 +4,7 @@ title: "číst.digital/30: Kdo je náš další hlavní finanční partner? | S 
 author: tereza.lattova
 tags:
   - newsletter
+  - partners
 cover: https://data.cesko.digital/newsletter/30/cover30.png
 date: 2022-01-26-12-13
 slug: cist-digital-30
