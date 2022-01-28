@@ -1,7 +1,7 @@
 ---
 title: "číst.digital/30: Kdo je náš další hlavní finanční partner? | S pomocí
   nové platformy uskutečníme naši vizi"
-author: tereza.lattova
+author: hana.buresova
 tags:
   - newsletter
   - partners
