@@ -34,7 +34,7 @@ collections:
           "alena", "lukas", "tt", "kaku", "martina", "gabi", "lenkab", "rona",
           "lvanous", "horm", "zu", "lukas.n", "tereza.lattova", "jan.hobler", "marketa.horakova", 
           "jindrich.oukropec", "martina.plechatova", "zavis.pexidr", "kristyna.buzkova",
-          "martina.cilkova", "coreteam", "marek.mencl"]
+          "martina.cilkova", "coreteam", "marek.mencl", "hana.buresova"]
         required: true
       - label: "Tags"
         name: "tags"
@@ -92,7 +92,7 @@ collections:
           "alena", "lukas", "tt", "kaku", "martina", "gabi", "lenkab", "rona",
           "lvanous", "horm", "zu", "lukas.n", "tereza.lattova", "jan.hobler", "marketa.horakova", 
           "jindrich.oukropec", "martina.plechatova", "zavis.pexidr", "kristyna.buzkova",
-          "martina.cilkova", "coreteam", "marek.mencl"]
+          "martina.cilkova", "coreteam", "marek.mencl", "hana.buresova"]
         required: true
       - label: "Cover"
         name: "cover"
