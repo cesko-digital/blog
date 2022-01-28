@@ -45,7 +45,7 @@ collections:
           "inovace-zpravodajstvi", "covid-portal", "nasi-politici", "strecha-dusevniho-zdravi",
           "zacni-ucit", "verejne-zakazky-spolu", "spolu-na-dalku", "loono", "pohyb-je-reseni",
           "cesko-digital-edu", "cesko-digital-market-place", "open-data-ve-firmach", "hotova-jidla-pomahaji",
-          "newsletter"]
+          "newsletter", "partners"]
       - label: "Cover"
         name: "cover"
         widget: "string"
