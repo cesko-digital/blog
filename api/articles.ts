@@ -32,7 +32,7 @@ function getArticleURL(metadata: Record<string, unknown>): string | undefined {
     return;
   }
   const year = matches[1];
-  const month = matches[2];
+  const month = matches[2].padStart(2, '0');
   return `https://blog.cesko.digital/${year}/${month}/${slug}`;
 }
 
