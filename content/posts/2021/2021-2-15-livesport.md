@@ -1,11 +1,18 @@
 ---
-title: 'Máme prvního technologického partnera! Od Livesportu jsme na provoz získali 3 miliony'
-cover: https://data.cesko.digital/img/78b9a354.png
+title: Máme prvního technologického partnera! Od Livesportu jsme na provoz
+  získali 3 miliony
 author: zoul
+tags:
+  - partners
+cover: https://data.cesko.digital/img/78b9a354.png
 date: 2021-2-15-10-02
 slug: livesport
+description: Neziskovkám a veřejné správě pomáháme s digitálními projekty od
+  května předloňského roku, teď jsme úspěšně podepsali smlouvu s prvním
+  technologickým partnerem. Česká společnost Livesport nás podpořila třemi
+  miliony korun a má zájem s námi spolupracovat dlouhodobě. Do konce roku bychom
+  chtěli uzavřít podobnou spolupráci nanejvýš s třemi dalšími partnery.
 lang: cs
-description: 'Neziskovkám a veřejné správě pomáháme s digitálními projekty od května předloňského roku, teď jsme úspěšně podepsali smlouvu s prvním technologickým partnerem. Česká společnost Livesport nás podpořila třemi miliony korun a má zájem s námi spolupracovat dlouhodobě. Do konce roku bychom chtěli uzavřít podobnou spolupráci nanejvýš s třemi dalšími partnery.'
 ---
 
 S radostí oznamujeme, že jsme letos získali svou první velkou peněžní podporu 🎉. První finanční injekci navíc dostáváme přímo ze světa byznysu – od technologické firmy [Livesport](https://www.livesport.eu). Ta nám svým příspěvkem pomůže zajistit fungování kmenového týmu, který v komunitě pečuje o prostředí, v němž může přes 3600 expertních dobrovolníků snadno a efektivně pomáhat. Zároveň se expertní týmy Livesportu aktivně zaměří na pomoc a rozvoj projektu [Nedlužím státu](https://nedluzimstatu.cz), který má za cíl prevenci předlužení českých občanů.
