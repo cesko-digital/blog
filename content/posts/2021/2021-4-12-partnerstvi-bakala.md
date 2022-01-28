@@ -1,11 +1,19 @@
 ---
-title: 'Partnerství s Bakala Foundation pomůže rozvíjet Česko.Digital, digitalizovat školství a pečovat o duševní zdraví'
-cover: https://data.cesko.digital/img/a19cd27d.jpg
+title: Partnerství s Bakala Foundation pomůže rozvíjet Česko.Digital,
+  digitalizovat školství a pečovat o duševní zdraví
 author: zoul
+tags:
+  - partners
+cover: https://data.cesko.digital/img/a19cd27d.jpg
 date: 2021-4-12-10-02
 slug: partnerstvi-bakala
+description: S radostí oznamujeme, že Česko.Digital uzavřelo partnerství
+  s rodinnou nadací Bakala Foundation. Čtyři miliony z nadace podpoří jednak
+  rozvoj celého Česko.Digital, jednak projekty, v nichž se naše aktivity a cíle
+  prolínají – konkrétně Učíme online, které se zaměřuje na digitalizaci
+  školství, a Střechu duševního zdraví, která pokrývá téma duševní péče u dětí a
+  úzce tedy souvisí se vzděláváním, rozvojem potenciálu a digitalizací.
 lang: cs
-description: 'S radostí oznamujeme, že Česko.Digital uzavřelo partnerství s rodinnou nadací Bakala Foundation. Čtyři miliony z nadace podpoří jednak rozvoj celého Česko.Digital, jednak projekty, v nichž se naše aktivity a cíle prolínají – konkrétně Učíme online, které se zaměřuje na digitalizaci školství, a Střechu duševního zdraví, která pokrývá téma duševní péče u dětí a úzce tedy souvisí se vzděláváním, rozvojem potenciálu a digitalizací.'
 ---
 
 Současná pandemie vedla u řady odvětví prakticky přes noc k tolik potřebné a vzhledem k okolnostem nezbytné digitální transformaci. Také české školy začaly aktivně hledat inovativní a efektivní řešení online výuky. Narážejí však na „digitální propast“ v domácnostech, jejímž důsledkem je prohlubující se nerovnost v přístupu ke kvalitnímu vzdělání.
