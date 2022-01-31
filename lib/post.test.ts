@@ -7,26 +7,53 @@ import {
 } from "./post";
 import { getFilesRecursively } from "./utils";
 
-test("Decode post metadata", () => {
-  expect(
-    decodeMetadata({
+describe("Decode post metadata", () => {
+  test("Basic metadata", () => {
+    expect(
+      decodeMetadata({
+        title: "Spolupráce s Česko.Digital",
+        author: "marek",
+        cover: "https://data.cesko.digital/img/clanek-pohyb-je-reseni/2.png",
+        date: "2022-01-10-01-25",
+        slug: "pribeh-inkubacniho-procesu",
+        description: "Příběh tříměsíčního designového procesu…",
+      })
+    ).toEqual<Metadata>({
       title: "Spolupráce s Česko.Digital",
-      author: "marek",
-      cover: "https://data.cesko.digital/img/clanek-pohyb-je-reseni/2.png",
+      authorId: "marek",
+      coverImageUrl:
+        "https://data.cesko.digital/img/clanek-pohyb-je-reseni/2.png",
       date: "2022-01-10-01-25",
       slug: "pribeh-inkubacniho-procesu",
       description: "Příběh tříměsíčního designového procesu…",
-    })
-  ).toEqual<Metadata>({
-    title: "Spolupráce s Česko.Digital",
-    authorId: "marek",
-    coverImageUrl:
-      "https://data.cesko.digital/img/clanek-pohyb-je-reseni/2.png",
-    date: "2022-01-10-01-25",
-    slug: "pribeh-inkubacniho-procesu",
-    description: "Příběh tříměsíčního designového procesu…",
-    lang: "cs",
-    tags: [],
+      lang: "cs",
+      langVersion: undefined,
+      tags: [],
+    });
+  });
+  test("Language versions", () => {
+    expect(
+      decodeMetadata({
+        title: "Spolupráce s Česko.Digital",
+        author: "marek",
+        cover: "https://data.cesko.digital/img/clanek-pohyb-je-reseni/2.png",
+        date: "2022-01-10-01-25",
+        slug: "pribeh-inkubacniho-procesu",
+        description: "Příběh tříměsíčního designového procesu…",
+        langVersion: { cs: "/2019/11/rozhovor-vereha" },
+      })
+    ).toEqual<Metadata>({
+      title: "Spolupráce s Česko.Digital",
+      authorId: "marek",
+      coverImageUrl:
+        "https://data.cesko.digital/img/clanek-pohyb-je-reseni/2.png",
+      date: "2022-01-10-01-25",
+      slug: "pribeh-inkubacniho-procesu",
+      description: "Příběh tříměsíčního designového procesu…",
+      lang: "cs",
+      langVersion: new Map([["cs", "/2019/11/rozhovor-vereha"]]),
+      tags: [],
+    });
   });
 });
 

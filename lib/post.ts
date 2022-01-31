@@ -1,7 +1,9 @@
 import {
   array,
   decodeType,
+  dict,
   field,
+  optional,
   record,
   string,
   union,
@@ -25,6 +27,7 @@ export const decodeMetadata = record({
   description: string,
   lang: withDefault(union("cs", "en"), "cs"),
   tags: withDefault(array(string), []),
+  langVersion: optional(dict(string)),
 });
 
 /** Decode article from a standard frontmatter + body text file */
