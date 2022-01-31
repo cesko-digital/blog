@@ -1,7 +1,7 @@
 import { NextPage, GetStaticProps } from "next";
-import { Author, getAllAuthors } from "lib/author";
-import { BlogPost, getAllPosts } from "lib/post";
-import { filterUndefines } from "lib/utils";
+import { Author } from "lib/author";
+import { BlogPost } from "lib/post";
+import { siteData } from "lib/site-data";
 
 interface Props {
   posts: readonly BlogPost[];
@@ -17,13 +17,12 @@ const Home: NextPage<Props> = ({ posts, authors }) => {
 };
 
 export const getStaticProps: GetStaticProps<Props> = async () => {
-  const posts = getAllPosts("content/posts");
-  const authors = getAllAuthors("content/authors.yaml");
+  const { posts, authors } = siteData;
   return {
-    props: filterUndefines({
+    props: {
       posts,
       authors,
-    }),
+    },
   };
 };
 
