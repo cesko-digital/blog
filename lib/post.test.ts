@@ -56,6 +56,20 @@ test("Parse all posts", () => {
   console.log(`Successfully decoded ${postPaths.length} posts.`);
 });
 
+test("Parse all press releases", () => {
+  const postPaths = getFilesRecursively("content/press").filter((path) =>
+    path.endsWith(".md")
+  );
+  for (const path of postPaths) {
+    try {
+      const _ = readBlogPost(path);
+    } catch (e) {
+      throw `Post fails to decode: ${path}: ${e}`;
+    }
+  }
+  console.log(`Successfully decoded ${postPaths.length} press releases.`);
+});
+
 test("Get public post URL", () => {
   expect(
     getPublicPostURL({ date: "2022-01-26-12-13", slug: "cist-digital-30" })
