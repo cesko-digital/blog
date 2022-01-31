@@ -1,5 +1,5 @@
-import type { NextApiRequest, NextApiResponse } from 'next';
-import { BlogPost, getAllPosts, getPublicPostURL } from 'lib/post';
+import type { NextApiRequest, NextApiResponse } from "next";
+import { BlogPost, getAllPosts, getPublicPostURL } from "lib/post";
 
 interface PublicParams {
   url?: string;
@@ -25,8 +25,11 @@ function getPublicParamsForPost(post: BlogPost): PublicParams {
   };
 }
 
-export default async function handler(request: NextApiRequest, response: NextApiResponse) {
-  const posts = getAllPosts('content/posts').map(getPublicParamsForPost);
-  response.setHeader('Content-Type', 'application/json');
+export default async function handler(
+  request: NextApiRequest,
+  response: NextApiResponse
+) {
+  const posts = getAllPosts("content/posts").map(getPublicParamsForPost);
+  response.setHeader("Content-Type", "application/json");
   response.status(200).send(JSON.stringify(posts, null, 2));
 }
