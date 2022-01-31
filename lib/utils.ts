@@ -30,3 +30,7 @@ export const withDefault = <T>(
     }
   };
 };
+
+// This is a hack, see https://github.com/vercel/next.js/issues/11993
+export const filterUndefines = <T>(data: T): T =>
+  JSON.parse(JSON.stringify(data));
