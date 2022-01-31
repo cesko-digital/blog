@@ -1,11 +1,5 @@
 {
     "github": {
         "silent": true
-    },
-    "redirects": [
-        {
-            "source": "/admin",
-            "destination": "/admin/"
-        }
-    ]
+    }
 }
