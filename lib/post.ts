@@ -70,8 +70,19 @@ export function readBlogPost(path: string): BlogPost {
 }
 
 /** Read all blog posts under a given directory root */
-export function getAllArticles(root: string): BlogPost[] {
+export function getAllPosts(root: string): BlogPost[] {
   return getFilesRecursively(root)
     .filter((path) => path.endsWith('.md'))
     .map(readBlogPost);
+}
+
+/** Get public post URL */
+export function getPublicPostURL(post: Pick<BlogPost, 'date' | 'slug'>): string | undefined {
+  const matches = post.date.match(/^(\d+)-(\d+)/);
+  if (!matches || matches.length < 2) {
+    return;
+  }
+  const year = matches[1];
+  const month = matches[2].padStart(2, '0');
+  return `https://blog.cesko.digital/${year}/${month}/${post.slug}`;
 }

@@ -1,4 +1,4 @@
-import { decodeMetadata, Metadata, parsePath, readBlogPost } from './post';
+import { decodeMetadata, getPublicPostURL, Metadata, parsePath, readBlogPost } from './post';
 import { getFilesRecursively } from './utils';
 
 test('Decode post metadata', () => {
@@ -42,4 +42,10 @@ test('Parse all posts', () => {
     }
   }
   console.log(`Successfully decoded ${postPaths.length} posts.`);
+});
+
+test('Get public post URL', () => {
+  expect(getPublicPostURL({ date: '2022-01-26-12-13', slug: 'cist-digital-30' })).toEqual(
+    'https://blog.cesko.digital/2022/01/cist-digital-30'
+  );
 });
