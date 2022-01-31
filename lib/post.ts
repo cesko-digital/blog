@@ -1,7 +1,14 @@
-import { array, decodeType, field, record, string, union } from 'typescript-json-decoder';
-import { getFilesRecursively, withDefault } from './utils';
-import matter from 'gray-matter';
-import fs from 'fs';
+import {
+  array,
+  decodeType,
+  field,
+  record,
+  string,
+  union,
+} from "typescript-json-decoder";
+import { getFilesRecursively, withDefault } from "./utils";
+import matter from "gray-matter";
+import fs from "fs";
 
 export type Metadata = decodeType<typeof decodeMetadata>;
 
@@ -11,17 +18,20 @@ export interface BlogPost extends Metadata {
 
 export const decodeMetadata = record({
   title: string,
-  authorId: field('author', string),
-  coverImageUrl: field('cover', string),
+  authorId: field("author", string),
+  coverImageUrl: field("cover", string),
   date: string,
   slug: string,
   description: string,
-  lang: withDefault(union('cs', 'en'), 'cs'),
+  lang: withDefault(union("cs", "en"), "cs"),
   tags: withDefault(array(string), []),
 });
 
 /** Decode article from a standard frontmatter + body text file */
-export function decodeBlogPost(src: string, defaults: Record<string, any> = {}): BlogPost {
+export function decodeBlogPost(
+  src: string,
+  defaults: Record<string, any> = {}
+): BlogPost {
   const { content, data } = matter(src);
   const mergedMeta = { ...defaults, ...data };
   return {
@@ -36,7 +46,7 @@ export function decodeBlogPost(src: string, defaults: Record<string, any> = {}):
  * The expected filename format is `2022-01-26-cist-digital-30.md`.
  */
 export function parsePath(path: string): [Date, string] {
-  const filename = path.replace(/^.*[\\\/]/, '');
+  const filename = path.replace(/^.*[\\\/]/, "");
   const matches = filename.match(/^(\d+-\d+-\d+)-(.*)\.md$/);
 
   if (!matches || matches.length < 2) {
@@ -64,7 +74,7 @@ export function parsePath(path: string): [Date, string] {
  * `slug` and `date`.
  */
 export function readBlogPost(path: string): BlogPost {
-  const src = fs.readFileSync(path, { encoding: 'utf-8' });
+  const src = fs.readFileSync(path, { encoding: "utf-8" });
   const [date, slug] = parsePath(path);
   return decodeBlogPost(src, { date, slug });
 }
@@ -72,17 +82,19 @@ export function readBlogPost(path: string): BlogPost {
 /** Read all blog posts under a given directory root */
 export function getAllPosts(root: string): BlogPost[] {
   return getFilesRecursively(root)
-    .filter((path) => path.endsWith('.md'))
+    .filter((path) => path.endsWith(".md"))
     .map(readBlogPost);
 }
 
 /** Get public post URL */
-export function getPublicPostURL(post: Pick<BlogPost, 'date' | 'slug'>): string | undefined {
+export function getPublicPostURL(
+  post: Pick<BlogPost, "date" | "slug">
+): string | undefined {
   const matches = post.date.match(/^(\d+)-(\d+)/);
   if (!matches || matches.length < 2) {
     return;
   }
   const year = matches[1];
-  const month = matches[2].padStart(2, '0');
+  const month = matches[2].padStart(2, "0");
   return `https://blog.cesko.digital/${year}/${month}/${post.slug}`;
 }
