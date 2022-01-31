@@ -1,156 +1,117 @@
-- type: authors
-  id: zoul
+- id: zoul
   name: Tomáš Znamenáček
   email: zoul@cesko.digital
-- type: authors
-  id: radja
+- id: radja
   name: Radka Horáková
   email: radka@cesko.digital
-- type: authors
-  id: jakub
+- id: jakub
   name: Jakub Nešetřil
   email: jakub@cesko.digital
-- type: authors
-  id: eva
+- id: eva
   name: Eva Pavlíková
   email: eva@cesko.digital
-- type: authors
-  id: vjirovsky
+- id: vjirovsky
   name: Václav Jirovský
   email: vjirovsky@vjirovsky.cz
-- type: authors
-  id: jana
+- id: jana
   name: Jana Kneschke
   email: jana@cesko.digital
-- type: authors
-  id: marketaz
+- id: marketaz
   name: Markéta Zadražilová
   email: m.zadrazilova@gmail.com
-- type: authors
-  id: teryii
+- id: teryii
   name: Terézia Palaščáková
   email: terezia.palascakova@gmail.com
-- type: authors
-  id: urbant
+- id: urbant
   name: Tomáš Urban
   email: tomas.urban@clovekvtisni.cz
-- type: authors
-  id: hrudka
+- id: hrudka
   name: Petr Hrudka
   email: phrudka@post.cz
-- type: authors
-  id: katka
+- id: katka
   name: Kateřina Peřinová
   email: katkaperinova@gmail.com
-- type: authors
-  id: dana
+- id: dana
   name: Dana Beneda
   email: danna.beneda@gmail.com
-- type: authors
-  id: zaneta
+- id: zaneta
   name: Žaneta Svobodová
   email: vojtechovska.z@gmail.com
-- type: authors
-  id: iva
+- id: iva
   name: Iva Janečková
   email: hrudikova.iva@gmail.com
-- type: authors
-  id: bara
+- id: bara
   name: Bára Truksová
   email: bara.truksova@gmail.com
-- type: authors
-  id: alena
+- id: alena
   name: Alena Teclová
   email: teclova.a@gmail.com
-- type: authors
-  id: lukas
+- id: lukas
   name: Lukáš Krištof
   email: lukristof.89@gmail.com
-- type: authors
-  id: tt
+- id: tt
   name: Tomáš Trumpeš
   email: tomas.trumpes@gmail.com
-- type: authors
-  id: kaku
+- id: kaku
   name: Kateřina Kocianová
   email: katerina@cesko.digital
-- type: authors
-  name: Martina Hytychová
+- name: Martina Hytychová
   id: martina
   email: martina.hyt@gmail.com
-- type: authors
-  name: Gabriela Konvalinková
+- name: Gabriela Konvalinková
   id: gabi
   email: gmaudrova@gmail.com
-- type: authors
-  name: Lenka Blažková
+- name: Lenka Blažková
   id: lenkab
   email: blazkoval@seznam.cz
-- type: authors
-  name: Rona Jankovičová
+- name: Rona Jankovičová
   id: rona
   email: ronajankovicova@gmail.com
-- type: authors
-  name: Lukáš Vaňous
+- name: Lukáš Vaňous
   id: lvanous
   email: lukas.vanous@gmail.com
-- type: authors
-  name: Matěj Horák
+- name: Matěj Horák
   id: horm
   email: horm@horm.codes
-- type: authors
-  name: Zuzana Šrůmová
+- name: Zuzana Šrůmová
   id: zu
   email: zu.srumova@gmail.com
-- type: authors
-  name: Lukáš Návesník
+- name: Lukáš Návesník
   id: lukas.n
   email: lukas.navesnik@cesko.digital
-- type: authors
-  name: Tereza Lattová
+- name: Tereza Lattová
   id: tereza.lattova
   email: tereza.lattova@cesko.digital
-- type: authors
-  name: Jan Hobler
+- name: Jan Hobler
   id: jan.hobler
   email: hobler.jan@gmail.com
-- type: authors
-  name: Markéta Horáková
+- name: Markéta Horáková
   id: marketa.horakova
   email: marketa.horakova@cesko.digital
-- type: authors
-  name: Jindřich Oukropec
+- name: Jindřich Oukropec
   id: jindrich.oukropec
   email: jindrich@cesko.digital
-- type: authors
-  name: Martina Plechatová
+- name: Martina Plechatová
   id: martina.plechatova
   email: plechatova.m@gmail.com
-- type: authors
-  name: Záviš Pexidr
+- name: Záviš Pexidr
   id: zavis.pexidr
   email: zavis.pexidr@gmail.com
-- type: authors
-  name: Kristýna Bůžková
+- name: Kristýna Bůžková
   id: kristyna.buzkova
   email: kristyna.buzkova@seznam.cz
-- type: authors
-  name: Martina Cílková
+- name: Martina Cílková
   id: martina.cilkova
   email: martina.cilkova@cesko.digital
-- type: authors
-  name: Kmenový tým Česko.Digital
+- name: Kmenový tým Česko.Digital
   id: coreteam
   email: my@cesko.digital
-- type: authors
-  name: Marek Mencl
+- name: Marek Mencl
   id: marek.mencl
   email: marek@pabeni.cz
-- type: authors
-  name: Hana Burešová
+- name: Hana Burešová
   id: hana.buresova
   email: hanbur@gmail.com
-- type: authors
-  name: Bára Čelechovská
+- name: Bára Čelechovská
   id: bara.celechovska
   email: barbora.celechovska@gmail.com
