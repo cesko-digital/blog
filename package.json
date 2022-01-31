@@ -24,5 +24,11 @@
   "jest": {
     "preset": "ts-jest",
     "testEnvironment": "node"
+  },
+  "prettier": {
+    "trailingComma": "es5",
+    "semi": true,
+    "singleQuote": true,
+    "printWidth": 120
   }
 }
