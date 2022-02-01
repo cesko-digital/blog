@@ -2,6 +2,7 @@ import { NextPage, GetStaticProps } from "next";
 import { Author } from "lib/author";
 import { BlogPost } from "lib/post";
 import { siteData } from "lib/site-data";
+import { Route } from "lib/routing";
 
 interface Props {
   posts: readonly BlogPost[];
@@ -10,9 +11,13 @@ interface Props {
 
 const Home: NextPage<Props> = ({ posts, authors }) => {
   return (
-    <p>
-      Máme tu celkem {posts.length} textů od {authors.length} autorů.
-    </p>
+    <ol>
+      {posts.map((post, index) => (
+        <li key={index}>
+          <a href={Route.toPost(post)}>{post.title}</a>
+        </li>
+      ))}
+    </ol>
   );
 };
 

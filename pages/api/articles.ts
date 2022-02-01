@@ -1,8 +1,9 @@
 import type { NextApiRequest, NextApiResponse } from "next";
-import { BlogPost, getAllPosts, getPublicPostURL } from "lib/post";
+import { BlogPost } from "lib/post";
+import { siteData } from "lib/site-data";
 
 interface PublicParams {
-  url?: string;
+  url: string;
   title: string;
   date: string;
   author: string;
@@ -14,7 +15,7 @@ interface PublicParams {
 
 function getPublicParamsForPost(post: BlogPost): PublicParams {
   return {
-    url: getPublicPostURL(post),
+    url: "https://blog.cesko.digital" + post.path,
     title: post.title,
     date: post.date,
     author: post.authorId,
@@ -29,7 +30,7 @@ export default async function handler(
   request: NextApiRequest,
   response: NextApiResponse
 ) {
-  const posts = getAllPosts("content/posts").map(getPublicParamsForPost);
+  const posts = siteData.posts.map(getPublicParamsForPost);
   response.setHeader("Content-Type", "application/json");
   response.status(200).send(JSON.stringify(posts, null, 2));
 }
