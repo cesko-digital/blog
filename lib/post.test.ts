@@ -1,11 +1,28 @@
-import {
-  decodeMetadata,
-  getPublicPostURL,
-  Metadata,
-  parsePath,
-  readBlogPost,
-} from "./post";
+import { decodeMetadata, decodePostDate, getPostPath, Metadata } from "./post";
+import { parsePostPath, readBlogPost } from "./post-loading";
 import { getFilesRecursively } from "./utils";
+
+describe("Decoding primitives", () => {
+  test("Post date", () => {
+    expect(decodePostDate("2022-01-10-01-25")).toEqual(
+      new Date("2022-01-10T00:25:00.000Z")
+    );
+    expect(decodePostDate("2021-8-24")).toEqual(
+      new Date("2021-08-23T22:00:00.000Z")
+    );
+  });
+  test("Post path", () => {
+    expect(getPostPath(new Date("2022-01-10T00:25:00.000Z"), "foo")).toBe(
+      "/2022/01/foo"
+    );
+    expect(getPostPath(new Date("2022-12-10T00:25:00.000Z"), "foo")).toBe(
+      "/2022/12/foo"
+    );
+    expect(getPostPath(new Date("2022-01-31T23:00:00.000Z"), "foo")).toBe(
+      "/2022/02/foo"
+    );
+  });
+});
 
 describe("Decode post metadata", () => {
   test("Basic metadata", () => {
@@ -20,10 +37,11 @@ describe("Decode post metadata", () => {
       })
     ).toEqual<Metadata>({
       title: "Spolupráce s Česko.Digital",
+      path: "/2022/01/pribeh-inkubacniho-procesu",
       authorId: "marek",
       coverImageUrl:
         "https://data.cesko.digital/img/clanek-pohyb-je-reseni/2.png",
-      date: "2022-01-10-01-25",
+      date: "2022-01-10T00:25:00.000Z",
       slug: "pribeh-inkubacniho-procesu",
       description: "Příběh tříměsíčního designového procesu…",
       lang: "cs",
@@ -44,10 +62,11 @@ describe("Decode post metadata", () => {
       })
     ).toEqual<Metadata>({
       title: "Spolupráce s Česko.Digital",
+      path: "/2022/01/pribeh-inkubacniho-procesu",
       authorId: "marek",
       coverImageUrl:
         "https://data.cesko.digital/img/clanek-pohyb-je-reseni/2.png",
-      date: "2022-01-10-01-25",
+      date: "2022-01-10T00:25:00.000Z",
       slug: "pribeh-inkubacniho-procesu",
       description: "Příběh tříměsíčního designového procesu…",
       lang: "cs",
@@ -58,15 +77,15 @@ describe("Decode post metadata", () => {
 });
 
 test("Parse post path", () => {
-  expect(parsePath("2022-01-26-cist-digital-30.md")).toEqual([
+  expect(parsePostPath("2022-01-26-cist-digital-30.md")).toEqual([
     new Date("2022-01-26"),
     "cist-digital-30",
   ]);
-  expect(() => parsePath("2021-2-90-cist-digital.md")).toThrow();
-  expect(() => parsePath("2021-2-cist-digital.md")).toThrow();
-  expect(() => parsePath("2021-2-12-.md")).toThrow();
-  expect(() => parsePath("2021-2-12-křeč.md")).toThrow();
-  expect(() => parsePath("2021-2-12-sleva-50%.md")).toThrow();
+  expect(() => parsePostPath("2021-2-90-cist-digital.md")).toThrow();
+  expect(() => parsePostPath("2021-2-cist-digital.md")).toThrow();
+  expect(() => parsePostPath("2021-2-12-.md")).toThrow();
+  expect(() => parsePostPath("2021-2-12-křeč.md")).toThrow();
+  expect(() => parsePostPath("2021-2-12-sleva-50%.md")).toThrow();
 });
 
 test("Parse all posts", () => {
@@ -80,7 +99,6 @@ test("Parse all posts", () => {
       throw `Post fails to decode: ${path}: ${e}`;
     }
   }
-  console.log(`Successfully decoded ${postPaths.length} posts.`);
 });
 
 test("Parse all press releases", () => {
@@ -94,11 +112,4 @@ test("Parse all press releases", () => {
       throw `Post fails to decode: ${path}: ${e}`;
     }
   }
-  console.log(`Successfully decoded ${postPaths.length} press releases.`);
-});
-
-test("Get public post URL", () => {
-  expect(
-    getPublicPostURL({ date: "2022-01-26-12-13", slug: "cist-digital-30" })
-  ).toEqual("https://blog.cesko.digital/2022/01/cist-digital-30");
 });

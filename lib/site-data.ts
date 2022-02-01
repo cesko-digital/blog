@@ -1,5 +1,6 @@
 import { Author, getAllAuthors } from "./author";
-import { BlogPost, getAllPosts } from "./post";
+import { BlogPost } from "./post";
+import { getAllPosts } from "./post-loading";
 
 export interface SiteData {
   posts: readonly BlogPost[];
