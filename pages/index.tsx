@@ -19,7 +19,7 @@ const Home: NextPage<Props> = ({ posts, pressReleases, authors }) => {
       <NavigationBar />
 
       <div className="content-wrapper">
-        <div className="index-container">
+        <div>
           <Head
             title="Blog Česko.Digital"
             description="Skrz jedničky a nuly měníme svět k lepšímu."

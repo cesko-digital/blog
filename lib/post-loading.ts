@@ -1,6 +1,6 @@
 import fs from "fs";
 import { BlogPost, decodeBlogPost } from "./post";
-import { getFilesRecursively } from "./utils";
+import { getFilesRecursively } from "./fsutils";
 
 /**
  * Read blog post from a file
