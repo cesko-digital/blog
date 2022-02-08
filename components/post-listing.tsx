@@ -17,7 +17,11 @@ const PostListing: React.FC<Props> = ({ posts, pressReleases, authors }) => {
   return (
     <div className="post-listing-row">
       <div className="main-post">
-        <PostCard post={firstPost} author={authorOf(firstPost)} />
+        <PostCard
+          post={firstPost}
+          author={authorOf(firstPost)}
+          showCover={true}
+        />
       </div>
 
       <div className="press-release-box">
