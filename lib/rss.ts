@@ -1,5 +1,6 @@
 import { Item } from "feed";
 import { BlogPost } from "./post";
+import { markdownToHTML } from "./utils";
 
 export function feedItemFromBlogPost(
   post: Pick<BlogPost, "title" | "description" | "body" | "date" | "path">
@@ -9,6 +10,6 @@ export function feedItemFromBlogPost(
     link: "https://blog.cesko.digital" + post.path,
     description: post.description,
     date: new Date(post.date),
-    content: post.body, // FIXME: Markdown
+    content: markdownToHTML(post.body),
   };
 }

@@ -1,5 +1,6 @@
 import fs from "fs";
 import { resolve } from "path";
+import { marked } from "marked";
 
 /** Return a flat array of all files under given directory */
 export function getFilesRecursively(dir: string): string[] {
@@ -14,4 +15,13 @@ export function getFilesRecursively(dir: string): string[] {
     }
   }
   return found;
+}
+
+export function markdownToHTML(source: string): string {
+  return marked.parse(source, {
+    breaks: true,
+    gfm: true,
+    pedantic: false,
+    smartypants: false,
+  });
 }
