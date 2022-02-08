@@ -1,5 +1,5 @@
 import { Item } from "feed";
-import { feedItemFromBlogPost } from "./rss";
+import { feedItemFromBlogPost } from "./utils";
 
 test("Convert blog post to feed item", () => {
   expect(
