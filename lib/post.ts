@@ -87,6 +87,12 @@ export function decodeBlogPost(
   };
 }
 
+export function compareBlogPostsByDate(a: BlogPost, b: BlogPost): number {
+  const da = new Date(a.date);
+  const db = new Date(b.date);
+  return db.getTime() - da.getTime();
+}
+
 /** Get post path such as `/2022/01/cist-digital-30` */
 export function getPostPath(date: Date, slug: string): string {
   const year = date.getFullYear();

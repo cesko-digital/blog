@@ -1,5 +1,5 @@
 import { Author, getAllAuthors } from "./author";
-import { BlogPost } from "./post";
+import { BlogPost, compareBlogPostsByDate } from "./post";
 import { getAllPosts } from "./post-loading";
 
 export interface SiteData {
@@ -9,8 +9,9 @@ export interface SiteData {
 }
 
 function loadSiteData(): SiteData {
-  const posts = getAllPosts("content/posts");
-  const pressReleases = getAllPosts("content/press");
+  const byDate = compareBlogPostsByDate;
+  const posts = getAllPosts("content/posts").sort(byDate);
+  const pressReleases = getAllPosts("content/press").sort(byDate);
   const authors = getAllAuthors("content/authors.yaml");
   return filterUndefines({
     posts,
