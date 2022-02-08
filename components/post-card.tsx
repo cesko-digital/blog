@@ -4,21 +4,24 @@ import { BlogPost } from "lib/post";
 interface Props {
   post: BlogPost;
   author: Author;
+  showCover?: boolean;
 }
 
-const PostCard: React.FC<Props> = ({ post, author }) => {
+const PostCard: React.FC<Props> = ({ post, author, showCover = false }) => {
   const formatDate = (stamp: string) =>
     new Date(stamp).toLocaleDateString("cs-CZ", { dateStyle: "medium" });
   return (
     <a href={post.path} className="post-card-link">
       <div className="post-card">
-        <img
-          alt=""
-          loading="lazy"
-          width="100%"
-          style={{ borderTopLeftRadius: 10, borderTopRightRadius: 10 }}
-          src={post.coverImageUrl}
-        />
+        {showCover && (
+          <img
+            alt=""
+            loading="lazy"
+            width="100%"
+            style={{ borderTopLeftRadius: 10, borderTopRightRadius: 10 }}
+            src={post.coverImageUrl}
+          />
+        )}
         <div className="post-card-meta">
           <div className="post-card-author">
             {formatDate(post.date)}
