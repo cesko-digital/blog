@@ -1,6 +1,9 @@
 import { decodeMetadata, decodePostDate, getPostPath, Metadata } from "./post";
-import { parsePostPath, readBlogPost } from "./post-loading";
-import { getFilesRecursively } from "./fsutils";
+import {
+  parsePostPath,
+  readBlogPost,
+  getFilesRecursively,
+} from "./post-loading";
 
 describe("Decoding primitives", () => {
   test("Post date", () => {
