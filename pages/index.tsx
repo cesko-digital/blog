@@ -4,8 +4,7 @@ import { BlogPost } from "lib/post";
 import { siteData } from "lib/site-data";
 import Head from "components/head";
 import PostListing from "components/post-listing";
-import NavigationBar from "components/navigation-bar";
-import Footer from "components/footer";
+import Layout from "components/layout";
 
 interface Props {
   posts: readonly BlogPost[];
@@ -15,26 +14,20 @@ interface Props {
 
 const Home: NextPage<Props> = ({ posts, pressReleases, authors }) => {
   return (
-    <div className="main-wrapper">
-      <NavigationBar />
-
-      <div className="content-wrapper">
-        <div>
-          <Head
-            title="Blog Česko.Digital"
-            description="Skrz jedničky a nuly měníme svět k lepšímu."
-            coverUrl="https://data.cesko.digital/img/172a1526.png"
-          />
-          <PostListing
-            posts={posts}
-            pressReleases={pressReleases}
-            authors={authors}
-          />
-        </div>
+    <Layout>
+      <div>
+        <Head
+          title="Blog Česko.Digital"
+          description="Skrz jedničky a nuly měníme svět k lepšímu."
+          coverUrl="https://data.cesko.digital/img/172a1526.png"
+        />
+        <PostListing
+          posts={posts}
+          pressReleases={pressReleases}
+          authors={authors}
+        />
       </div>
-
-      <Footer />
-    </div>
+    </Layout>
   );
 };
 
