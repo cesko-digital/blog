@@ -2,7 +2,7 @@
 title: Vývojáři nestačí. Přínos digitalizace musí chápat i úředníci, uvedla CEO
   Česko.Digital Eva Pavlíková ve svém výstupu v ČT
 author: bara.celechovska
-cover: https://data.cesko.digital/img/OVM_Eva-P.png
+cover: http://data.cesko.digital/img/post_eva.png
 date: 2022-02-08-09-31
 slug: eva-pavlikova-otazky-vaclava-moravce-ct
 description: Co můžeme od digitalizace Česka očekávat? Podle programového
