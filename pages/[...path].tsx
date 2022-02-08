@@ -1,5 +1,4 @@
-import Footer from "components/footer";
-import NavigationBar from "components/navigation-bar";
+import Layout from "components/layout";
 import PostCard from "components/post-card";
 import PressReleaseListing from "components/press-releases";
 import { Author } from "lib/author";
@@ -26,27 +25,23 @@ const Post: NextPage<Props> = (props) => {
   const authorOf = (post: BlogPost) =>
     authors.find((a) => a.id === post.authorId)!;
   return (
-    <div className="main-wrapper">
-      <NavigationBar />
-      <div className="content-wrapper">
-        <div className="post-listing-row">
-          <div className="main-post">
-            <PostBody {...props} />
-          </div>
-
-          <div className="press-release-box">
-            <PressReleaseListing posts={pressReleases} />
-          </div>
-
-          {otherPosts.map((post) => (
-            <div className="post-listing-post" key={post.path}>
-              <PostCard post={post} author={authorOf(post)} />
-            </div>
-          ))}
+    <Layout>
+      <div className="post-listing-row">
+        <div className="main-post">
+          <PostBody {...props} />
         </div>
+
+        <div className="press-release-box">
+          <PressReleaseListing posts={pressReleases} />
+        </div>
+
+        {otherPosts.map((post) => (
+          <div className="post-listing-post" key={post.path}>
+            <PostCard post={post} author={authorOf(post)} />
+          </div>
+        ))}
       </div>
-      <Footer />
-    </div>
+    </Layout>
   );
 };
 
