@@ -3,6 +3,7 @@ import { Author } from "lib/author";
 import { BlogPost } from "lib/post";
 import { siteData } from "lib/site-data";
 import Head from "components/head";
+import PostListing from "components/post-listing";
 
 interface Props {
   posts: readonly BlogPost[];
@@ -18,7 +19,7 @@ const Home: NextPage<Props> = ({ posts, authors }) => {
           description="Skrz jedničky a nuly měníme svět k lepšímu."
           coverUrl="https://data.cesko.digital/img/172a1526.png"
         />
-        {/*<PostListing posts={posts} press={press} />*/}
+        <PostListing posts={posts} authors={authors} />
         <p>Here be dragons.</p>
       </div>
     </div>

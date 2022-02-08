@@ -1,4 +1,4 @@
-/* Global Styles */
+/* Shared Styles */
 
 * {
   box-sizing: border-box;
@@ -10,14 +10,14 @@ html {
 
 body {
   margin: 0;
-  font-family: Cesko Digital, sans-serif;
+  font-family: "Cesko Digital", sans-serif;
   -webkit-font-smoothing: antialiased;
   background: #ffffff;
   color: #21262c;
 }
 
 @font-face {
-  font-family: Cesko Digital;
+  font-family: "Cesko Digital";
   src: url(https://data.cesko.digital/font/regular.woff2) format("woff2"),
     url(https://data.cesko.digital/font/regular.woff) format("woff"),
     url(https://data.cesko.digital/font/regular.eot) format("eot");
@@ -26,7 +26,7 @@ body {
 }
 
 @font-face {
-  font-family: Cesko Digital;
+  font-family: "Cesko Digital";
   src: url(https://data.cesko.digital/font/medium.woff2) format("woff2"),
     url(https://data.cesko.digital/font/medium.woff) format("woff"),
     url(https://data.cesko.digital/font/medium.eot) format("eot");
@@ -35,7 +35,7 @@ body {
 }
 
 @font-face {
-  font-family: Cesko Digital;
+  font-family: "Cesko Digital";
   src: url(https://data.cesko.digital/font/semibold.woff2) format("woff2"),
     url(https://data.cesko.digital/font/semibold.woff) format("woff"),
     url(https://data.cesko.digital/font/semibold.eot) format("eot");
@@ -44,7 +44,7 @@ body {
 }
 
 @font-face {
-  font-family: Cesko Digital;
+  font-family: "Cesko Digital";
   src: url(https://data.cesko.digital/font/bold.woff2) format("woff2"),
     url(https://data.cesko.digital/font/bold.woff) format("woff"),
     url(https://data.cesko.digital/font/bold.eot) format("eot");
@@ -61,4 +61,103 @@ body {
   align-items: center;
 }
 
-/* Posts */
+/* Post Listing */
+
+.post-listing-row {
+  display: flex;
+  flex-wrap: wrap;
+  flex-grow: 0;
+  flex-shrink: 0;
+  align-items: normal;
+  justify-content: flex-start;
+  width: 100%;
+}
+
+.main-post {
+  width: 66%;
+  padding: 10px;
+  /*
+  @media (max-width: 768px) {
+    width: 100%;
+  }
+  */
+}
+
+.post-listing-post {
+  width: 33%;
+  padding: 10px;
+  /*
+  @media (max-width: 768px) {
+    width: 50%;
+  }
+  @media (max-width: 576px) {
+    width: 100%;
+  }
+  */
+}
+
+/* Post Card */
+
+.post-card-link {
+  text-decoration: none;
+  color: black;
+}
+
+.post-card {
+  background: #ffffff;
+  border: 2px solid rgb(237, 237, 239);
+  border-radius: 14px;
+  height: 100%;
+  transition: all 250ms ease-in-out;
+}
+
+.post-card:hover {
+  box-shadow: 0px 8px 18px rgba(10, 10, 10, 0.12);
+}
+
+.post-card-meta {
+  padding: 20px;
+}
+
+.post-card-author {
+  font-family: Cesko Digital, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 150%;
+  /* identical to box height, or 24px */
+  margin-bottom: 10px;
+  margin-top: 5px;
+  color: #000000;
+  width: auto;
+  opacity: 0.5;
+}
+
+.post-card h2 {
+  font-family: Cesko Digital, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 150%;
+  /* identical to box height, or 36px */
+  margin: 0;
+}
+
+.post-card-description {
+  font-family: Cesko Digital, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  height: 48px;
+  -webkit-line-clamp: 2;
+  display: block;
+  display: -webkit-box;
+  max-width: 100%;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  /* or 24px */
+  margin-top: 10px;
+  color: #080831;
+}
