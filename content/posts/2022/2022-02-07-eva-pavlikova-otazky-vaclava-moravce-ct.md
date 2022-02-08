@@ -3,7 +3,7 @@ title: Vývojáři nestačí. Přínos digitalizace musí chápat i úředníci,
   Česko.Digital Eva Pavlíková ve svém výstupu v ČT
 author: bara.celechovska
 cover: https://data.cesko.digital/img/OVM_Eva-P.png
-date: 2022-02-07-11-50
+date: 2022-02-08-09-31
 slug: eva-pavlikova-otazky-vaclava-moravce-ct
 description: Co můžeme od digitalizace Česka očekávat? Podle programového
   prohlášení vlády nás čekají velké změny. Co přitom opravdu potřebujeme na
