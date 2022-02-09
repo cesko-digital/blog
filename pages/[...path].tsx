@@ -94,7 +94,8 @@ export const getStaticProps: GetStaticProps<Props, QueryParams> = async (
 ) => {
   const { path } = context.params!;
   const mergedPath = "/" + path.join("/");
-  const post = siteData.posts.find((post) => post.path === mergedPath)!;
+  const allPosts = [...siteData.posts, ...siteData.pressReleases];
+  const post = allPosts.find((post) => post.path === mergedPath)!;
   const author = siteData.authors.find((a) => a.id === post.authorId)!;
   const authors = siteData.authors;
   const otherPosts = siteData.posts
@@ -116,7 +117,8 @@ export const getStaticProps: GetStaticProps<Props, QueryParams> = async (
 };
 
 export const getStaticPaths: GetStaticPaths<QueryParams> = async () => {
-  const paths = siteData.posts.map((post) => ({
+  const allPosts = [...siteData.posts, ...siteData.pressReleases];
+  const paths = allPosts.map((post) => ({
     params: { path: post.path.split("/").slice(1) },
   }));
   return {
