@@ -2,7 +2,7 @@ import Layout from "components/layout";
 import PostCard from "components/post-card";
 import PressReleaseListing from "components/press-releases";
 import { Author } from "lib/author";
-import { BlogPost } from "lib/post";
+import { BlogPost, Metadata, stripBlogPostBody } from "lib/post";
 import { siteData } from "lib/site-data";
 import { markdownToHTML } from "lib/utils";
 import { NextPage, GetStaticProps, GetStaticPaths } from "next";
@@ -10,8 +10,8 @@ import { ParsedUrlQuery } from "querystring";
 
 interface Props {
   post: BlogPost;
-  otherPosts: BlogPost[];
-  pressReleases: BlogPost[];
+  otherPosts: Metadata[];
+  pressReleases: Metadata[];
   authors: readonly Author[];
   author: Author;
 }
@@ -22,7 +22,7 @@ interface QueryParams extends ParsedUrlQuery {
 
 const Post: NextPage<Props> = (props) => {
   const { post, otherPosts, pressReleases, authors } = props;
-  const authorOf = (post: BlogPost) =>
+  const authorOf = (post: Metadata) =>
     authors.find((a) => a.id === post.authorId)!;
   return (
     <Layout
@@ -99,8 +99,11 @@ export const getStaticProps: GetStaticProps<Props, QueryParams> = async (
   const authors = siteData.authors;
   const otherPosts = siteData.posts
     .filter((p) => p.path !== post.path)
+    .map(stripBlogPostBody)
     .slice(0, 3);
-  const pressReleases = siteData.pressReleases.slice(0, 6);
+  const pressReleases = siteData.pressReleases
+    .map(stripBlogPostBody)
+    .slice(0, 6);
   return {
     props: {
       post,

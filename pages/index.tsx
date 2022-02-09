@@ -1,13 +1,13 @@
 import { NextPage, GetStaticProps } from "next";
 import { Author } from "lib/author";
-import { BlogPost } from "lib/post";
+import { Metadata, stripBlogPostBody } from "lib/post";
 import { siteData } from "lib/site-data";
 import PostListing from "components/post-listing";
 import Layout from "components/layout";
 
 interface Props {
-  posts: readonly BlogPost[];
-  pressReleases: readonly BlogPost[];
+  posts: readonly Metadata[];
+  pressReleases: readonly Metadata[];
   authors: readonly Author[];
 }
 
@@ -30,8 +30,11 @@ const Home: NextPage<Props> = ({ posts, pressReleases, authors }) => {
 };
 
 export const getStaticProps: GetStaticProps<Props> = async () => {
-  const { posts, authors } = siteData;
-  const pressReleases = siteData.pressReleases.slice(0, 6);
+  const { authors } = siteData;
+  const pressReleases = siteData.pressReleases
+    .map(stripBlogPostBody)
+    .slice(0, 6);
+  const posts = siteData.posts.map(stripBlogPostBody);
   return {
     props: {
       posts,

@@ -1,7 +1,7 @@
-import { BlogPost } from "lib/post";
+import { Metadata } from "lib/post";
 
 interface Props {
-  posts: readonly BlogPost[];
+  posts: readonly Metadata[];
 }
 
 const PressReleaseListing: React.FC<Props> = ({ posts }) => {
