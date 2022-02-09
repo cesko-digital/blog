@@ -1,0 +1,211 @@
+backend:
+  name: github
+  repo: cesko-digital/blog
+  base_url: https://oauth.cesko.digital
+  auth_endpoint: /auth
+  open_authoring: true
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+publish_mode: editorial_workflow
+site_url: "https://blog.cesko.digital"
+collections:
+  - label: "Posts"
+    label_singular: "Post"
+    name: "posts"
+    folder: "content/posts"
+    path: "{{year}}/{{year}}-{{month}}-{{day}}-{{slug}}"
+    create: true
+    slug: "{{fields.slug}}"
+    view_groups:
+      - label: Year
+        field: date
+        pattern: \d{4}
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        required: true
+      - label: "Author"
+        name: "author"
+        widget: "select"
+        options:
+          [
+            "zoul",
+            "radja",
+            "jakub",
+            "eva",
+            "vjirovsky",
+            "jana",
+            "marketaz",
+            "teryii",
+            "urbant",
+            "hrudka",
+            "katka",
+            "dana",
+            "zaneta",
+            "iva",
+            "bara",
+            "alena",
+            "lukas",
+            "tt",
+            "kaku",
+            "martina",
+            "gabi",
+            "lenkab",
+            "rona",
+            "lvanous",
+            "horm",
+            "zu",
+            "lukas.n",
+            "tereza.lattova",
+            "jan.hobler",
+            "marketa.horakova",
+            "jindrich.oukropec",
+            "martina.plechatova",
+            "zavis.pexidr",
+            "kristyna.buzkova",
+            "martina.cilkova",
+            "coreteam",
+            "marek.mencl",
+            "hana.buresova",
+            "bara.celechovska",
+          ]
+        required: true
+      - label: "Tags"
+        name: "tags"
+        widget: "select"
+        multiple: true
+        required: false
+        options:
+          [
+            "ucime-online",
+            "cityvizor",
+            "dame-rousky",
+            "nedluzim-statu",
+            "jehlomat",
+            "inovace-zpravodajstvi",
+            "covid-portal",
+            "nasi-politici",
+            "strecha-dusevniho-zdravi",
+            "zacni-ucit",
+            "verejne-zakazky-spolu",
+            "spolu-na-dalku",
+            "loono",
+            "pohyb-je-reseni",
+            "cesko-digital-edu",
+            "cesko-digital-market-place",
+            "open-data-ve-firmach",
+            "hotova-jidla-pomahaji",
+            "newsletter",
+            "partners",
+          ]
+      - label: "Cover"
+        name: "cover"
+        widget: "string"
+        required: true
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+        format: "YYYY-MM-DD-hh-mm"
+        required: true
+      - label: "Slug"
+        name: "slug"
+        widget: "string"
+        required: true
+        slug: "{{title}}"
+      - label: "Description"
+        name: "description"
+        widget: "string"
+        required: true
+      - label: "Language"
+        name: "lang"
+        widget: "select"
+        options: ["cs", "en"]
+        default: "cs"
+      - label: "Text"
+        name: "body"
+        widget: "markdown"
+  - label: "Press Releases"
+    label_singular: "Press Release"
+    name: "press"
+    folder: "content/press"
+    path: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    create: true
+    slug: "{{fields.slug}}"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        required: true
+      - label: "Author"
+        name: "author"
+        widget: "select"
+        options:
+          [
+            "zoul",
+            "radja",
+            "jakub",
+            "eva",
+            "vjirovsky",
+            "jana",
+            "marketaz",
+            "teryii",
+            "urbant",
+            "hrudka",
+            "katka",
+            "dana",
+            "zaneta",
+            "iva",
+            "bara",
+            "alena",
+            "lukas",
+            "tt",
+            "kaku",
+            "martina",
+            "gabi",
+            "lenkab",
+            "rona",
+            "lvanous",
+            "horm",
+            "zu",
+            "lukas.n",
+            "tereza.lattova",
+            "jan.hobler",
+            "marketa.horakova",
+            "jindrich.oukropec",
+            "martina.plechatova",
+            "zavis.pexidr",
+            "kristyna.buzkova",
+            "martina.cilkova",
+            "coreteam",
+            "marek.mencl",
+            "hana.buresova",
+            "bara.celechovska",
+          ]
+        required: true
+      - label: "Cover"
+        name: "cover"
+        widget: "string"
+        required: true
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+        format: "YYYY-MM-DD-hh-mm"
+        required: true
+      - label: "Slug"
+        name: "slug"
+        widget: "string"
+        required: true
+        slug: "{{title}}"
+      - label: "Description"
+        name: "description"
+        widget: "string"
+        required: true
+      - label: "Language"
+        name: "lang"
+        widget: "select"
+        options: ["cs", "en"]
+        default: "cs"
+      - label: "Text"
+        name: "body"
+        widget: "markdown"
