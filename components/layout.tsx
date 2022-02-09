@@ -1,6 +1,7 @@
 import Footer from "./footer";
 import NavigationBar from "./navigation-bar";
 import { default as NextHead } from "next/head";
+import Script from "next/script";
 
 interface PageProps {
   title: string;
@@ -36,7 +37,7 @@ const Head: React.FC<PageProps> = (props) => {
         data-domain="blog.cesko.digital"
         src="https://plausible.io/js/plausible.js"
       ></script>
-      <script defer>
+      <Script id="google-tag-manager" strategy="afterInteractive">
         {`
         (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -44,7 +45,7 @@ const Head: React.FC<PageProps> = (props) => {
         'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
         })(window,document,'script','dataLayer', 'GTM-KW2XL65');
       `}
-      </script>
+      </Script>
     </NextHead>
   );
 };
