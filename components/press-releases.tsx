@@ -10,7 +10,11 @@ const PressReleaseListing: React.FC<Props> = ({ posts }) => {
   return (
     <div className="press-release-listing">
       <div className="press-release-row">
-        <img src={"/press-releases.svg"} className="press-release-icon" />
+        <img
+          src={"/press-releases.svg"}
+          className="press-release-icon"
+          alt=""
+        />
         <h2 className="press-release-title">Tiskové zprávy</h2>
       </div>
       {posts.map((post) => (
