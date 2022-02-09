@@ -21,11 +21,15 @@ interface QueryParams extends ParsedUrlQuery {
 }
 
 const Post: NextPage<Props> = (props) => {
-  const { otherPosts, pressReleases, authors } = props;
+  const { post, otherPosts, pressReleases, authors } = props;
   const authorOf = (post: BlogPost) =>
     authors.find((a) => a.id === post.authorId)!;
   return (
-    <Layout>
+    <Layout
+      title={post.title}
+      description={post.description}
+      coverUrl={post.coverImageUrl}
+    >
       <div className="post-listing-row">
         <div className="main-post">
           <PostBody {...props} />
