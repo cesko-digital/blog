@@ -2,7 +2,7 @@ import Layout from "components/layout";
 import PostCard from "components/post-card";
 import PressReleaseListing from "components/press-releases";
 import { Author } from "lib/author";
-import { BlogPost, Metadata, stripBlogPostBody } from "lib/post";
+import { BlogPost, PostMetadata, stripBlogPostBody } from "lib/post";
 import { siteData } from "lib/site-data";
 import { markdownToHTML } from "lib/utils";
 import { NextPage, GetStaticProps, GetStaticPaths } from "next";
@@ -10,8 +10,8 @@ import { ParsedUrlQuery } from "querystring";
 
 interface Props {
   post: BlogPost;
-  otherPosts: Metadata[];
-  pressReleases: Metadata[];
+  otherPosts: PostMetadata[];
+  pressReleases: PostMetadata[];
   authors: readonly Author[];
   author: Author;
 }
@@ -22,7 +22,7 @@ interface QueryParams extends ParsedUrlQuery {
 
 const Post: NextPage<Props> = (props) => {
   const { post, otherPosts, pressReleases, authors } = props;
-  const authorOf = (post: Metadata) =>
+  const authorOf = (post: PostMetadata) =>
     authors.find((a) => a.id === post.authorId)!;
   return (
     <Layout

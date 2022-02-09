@@ -1,8 +1,8 @@
 import { Author } from "lib/author";
-import { Metadata } from "lib/post";
+import { PostMetadata } from "lib/post";
 
 interface Props {
-  post: Metadata;
+  post: PostMetadata;
   author: Author;
   showCover?: boolean;
 }

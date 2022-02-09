@@ -13,10 +13,10 @@ import { DecoderFunction, Pojo } from "typescript-json-decoder";
 import matter from "gray-matter";
 
 /** Post metadata such as the author, title, tags, etc. */
-export type Metadata = decodeType<typeof decodeMetadata>;
+export type PostMetadata = decodeType<typeof decodeMetadata>;
 
 /** Blog post consisting of metadata and body */
-export interface BlogPost extends Metadata {
+export interface BlogPost extends PostMetadata {
   body: string;
 }
 
@@ -101,7 +101,7 @@ export function getPostPath(date: Date, slug: string): string {
 }
 
 /** Strip blog post body, returning just the metadata */
-export function stripBlogPostBody(post: BlogPost): Metadata {
+export function stripBlogPostBody(post: BlogPost): PostMetadata {
   const { body, ...meta } = post;
   return meta;
 }

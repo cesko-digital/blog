@@ -1,13 +1,13 @@
 import { NextPage, GetStaticProps } from "next";
 import { Author } from "lib/author";
-import { Metadata, stripBlogPostBody } from "lib/post";
+import { PostMetadata, stripBlogPostBody } from "lib/post";
 import { siteData } from "lib/site-data";
 import PostListing from "components/post-listing";
 import Layout from "components/layout";
 
 interface Props {
-  posts: readonly Metadata[];
-  pressReleases: readonly Metadata[];
+  posts: readonly PostMetadata[];
+  pressReleases: readonly PostMetadata[];
   authors: readonly Author[];
 }
 
