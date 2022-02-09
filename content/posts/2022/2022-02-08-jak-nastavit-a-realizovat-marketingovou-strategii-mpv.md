@@ -4,7 +4,7 @@ author: marketa.horakova
 tags:
   - strecha-dusevniho-zdravi
 cover: http://data.cesko.digital/img/clanek_7-kroku-MVP/clanek_7-kroku-cover.jpg
-date: 2022-02-08-05-47
+date: 2022-02-09-12-00
 slug: jak-nastavit-a-realizovat-marketingovou-strategii-mpv
 description: Projekt Střecha duševního zdraví byl pro mě láskou na první pohled.
   Jako marketingový koordinátor jsem se k němu přidala v půlce září 2021. Cílem
