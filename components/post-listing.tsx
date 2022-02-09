@@ -1,18 +1,18 @@
 import { Author } from "lib/author";
-import { Metadata } from "lib/post";
+import { PostMetadata } from "lib/post";
 import PostCard from "./post-card";
 import PressReleaseListing from "./press-releases";
 
 interface Props {
-  posts: readonly Metadata[];
-  pressReleases: readonly Metadata[];
+  posts: readonly PostMetadata[];
+  pressReleases: readonly PostMetadata[];
   authors: readonly Author[];
 }
 
 const PostListing: React.FC<Props> = ({ posts, pressReleases, authors }) => {
   const firstPost = posts[0];
   const otherPosts = [...posts.slice(1, posts.length)];
-  const authorOf = (post: Metadata) =>
+  const authorOf = (post: PostMetadata) =>
     authors.find((a) => a.id === post.authorId)!;
   return (
     <div className="post-listing-row">

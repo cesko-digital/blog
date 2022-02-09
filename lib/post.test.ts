@@ -3,7 +3,7 @@ import {
   decodePostDate,
   stripBlogPostBody,
   getPostPath,
-  Metadata,
+  PostMetadata,
 } from "./post";
 import {
   parsePostPath,
@@ -44,7 +44,7 @@ describe("Decode post metadata", () => {
         slug: "pribeh-inkubacniho-procesu",
         description: "Příběh tříměsíčního designového procesu…",
       })
-    ).toEqual<Metadata>({
+    ).toEqual<PostMetadata>({
       title: "Spolupráce s Česko.Digital",
       path: "/2022/01/pribeh-inkubacniho-procesu",
       authorId: "marek",
@@ -69,7 +69,7 @@ describe("Decode post metadata", () => {
         description: "Příběh tříměsíčního designového procesu…",
         langVersion: { cs: "/2019/11/rozhovor-vereha" },
       })
-    ).toEqual<Metadata>({
+    ).toEqual<PostMetadata>({
       title: "Spolupráce s Česko.Digital",
       path: "/2022/01/pribeh-inkubacniho-procesu",
       authorId: "marek",
