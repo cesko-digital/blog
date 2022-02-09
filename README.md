@@ -6,6 +6,8 @@ Jde o převážně statický web napsaný v kombinaci [TypeScript](https://www.t
 
 Celek tedy funguje zhruba tak, že načteme hromadu souborů z repository, přes Next.js a React vygenerujeme hromadu HTML a všechno to nahrneme na Vercel. Po stažení ke klientovi zase „obživne“ React aplikace, ale interaktivitu na straně klienta používáme minimálně.
 
+Pro jednodušší práci s texty používáme [Netlify CMS](https://www.netlifycms.org), tedy „headless CMS“, které umí spravovat přímo data uložená tady v repu.
+
 # Hacking
 
 Základní použití je jednoduché:
