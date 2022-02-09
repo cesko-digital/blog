@@ -15,7 +15,7 @@ const Home: NextPage<Props> = ({ posts, pressReleases, authors }) => {
   return (
     <Layout
       title="Blog Česko.Digital"
-      description="Skrz jedničky a nuly měníme svět k lepšímu"
+      description="Skrz jedničky a nuly měníme Česko k lepšímu"
       coverUrl="https://data.cesko.digital/img/172a1526.png"
     >
       <div>
