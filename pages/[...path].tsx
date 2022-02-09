@@ -81,7 +81,7 @@ const PostBody: React.FC<Props> = ({ post, author }) => {
         />
 
         <a className="post-button" href={"/"}>
-          <img src="/arrow-light.svg" />
+          <img src="/arrow-light.svg" alt="" />
           Zpět na všechny články
         </a>
       </div>
