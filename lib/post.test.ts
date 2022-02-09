@@ -1,4 +1,10 @@
-import { decodeMetadata, decodePostDate, getPostPath, Metadata } from "./post";
+import {
+  decodeMetadata,
+  decodePostDate,
+  stripBlogPostBody,
+  getPostPath,
+  Metadata,
+} from "./post";
 import {
   parsePostPath,
   readBlogPost,
@@ -115,4 +121,22 @@ test("Parse all press releases", () => {
       throw `Post fails to decode: ${path}: ${e}`;
     }
   }
+});
+
+test("Strip blog post body", () => {
+  const meta = stripBlogPostBody({
+    title: "Spolupráce s Česko.Digital",
+    path: "/2022/01/pribeh-inkubacniho-procesu",
+    authorId: "marek",
+    coverImageUrl:
+      "https://data.cesko.digital/img/clanek-pohyb-je-reseni/2.png",
+    date: "2022-01-10T00:25:00.000Z",
+    slug: "pribeh-inkubacniho-procesu",
+    description: "Příběh tříměsíčního designového procesu…",
+    lang: "cs",
+    langVersion: undefined,
+    tags: [],
+    body: "foo",
+  }) as any;
+  expect(meta["body"]).toBeUndefined();
 });

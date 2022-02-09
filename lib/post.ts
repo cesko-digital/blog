@@ -99,3 +99,9 @@ export function getPostPath(date: Date, slug: string): string {
   const month = date.getMonth() + 1;
   return `/${year}/${month.toString().padStart(2, "0")}/${slug}`;
 }
+
+/** Strip blog post body, returning just the metadata */
+export function stripBlogPostBody(post: BlogPost): Metadata {
+  const { body, ...meta } = post;
+  return meta;
+}
