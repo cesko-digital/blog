@@ -13,4 +13,12 @@ module.exports = {
       },
     ];
   },
+  async rewrites() {
+    return [
+      {
+        source: "/:path(.*.mjml)",
+        destination: "/api/mjml?path=:path",
+      },
+    ];
+  },
 };
