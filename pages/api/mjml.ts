@@ -30,6 +30,9 @@ export default async function handler(
     "max-age=0, s-maxage=60, stale-while-revalidate=60"
   );
 
+  // Let’s make sure these versions don’t affect our SEO.
+  response.setHeader("X-Robots-Tag", "noindex, nofollow");
+
   const mjml = renderMJML(blogPostToMJML(post));
 
   if (wantsHtml) {
