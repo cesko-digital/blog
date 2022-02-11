@@ -123,6 +123,7 @@ export function parseMarkdownToSections(markdown: string): MJSection[] {
           },
         ],
       });
+      accumulatedContent = [];
     }
   };
 
