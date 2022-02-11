@@ -8,6 +8,9 @@ import { Content } from "mdast";
 export type MJText = {
   type: "text";
   text: string;
+  align?: string;
+  fontSize?: string;
+  color?: string;
 };
 
 export interface MJImage {
@@ -59,6 +62,26 @@ export function blogPostToMJML(post: BlogPost): MJDocument {
       },
       /* Post body */
       ...parseMarkdownToSections(post.body),
+      /* Footer */
+      {
+        fullWidth: true,
+        backgroundColor: "#f3f3f3",
+        content: [
+          {
+            type: "text",
+            fontSize: "14px",
+            color: "gray",
+            align: "center",
+            text: `<p>Už naše newslettery nechcete dostávat?<br>
+            <a href="*|UNSUB|*">Odhlásit se můžete zde</a>
+          </p>
+          <p>Česko.Digital<br>
+            Spěšného 391<br>
+            Roztoky 25263<br>
+            Česká republika</p>`,
+          },
+        ],
+      },
     ],
   };
 }
@@ -158,12 +181,8 @@ function renderMJMLSection(section: MJSection): string {
     "background-color": backgroundColor,
     "full-width": fullWidth ? "full-width" : undefined,
   };
-  const str = Object.entries(attributes)
-    .filter(([_, value]) => !!value)
-    .map(([key, value]) => `${key}="${value}"`)
-    .join(" ");
   return `
-    <mj-section ${str}>
+    <mj-section ${renderAttributes(attributes)}>
         <mj-column>
             ${content}
         </mj-column>
@@ -173,9 +192,20 @@ function renderMJMLSection(section: MJSection): string {
 
 function renderMJMLContent(content: MJContent): string {
   if (content.type === "image") {
-    return `<mj-image src="${content.src}" padding=${content.padding}/>`;
+    const { src, padding } = content;
+    const attributes = { src, padding };
+    return `<mj-image ${renderAttributes(attributes)}/>`;
   } else if (content.type === "text") {
-    return `<mj-text>${content.text}</mj-text>`;
+    const { align, fontSize, color } = content;
+    const attributes = { align, "font-size": fontSize, color };
+    return `<mj-text ${renderAttributes(attributes)}>${content.text}</mj-text>`;
   }
   throw "Unknown MJML content type.";
+}
+
+function renderAttributes(atts: Record<string, string | undefined>): string {
+  return Object.entries(atts)
+    .filter(([_, value]) => !!value)
+    .map(([key, value]) => `${key}="${value}"`)
+    .join(" ");
 }
