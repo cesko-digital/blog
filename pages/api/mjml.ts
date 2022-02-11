@@ -23,7 +23,15 @@ export default async function handler(
     return;
   }
 
+  // Let’s keep the cache fairly short-lived if the editor needs to
+  // tune the content and go back-and-forth several times.
+  response.setHeader(
+    "Cache-Control",
+    "max-age=0, s-maxage=60, stale-while-revalidate=60"
+  );
+
   const mjml = renderMJML(blogPostToMJML(post));
+
   if (wantsHtml) {
     response.setHeader("Content-Type", "text/html; encoding=utf-8");
     response.status(200).send(mjml2html(mjml).html);
