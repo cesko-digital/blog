@@ -1,4 +1,4 @@
-import { markdownToMJML, renderMJML } from "lib/mjml";
+import { blogPostToMJML, renderMJML } from "lib/mjml";
 import { siteData } from "lib/site-data";
 import type { NextApiRequest, NextApiResponse } from "next";
 
@@ -20,7 +20,7 @@ export default async function handler(
     return;
   }
 
-  const mjml = markdownToMJML(post.body);
+  const mjml = blogPostToMJML(post);
   response.setHeader("Content-Type", "text/plain; encoding=utf-8");
   response.status(200).send(renderMJML(mjml));
 }

@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "cesko-digital";
+  font-style: normal;
+  font-weight: 100;
+  src: url(https://data.cesko.digital/font/regular.woff) format("woff");
+}
+
+@font-face {
+  font-family: "cesko-digital";
+  font-style: normal;
+  font-weight: bold;
+  src: url(https://data.cesko.digital/font/bold.woff) format("woff");
+}
+
+h1 {
+  line-height: 130%;
+}
+
+a {
+  color: blue;
+}
+
+em,
+strong {
+  font-style: normal;
+  font-weight: bold;
+}
