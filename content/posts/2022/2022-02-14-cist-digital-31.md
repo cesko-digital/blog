@@ -4,7 +4,7 @@ title: "číst.digital/31: Představujeme 2 nové projekty v inkubaci | Měřím
 author: hana.buresova
 tags:
   - newsletter
-cover: https://data.cesko.digital/newsletter/30/cover31.png
+cover: https://data.cesko.digital/newsletter/31/cover31.png
 date: 2022-02-16-04-47
 slug: cist-digital-31
 description: Ahoj Česko.Digital! 👋 Venku přituhuje, to ovšem neplatí o našich
@@ -29,7 +29,11 @@ Pro seniory, rodiče samoživitele a další lidi v nouzi není teplé a výživ
 \
 V zahraničí už je to běžné a skvěle to funguje. A my nechceme být pozadu! Společně s Česko.Digital nyní v inkubátoru **pracujeme na technologickém řešení, které by usnadnilo komunikaci mezi charitami a jídelnami**. Jak charity, tak gastro provozy jsou totiž velmi vytíženy a jakékoliv zefektivnění práce je pro ně velká pomoc. Tak hurá do práce!
 
-![]()
+<center>
+
+![](https://data.cesko.digital/newsletter/31/darovani-hotovych-pokrmu.jpg)
+
+</center>
 
 ### Volební kalkulačka 2022
 
@@ -41,7 +45,11 @@ Inkubační fází provede tento projekt Martin Wenisch a budou potřeba i dalš
 
 <br>
 
+<center>
+
 ![](http://data.cesko.digital/img/dad68fa0.png)
+
+</center>
 
 <br>
 
@@ -65,7 +73,11 @@ Ke klávesnici si tentokrát sedla marketingová koordinátorka [Markéta Horák
 
 <br>
 
+<center>
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
 
 <br>
 
@@ -83,7 +95,7 @@ Pokud chcete být se [Safezónou](https://www.safezona.cz/) neustále v obraze, 
 
 **Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíte na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).**
 
-**<br>**
+<br>
 
 ## Jak si v komunitě žijeme
 
@@ -95,7 +107,11 @@ Ve středu 2. 2. jsme poprvé vyzkoušeli nový formát **hromadného mentoringu
 
 Propásli jste naši online diskusi **Od neziskové myšlenky k úspěchu**? Mrkněte na [záznam](https://www.youtube.com/watch?v=rW3DEOB9-hU). S týmem **Loono** jsme sdíleli, co se nám podařilo, co jsme se naučili i s čím jsme bojovali. Bylo to chvílemi velmi dojemné. 😢 Ještě jednou velké díky báječnému týmu Loono a Česko.Digital, **Katce Vackové** a také **Janě Tomas Sedláčkové** z Nadace PPF, hlavního partnera projektu. Mezi námi, spuštění aplikace na jaře 2022 bude velká událost a počin, který jistě změní naše životy k lepšímu!
 
-![]()
+<center>
+
+![](https://data.cesko.digital/newsletter/31/YT-od_myslenky_k_uspechu2.png)
+
+</center>
 
 ### Vybíráme technologie do veřejného projektu
 
