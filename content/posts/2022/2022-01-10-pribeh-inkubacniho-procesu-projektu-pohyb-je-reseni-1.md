@@ -2,6 +2,8 @@
 title: "Spolupráce s Česko.Digital: Příběh inkubačního procesu projektu Pohyb je
   řešení"
 author: marek.mencl
+tags:
+  - pohyb-je-reseni
 cover: https://data.cesko.digital/img/clanek-pohyb-je-reseni/2.png
 date: 2022-01-10-01-25
 slug: pribeh-inkubacniho-procesu-projektu-pohyb-je-reseni
@@ -9,8 +11,6 @@ description: Příběh tříměsíčního designového procesu, který nás prov
   původní obecné představy technologického řešení ke konkrétní strategii a sérii
   dílčích služeb.
 lang: cs
-tags:
-    - pohyb-je-reseni
 ---
 ## Inkubátor jako reakce na podporu projektů s celospolečenským dopadem
 
@@ -18,7 +18,7 @@ Inkubátor reaguje na aktuální náročnou situaci, kdy vzniká spousta nápad�
 
 Po spuštění inkubátoru s takto zaměřeným cílem bylo jasné, že chceme být jako Pábení jeho součástí. Dali jsme si za cíl v roce 2021 provést procesem alespoň jeden projekt. To se nám podařilo na podzim tohoto roku s týmem Sport 2.0 a Wanadoo, který se **rozhodl pomoci rodičům a dětem, které trpí nadváhou.** Společenský problém, který vlivem covidu a úbytku přirozeného pohybu akceleroval.
 
-*Máte nápad na projekt s celospolečenským dopadem a potřebujete ho rozebrat na detaily? Navrhněte ho do inkubátoru zde: <https://airtable.com/shrP207QR9RrHTZEi>*
+*Máte nápad na projekt s celospolečenským dopadem a potřebujete ho rozebrat na detaily? [Navrhněte ho do inkubátoru!](https://airtable.com/shrP207QR9RrHTZEi)[](https://airtable.com/shrP207QR9RrHTZEi)*
 
 <br>
 
