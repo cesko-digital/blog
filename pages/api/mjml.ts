@@ -19,7 +19,7 @@ export default async function handler(
   const wantedPath = "/" + queryPath.replace(extension, "");
   const post = siteData.posts.find((p) => p.path === wantedPath);
   if (!post) {
-    response.status(404).send(`Source post not found for path: ${wantedPath}`);
+    response.status(404).send(`Source post not found, please check the path.`);
     return;
   }
 
