@@ -1,19 +1,11 @@
-const navigationItems = [
-  {
-    url: "https://cesko.digital/projects",
-    name: "Projekty",
-  },
-  {
-    name: "Blog",
-    url: "/",
-  },
-  {
-    url: "https://www.darujme.cz/projekt/1203553",
-    name: "Přispět",
-  },
-];
+import {Router, withRouter} from 'next/router';
+import Link from 'next/link'
 
-const NavigationBar: React.FC = () => (
+interface Props {
+  router: Router;
+}
+
+const NavigationBar: React.FC<Props> = (props) => (
   <div className="header-wrapper">
     <div className="navigation-bar">
       <div>
@@ -21,15 +13,14 @@ const NavigationBar: React.FC = () => (
       </div>
       <div>
         <div className="toolbar-links">
-          {navigationItems.map((item, index) => (
-            <a className="toolbar-link" key={index} href={item.url}>
-              {item.name}
-            </a>
-          ))}
+          {props.router.asPath !== '/' &&
+          <Link href="/">
+            <a className="toolbar-link">← Zpět na všechny články</a>
+          </Link>}
         </div>
       </div>
     </div>
   </div>
 );
 
-export default NavigationBar;
+export default withRouter(NavigationBar);
