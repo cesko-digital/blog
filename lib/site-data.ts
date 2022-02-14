@@ -1,6 +1,8 @@
 import { Author, getAllAuthors } from "./author";
 import { BlogPost, compareBlogPostsByDate } from "./post";
 import { getAllPosts } from "./post-loading";
+import { join, resolve } from "path";
+import fs from "fs";
 
 export interface SiteData {
   posts: readonly BlogPost[];
@@ -9,10 +11,12 @@ export interface SiteData {
 }
 
 function loadSiteData(): SiteData {
+  const content = resolve(process.cwd(), "content");
+  console.log(`Loading data files from ${content}`);
   const byDate = compareBlogPostsByDate;
-  const posts = getAllPosts("content/posts").sort(byDate);
-  const pressReleases = getAllPosts("content/press").sort(byDate);
-  const authors = getAllAuthors("content/authors.yaml");
+  const posts = getAllPosts(join(content, "posts")).sort(byDate);
+  const pressReleases = getAllPosts(join(content, "press")).sort(byDate);
+  const authors = getAllAuthors(join(content, "authors.yaml"));
   return filterUndefines({
     posts,
     pressReleases,
