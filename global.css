@@ -82,7 +82,7 @@ body {
 .navigation-bar {
   display: flex;
   width: 100%;
-  flex-direction: row;
+  flex-direction: row-reverse;
   justify-content: space-between;
   align-items: center;
   margin-right: 20px;
@@ -97,7 +97,7 @@ body {
   background-size: contain;
   padding: 0 !important;
   color: #1a2c29;
-  margin: 32px 20px 28px 0;
+  margin: 32px 5px 28px 20px;
   /*
   &__inner {
     display: none;
@@ -127,6 +127,9 @@ body {
   overflow: hidden;
   white-space: nowrap;
   width: min-content;
+}
+.toolbar-link:first-child {
+  margin-left: 5px;
 }
 
 .toolbar-link:hover {
@@ -539,11 +542,15 @@ ol {
 
   .toolbar-links {
     justify-content: flex-start;
-    border-bottom: #1d1f21 solid 1px;
   }
 
   .toolbar-link {
-    margin: 0 25px 10px 0;
+    margin: 0 25px 25px 0;
+    text-decoration: none;
+  }
+
+  .toolbar-link:hover {
+    text-decoration: underline;
   }
 
   .main-post {
