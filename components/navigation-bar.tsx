@@ -1,5 +1,5 @@
-import {Router, withRouter} from 'next/router';
-import Link from 'next/link'
+import { Router, withRouter } from "next/router";
+import Link from "next/link";
 
 interface Props {
   router: Router;
@@ -13,10 +13,11 @@ const NavigationBar: React.FC<Props> = (props) => (
       </div>
       <div>
         <div className="toolbar-links">
-          {props.router.asPath !== '/' &&
-          <Link href="/">
-            <a className="toolbar-link">← Zpět na všechny články</a>
-          </Link>}
+          {props.router.asPath !== "/" && (
+            <Link href="/">
+              <a className="toolbar-link">← Zpět na všechny články</a>
+            </Link>
+          )}
         </div>
       </div>
     </div>
