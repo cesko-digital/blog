@@ -5,7 +5,7 @@ author: hana.buresova
 tags:
   - newsletter
 cover: https://data.cesko.digital/newsletter/31/cover31.png
-date: 2022-02-16-04-47
+date: 2022-02-15-02-10
 slug: cist-digital-31
 description: Ahoj Česko.Digital! 👋 Venku přituhuje, to ovšem neplatí o našich
   projektech! Těm se daří a úspěšně se posouvají kupředu. Máme 2 nové projekty v
@@ -109,11 +109,11 @@ Propásli jste naši online diskusi **Od neziskové myšlenky k úspěchu**? Mrk
 
 <center>
 
-![](https://data.cesko.digital/newsletter/31/YT-od_myslenky_k_uspechu2.png)
+<a href="https://youtu.be/rW3DEOB9-hU"><img width="200" src="https://data.cesko.digital/newsletter/31/YT-od_myslenky_k_uspechu2.png"/></a>
+
+<br>
 
 [![Alt text](https://data.cesko.digital/newsletter/31/YT-od_myslenky_k_uspechu2.png)](https://youtu.be/rW3DEOB9-hU)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rW3DEOB9-hU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </center>
 
