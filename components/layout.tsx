@@ -19,12 +19,12 @@ const Layout: React.FC<PageProps> = (props) => {
         {`
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'UA-140227366-2');
           gtag('consent', 'default', {
             analytics_storage: 'denied',
             ad_storage: 'denied'
           });
+          gtag('js', new Date());
+          gtag('config', 'UA-140227366-2');
         `}
       </Script>
       <Script
