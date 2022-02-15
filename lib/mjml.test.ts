@@ -3,4 +3,7 @@
 // We could probably twist the infrastructure so it works, but it’s not worth it;
 // let’s wait for the dust to settle down and write the tests later. Details:
 // https://github.com/facebook/jest/issues/9430
+
+test("TODO", () => {});
+
 export {};
