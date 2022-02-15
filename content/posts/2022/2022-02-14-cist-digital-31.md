@@ -4,7 +4,7 @@ title: "číst.digital/31: Představujeme 2 nové projekty v inkubaci | Měřím
 author: hana.buresova
 tags:
   - newsletter
-cover: https://data.cesko.digital/newsletter/31/cover31.png
+cover: https://data.cesko.digital/newsletter/31/cover.png
 date: 2022-02-15-02-10
 slug: cist-digital-31
 description: Ahoj Česko.Digital! 👋 Venku přituhuje, to ovšem neplatí o našich
