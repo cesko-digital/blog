@@ -39,9 +39,6 @@ describe("Decoding primitives", () => {
     expect(getPostPath(new Date("2022-12-10T00:25:00.000Z"), "foo")).toBe(
       "/2022/12/foo"
     );
-    expect(getPostPath(new Date("2022-01-31T24:00:00.000Z"), "foo")).toBe(
-      "/2022/02/foo"
-    );
   });
 });
 
