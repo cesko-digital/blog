@@ -109,10 +109,6 @@ Propásli jste naši online diskusi **Od neziskové myšlenky k úspěchu**? Mrk
 
 <center>
 
-<a href="https://youtu.be/rW3DEOB9-hU"><img width="200" src="https://data.cesko.digital/newsletter/31/YT-od_myslenky_k_uspechu2.png"/></a>
-
-<br>
-
 [![Alt text](https://data.cesko.digital/newsletter/31/YT-od_myslenky_k_uspechu2.png)](https://youtu.be/rW3DEOB9-hU)
 
 </center>
