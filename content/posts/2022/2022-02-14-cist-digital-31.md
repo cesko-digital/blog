@@ -119,31 +119,27 @@ O veřejných IT projektech, **open source** a **vendor lock-in** jsme mluvili n
 
 ## Koho aktuálně hledáme
 
-Připojte se k největší dobrovolnické civic-tech organizaci v Evropě a digitalizujte s námi Česko. **Všechny pozice najdete přehledně na [Portálu dobrovolníka](http://cesko.digital/portal-dobrovolnika)**:
+Připojte se k největší dobrovolnické civic-tech organizaci v Evropě a digitalizujte s námi Česko. 
 
 ## Marketing
 
 * **[Marketing Lead](https://cesko.digital/opportunities/rec1SGEPd72QgD5J2?utm_medium=newsletter)** pro projekt Volební kalkulačka 2022, kontaktní osoba [Gabriela Chladilová](mailto:gabriela@cesko.digital?subject=Marketing%20Lead)
 * **[Koordinátor/ka webinářů a živých vysílání pro Česko.Digital Edu IV](https://cesko.digital/opportunities/recn2d3AOMdBmEM8a?utm_medium=newsletter)** pro projekt Česko.Digital Edu, kontaktní osoba [Kateřina Kocianová](mailto:katerina@cesko.digital?subject=Koordin%C3%A1tor%2Fka%20webin%C3%A1%C5%99%C5%AF%20a%20%C5%BEiv%C3%BDch%20vys%C3%ADl%C3%A1n%C3%AD%20pro%20%C4%8Cesko.Digital%20Edu%20IV)
 
-
 ## Scrum Master
 
 * **[Talent Manager & HR – autor příručky č.d](https://cesko.digital/opportunities/recEYYngHScQpNaIE?utm_medium=newsletter)** pro projekt Česko.Digital, kontaktní osoba [Romana Pokorná](mailto:romana@cesko.digital?subject=Talent%20Manager%20%26%20HR%20%E2%80%93%20autor%20p%C5%99%C3%ADru%C4%8Dky%20%C4%8D.d)
 * **[Scrum Master](https://cesko.digital/opportunities/recPPIaFgUJ1TEUFn?utm_medium=newsletter)** pro projekt Česko.Digital, kontaktní osoba [Romana Pokorná](mailto:romana@cesko.digital?subject=Scrum%20Master%20)
-
 
 ## Dev
 
 * **[Tech lead](https://cesko.digital/opportunities/recjA3jYo1vObkZEF?utm_medium=newsletter)** pro projekt Volební kalkulačka 2022, kontaktní osoba [Martin Wenisch](mailto:martin.wenisch@cesko.digital?subject=Tech%20lead)
 * **[Frontend Developer React pro Jehlomat](https://cesko.digital/opportunities/recv4L134viSo1N0b?utm_medium=newsletter)** pro projekt Jehlomat, kontaktní osoba [Lucia Poláková](mailto:loopolakova@gmail.com?subject=Frontend%20Developer%20React%20pro%20Jehlomat)
 
-
 ## Design
 
 * **[Grafik pro Učíme online](https://cesko.digital/opportunities/rec8IkvvNuEzsaJ78?utm_medium=newsletter)** pro projekt Učíme online, kontaktní osoba [Anežka Müller](mailto:anezka@cesko.digital?subject=Grafik%20pro%20U%C4%8D%C3%ADme%20online)
 * **[Konzultace nového webu pro Jídelnu Kuchařek bez domova](https://cesko.digital/opportunities/recbg3CqUtjxzykSj?utm_medium=newsletter)** pro projekt Market-place, kontaktní osoba [Anežka Müller](mailto:anezka@cesko.digital?subject=Konzultace%20nov%C3%A9ho%20webu%20pro%20J%C3%ADdelnu%20Kucha%C5%99ek%20bez%20domova)
-
 
 ## Business Dev
 
@@ -159,7 +155,9 @@ Připojte se k největší dobrovolnické civic-tech organizaci v Evropě a digi
 * **[Výzkumnice/výzkumník pro zpracování kvalitativních dat](https://cesko.digital/opportunities/rec4x1nrgt2HbMUpA?utm_medium=newsletter)** pro projekt Česko.Digital, kontaktní osoba [Kateřina Kocianová](mailto:katerina@cesko.digital?subject=V%C3%BDzkumnice%2Fv%C3%BDzkumn%C3%ADk%20pro%20zpracov%C3%A1n%C3%AD%20kvalitativn%C3%ADch%20dat)
 * **[HR koordinátor](https://cesko.digital/opportunities/recg2KQ9YeAq6sFrQ?utm_medium=newsletter)** pro projekt Česko.Digital, kontaktní osoba [Kateřina Kocianová](mailto:katerina@cesko.digital?subject=HR%20koordin%C3%A1tor)
 
+<br>
 
+**Všechny pozice najdete přehledně na [Portálu dobrovolníka](http://cesko.digital/portal-dobrovolnika)**:
 
 <br>
 
