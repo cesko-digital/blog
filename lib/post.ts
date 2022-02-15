@@ -35,24 +35,53 @@ export const withDefault = <T>(
 };
 
 /**
+ * Create date assuming a given time zone
+ *
+ * The returned date has no time zone information attached as usual,
+ * the time zone is just used to correctly initialize it.
+ */
+export function dateWithTimeZone(
+  tz: string,
+  year: number,
+  zeroBasedMonth: number,
+  day: number,
+  hour = 0,
+  minute = 0,
+  second = 0
+): Date {
+  const date = new Date(
+    Date.UTC(year, zeroBasedMonth, day, hour, minute, second)
+  );
+  const utcDate = new Date(date.toLocaleString("en-US", { timeZone: "UTC" }));
+  const tzDate = new Date(date.toLocaleString("en-US", { timeZone: tz }));
+  const offset = utcDate.getTime() - tzDate.getTime();
+  return new Date(date.getTime() + offset);
+}
+
+/**
  * Decode a date from the `YYYY-MM-DD-hh-mm` / `YYY-MM-DD` format used in posts
  *
- * This is dumb and will break because of implicit time zone differences.
- * It would be great to change the date format used in posts to something
- * standard instead.
- *
- * FIXME: This relies on implicit time zone and will report wrong times
- * unless the implicit time zone is CET.
+ * Since there is no time zone information in posts, we assume the time zone to
+ * be “Europe/Prague”. This is slightly hacky, could it break something when we
+ * move between standard and summer time?
  */
 export const decodePostDate = (value: Pojo) => {
+  const implicitTimeZone = "Europe/Prague";
   const str = string(value);
   const matches = str.split("-");
   if (matches.length == 5) {
     const [year, month, day, hour, minute] = matches.map((s) => parseInt(s));
-    return new Date(year, month - 1, day, hour, minute);
+    return dateWithTimeZone(
+      implicitTimeZone,
+      year,
+      month - 1,
+      day,
+      hour,
+      minute
+    );
   } else if (matches.length == 3) {
     const [year, month, day] = matches.map((s) => parseInt(s));
-    return new Date(year, month - 1, day);
+    return dateWithTimeZone(implicitTimeZone, year, month - 1, day);
   } else {
     throw `Failed to parse post date: ${str}.`;
   }
