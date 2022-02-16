@@ -108,7 +108,7 @@ Propásli jste naši online diskusi **Od neziskové myšlenky k úspěchu**? Mrk
 
 <center>
 
-[![Alt text](https://data.cesko.digital/newsletter/31/YT-od_myslenky_k_uspechu2.png)](https://youtu.be/rW3DEOB9-hU)
+<iframe width="500" height="280" src="https://www.youtube.com/embed/rW3DEOB9-hU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </center>
 
@@ -132,7 +132,7 @@ Připojte se k největší dobrovolnické civic-tech organizaci v Evropě a digi
 
 ### Dev
 
-* **[Tech lead](https://cesko.digital/opportunities/recjA3jYo1vObkZEF?utm_medium=newsletter)** pro projekt Volební kalkulačka 2022, kontaktní osoba [Martin Wenisch](mailto:martin.wenisch@cesko.digital?subject=Tech%20lead)
+* **[Tech Lead](https://cesko.digital/opportunities/recjA3jYo1vObkZEF?utm_medium=newsletter)** pro projekt Volební kalkulačka 2022, kontaktní osoba [Martin Wenisch](mailto:martin.wenisch@cesko.digital?subject=Tech%20lead)
 * **[Frontend Developer React pro Jehlomat](https://cesko.digital/opportunities/recv4L134viSo1N0b?utm_medium=newsletter)** pro projekt Jehlomat, kontaktní osoba [Lucia Poláková](mailto:loopolakova@gmail.com?subject=Frontend%20Developer%20React%20pro%20Jehlomat)
 
 ### Design
