@@ -5,7 +5,7 @@ author: hana.buresova
 tags:
   - newsletter
 cover: https://data.cesko.digital/newsletter/31/cover.png
-date: 2022-02-15-02-10
+date: 2022-02-16-12-04
 slug: cist-digital-31
 description: Ahoj Česko.Digital! 👋 Venku přituhuje, to ovšem neplatí o našich
   projektech! Těm se daří a úspěšně se posouvají kupředu. Máme 2 nové projekty v
