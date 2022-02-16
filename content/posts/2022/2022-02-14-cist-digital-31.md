@@ -26,7 +26,7 @@ Pro seniory, rodiče samoživitele a další lidi v nouzi není teplé a výživ
 
 **Jdeme to změnit.** Vařené jídlo se může dostat k těm, kteří ho skutečně potřebují. Proto testujeme různé scénáře převozů a snažíme se rozlousknout všechna hygienická nařízení a zákony. Chceme zjednodušit a jasně popsat, jak v Česku darovat hotové jídlo charitě. 
 
-V zahraničí už je to běžné a skvěle to funguje. A my nechceme být pozadu! Společně s Česko.Digital nyní v inkubátoru **pracujeme na technologickém řešení, které by usnadnilo komunikaci mezi charitami a jídelnami**. Jak charity, tak gastro provozy jsou totiž velmi vytíženy a jakékoliv zefektivnění práce je pro ně velká pomoc. Tak hurá do práce!
+V zahraničí už je to běžné a skvěle to funguje. A my nechceme být pozadu! Společně s Česko.Digital nyní v inkubátoru **pracujeme na technologickém řešení, které by usnadnilo komunikaci mezi charitami a jídelnami**. Jak charity, tak gastro provozy jsou totiž velmi vytíženy a jakékoliv zefektivnění práce je pro ně velká pomoc. Tak hurá do práce, přidejte se k nám v kanálu [\#inkubace-darovani_hotovych_pokrmu](https://cesko-digital.slack.com/archives/C02U3RZLT5J)!
 
 <center>
 
