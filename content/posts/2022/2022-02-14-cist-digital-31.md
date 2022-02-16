@@ -58,7 +58,7 @@ Právě probíhá měření naší komunitní spokojenosti! ❤️
 
 **Budeme rádi, když nám věnujete pár minut a dáte nám svou zpětnou vazbu.** 🌱 Sdílet můžete zcela anonymně, ale napíšete-li nám do dotazníku své jméno, můžeme vaše připomínky probrat společně. Buďte upřímní, prosím. Je to ten nejlepší způsob, jak nám pomoci prostředí v Česko.Digital neustále vylepšovat. 🤝 
 
-**Dotazník najdete [tady](https://airtable.com/shrvEAGlYWulURPSY)**, pro vaše odpovědi bude otevřený do 20. 2. 2022.
+**Dotazník najdete [tady](https://airtable.com/shrvEAGlYWulURPSY)**, pro vaše odpovědi bude otevřený do úterý 22. 2. 2022.
 
 Chcete se podílet na vyhodnocení spokojenosti naší komunity? **Hledáme výzkumníky, kteří mají zkušenosti s kvalitativním výzkumem a pomohou nám ze získaných dat vypracovat report.** Ozvěte se na Slacku v kanálu [\#ceskodigital-care](https://cesko-digital.slack.com/archives/C0198U4M0HY) nebo na e-mail <a href="mailto:katerina@cesko.digital">katerina@cesko.digital</a>.
 
