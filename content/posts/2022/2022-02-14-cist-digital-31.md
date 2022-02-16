@@ -104,7 +104,7 @@ Ve středu 2. 2. jsme poprvé vyzkoušeli nový formát **hromadného mentoringu
 
 ### Jaký je příběh aplikace od Loono?
 
-Propásli jste naši online diskusi **Od neziskové myšlenky k úspěchu**? Mrkněte na [záznam](https://www.youtube.com/watch?v=rW3DEOB9-hU). S týmem **Loono** jsme sdíleli, co se nám podařilo, co jsme se naučili i s čím jsme bojovali. Bylo to chvílemi velmi dojemné. 😢 Ještě jednou velké díky báječnému týmu Loono a Česko.Digital, **Katce Vackové** a také **Janě Tomas Sedláčkové** z Nadace PPF, hlavního partnera projektu. Mezi námi, spuštění aplikace na jaře 2022 bude velká událost a počin, který jistě změní naše životy k lepšímu!
+Propásli jste naši online diskusi **Od neziskové myšlenky k úspěchu**? Mrkněte na [záznam](https://www.youtube.com/watch?v=rW3DEOB9-hU). S týmem **Loono** jsme sdíleli, co se nám podařilo, co jsme se naučili i s čím jsme bojovali. Bylo to chvílemi velmi dojemné. 😢 Ještě jednou velké díky báječnému týmu Loono a Česko.Digital, **Katce Vackové** a také **Janě Tomas Sedláčkové** z Nadace PPF, hlavního partnera projektu. Mezi námi, spuštění aplikace Preventivka na jaře 2022 bude velká událost a počin, který jistě změní naše životy k lepšímu!
 
 <center>
 
