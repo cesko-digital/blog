@@ -36,11 +36,11 @@ V zahraničí už je to běžné a skvěle to funguje. A my nechceme být pozadu
 
 ### Volební kalkulačka 2022
 
-S organizací [KohoVolit.eu](http://kohovolit.eu/) a pod taktovkou Michala Škopa **spouštíme inkubační přípravnou fázi pro akceleraci nové, vylepšené verze [volební kalkulačky](http://www.volebnikalkulacka.cz/)**. Ta má již nyní podstatný podíl na tom, že si voliči mohou informovaně zvolit tu stranu či kandidáta, která/ý co nejlépe reprezentuje jejich zájmy. Jednoduchá aplikace umožní před volbami v 10 minutách načerpat důvěryhodné informace a podklady pro vaše volební rozhodnutí.  
+S organizací [KohoVolit.eu](http://kohovolit.eu/) a pod taktovkou Michala Škopa **spouštíme inkubační přípravnou fázi pro akceleraci nové, vylepšené verze volební kalkulačky**. Ta má již nyní podstatný podíl na tom, že si voliči mohou informovaně zvolit tu stranu či kandidáta, která/ý co nejlépe reprezentuje jejich zájmy. Jednoduchá aplikace umožní před volbami v 10 minutách načerpat důvěryhodné informace a podklady pro vaše volební rozhodnutí.  
 
 V rámci projektu bude **potřeba posunout aplikaci jak technologicky, tak i funkčně**, aby byla připravená na podzimní volby v ČR a na Slovensku.
 
-Inkubační fází provede tento projekt Martin Wenisch a budou potřeba i další odborníci od nápadů přes **design/UX, tech leads** až po **pomoc s koordinací projektu a marketingové mágy**. Zatím pilně pracujeme na vypsání rolí na Portál dobrovolníka, ale pokud již teď máte čas a chuť pomoci, přidejte se do č.d Slack kanálu [\#inkubace-volebni_kalkulacka2022](https://cesko-digital.slack.com/archives/C02U3RZLT5J).
+Inkubační fází provede tento projekt Martin Wenisch a budou potřeba i další odborníci od nápadů přes **design/UX, tech leads** až po **pomoc s koordinací projektu a marketingové mágy**. Zatím pilně pracujeme na vypsání rolí na Portál dobrovolníka, ale pokud již teď máte čas a chuť pomoci, přidejte se do č.d Slack kanálu [\#inkubace-volebni_kalkulacka2022](https://cesko-digital.slack.com/archives/C0311K8LHFX).
 
 <br>
 
