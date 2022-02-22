@@ -13,16 +13,4 @@ module.exports = {
       },
     ];
   },
-  async rewrites() {
-    return [
-      {
-        source: "/:path(.*.mjml)",
-        destination: "/api/mjml?path=:path",
-      },
-      {
-        source: "/:path(.*.newsletter)",
-        destination: "/api/mjml?path=:path&html=y",
-      },
-    ];
-  },
 };
