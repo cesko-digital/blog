@@ -30,12 +30,6 @@ const Footer: React.FC = () => {
             </div>
           ))}
         </div>
-        <div className="footer-row">
-          <div className="cookie-note">
-            Tento web používá k poskytování služeb a analýze návštěvnosti
-            soubory cookie. Používáním tohoto webu s tím souhlasíte.
-          </div>
-        </div>
       </div>
     </div>
   );

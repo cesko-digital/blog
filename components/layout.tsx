@@ -20,7 +20,7 @@ const Layout: React.FC<PageProps> = (props) => {
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
-          gtag('config', 'UA-140227366-2');
+          gtag('config', 'UA-140227366-2', { client_storage: 'none', anonymize_ip: true });
         `}
       </Script>
       <Script
