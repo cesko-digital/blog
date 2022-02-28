@@ -1,7 +1,7 @@
 ---
 title: Spolu a přehledně. Lidé z platformy Stojíme za Ukrajinou se spojili s
   Česko.Digital a za víkend vytvořili rozcestník pro pomoc Ukrajině.
-author: martina
+author: jindrich.oukropec
 cover: http://data.cesko.digital/img/stojime-za-ukrajinou-TZ.jpg
 date: 2022-02-28-09-14
 slug: spolu-a-prehledne-rozcestnik-stojime-za-ukrajinou
