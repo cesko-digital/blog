@@ -99,6 +99,7 @@ collections:
             "newsletter",
             "partners",
             "movapp",
+            "stojime-za-ukrajinou",
           ]
       - label: "Cover"
         name: "cover"
