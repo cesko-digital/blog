@@ -13,6 +13,7 @@ description: Mottem komunity je měnit Česko k lepšímu. Tentokrát ale o Čes
   největších projektů.
 tags:
   - movapp
+  - stojime-za-ukrajinou
 lang: cs
 ---
 Nápadů bylo opravdu hodně. Vzdělávání dětí, dodání materiální pomoci, obrana proti dezinformacím... Kdokoliv z expertních dobrovolníků mohl přijít s něčím vlastním.  Na komunikační platformě č.d pak bylo na ostatních členech, aby nápad rozvinuli nebo naopak propojili s těmi, kteří na něčem podobném už pracují. A to klidně i mimo organizaci Česko.Digital. **Při spolupráci na projektech se často sbíral feedback od velkých i malých neziskových organizací, protože cílem není prosadit vlastní nápad, ale vytvořit efektivní pomoc.** 
