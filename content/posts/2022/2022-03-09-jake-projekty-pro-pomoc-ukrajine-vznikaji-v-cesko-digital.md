@@ -54,7 +54,7 @@ Návrh aplikace byl prokonzultován s mnoha experty a velkými neziskovými orga
 
 ## Movapp
 
-Ti, kteří jsou nuceni opustit své domovy, musí v nové zemi překonávat řadu bariér. **Webová aplikace si klade za cíl překonat tu jazykovou.** V první fázi nabízí přehled těch nejčastějších česko-ukrajinských frází, do budoucna ale počítá i s možností si jednotlivé fráze interaktivně procvičovat. Zároveň se chce stát přehledným rozcestníkem, který poskytne odkazy na další materiály a nástroje k učení českého a ukrajinského jazyka.
+Ti, kteří jsou nuceni opustit své domovy, musí v nové zemi překonávat řadu bariér. **Webová aplikace [www.movapp.cz](https://www.movapp.cz/) si klade za cíl překonat tu jazykovou.** V první fázi nabízí přehled těch nejčastějších česko-ukrajinských frází, do budoucna ale počítá i s možností si jednotlivé fráze interaktivně procvičovat. Zároveň se chce stát přehledným rozcestníkem, který poskytne odkazy na další materiály a nástroje k učení českého a ukrajinského jazyka.
 
 Aplikace je koncipována jako open source, takže pokud umíte programovat, nic vám nebrání si ji pro vlastní potřeby dále upravit. Sada frází je pod Creative Commons licencí vhodnou pro další šíření. A proč zrovna movapp? Mova v ukrajinštině znamená ukrajinský jazyk. Jednoduché, že?
 
