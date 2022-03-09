@@ -98,6 +98,7 @@ collections:
             "hotova-jidla-pomahaji",
             "newsletter",
             "partners",
+            "movapp",
           ]
       - label: "Cover"
         name: "cover"
