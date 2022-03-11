@@ -34,7 +34,7 @@ Nápadů bylo opravdu hodně. Vzdělávání dětí, dodání materiální pomoc
 
 ## Pomáhej Ukrajině
 
-**Tržiště pomoci [www.pomahej](http://www.pomahejukrajine.cz/)\*\***[ukrajine.cz](http://www.pomahejukrajine.cz/), na které přímo odkazuje web Stojíme za Ukrajinou.\*\* Propojuje uprchlíky, kteří hledají v Česku pomoc, s těmi, co by ji rádi poskytli.\*\* Pomoc může nabídnout kdokoliv, stačí vyplnit jednoduchý formulář. Ti, co pomoc poptávají, si nabídku sami najdou. Veškeré inzeráty jsou přehledně roztříděny do několika kategorií, protože vlna solidarity je obrovská a pokrývá celou řadu oblastí. Vznik webu iniciovali a koordinovali Daniel Kolský, Honza Böhm a Honza Sládek z [Contember](https://www.contember.com/) a je tvořen ve spolupráci s [Konsorciem nevládních organizací pracujících s migranty v ČR](https://migracnikonsorcium.cz/cs/).
+**Tržiště pomoci [www.pomahejukrajine.cz](www.pomahejukrajine.cz)**, na které přímo odkazuje web Stojíme za Ukrajinou.\*\* Propojuje uprchlíky, kteří hledají v Česku pomoc, s těmi, co by ji rádi poskytli.\*\* Pomoc může nabídnout kdokoliv, stačí vyplnit jednoduchý formulář. Ti, co pomoc poptávají, si nabídku sami najdou. Veškeré inzeráty jsou přehledně roztříděny do několika kategorií, protože vlna solidarity je obrovská a pokrývá celou řadu oblastí. Vznik webu iniciovali a koordinovali Daniel Kolský, Honza Böhm a Honza Sládek z [Contember](https://www.contember.com/) a je tvořen ve spolupráci s [Konsorciem nevládních organizací pracujících s migranty v ČR](https://migracnikonsorcium.cz/cs/).
 
 > ### *Pomoc zde už nabízí kolem 29 tisíc lidí!*
 
