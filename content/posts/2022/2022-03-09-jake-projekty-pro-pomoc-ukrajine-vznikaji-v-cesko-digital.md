@@ -36,7 +36,7 @@ Nápadů bylo opravdu hodně. Vzdělávání dětí, dodání materiální pomoc
 
 **Tržiště pomoci [www.pomahej](http://www.pomahejukrajine.cz/)\*\***[ukrajine.cz](http://www.pomahejukrajine.cz/), na které přímo odkazuje web Stojíme za Ukrajinou.\*\* Propojuje uprchlíky, kteří hledají v Česku pomoc, s těmi, co by ji rádi poskytli.\*\* Pomoc může nabídnout kdokoliv, stačí vyplnit jednoduchý formulář. Ti, co pomoc poptávají, si nabídku sami najdou. Veškeré inzeráty jsou přehledně roztříděny do několika kategorií, protože vlna solidarity je obrovská a pokrývá celou řadu oblastí. Vznik webu iniciovali a koordinovali Daniel Kolský, Honza Böhm a Honza Sládek z [Contember](https://www.contember.com/) a je tvořen ve spolupráci s [Konsorciem nevládních organizací pracujících s migranty v ČR](https://migracnikonsorcium.cz/cs/).
 
-> ### *Pomoc zde už nabízí více než 29 tisíc lidí!*
+> ### *Pomoc zde už nabízí kolem 29 tisíc lidí!*
 
 ![](https://data.cesko.digital/img/clanek-projekty-pro-ukrajinu/clanek-UA3.png)
 
@@ -66,7 +66,7 @@ Ti, kteří jsou nuceni opustit své domovy, musí v nové zemi překonávat řa
 
 Aplikace je koncipována jako open source, takže pokud umíte programovat, nic vám nebrání si ji pro vlastní potřeby dále upravit. Sada frází je pod Creative Commons licencí vhodnou pro další šíření. A proč zrovna movapp? Mova v ukrajinštině znamená ukrajinský jazyk. Jednoduché, že?
 
-> ### *Za jeden den a bez PR stránku navštívilo už více než 1000 unikátních uživatelů!*
+> ### *Za jeden den a bez PR stránku navštívilo už 1000 unikátních uživatelů!*
 
 ## Vzdělávání ukrajinských dětí
 
