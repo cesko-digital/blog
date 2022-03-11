@@ -34,15 +34,15 @@ Nápadů bylo opravdu hodně. Vzdělávání dětí, dodání materiální pomoc
 
 ## Pomáhej Ukrajině
 
-**Tržiště pomoci [www.pomahej](http://www.pomahejukrajine.cz/)****[ukrajine.cz](http://www.pomahejukrajine.cz/), na které přímo odkazuje web Stojíme za Ukrajinou.** Propojuje uprchlíky, kteří hledají v Česku pomoc, s těmi, co by ji rádi poskytli.\*\* Pomoc může nabídnout kdokoliv, stačí vyplnit jednoduchý formulář. Ti, co pomoc poptávají, si nabídku sami najdou. Veškeré inzeráty jsou přehledně roztříděny do několika kategorií, protože vlna solidarity je obrovská a pokrývá celou řadu oblastí. Vznik webu iniciovali a koordinovali Daniel Kolský, Honza Böhm a Honza Sládek z [Contember](https://www.contember.com/) a je tvořen ve spolupráci s [Konsorciem nevládních organizací pracujících s migranty v ČR](https://migracnikonsorcium.cz/cs/).
+**Tržiště pomoci [www.pomahej](http://www.pomahejukrajine.cz/)\*\***[ukrajine.cz](http://www.pomahejukrajine.cz/), na které přímo odkazuje web Stojíme za Ukrajinou.\*\* Propojuje uprchlíky, kteří hledají v Česku pomoc, s těmi, co by ji rádi poskytli.\*\* Pomoc může nabídnout kdokoliv, stačí vyplnit jednoduchý formulář. Ti, co pomoc poptávají, si nabídku sami najdou. Veškeré inzeráty jsou přehledně roztříděny do několika kategorií, protože vlna solidarity je obrovská a pokrývá celou řadu oblastí. Vznik webu iniciovali a koordinovali Daniel Kolský, Honza Böhm a Honza Sládek z [Contember](https://www.contember.com/) a je tvořen ve spolupráci s [Konsorciem nevládních organizací pracujících s migranty v ČR](https://migracnikonsorcium.cz/cs/).
 
-> ### *Pomoc zde už nabízí více než 29 tisíc lidí!*
+> ### *Pomoc zde už nabízí kolem 29 tisíc lidí!*
 
 ![](https://data.cesko.digital/img/clanek-projekty-pro-ukrajinu/clanek-UA3.png)
 
 ## Mapa pro ukrajinskou komunitu v ČR
 
-**Ukrajinská komunitní mapa zobrazuje všechny důležité lokace, které uprchlíci mohou hledat.** Školky a školy přijímající ukrajinské děti, centra poradenství a psychologické pomoci, ukrajinsky mluvící lékaři a místa pro setkávání uprchlíků v regionech, to je jen úzký výběr z mnoha služeb, které se na připravované mapě objeví.
+**Ukrajinská komunitní mapa, kterou brzy spustíme, zobrazuje všechny důležité lokace, které uprchlíci mohou hledat.** Školky a školy přijímající ukrajinské děti, centra poradenství a psychologické pomoci, ukrajinsky mluvící lékaři a místa pro setkávání uprchlíků v regionech, to je jen úzký výběr z mnoha služeb, které se na připravované mapě objeví.
 
 I když mapa pochází z dílny Česko.Digital a Mapotic, na jejíž platformě vznikla, spolutvůrcem mapy se může stát každý. Uživatelé sami navrhují další lokace, komentují jejich stav a přidávají popisky. Chceme, aby z mapy vznikl dlouhodobý projekt na pomoc uprchlíkům a jejich začleňování do české společnosti.
 
@@ -66,7 +66,7 @@ Ti, kteří jsou nuceni opustit své domovy, musí v nové zemi překonávat řa
 
 Aplikace je koncipována jako open source, takže pokud umíte programovat, nic vám nebrání si ji pro vlastní potřeby dále upravit. Sada frází je pod Creative Commons licencí vhodnou pro další šíření. A proč zrovna movapp? Mova v ukrajinštině znamená ukrajinský jazyk. Jednoduché, že?
 
-> ### *Za jeden den a bez PR stránku navštívilo už více než 1000 unikátních uživatelů!*
+> ### *Za jeden den a bez PR stránku navštívilo už 1000 unikátních uživatelů!*
 
 ## Vzdělávání ukrajinských dětí
 
