@@ -7,6 +7,7 @@ tags:
   - stojime-za-ukrajinou
   - mapa-ukrajinskych-hranicnich-prechodu
   - mapa-podpory-ua-komunity-v-cr
+  - pomahej-ukrajine
 cover: "http://data.cesko.digital/img/clanek-projekty-pro-ukrajinu/UA-clanek-co\
   ver.png "
 date: 2022-03-09-01-54
