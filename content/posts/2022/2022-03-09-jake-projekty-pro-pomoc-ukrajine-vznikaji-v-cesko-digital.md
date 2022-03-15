@@ -45,7 +45,7 @@ Nápadů bylo opravdu hodně. Vzdělávání dětí, dodání materiální pomoc
 
 ## Mapa pro ukrajinskou komunitu v ČR
 
-**Ukrajinská komunitní mapa, kterou brzy spustíme, zobrazuje všechny důležité lokace, které uprchlíci mohou hledat.** Školky a školy přijímající ukrajinské děti, centra poradenství a psychologické pomoci, ukrajinsky mluvící lékaři a místa pro setkávání uprchlíků v regionech, to je jen úzký výběr z mnoha služeb, které se na připravované mapě objeví.
+**[Ukrajinská komunitní mapa](https://www.umapa.eu) zobrazuje všechny důležité lokace, které uprchlíci mohou hledat.** Školky a školy přijímající ukrajinské děti, centra poradenství a psychologické pomoci, ukrajinsky mluvící lékaři a místa pro setkávání uprchlíků v regionech, to je jen úzký výběr z mnoha služeb, které se na připravované mapě objeví.
 
 I když mapa pochází z dílny Česko.Digital a Mapotic, na jejíž platformě vznikla, spolutvůrcem mapy se může stát každý. Uživatelé sami navrhují další lokace, komentují jejich stav a přidávají popisky. Chceme, aby z mapy vznikl dlouhodobý projekt na pomoc uprchlíkům a jejich začleňování do české společnosti.
 
