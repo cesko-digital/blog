@@ -6,7 +6,7 @@ tags:
   - movapp
   - stojime-za-ukrajinou
   - mapa-ukrajinskych-hranicnich-prechodu
-  - mapa-podpory-ua-komunity-v-cr
+  - umapa
   - pomahej-ukrajine
 cover: "http://data.cesko.digital/img/clanek-projekty-pro-ukrajinu/UA-clanek-co\
   ver.png "
