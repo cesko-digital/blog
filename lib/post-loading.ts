@@ -1,6 +1,7 @@
 import fs from "fs";
 import { resolve } from "path";
 import { BlogPost, decodeBlogPost } from "./post";
+import { convertThrowsToNulls, notEmpty } from "./utils";
 
 /** Return a flat array of all files under given directory */
 export function getFilesRecursively(dir: string): string[] {
@@ -31,9 +32,12 @@ export function readBlogPost(path: string): BlogPost {
 
 /** Read all blog posts under a given directory root */
 export function getAllPosts(root: string): BlogPost[] {
+  const warn = (path: string) =>
+    console.warn(`Failed to decode ${path}, skipping.`);
   return getFilesRecursively(root)
     .filter((path) => path.endsWith(".md"))
-    .map(readBlogPost);
+    .map(convertThrowsToNulls(readBlogPost, warn))
+    .filter(notEmpty);
 }
 
 /**

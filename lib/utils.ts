@@ -22,3 +22,29 @@ export function markdownToHTML(source: string): string {
     smartypants: false,
   });
 }
+
+/**
+ * Convert a throwing function to return `null` instead of throwing
+ *
+ * The optional `warn` callback is called for inputs that throw, so
+ * you can log them or something.
+ */
+export function convertThrowsToNulls<T, U>(
+  f: (_: T) => U,
+  warn: (item: T, error: any) => void = () => {}
+): (_: T) => U | null {
+  return (args: T) => {
+    try {
+      return f(args);
+    } catch (e) {
+      warn(args, e);
+      return null;
+    }
+  };
+}
+
+export function notEmpty<T>(value: T | null | undefined): value is T {
+  if (value === null || value === undefined) return false;
+  const testDummy: T = value;
+  return true;
+}
