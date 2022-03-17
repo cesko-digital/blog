@@ -11,9 +11,9 @@ description: Ahoj Česko.Digital!👋 Svět je vzhůru nohama. Všichni bedlivě
   sledujeme situaci na Ukrajině a přejeme si, aby už nedocházelo ke ztrátám na
   životech. Dobrovolníci z č.d přitom pomáhají, jak nejlépe umí. Ve spolupráci s
   iniciativou Stojíme za Ukrajinou dobrovolníci za pouhé tři dny vytvořili
-  nezávislý informační web pro ukrajinské válečné uprchlíky i české občany,
-  kteří nabízí pomoc. Od jeho spuštění v neděli 27. února web navštívilo více
-  než 260 tisíc uživatelů! A co máme v komunitě ještě nového?
+  nezávislý informační web pro přichozí z válkou zasažené Ukrajiny i české
+  občany, kteří nabízí pomoc. Od jeho spuštění v neděli 27. února web navštívilo
+  více než 260 tisíc uživatelů! A co máme v komunitě ještě nového?
 lang: cs
 ---
 ## Síla solidarity se prohnala i naší komunitou
