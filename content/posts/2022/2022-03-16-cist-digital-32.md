@@ -128,7 +128,54 @@ Rádi bychom tě také pozvali na **[DrupaCon Prague 2022](https://events.drupal
 
 Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digitalizuj s námi Česko. 
 
-KOMPONENTA
+## Dev
+
+* **[TypeScript Developer](https://cesko.digital/opportunities/recICYUpHO6TrI6tz?utm_medium=newsletter)** pro projekt Pomáhej Ukrajině, kontaktní osoba [Anežka Müller](mailto:anezka@cesko.digital?subject=TypeScript%20Developer)
+* **[Backend engineer](https://cesko.digital/opportunities/recCTeYbYmMMXUOdH?utm_medium=newsletter)** pro projekt Vzdělávání ukrajinských dětí, kontaktní osoba [Romana Pokorná](mailto:romana@cesko.digital?subject=Backend%20engineer)
+* **[Frontend engineer](https://cesko.digital/opportunities/rectpkvqnNONnjC2K?utm_medium=newsletter)** pro projekt Vzdělávání ukrajinských dětí, kontaktní osoba [Romana Pokorná](mailto:romana@cesko.digital?subject=Frontend%20engineer)
+* **[Tech Lead ](https://cesko.digital/opportunities/recduveNFHS3xACAZ?utm_medium=newsletter)** pro projekt Pomáhej Ukrajině, kontaktní osoba [Anežka Müller](mailto:anezka@cesko.digital?subject=Tech%20Lead%20)
+* **[Backend engineer](https://cesko.digital/opportunities/rec0RvwceZM5Zq4Yi?utm_medium=newsletter)** pro projekt Umapa, kontaktní osoba [Terézia Palaščáková](mailto:terezia@cesko.digital?subject=Backend%20engineer)
+* **[Frontend engineer](https://cesko.digital/opportunities/recjKYZPnjuYeNl6c?utm_medium=newsletter)** pro projekt Umapa, kontaktní osoba [Terézia Palaščáková](mailto:terezia@cesko.digital?subject=Frontend%20engineer)
+* **[Vývojář/ka pro mobilní aplikaci](https://cesko.digital/opportunities/recMy8e0Ly7X2xlQ7?utm_medium=newsletter)** pro projekt Umapa, kontaktní osoba [Terézia Palaščáková](mailto:terezia@cesko.digital?subject=V%C3%BDvoj%C3%A1%C5%99%2Fka%20pro%20mobiln%C3%AD%20aplikaci)
+
+## Design
+
+* **[Product Designer*ka](https://cesko.digital/opportunities/rec7miVCTj7caaOWg?utm_medium=newsletter)** pro projekt Pomáhej Ukrajině, kontaktní osoba [Anežka Müller](mailto:anezka@cesko.digital?subject=Product%20Designer*ka)
+* **[Senior Product/UX Designer ](https://cesko.digital/opportunities/recMsmTHVYgs9tOfp?utm_medium=newsletter)** pro projekt Stojíme za Ukrajinou, kontaktní osoba [Romana Pokorná](mailto:romana@cesko.digital?subject=Senior%20Product%2FUX%20Designer%20)
+
+## Scrum Master
+
+* **[Scrum Master / Koordinátor/ka](https://cesko.digital/opportunities/recq2aSkn7e3g3H0v?utm_medium=newsletter)** pro projekt Vzdělávání ukrajinských dětí, kontaktní osoba [Romana Pokorná](mailto:romana@cesko.digital?subject=Scrum%20Master%20%2F%20Koordin%C3%A1tor%2Fka)
+* **[Scrum Master](https://cesko.digital/opportunities/rectIzuEA77FeinsU?utm_medium=newsletter)** pro projekt Pomáhej Ukrajině, kontaktní osoba [Anežka Müller](mailto:anezka@cesko.digital?subject=Scrum%20Master)
+* **[Koordinátor/ka plnění a aktualizace dat](https://cesko.digital/opportunities/recS6VDZLzBixrLHn?utm_medium=newsletter)** pro projekt Umapa, kontaktní osoba [Terézia Palaščáková](mailto:terezia@cesko.digital?subject=Koordin%C3%A1tor%2Fka%20pln%C4%9Bn%C3%AD%20a%20aktualizace%20dat)
+
+## Marketing
+
+* **[Marketing Lead](https://cesko.digital/opportunities/rec4iiMFFN5TDWaSU?utm_medium=newsletter)** pro projekt Nepanikař, kontaktní osoba [Romana Pokorná](mailto:romana@cesko.digital?subject=Marketing%20Lead)
+* **[Marketing Lead](https://cesko.digital/opportunities/recDrdV4pQ13cIQDA?utm_medium=newsletter)** pro projekt Stojíme za Ukrajinou, kontaktní osoba [Romana Pokorná](mailto:romana@cesko.digital?subject=Marketing%20Lead)
+* **[Editor obsahu (web)](https://cesko.digital/opportunities/rechkLt3PVBuTv44Y?utm_medium=newsletter)** pro projekt Stojíme za Ukrajinou, kontaktní osoba [Romana Pokorná](mailto:romana@cesko.digital?subject=Editor%20obsahu%20(web))
+* **[Copywriter/ka](https://cesko.digital/opportunities/recMQrBH8aB61MvVv?utm_medium=newsletter)** pro projekt Umapa, kontaktní osoba [Terézia Palaščáková](mailto:terezia@cesko.digital?subject=Copywriter%2Fka)
+* **[Překladatel/ka do ukrajinštiny](https://cesko.digital/opportunities/recfUKjV33Z1ObGQn?utm_medium=newsletter)** pro projekt Umapa, kontaktní osoba [Terézia Palaščáková](mailto:terezia@cesko.digital?subject=P%C5%99ekladatel%2Fka%20do%20ukrajin%C5%A1tiny)
+* **[Zajištění mezinárodního dosahu](https://cesko.digital/opportunities/recvEa7aKwwhl2GSr?utm_medium=newsletter)** pro projekt Umapa, kontaktní osoba [Terézia Palaščáková](mailto:terezia@cesko.digital?subject=Zaji%C5%A1t%C4%9Bn%C3%AD%20mezin%C3%A1rodn%C3%ADho%20dosahu)
+* **[Zabezpečení udržitelnosti projektu](https://cesko.digital/opportunities/recyMYxMPw8BPDXAQ?utm_medium=newsletter)** pro projekt Umapa, kontaktní osoba [Terézia Palaščáková](mailto:terezia@cesko.digital?subject=Zabezpe%C4%8Den%C3%AD%20udr%C5%BEitelnosti%20projektu)
+* **[Komunikační podpora](https://cesko.digital/opportunities/rec7PwqtffU6BMCrT?utm_medium=newsletter)** pro projekt Umapa, kontaktní osoba [Terézia Palaščáková](mailto:terezia@cesko.digital?subject=Komunika%C4%8Dn%C3%AD%20podpora)
+* **[Kapitán překladů Stojíme Za Ukrajinou](https://cesko.digital/opportunities/recoElACWcomcVOEi?utm_medium=newsletter)** pro projekt Stojíme za Ukrajinou, kontaktní osoba [Jindřich Oukropec](mailto:jindrich@cesko.digital?subject=Kapit%C3%A1n%20p%C5%99eklad%C5%AF%20Stoj%C3%ADme%20Za%20Ukrajinou)
+
+## Product Owner
+
+* **[Senior Product/UX Designer ](https://cesko.digital/opportunities/recMsmTHVYgs9tOfp?utm_medium=newsletter)** pro projekt Stojíme za Ukrajinou, kontaktní osoba [Romana Pokorná](mailto:romana@cesko.digital?subject=Senior%20Product%2FUX%20Designer%20)
+
+## Ostatní
+
+* **[Ви розмовляєте українською? Ukrajinsky mluvící pro jazykovou aplikaci](https://cesko.digital/opportunities/recIG2Hy7m4icV0O4?utm_medium=newsletter)** pro projekt Movapp, kontaktní osoba [Tatiana Chytilová](mailto:tatiana.chytilova@cesko.digital?subject=%D0%92%D0%B8%20%D1%80%D0%BE%D0%B7%D0%BC%D0%BE%D0%B2%D0%BB%D1%8F%D1%94%D1%82%D0%B5%20%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D1%8E%3F%20Ukrajinsky%20mluv%C3%ADc%C3%AD%20pro%20jazykovou%20aplikaci)
+* **[Zadavatel/ka dat z terénu](https://cesko.digital/opportunities/recHaPjclolooFlKF?utm_medium=newsletter)** pro projekt Mapa ukrajinských hraničních přechodů, kontaktní osoba [Terézia Palaščáková](mailto:terezia@cesko.digital?subject=Zadavatel%2Fka%20dat%20z%20ter%C3%A9nu)
+* **[Překladatel/ka do ukrajinštiny](https://cesko.digital/opportunities/recfUKjV33Z1ObGQn?utm_medium=newsletter)** pro projekt Umapa, kontaktní osoba [Terézia Palaščáková](mailto:terezia@cesko.digital?subject=P%C5%99ekladatel%2Fka%20do%20ukrajin%C5%A1tiny)
+* **[Zajištění mezinárodního dosahu](https://cesko.digital/opportunities/recvEa7aKwwhl2GSr?utm_medium=newsletter)** pro projekt Umapa, kontaktní osoba [Terézia Palaščáková](mailto:terezia@cesko.digital?subject=Zaji%C5%A1t%C4%9Bn%C3%AD%20mezin%C3%A1rodn%C3%ADho%20dosahu)
+* **[Zabezpečení udržitelnosti projektu](https://cesko.digital/opportunities/recyMYxMPw8BPDXAQ?utm_medium=newsletter)** pro projekt Umapa, kontaktní osoba [Terézia Palaščáková](mailto:terezia@cesko.digital?subject=Zabezpe%C4%8Den%C3%AD%20udr%C5%BEitelnosti%20projektu)
+* **[Komunikační podpora](https://cesko.digital/opportunities/rec7PwqtffU6BMCrT?utm_medium=newsletter)** pro projekt Umapa, kontaktní osoba [Terézia Palaščáková](mailto:terezia@cesko.digital?subject=Komunika%C4%8Dn%C3%AD%20podpora)
+* **[Datový analytik](https://cesko.digital/opportunities/recNV76puMw89dNjt?utm_medium=newsletter)** pro projekt Umapa, kontaktní osoba [Terézia Palaščáková](mailto:terezia@cesko.digital?subject=Datov%C3%BD%20analytik)
+* **[Koordinátor/ka plnění a aktualizace dat](https://cesko.digital/opportunities/recS6VDZLzBixrLHn?utm_medium=newsletter)** pro projekt Umapa, kontaktní osoba [Terézia Palaščáková](mailto:terezia@cesko.digital?subject=Koordin%C3%A1tor%2Fka%20pln%C4%9Bn%C3%AD%20a%20aktualizace%20dat)
+
 
 Všechny pozice najdeš přehledně na [Portálu dobrovolníka](http://cesko.digital/portal-dobrovolnika).
 
