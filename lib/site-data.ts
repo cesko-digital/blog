@@ -17,6 +17,9 @@ function loadSiteData(): SiteData {
   const posts = getAllPosts(join(content, "posts")).sort(byDate);
   const pressReleases = getAllPosts(join(content, "press")).sort(byDate);
   const authors = getAllAuthors(join(content, "authors.yaml"));
+  console.log(
+    `Loaded ${posts.length} posts, ${pressReleases.length} press releases, ${authors.length} authors.`
+  );
   return filterUndefines({
     posts,
     pressReleases,
