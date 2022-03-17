@@ -62,7 +62,7 @@ Dále zmiňuje, že i když jsou techničtí pracovníci potřeba, nestojí to j
 
 Jak se k digitalizaci staví vláda, proč podle evropských měřítek zaostáváme a ještě několik dalších doporučení se dočteš [na našem blogu](https://blog.cesko.digital/2022/02/eva-pavlikova-otazky-vaclava-moravce-ct).
 
-![]()
+![](https://data.cesko.digital/img/dad68fa0.png)
 
 ## To nejlepší z našich projektů
 
@@ -78,7 +78,7 @@ Stále také hledáme partnerskou organizaci, která by Safezónu převzala a d�
 
 **Na čem pracujeme v dalších projektech a co se nám v nich za poslední měsíc povedlo? To se dozvíte na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).**
 
-![]()
+![](https://data.cesko.digital/img/dad68fa0.png)
 
 ## Co se klube v našem inkubátoru
 
@@ -121,6 +121,8 @@ V č.edu jsme v únoru uspořádali jeden webinář, jehož tématem bylo už t�
 Rádi bychom tě také pozvali na **[DrupaCon Prague 2022](https://events.drupal.org/prague2022)**, který se bude konat 20 –⁠ 23. září 2022 v O2 Universum. Chceš se aktivně zapojit? Stačí přihlásit svůj abstrakt a budeš tak mít možnost být součástí programu.
 
 ![](https://data.cesko.digital/newsletter/32/drupalCon-Banner.jpg)
+
+![](https://data.cesko.digital/img/dad68fa0.png)
 
 ## Koho aktuálně hledáme do projektů pomáhajících Ukrajině?
 
