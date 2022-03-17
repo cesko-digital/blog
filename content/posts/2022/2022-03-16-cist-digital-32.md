@@ -151,7 +151,6 @@ Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digita
 
 ## Marketing
 
-* **[Marketing Lead](https://cesko.digital/opportunities/rec4iiMFFN5TDWaSU?utm_medium=newsletter)** pro projekt Nepanikař, kontaktní osoba [Romana Pokorná](mailto:romana@cesko.digital?subject=Marketing%20Lead)
 * **[Marketing Lead](https://cesko.digital/opportunities/recDrdV4pQ13cIQDA?utm_medium=newsletter)** pro projekt Stojíme za Ukrajinou, kontaktní osoba [Romana Pokorná](mailto:romana@cesko.digital?subject=Marketing%20Lead)
 * **[Editor obsahu (web)](https://cesko.digital/opportunities/rechkLt3PVBuTv44Y?utm_medium=newsletter)** pro projekt Stojíme za Ukrajinou, kontaktní osoba [Romana Pokorná](mailto:romana@cesko.digital?subject=Editor%20obsahu%20(web))
 * **[Copywriter/ka](https://cesko.digital/opportunities/recMQrBH8aB61MvVv?utm_medium=newsletter)** pro projekt Umapa, kontaktní osoba [Terézia Palaščáková](mailto:terezia@cesko.digital?subject=Copywriter%2Fka)
