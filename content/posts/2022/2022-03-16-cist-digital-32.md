@@ -62,7 +62,11 @@ Dále zmiňuje, že i když jsou techničtí pracovníci potřeba, nestojí to j
 
 Jak se k digitalizaci staví vláda, proč podle evropských měřítek zaostáváme a ještě několik dalších doporučení se dočteš [na našem blogu](https://blog.cesko.digital/2022/02/eva-pavlikova-otazky-vaclava-moravce-ct).
 
+<center>
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
 
 ## To nejlepší z našich projektů
 
@@ -74,11 +78,15 @@ Jak se k digitalizaci staví vláda, proč podle evropských měřítek zaostáv
 
 Aktuálně se Safezóna testuje s cílovou skupinou za přítomnosti psychologů. Cílem je zjistit, jak by obstála u dětí a co se dá zlepšit. Zůstaň se Safezónou neustále v obraze a připoj se k nám na Slack ([\#run-strecha_dusevniho_zdravi](http://mailtrack.cesko.digital/f/a/iIhJAgHx8qflE-rW5xHzkg~~/AAA-fAA~/RgRj72H9P0SdaHR0cHM6Ly9jZXNrby1kaWdpdGFsLnNsYWNrLmNvbS9hcmNoaXZlcy9DMDExNjhOOFhQMT91dG1fc291cmNlPWVjb21haWwmdXRtX2NhbXBhaWduPTIwMjFfMDJfMTZfbmV3c2xldHRlcl8wMjIwMjImdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT01MzQ3OSZlY21pZD0zOTQwMlcDc3BjQgpiBU7dDGKD7pt-UhV2b3NhZG5pa292YUBnbWFpbC5jb21YBAAAaPI~))!
 
-Stále také hledáme partnerskou organizaci, která by Safezónu převzala a dále o ni pečovala. Možná takovou znáš. Pokud o nějaké víš, kontaktuj naši Product Ownerku Vlaďku na e-mail <vladimira.osadnikova@cesko.digital>.
+Stále také hledáme partnerskou organizaci, která by Safezónu převzala a dále o ni pečovala. Možná takovou znáš. Pokud o nějaké víš, kontaktuj naši Product Ownerku Vlaďku na e-mail [vladimira.osadnikova@cesko.digital](mailto:vladimira.osadnikova@cesko.digital).
 
 **Na čem pracujeme v dalších projektech a co se nám v nich za poslední měsíc povedlo? To se dozvíte na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).**
 
+<center>
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
 
 ## Co se klube v našem inkubátoru
 
@@ -120,9 +128,13 @@ V č.edu jsme v únoru uspořádali jeden webinář, jehož tématem bylo už t�
 
 Rádi bychom tě také pozvali na **[DrupaCon Prague 2022](https://events.drupal.org/prague2022)**, který se bude konat 20 –⁠ 23. září 2022 v O2 Universum. Chceš se aktivně zapojit? Stačí přihlásit svůj abstrakt a budeš tak mít možnost být součástí programu.
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/32/drupalCon-Banner.jpg)
 
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
 
 ## Koho aktuálně hledáme do projektů pomáhajících Ukrajině?
 
@@ -175,7 +187,6 @@ Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digita
 * **[Datový analytik](https://cesko.digital/opportunities/recNV76puMw89dNjt?utm_medium=newsletter)** pro projekt Umapa, kontaktní osoba [Terézia Palaščáková](mailto:terezia@cesko.digital?subject=Datov%C3%BD%20analytik)
 * **[Koordinátor/ka plnění a aktualizace dat](https://cesko.digital/opportunities/recS6VDZLzBixrLHn?utm_medium=newsletter)** pro projekt Umapa, kontaktní osoba [Terézia Palaščáková](mailto:terezia@cesko.digital?subject=Koordin%C3%A1tor%2Fka%20pln%C4%9Bn%C3%AD%20a%20aktualizace%20dat)
 
-
 Všechny pozice najdeš přehledně na [Portálu dobrovolníka](http://cesko.digital/portal-dobrovolnika).
 
 ### A co říkají dobrovolníci, kteří se do projektů už zapojili?
@@ -202,7 +213,7 @@ Všechny pozice najdeš přehledně na [Portálu dobrovolníka](http://cesko.dig
 
 ## Děkujeme, že jsi s námi!
 
-**Jak se ti líbí náš newsletter?** Budeme rádi, když nám [necháš zpětnou vazbu](https://airtable.com/shre7lawrjOxNtCpL), která nám ho pomůže vylepšit. A jestli se na tvorbě tohoto newsletteru chceš také podílet, ozvi se v kanálu [\#ceskodigital-obsah](https://cesko-digital.slack.com/archives/C01FQBDMDGQ) ve Slacku nebo napiš na <terezia@cesko.digital>. 🤗
+**Jak se ti líbí náš newsletter?** Budeme rádi, když nám [necháš zpětnou vazbu](https://airtable.com/shre7lawrjOxNtCpL), která nám ho pomůže vylepšit. A jestli se na tvorbě tohoto newsletteru chceš také podílet, ozvi se v kanálu [\#ceskodigital-obsah](https://cesko-digital.slack.com/archives/C01FQBDMDGQ) ve Slacku nebo napiš na [terezia@cesko.digital](mailto:terezia@cesko.digital). 🤗
 
 Digitálu zdar!
 
