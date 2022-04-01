@@ -51,7 +51,7 @@ I když mapa pochází z dílny Česko.Digital a Mapotic, na jejíž platformě 
 
 > ### *Ještě před spuštěním projektu doplnili naši dobrovolníci na mapu více než 1400 míst, které mohou Ukrajincům pomoci!*
 
-![Umapa](umapa_1_1200x630.jpg)
+![Umapa](https://data.cesko.digital/img/umapa-cover.png)
 
 ## Mapa ukrajinských hraničních přechodů
 
@@ -71,7 +71,7 @@ Aplikace je koncipována jako open source, takže pokud umíte programovat, nic 
 
 > ### *Za jeden den a bez PR stránku navštívilo už 1000 unikátních uživatelů!*
 
-![Movapp](movapp.png)
+![Movapp](https://data.cesko.digital/img/movapp-cover.png)
 
 ## Vzdělávání ukrajinských dětí
 
