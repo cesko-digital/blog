@@ -33,7 +33,7 @@ Nápadů bylo opravdu hodně. Vzdělávání dětí, dodání materiální pomoc
 
 > ### *Za 10 dní od spuštění rozcestník vidělo už více než 235 tisíc lidí!*
 
-![](https://data.cesko.digital/img/clanek-projekty-pro-ukrajinu/clanek-UA1.png)
+![Stojíme za Ukrajinou](https://data.cesko.digital/img/clanek-projekty-pro-ukrajinu/clanek-UA1.png)
 
 ## Pomáhej Ukrajině
 
@@ -41,17 +41,17 @@ Nápadů bylo opravdu hodně. Vzdělávání dětí, dodání materiální pomoc
 
 > ### *Pomoc zde už nabízí kolem 29 tisíc lidí!*
 
-![](https://data.cesko.digital/img/clanek-projekty-pro-ukrajinu/clanek-UA3.png)
+![Pomáhej Ukrajině](https://data.cesko.digital/img/clanek-projekty-pro-ukrajinu/clanek-UA3.png)
 
-## Mapa pro ukrajinskou komunitu v ČR
+## Umapa
 
-**Ukrajinská komunitní mapa zobrazuje všechny důležité lokace, které uprchlíci mohou hledat.** Školky a školy přijímající ukrajinské děti, centra poradenství a psychologické pomoci, ukrajinsky mluvící lékaři a místa pro setkávání uprchlíků v regionech, to je jen úzký výběr z mnoha služeb, které se na připravované mapě objeví.
+**[Ukrajinská komunitní mapa](http://umapa.eu) zobrazuje všechny důležité lokace, které uprchlíci mohou hledat.** Školky a školy přijímající ukrajinské děti, centra poradenství a psychologické pomoci, ukrajinsky mluvící lékaři a místa pro setkávání uprchlíků v regionech, to je jen úzký výběr z mnoha služeb, které se na mapě objevují.
 
 I když mapa pochází z dílny Česko.Digital a Mapotic, na jejíž platformě vznikla, spolutvůrcem mapy se může stát každý. Uživatelé sami navrhují další lokace, komentují jejich stav a přidávají popisky. Chceme, aby z mapy vznikl dlouhodobý projekt na pomoc uprchlíkům a jejich začleňování do společností různých zemí.
 
 > ### *Ještě před spuštěním projektu doplnili naši dobrovolníci na mapu více než 1400 míst, které mohou Ukrajincům pomoci!*
 
-![](https://data.cesko.digital/img/clanek-projekty-pro-ukrajinu/clanek-UA2.png)
+![Umapa](umapa_1_1200x630.jpg)
 
 ## Mapa ukrajinských hraničních přechodů
 
@@ -61,7 +61,7 @@ Návrh aplikace byl prokonzultován s mnoha experty a velkými neziskovými orga
 
 > ### *I bez většího PR navštíví mapu každý den v průměru 2000 až 3000 lidí, vede Ukrajina!*
 
-![](https://data.cesko.digital/img/clanek-projekty-pro-ukrajinu/clanek-UA4.png)
+![Mapa ukrajinských hraničních přechodů](https://data.cesko.digital/img/clanek-projekty-pro-ukrajinu/clanek-UA4.png)
 
 ## Movapp
 
@@ -70,6 +70,8 @@ Ti, kteří jsou nuceni opustit své domovy, musí v nové zemi překonávat řa
 Aplikace je koncipována jako open source, takže pokud umíte programovat, nic vám nebrání si ji pro vlastní potřeby dále upravit. Sada frází je pod Creative Commons licencí vhodnou pro další šíření. A proč zrovna movapp? Mova v ukrajinštině znamená jazyk. Jednoduché, že?
 
 > ### *Za jeden den a bez PR stránku navštívilo už 1000 unikátních uživatelů!*
+
+![Movapp](movapp.png)
 
 ## Vzdělávání ukrajinských dětí
 
