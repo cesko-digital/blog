@@ -73,6 +73,6 @@ Nebojte se zapojit, i když si nejste jistí, zda máte čas nebo potřebné kom
 
 <br>
 
-### Rozhovor najdete i na [Youtube](https://youtu.be/fCZ_iUmilvE) nebo v podcastové verzi!
+### Rozhovor najdete i na [Youtube](https://youtu.be/fCZ_iUmilvE) nebo v [podcastové verzi](https://anchor.fm/poslouchatdigital)!
 
 ##### Korektura: Libuše Homolová
