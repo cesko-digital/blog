@@ -3,7 +3,7 @@ title: Vystudoval filozofii, v komunitě řídí technologie. Kdo je CTO
   Česko.Digital Karel Minařík?
 author: dana
 cover: https://data.cesko.digital/img/rozhovor_karmi.png
-date: 2022-04-07-05-17
+date: 2022-04-08-02-44
 slug: vystudoval-filozofii-v-komunite-ridi-technologie-cto-cesko-digital-karel-minarik
 description: Vystudoval Filozofickou fakultu Univerzity Karlovy. Působil mimo
   jiné jako vývojář a designér webů, grafický designér, projektový manažer,
