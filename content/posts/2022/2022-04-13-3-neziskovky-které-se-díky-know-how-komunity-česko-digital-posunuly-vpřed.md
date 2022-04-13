@@ -6,7 +6,7 @@ tags:
   - zacni-ucit
   - inovace-zpravodajstvi
 cover: https://data.cesko.digital/img/3-neziskovky-clanek.jpg
-date: 2022-04-13-12-25
+date: 2022-04-13-05-54
 slug: 3 neziskovky, které se díky know-how komunity Česko.Digital posunuly vpřed
 description: Chápou problém, umí ho řešit a jejich vize přitahují dárce i
   dobrovolníky. Neziskové organizace mají zásadní roli v řešení společenských
