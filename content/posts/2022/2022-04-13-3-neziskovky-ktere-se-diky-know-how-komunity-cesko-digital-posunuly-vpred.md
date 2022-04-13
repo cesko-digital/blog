@@ -17,9 +17,7 @@ description: Chápou problém, umí ho řešit a jejich vize přitahují dárce 
   projekt na vyšší level.
 lang: cs
 ---
-**Chápou problém, umí ho řešit a jejich vize přitahují dárce i dobrovolníky. Neziskové organizace mají zásadní roli v řešení společenských problémů a svou flexibilitou dokážou předběhnout politiky a jít pomoct do terénu, když to společnost zrovna potřebuje. Ve spojení s digitálními technologiemi však dokážou jejich projekty ještě větší věci. Pojďme si připomenout 3 neziskové organizace, které díky Česko.Digital posunuly svůj projekt na vyšší level.**
-
-Díky technologiím se podařilo Výluce, Nadačnímu fondu nezávislé žurnalistiky a Institutu prevence a řešení předlužení řešit společenský problém ve svém oboru. 6 tisíc chybějících učitelů, 30 % neinformovaných voličů a miliardy, které dluží Češi státu. Tam všude přišli expertní dobrovolníci s technologickým řešením.
+Díky technologiím se podařilo Výluce (Jana Fryzelková & Sandra Ort Feyglová), Nadačnímu fondu nezávislé žurnalistiky (Josef Šlerka) a Institutu prevence a řešení předlužení (Radek Hábl) řešit společenský problém ve svém oboru. 6 tisíc chybějících učitelů, 30 % neinformovaných voličů a miliardy, které dluží Češi státu. Tam všude přišli expertní dobrovolníci s technologickým řešením.
 
 ## Začni učit!
 
