@@ -28,10 +28,11 @@ Cílem expertních dobrovolníků z Česko.Digital bylo vytvořit místo, které
 
 Nyní je k dispozici 5 témat:
 
-* Trápí mě známky ve škole
-* Doma mi ubližují, Šikana
-* Jsem pořád online
-* Je mi často smutno
+* [Trápí mě známky ve škole](https://www.safezona.cz/prospech)
+* [Doma mi ubližují](https://www.safezona.cz/domaci-nasili)
+* [Šikana](https://www.safezona.cz/sikana)
+* [Jsem pořád online](https://www.safezona.cz/digitalni-zavislosti)
+* [Je mi často smutno](https://www.safezona.cz/je-mi-casto-smutno)
 
 V průběhu dubna plánujeme do Safezóny přidat téma **Kyberšikany** a **Poruchy příjmu potravy**. V budoucnu Safezóna zastřeší celkově [15 témat duševního zdraví](https://www.safezona.cz/rozcestnik). 
 
