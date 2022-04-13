@@ -45,7 +45,7 @@ Tým expertních dobrovolníků absolvoval ideační sprint a navrhl [prototypy]
 
 Přínosem komunity byla například **zpětná vazba expertních dobrovolníků na téma inovací a schopnost propojit se s nejdůležitějšími hráči na trhu** bez placené spolupráce. Součástí projektu bylo testování nápadů v provozu a tříměsíční cyklus design thinking workshopů, kam se společnými silami podařilo dostat již tak vytížené novináře.
 
-![](snímek-obrazovky-2022-04-13-v 12.33.19.png "Ukázka Chatbota Newsie, zdroj: Archiv NFNZ")
+![](https://data.cesko.digital/img/clanek-3-neziskovky/screenshot-newsie.png "Ukázka Chatbota Newsie, zdroj: Archiv NFNZ")
 
 ## Nedlužím státu
 
@@ -53,10 +53,10 @@ Přínosem komunity byla například **zpětná vazba expertních dobrovolníků
 
 Projekt prošel čtyřmi fázemi a celkem se do něj zapojilo přes 40 pro bono odborníků na user interface, user experience, analýzu dat, design, vývoj, marketing a výzkum. Dobrovolníci pracovali na návrhu webových stránek, provedli uživatelské testování a zprovoznili několik užitečných funkcí, jako je **dotazník**, který vám vypíše seznam institucí, kde můžete dlužit, **automatické generování formulářů** nebo pomůcky, které pomohou řešit případný zjištěný dluh (např. **žádost o splátkový kalendář či žádost o odpuštění penále**).
 
-![](tým_nedluzimstatu.jpg "Tým projektu Nedlužím státu")
+![](https://data.cesko.digital/img/clanek-3-neziskovky/tym_nedluzimstatu.jpg "Tým projektu Nedlužím státu")
 
 Iniciátor projektu **Radek Hábl** ve [videu na Youtube Česko.Digital](https://www.youtube.com/watch?v=3CoFXWExWxA&t=367s) popisuje, že **přínos komunity vidí zejména v angažovaném týmu**, který velmi dobře dokázal definovat základní verzi webové pomůcky, což byl do té doby problém. Expertní tým se totiž dokázal na pomůcku podívat jako na produkt, což projektu přineslo jasný směr a cíl. 
 
 [Stránku Nedlužím státu](http://nedluzimstatu.cz) **navštívilo už více než 150 tisíc lidí**, z toho více než **25 tisíc lidí vyplnilo dotazník**, aby zjistili, kde dluží, a kolem **1 150 lidí požádalo o potvrzení bezdlužnosti.** Sám Radek Hábl si díky spolupráci s komunitou poprvé vyzkoušel agilní roli Product Ownera, kterou by se jinak musel učit na kurzech, které nejsou nejlevnější. 
 
-![](snímek-obrazovky-2022-04-13-v 12.40.54.png "Ukázka webové platformy Nedlužím státu")
+![](https://data.cesko.digital/img/clanek-3-neziskovky/screenshot-nedluzim.statu.png "Ukázka webové platformy Nedlužím státu")
