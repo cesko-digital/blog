@@ -113,7 +113,7 @@ Intenzivně pracujeme na **předání projektu pod Národní pedagogický instit
 
 Dobrovolníci, kteří dosud pomáhali, se převážně rozhodli v projektu zůstat, což je úžasné! I v NPI bude projekt fungovat na bázi dobrovolnictví a snažíme se tam přinést co nejvíce know-how a atmosféry z Česko.Digital.
 
-### Stojíme za Ukrajinou
+## Stojíme za Ukrajinou
 
 *Spolu a přehledně. Lidé z platformy Stojíme za Ukrajinou se spojili s Česko.Digital a za víkend vytvořili rozcestník pro pomoc Ukrajině*
 
@@ -121,13 +121,13 @@ Rozcestník pomoci [stojimezaukrajinou.cz](http://www.stojimezaukrajinou.cz/) m�
 
 Stabilizovali jsme stálý tým, jehož součástí jsou i lidé z ukrajinské komunity, bez kterých by to nešlo a díky kterým máme informace o jejich aktuálních potřebách. Rozcestník neustále aktualizujeme pro všechny, kteří se do Česka teprve chystají, i pro ty, kteří tady už jsou, aby i nadále srozumitelně a rychle pomáhal, kde je třeba.
 
-### Movapp
+## Movapp
 
 *Naučte se základy češtiny a ukrajinštiny pro běžné životní situace*
 
 V Movappu jsme díky týmu šikovných lidí během pár týdnů vytvořili **konverzační ukrajinsko-český a česko-ukrajinský slovníček**. Na stránce [movapp.cz](http://www.movapp.cz/) najdete krásnou dětskou sekci i s omalovánkami a rozšířenou část **konverzace v mateřské škole**. Naší další metou je vytvoření mobilní aplikace, ať jsme vždy po ruce. V dalších týdnech bude Movapp také **expandovat na Slovensko a do Polska**.
 
-### Vzdělávání ukrajinských dětí 
+## Vzdělávání ukrajinských dětí 
 
 *Portál pro sledování nabídek a poptávek volných míst ve školách či školkách*
 
@@ -145,9 +145,9 @@ Dále se chceme zaměřit na volnočasové aktivity, dětské domovy a další. 
 
 </center>
 
-## Co se klube v našem inkubátoru
+# Co se klube v našem inkubátoru
 
-### Zachránili jsme přes tisíc pokrmů
+## Zachránili jsme přes tisíc pokrmů
 
 Jasný **návod, jak darovat zbylé hotové pokrmy** lidem v nouzi, v ČR dosud chyběl. Jídelny i charity se obávaly postihů za špatné postupy. To se změnilo díky organizaci Zachraň jídlo, která připravila ucelený návod, jak na to.
 
@@ -155,27 +155,27 @@ Aktuálně ho testujeme při rozvozu zbylých pokrmů do pražských hotelů upr
 
 Víš o šikovném grafikovi, který by pomohl dát dohromady webovou stránku s informacemi o projektu? Ozvi se Aničce Strejcové na [anna.strejcova@zachranjidlo.cz](mailto:anna.strejcova@zachranjidlo.cz).
 
-### Volební kalkulačka 2022 pomohla Maďarům v rozhodování
+## Volební kalkulačka 2022 pomohla Maďarům v rozhodování
 
 Týden před maďarskými parlamentními volbami spustil tým expertních dobrovolníků Česko.Digital ve spolupráci s KohoVolit.eu a K-monitor **[maďarskou verzi volební kalkulačky](https://voksmonitor.hu/)**. V deseti minutách umožní načerpat důvěryhodné informace pro důležitá rozhodnutí. Tým nyní pracuje na UX analýze, provádí UX testing a bude hledat ten nejlepší vývojářský tým pro další fázi projektu. Posilu ale potřebují už teď, hledají se zkušení UX researchers – pokud si jedním z nich, ozvi se do kanálu [\#inkubace-volebni_kalkulacka2022](https://cesko-digital.slack.com/archives/C0311K8LHFX)!
 
 <br>
 
-## Jak si v komunitě žijeme
+# Jak si v komunitě žijeme
 
 **Proběhlo již třetí měření spokojenosti naší komunity.** ❤️ Děkujeme všem, kteří věnovali čas vyplnění zpětné vazby. Odpovědi dobrovolníků jsme vyhodnotili a nyní bychom tě rádi seznámili s výsledky celého měření, kterého se zúčastnilo celkem 55 respondentů. **Podívej se do [super prezentace](https://drive.google.com/file/d/1WrbaI3Ki8txlzMU-8CK8oRte5Kayf369/view?usp=sharing)**, kterou pro nás připravili Petra Skácelová a Michal Andera. 🌱 V následujících týdnech se budeme věnovat vašim pochvalám i připomínkám a dále zlepšovat naši komunitu. 🚀
 
 <br>
 
-## Vzděláváme Česko.Digital
+# Vzděláváme Česko.Digital
 
-### č.edu
+## č.edu
 
 Vzdělávací platforma č.edu bodovala s dalšími webináři. Už potřetí se zájemci o **nenásilnou komunikaci** mohli inspirovat myšlenkami **Sandry Fridrichové**. Dočkali se i ti, kdo netrpělivě očekávali představení aplikace **Airtable** z úst **Honzy Páva**. Tento webinář měl rekordní účast, proto už s Honzou plánujeme pokračování. Záznamy všech videí najdeš[ na našem Youtube](https://www.youtube.com/c/%C4%8CeskoDigital/playlists?view=50&sort=dd&shelf_id=2).
 
 <br>
 
-## Koho aktuálně hledáme
+# Koho aktuálně hledáme
 
 ## Marketing
 
