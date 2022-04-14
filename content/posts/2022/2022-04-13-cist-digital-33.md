@@ -5,7 +5,7 @@ author: hana.buresova
 tags:
   - newsletter
 cover: https://data.cesko.digital/newsletter/33/cover33.png
-date: 2022-04-13-09-15
+date: 2022-04-14-09-58
 slug: cist-digital-33
 description: Ahoj Česko.Digital! 👋 Jedeme naplno! Finišujeme 3 projekty.
   Pomáháme s digitalizací našeho státu. Nepolevujeme ani v aktivitách spojených
@@ -97,8 +97,7 @@ Pokud máš jakékoli dotazy, napiš mi soukromou zprávu na Slacku. **DĚKUJI**
 
 </center>
 
-## 
-To nejlepší z našich projektů
+## To nejlepší z našich projektů
 
 ### Loono: Preventivka
 
@@ -152,8 +151,7 @@ Dále se chceme zaměřit na volnočasové aktivity, dětské domovy a další. 
 
 </center>
 
-## 
-Co se klube v našem inkubátoru
+## Co se klube v našem inkubátoru
 
 ### Zachránili jsme přes tisíc pokrmů
 
