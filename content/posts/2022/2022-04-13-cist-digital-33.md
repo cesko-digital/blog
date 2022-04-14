@@ -14,7 +14,7 @@ description: Ahoj Česko.Digital! 👋 Jedeme naplno! Finišujeme 3 projekty.
   Tím výčet našich pokroků nekončí. Přesvědč se a čti dál.
 lang: cs
 ---
-## Potvrzeno! Safezóna je venku a dětem se moc líbí
+# Potvrzeno! Safezóna je venku a dětem se moc líbí
 
 V březnu jsme [Safezónu](https://www.safezona.cz/#landing-content) podrobili zatěžkávací zkoušce – **otestovali jsme** webové stránky s 11 dětmi. Osobně i online, na mobilech i počítačích. **Dopadla opravdu skvěle** a ještě jsme získali podněty pro další vylepšení.
 
@@ -30,7 +30,7 @@ Děkujeme všem partnerským organizacím za spolupráci a také nadaci [Bakala 
 
 ![](https://data.cesko.digital/newsletter/33/safezona-nl.jpg)
 
-## Seznam se s naším CTO!
+# Seznam se s naším CTO!
 
 👨‍🎓 Je vystudovaný filozof, chce posunout digitální transformaci v České republice o level výš a v Česko.Digital vylepšuje Portál dobrovolníka či technologickou stránku komunity.
 
@@ -57,7 +57,7 @@ Vše se dozvíš v novém rozhovoru:
 
 ![](https://data.cesko.digital/newsletter/33/karmi-dana.jpg)
 
-## Eva Pavlíková poradkyní Ivana Bartoše v otázkách digitální transformace
+# Eva Pavlíková poradkyní Ivana Bartoše v otázkách digitální transformace
 
 Česká republika se v mezinárodních žebříčcích, které srovnávají úroveň digitalizace e-governmentu, nachází často ve středu či pod průměrem Evropské unie. Díky práci expertů a nadšenců v oblasti e-governmentu se to ale může změnit. 
 
@@ -69,7 +69,7 @@ Jedním takovým expertem je **naše ředitelka Eva Pavlíková**, kterou díky 
 
 </center>
 
-## (Ne)čteš.digital? Rozhodni o budoucnosti newsletterů Česko.Digital a absolvuj 2 (jinak placené) webináře zdarma!
+# (Ne)čteš.digital? Rozhodni o budoucnosti newsletterů Česko.Digital a absolvuj 2 (jinak placené) webináře zdarma!
 
 *Ahoj, jsem Teryii a v komunitě působím jako Content Lead Česko.Digital. Kromě toho se ve volných chvílích věnuji volné noze, ale také vzdělávání na vysoké škole zaměřené na management a marketing. Letos končím bakalářské studium a rozhodla jsem se, že napíšu praktickou bakalářku, která nebude jen shluk písmen a nezapadne prachem, ale reálně někomu pomůže. Věnuji se v ní tedy strategii emailingu Česko.Digital.*
 
