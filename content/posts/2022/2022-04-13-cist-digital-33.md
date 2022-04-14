@@ -24,7 +24,7 @@ K dispozici máme vlastní [media kit](https://drive.google.com/drive/u/0/folder
 
 S partnerskými organizacemi, které se podílely na tvorbě obsahové části témat a jsou odborným garantem projektu, jsme se stihli potkat ještě na konci března. Prohloubili jsme nejen naši spolupráci, ale také jsme otevřeli téma **přípravy předávky Safezóny** do rukou organizace, která bude o projekt dále pečovat.
 
-Více o spuštění v [článku na blogu](https://blog.cesko.digital/2022/04/safezona-jde-do-sveta).
+Více o spuštění v **[článku na blogu](https://blog.cesko.digital/2022/04/safezona-jde-do-sveta)**.
 
 Děkujeme všem partnerským organizacím za spolupráci a také nadaci [Bakala Foundation](https://www.bakalafoundation.org/), která Safezónu podporuje. Jsme rádi, že **Safezóna pomáhá tam, kde je potřeba**. Sleduj nás ve Slacku v kanálu [\#run-strecha_dusevniho_zdravi](https://cesko-digital.slack.com/archives/C01168N8XP1)!
 
@@ -67,9 +67,7 @@ Jedním takovým expertem je **naše ředitelka Eva Pavlíková**, kterou díky 
 
 <center>
 
-
 ![](https://data.cesko.digital/img/dad68fa0.png)
-
 
 </center>
 
@@ -83,7 +81,7 @@ A protože by každé dobré práci/vylepšování produktu měl předcházet po
 
 ⏱️ Dotazník (podle mě) stihneš vyplnit **do 10-15 minut**.
 
-📅 Nejlepší bude, pokud se na něj podíváš **do 17.4.2022**, po tomto datu bych ho chtěla vyhodnotit.
+📅 Nejlepší bude, pokud se na něj podíváš **do 17. 4. 2022**, po tomto datu bych ho chtěla vyhodnotit.
 
 🚀 Pokud dotazník vyplníš, **získáš možnost ovlivnit zpracování našich newsletterů a zároveň přijít na 2 mé (jinak placené) WEBINÁŘE ZCELA ZDARMA** (Jak si rozjet volnou nohu / Jak na LinkedIn, který přináší zakázky a konverze).
 
@@ -91,15 +89,13 @@ Pokud máš jakékoli dotazy, napiš mi soukromou zprávu na Slacku. **DĚKUJI**
 
 <center>
 
-
 ![](https://data.cesko.digital/img/dad68fa0.png)
-
 
 </center>
 
-## To nejlepší z našich projektů
+# To nejlepší z našich projektů
 
-### Loono: Preventivka
+## Loono: Preventivka
 
 *Platforma poskytující veškeré informace o prevenci přehledně a na jednom místě*
 
@@ -107,7 +103,7 @@ Těšíme se z obrovského milníku na naší cestě ke zdravějšímu Česku. P
 
 Zároveň pomalu, ale jistě **chystáme komunikační kampaň** ke spuštění aplikace. Máme krásné fotky našich ambasadorů od Lukáše Dvořáka a teď ladíme finální vizuál, se kterým nám pomáhá agentura Grizzlink.
 
-### Učíme online
+## Učíme online
 
 *Chceme být dlouhodobou hybnou silou při proměně českého školství*
 
@@ -145,9 +141,7 @@ Dále se chceme zaměřit na volnočasové aktivity, dětské domovy a další. 
 
 <center>
 
-
 ![](https://data.cesko.digital/img/dad68fa0.png)
-
 
 </center>
 
