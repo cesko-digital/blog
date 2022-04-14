@@ -90,9 +90,15 @@ A protože by každé dobré práci/vylepšování produktu měl předcházet po
 Pokud máš jakékoli dotazy, napiš mi soukromou zprávu na Slacku. **DĚKUJI** předem za vyplnění! 💙 A nezapomeň dál číst.digital! 😁
 
 <center>
-!\[](https://data.cesko.digital/img/dad68fa0.png)
+
+
+![](https://data.cesko.digital/img/dad68fa0.png)
+
+
 </center>
-## To nejlepší z našich projektů
+
+## 
+To nejlepší z našich projektů
 
 ### Loono: Preventivka
 
