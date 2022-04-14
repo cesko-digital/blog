@@ -1,11 +1,11 @@
 ---
 title: Safezóna jde do světa. Připravili jsme online prostor, kde najdou mladí
   lidé včasnou pomoc při duševní nepohodě či složité životní situaci.
-author: lukas.n
+author: michaela.vranova
 tags:
   - strecha-dusevniho-zdravi
-cover: aaa
-date: 2022-04-13-07-48
+cover: https://data.cesko.digital/img/clanek-safezona-cover.jpg
+date: 2022-04-14-09-02
 slug: safezona-jde-do-sveta
 description: Stránka Safezóna má venku již 5 nejpalčivějších témat, které dětem
   a dospívajícím pomohou v tíživých situacích spojených s duševním zdravím.
