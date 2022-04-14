@@ -70,6 +70,7 @@ collections:
             "hana.buresova",
             "bara.celechovska",
             "tereza.vaisova",
+            "michaela.vranova",
           ]
         required: true
       - label: "Tags"
@@ -188,6 +189,7 @@ collections:
             "hana.buresova",
             "bara.celechovska",
             "tereza.vaisova",
+            "michaela.vranova",
           ]
         required: true
       - label: "Cover"
