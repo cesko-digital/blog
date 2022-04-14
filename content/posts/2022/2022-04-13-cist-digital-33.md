@@ -49,9 +49,7 @@ Mnozí z vás již pravděpodobně Karla Minaříka alias karmi znají. 🙋‍�
 
 Vše se dozvíš v novém rozhovoru:
 
-🗒️ **Blog** 👉 <https://bit.ly/3KnhEbP> (e-mailová verze)
-
-<https://bit.ly/3DVrgIL> (blogová verze)
+🗒️ **Blog** 👉 [](https://bit.ly/3KnhEbP)<https://bit.ly/3DVrgIL>
 
 🎧 **Podcast** 👉 <https://anchor.fm/poslouchatdigital> 
 
