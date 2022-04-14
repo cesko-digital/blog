@@ -145,9 +145,15 @@ Dále se chceme zaměřit na volnočasové aktivity, dětské domovy a další. 
 **Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).**
 
 <center>
-!\[](https://data.cesko.digital/img/dad68fa0.png)
+
+
+![](https://data.cesko.digital/img/dad68fa0.png)
+
+
 </center>
-## Co se klube v našem inkubátoru
+
+## 
+Co se klube v našem inkubátoru
 
 ### Zachránili jsme přes tisíc pokrmů
 
