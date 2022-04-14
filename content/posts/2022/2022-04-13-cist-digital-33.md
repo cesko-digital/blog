@@ -28,6 +28,8 @@ Více o spuštění v [článku na blogu](https://blog.cesko.digital/2022/04/saf
 
 Děkujeme všem partnerským organizacím za spolupráci a také nadaci [Bakala Foundation](https://www.bakalafoundation.org/), která Safezónu podporuje. Jsme rádi, že **Safezóna pomáhá tam, kde je potřeba**. Sleduj nás ve Slacku v kanálu [\#run-strecha_dusevniho_zdravi](https://cesko-digital.slack.com/archives/C01168N8XP1)!
 
+![](https://data.cesko.digital/newsletter/33/safezona-nl.jpg)
+
 ## Seznam se s naším CTO!
 
 👨‍🎓 Je vystudovaný filozof, chce posunout digitální transformaci v České republice o level výš a v Česko.Digital vylepšuje Portál dobrovolníka či technologickou stránku komunity.
@@ -54,6 +56,8 @@ Vše se dozvíš v novém rozhovoru:
 🎧 **Podcast** 👉 <https://anchor.fm/poslouchatdigital> 
 
 📼 **Youtube** 👉 <https://youtu.be/fCZ_iUmilvE> 
+
+![](https://data.cesko.digital/newsletter/33/karmi-dana.jpg)
 
 ## Eva Pavlíková poradkyní Ivana Bartoše v otázkách digitální transformace
 
