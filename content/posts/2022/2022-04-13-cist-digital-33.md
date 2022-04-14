@@ -4,7 +4,7 @@ title: "číst.digital/33: Safezóna se dětem líbí | Naše CEO poradkyní vl�
 author: hana.buresova
 tags:
   - newsletter
-cover: aaa
+cover: https://data.cesko.digital/newsletter/33/cover33.png
 date: 2022-04-13-09-15
 slug: cist-digital-33
 description: Ahoj Česko.Digital! 👋 Jedeme naplno! Finišujeme 3 projekty.
@@ -24,7 +24,7 @@ K dispozici máme vlastní [media kit](https://drive.google.com/drive/u/0/folder
 
 S partnerskými organizacemi, které se podílely na tvorbě obsahové části témat a jsou odborným garantem projektu, jsme se stihli potkat ještě na konci března. Prohloubili jsme nejen naši spolupráci, ale také jsme otevřeli téma **přípravy předávky Safezóny** do rukou organizace, která bude o projekt dále pečovat.
 
-Více o spuštění v článku na blogu.
+Více o spuštění v [článku na blogu](https://blog.cesko.digital/2022/04/safezona-jde-do-sveta).
 
 Děkujeme všem partnerským organizacím za spolupráci a také nadaci [Bakala Foundation](https://www.bakalafoundation.org/), která Safezónu podporuje. Jsme rádi, že **Safezóna pomáhá tam, kde je potřeba**. Sleduj nás ve Slacku v kanálu [\#run-strecha_dusevniho_zdravi](https://cesko-digital.slack.com/archives/C01168N8XP1)!
 
