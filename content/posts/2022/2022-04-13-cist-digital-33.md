@@ -18,9 +18,9 @@ lang: cs
 
 V březnu jsme [Safezónu](https://www.safezona.cz/#landing-content) podrobili zatěžkávací zkoušce – **otestovali jsme** webové stránky s 11 dětmi. Osobně i online, na mobilech i počítačích. **Dopadla opravdu skvěle** a ještě jsme získali podněty pro další vylepšení.
 
-Spojili jsme síly také s [Ámos Vision](https://amosvision.cz/cz), která skrze interaktivní panely už nyní otevírá cestu dětem do **Safezóny přímo na základních i středních školách**. Také nově spolupracujeme s [Czech Video Center](https://www.cncenter.cz/) a máme velké plány, jak Safezónu posunout dál.
+Spojili jsme síly také s [Ámos Vision](https://amosvision.cz/cz), která skrze interaktivní panely už nyní otevírá cestu dětem do **Safezóny přímo na 260 základních i středních školách**. Také nově spolupracujeme s [Czech Video Center](https://www.cncenter.cz/) a máme velké plány, jak Safezónu posunout dál.
 
-K dispozici máme vlastní [media kit](https://drive.google.com/drive/u/0/folders/1ZlO5uSqluQsIYRwMxFVd0msM64kXe_Zp), díky kterému se může projekt **šířit** dál i  skrze naše **partnerské organizace**. Líbí se ti náš projekt? Budeme vděční, když nám ho i ty pomůžeš šířit. Stačí si vybrat v media kitu obrázek a připravený text.
+K dispozici máme vlastní [media kit](https://drive.google.com/drive/u/0/folders/1ZlO5uSqluQsIYRwMxFVd0msM64kXe_Zp), díky kterému se může projekt **šířit** dál i skrze naše **partnerské organizace**. Líbí se ti náš projekt? Budeme vděční, když nám ho i ty pomůžeš šířit. Stačí si vybrat v media kitu obrázek a připravený text.
 
 S partnerskými organizacemi, které se podílely na tvorbě obsahové části témat a jsou odborným garantem projektu, jsme se stihli potkat ještě na konci března. Prohloubili jsme nejen naši spolupráci, ale také jsme otevřeli téma **přípravy předávky Safezóny** do rukou organizace, která bude o projekt dále pečovat.
 
