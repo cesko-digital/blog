@@ -7,15 +7,10 @@ tags:
 cover: https://data.cesko.digital/img/clanek-safezona-cover.jpg
 date: 2022-04-14-09-02
 slug: safezona-jde-do-sveta
-description: Stránka Safezóna má venku již 5 nejpalčivějších témat, které dětem
+description: "Stránka Safezóna má venku již 5 nejpalčivějších témat, které dětem
   a dospívajícím pomohou v tíživých situacích spojených s duševním zdravím.
   Úspěšně prošla testováním s cílovou skupinou. Rozjela nová partnerství. Co vše
-  se odehrálo půl roku od spuštění první verze? Dozvíte se v článku. Prostor
-  věnovaný duševnímu zdraví je teď důležitý víc než kdy dřív. Děti a dospívající
-  se stále častěji uzavírají do sebe, mnoho času tráví doma. V leckdy
-  nestabilním rodinném prostředí se tak běžně potýkají s psychickými problémy,
-  které obvykle jen těžce rozeznají nebo neví, jak je řešit. A právě proto je tu
-  Safezóna - bezpečné místo v onlinu.
+  se odehrálo půl roku od spuštění první verze? Dozvíte se v článku. "
 lang: cs
 ---
 Úzkosti, poruchy nálad a sebepoškozování. To jsou podle psychologů a psychiatrů u dětí a dospívajících nejčastější problémy. Negativní dopad na psychiku mají podle expertů problémy v rodině a život v online světě. A právě proto je tu **Safezóna** - bezpečné místo v onlinu.
