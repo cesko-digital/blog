@@ -66,7 +66,11 @@ Vše se dozvíš v novém rozhovoru:
 Jedním takovým expertem je **naše ředitelka Eva Pavlíková**, kterou díky její **specializaci na digitální transformaci** místopředseda pro digitalizaci Ivan Bartoš povolal do nového poradního orgánu pro digitalizaci. Po jejím boku bude v **Českém digitálním týmu** ve svém volném čase pracovat dalších deset profíků na tom, aby se Česko dostalo mezi digitálně vyspělé státy. Více si můžeš přečíst [v článku na CzechCrunch](https://cc.cz/tomas-havryluk-eva-pavlikova-jiri-hlavenka-a-dalsi-jedenact-expertu-pomuze-s-digitalizaci-ceska/).
 
 <center>
+
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+
 </center>
 
 ## (Ne)čteš.digital? Rozhodni o budoucnosti newsletterů Česko.Digital a absolvuj 2 (jinak placené) webináře zdarma!
@@ -84,8 +88,9 @@ A protože by každé dobré práci/vylepšování produktu měl předcházet po
 🚀 Pokud dotazník vyplníš, **získáš možnost ovlivnit zpracování našich newsletterů a zároveň přijít na 2 mé (jinak placené) WEBINÁŘE ZCELA ZDARMA** (Jak si rozjet volnou nohu / Jak na LinkedIn, který přináší zakázky a konverze).
 
 Pokud máš jakékoli dotazy, napiš mi soukromou zprávu na Slacku. **DĚKUJI** předem za vyplnění! 💙 A nezapomeň dál číst.digital! 😁
+
 <center>
-![](https://data.cesko.digital/img/dad68fa0.png)
+!\[](https://data.cesko.digital/img/dad68fa0.png)
 </center>
 ## To nejlepší z našich projektů
 
@@ -132,8 +137,9 @@ Pomůže s modernější správou dat, např. bude poskytovat **informace o voln
 Dále se chceme zaměřit na volnočasové aktivity, dětské domovy a další. Brzy se můžeš těšit na první výsledky.
 
 **Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).**
+
 <center>
-![](https://data.cesko.digital/img/dad68fa0.png)
+!\[](https://data.cesko.digital/img/dad68fa0.png)
 </center>
 ## Co se klube v našem inkubátoru
 
@@ -143,7 +149,7 @@ Jasný **návod, jak darovat zbylé hotové pokrmy** lidem v nouzi, v ČR dosud 
 
 Aktuálně ho testujeme při rozvozu zbylých pokrmů do pražských hotelů uprchlíkům z Ukrajiny. Od poloviny března se s pomocí rozvozu od společnosti DoDo takto povedlo předat **380 nevydaných teplých pokrmů a 700** neprodaných **baget a sendvičů**. To je spousta spokojených žaludků, a to nás pohání dál.
 
-Víš o šikovném grafikovi, který by pomohl dát dohromady webovou stránku s informacemi o projektu? Ozvi se Aničce Strejcové na <anna.strejcova@zachranjidlo.cz>.
+Víš o šikovném grafikovi, který by pomohl dát dohromady webovou stránku s informacemi o projektu? Ozvi se Aničce Strejcové na [anna.strejcova@zachranjidlo.cz](mailto:anna.strejcova@zachranjidlo.cz).
 
 ### Volební kalkulačka 2022 pomohla Maďarům v rozhodování
 
@@ -173,20 +179,17 @@ Vzdělávací platforma č.edu bodovala s dalšími webináři. Už potřetí se
 * **[Marketing / PR + Copy pomoc pro Movapp](https://cesko.digital/opportunities/rec9fS7nK34zjsgpL?utm_medium=newsletter)** pro projekt Movapp, kontaktní osoba [Tatiana Chytilová](mailto:tatiana.chytilova@cesko.digital?subject=Marketing%20%2F%20PR%20%2B%20Copy%20pomoc%20pro%20Movapp)
 * **[Koordinátor/ka produkce podcastu Česko.Digital](https://cesko.digital/opportunities/recyfwwJED4QUdhPE?utm_medium=newsletter)** pro projekt Česko.Digital, kontaktní osoba [Lukáš Návesník](mailto:lukas.navesnik@cesko.digital?subject=Koordin%C3%A1tor%2Fka%20produkce%20podcastu%20%C4%8Cesko.Digital)
 
-
 ## Dev
 
 * **[Mobilní aplikace Movapp pro iOS a Android](https://cesko.digital/opportunities/rec15CAUlZLwSFoVg?utm_medium=newsletter)** pro projekt Movapp, kontaktní osoba [Tatiana Chytilová](mailto:tatiana.chytilova@cesko.digital?subject=Mobiln%C3%AD%20aplikace%20Movapp%20pro%20iOS%20a%20Android)
 * **[Tester/ka pro Movapp](https://cesko.digital/opportunities/reckbfJYwFcDyZZS2?utm_medium=newsletter)** pro projekt Movapp, kontaktní osoba [Tatiana Chytilová](mailto:tatiana.chytilova@cesko.digital?subject=Tester%2Fka%20pro%20Movapp)
 * **[TypeScript Developer](https://cesko.digital/opportunities/recICYUpHO6TrI6tz?utm_medium=newsletter)** pro projekt Pomáhej Ukrajině, kontaktní osoba [Anežka Müller](mailto:anezka@cesko.digital?subject=TypeScript%20Developer)
 
-
 ## Scrum Master
 
 * **[Projektový koordinátor/ka](https://cesko.digital/opportunities/recKz1YQgtB6zEe5H?utm_medium=newsletter)** pro projekt Mapa ukrajinských hraničních přechodů, kontaktní osoba [Petra Wiesnerová](mailto:petra.wiesnerova@cesko.digital?subject=Projektov%C3%BD%20koordin%C3%A1tor%2Fka)
 * **[Koordinátor/ka marketingu](https://cesko.digital/opportunities/rec38zVagf6GwxRSZ?utm_medium=newsletter)** pro projekt Umapa, kontaktní osoba [Terézia Palaščáková](mailto:terezia@cesko.digital?subject=Koordin%C3%A1tor%2Fka%20marketingu)
 * **[Koordinátor/ka plnění a aktualizace dat](https://cesko.digital/opportunities/recS6VDZLzBixrLHn?utm_medium=newsletter)** pro projekt Umapa, kontaktní osoba [Petra Wiesnerová](mailto:petra.wiesnerova@cesko.digital?subject=Koordin%C3%A1tor%2Fka%20pln%C4%9Bn%C3%AD%20a%20aktualizace%20dat)
-
 
 ## Design
 
@@ -204,8 +207,6 @@ Vzdělávací platforma č.edu bodovala s dalšími webináři. Už potřetí se
 * **[Ви розмовляєте українською? Ukrajinsky mluvící pro jazykovou aplikaci](https://cesko.digital/opportunities/recIG2Hy7m4icV0O4?utm_medium=newsletter)** pro projekt Movapp, kontaktní osoba [Tatiana Chytilová](mailto:tatiana.chytilova@cesko.digital?subject=%D0%92%D0%B8%20%D1%80%D0%BE%D0%B7%D0%BC%D0%BE%D0%B2%D0%BB%D1%8F%D1%94%D1%82%D0%B5%20%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D1%8E%3F%20Ukrajinsky%20mluv%C3%ADc%C3%AD%20pro%20jazykovou%20aplikaci)
 * **[Datový analytik/analytička](https://cesko.digital/opportunities/recNV76puMw89dNjt?utm_medium=newsletter)** pro projekt Umapa, kontaktní osoba [Petra Wiesnerová](mailto:petra.wiesnerova@cesko.digital?subject=Datov%C3%BD%20analytik%2Fanalyti%C4%8Dka)
 * **[Google Meet Support pro Česko.Digital Edu](https://cesko.digital/opportunities/recoeycEtMBeov7xe?utm_medium=newsletter)** pro projekt Česko.Digital Edu, kontaktní osoba [Anežka Müller](mailto:anezka@cesko.digital?subject=Google%20Meet%20Support%20pro%20%C4%8Cesko.Digital%20Edu)
-
-
 
 Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digitalizuj s námi Česko. **Všechny pozice najdeš přehledně na [Portálu dobrovolníka](http://cesko.digital/portal-dobrovolnika)**.
 
