@@ -55,6 +55,6 @@ Projekt prošel čtyřmi fázemi a celkem se do něj zapojilo přes 40 pro bono 
 
 Iniciátor projektu **Radek Hábl** ve [videu na Youtube Česko.Digital](https://www.youtube.com/watch?v=3CoFXWExWxA&t=367s) popisuje, že **přínos komunity vidí zejména v angažovaném týmu**, který velmi dobře dokázal definovat základní verzi webové pomůcky, což byl do té doby problém. Expertní tým se totiž dokázal na pomůcku podívat jako na produkt, což projektu přineslo jasný směr a cíl. 
 
-[Stránku Nedlužím státu](http://nedluzimstatu.cz) **navštívilo už více než 150 tisíc lidí**, z toho více než **25 tisíc lidí vyplnilo dotazník**, aby zjistili, kde dluží, a kolem **1 150 lidí požádalo o potvrzení bezdlužnosti.** Sám Radek Hábl si díky spolupráci s komunitou poprvé vyzkoušel agilní roli Product Ownera, kterou by se jinak musel učit na kurzech, které nejsou nejlevnější. 
+[Stránku Nedlužím státu](http://nedluzimstatu.cz) **navštívilo už více než 150 tisíc lidí**, z toho více než **25 tisíc lidí vyplnilo dotazník**, aby zjistili, kde dluží. Sám Radek Hábl si díky spolupráci s komunitou poprvé vyzkoušel agilní roli Product Ownera, kterou by se jinak musel učit na kurzech, které nejsou nejlevnější. 
 
 ![](https://data.cesko.digital/img/clanek-3-neziskovky/screenshot-nedluzim.statu.png "Ukázka webové platformy Nedlužím státu")
