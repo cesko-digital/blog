@@ -79,7 +79,7 @@ A protože by každé dobré práci/vylepšování produktu měl předcházet po
 
 ⏱️ Dotazník (podle mě) stihneš vyplnit **do 10-15 minut**.
 
-📅 Nejlepší bude, pokud se na něj podíváš **do 17. 4. 2022**, po tomto datu bych ho chtěla vyhodnotit.
+📅 Nejlepší bude, pokud se na něj podíváš **do 19. 4. 2022**, po tomto datu bych ho chtěla vyhodnotit.
 
 🚀 Pokud dotazník vyplníš, **získáš možnost ovlivnit zpracování našich newsletterů a zároveň přijít na 2 mé (jinak placené) WEBINÁŘE ZCELA ZDARMA** (Jak si rozjet volnou nohu / Jak na LinkedIn, který přináší zakázky a konverze).
 
