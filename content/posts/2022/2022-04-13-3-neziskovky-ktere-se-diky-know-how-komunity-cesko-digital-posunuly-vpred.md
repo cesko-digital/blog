@@ -27,7 +27,9 @@ V rámci projektu Začni učit! tak vznikl kromě [základní webové stránky](
 
 ![](https://data.cesko.digital/img/zacni-ucit-web.png)
 
-Expertní dobrovolníci pracovali ve spolupráci s týmem Začni učit! na informační architektuře, designu, vývoji webu, databáze a registračního systému, marketingu a dohromady rovněž realizovali výzkum. Podle odhadu Romany Pokorné, specialistky na projektové řízení v Česko.Digital, by **takový projekt v komerčním prostředí vyžadoval finance přesahující hranici jednoho milionu korun.**
+Expertní dobrovolníci pracovali ve spolupráci s týmem Začni učit! na informační architektuře, designu, vývoji webu, databáze a registračního systému, marketingu a dohromady rovněž realizovali výzkum. Podle odhadu Romany Pokorné, specialistky na projektové řízení v Česko.Digital, by práce na projektu, včetně  vzdělávání členůtým a marketingové stregie **vyžadoval v komerčním prostředí finance přesahující hranici jednoho milionu korun.**
+
+
 
 Dobrovolníky motivovalo **přesvědčení, že technologie mohou pomoci,** navíc zázemí komunity a projektové nastavení zaručuje, že se příchozí projekt dočká zdárného konce. 
 
