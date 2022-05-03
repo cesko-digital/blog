@@ -3,7 +3,7 @@ title: Jak psát příspěvky na Facebook aneb Staňte se virtuálním kavární
   snadno a rychle
 author: tereza.kubickova
 cover: http://data.cesko.digital/img/clanek-jak-psat-na-FB/kavarnik-cover.png
-date: 2022-05-03-01-50
+date: 2022-05-03-02-01
 slug: jak-psat-prispevky-na-facebook
 description: Jak začít svůj příspěvek na Facebooku, abyste čtenáře ihned
   upoutali? Je lepší psát spíš kratší nebo delší příspěvky? A kolik emotikonů je
