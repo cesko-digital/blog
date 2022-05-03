@@ -71,6 +71,7 @@ collections:
             "bara.celechovska",
             "tereza.vaisova",
             "michaela.vranova",
+            "tereza.kubickova",
           ]
         required: true
       - label: "Tags"
@@ -190,6 +191,7 @@ collections:
             "bara.celechovska",
             "tereza.vaisova",
             "michaela.vranova",
+            "tereza.kubickova",
           ]
         required: true
       - label: "Cover"
