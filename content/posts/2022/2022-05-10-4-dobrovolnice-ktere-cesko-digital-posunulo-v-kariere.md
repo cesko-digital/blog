@@ -25,7 +25,11 @@ Koordinovat jakýkoliv projektový tým na dálku vyžaduje pořádnou dávku di
 
 „U remote práce je velmi důležité si uvědomit, že je výhodné a správné být otevřený ohledně svého uvažování a jednání. Snažím se na to myslet a  při komunikaci s kolegy zohledňuji to, že ne všichni vědí to, co já, a mají dostatečný kontext,“ připomíná Šárka. 
 
+<center>
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
 
 ## Z mateřinky do Národního pedagogického institutu
 
@@ -35,7 +39,11 @@ Kateřina Beranová je původní profesí učitelka v mateřské školce. Dnes u
 
 Projekt Učíme online vznikl na jaře roku 2020 jako průvodce pro učitele při distanční výuce. Jeho obsahem byly webináře pro učitele, sbírky techniky pro děti, pomoc s přechodem na online výuku. Když jsme ho v roce 2022 předali pod záštitu NPI, koordinátorka Kačka Beranová přešla pod křídla NPI spolu s projektem. Stará se tam o webináře, spravuje sociální sítě, pečuje o dobrovolníky a hledá nové.
 
+<center>
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
 
 ## Nástroje a nadšení z komunity si bere i do práce
 
@@ -45,7 +53,11 @@ Klára Podpierová se věnuje projektovému managementu a digitálním transform
 
 Kromě toho, že zkušenost z č.d pomohla Kláře zaměřit se na věci, které jí dávají opravdu smysl, změnil se také přístup, se kterým se vrhá do nových pracovních výzev. „Nakoplo mě to nejen změnit práci, ale začít propagovat transparentnost, užitečnost a udržitelnost. Jsou to věci, o kterých všichni víme, že jsou potřeba, ale až v č.d jsem je reálně viděla v praxi.“
 
+<center>
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
 
 ## Díky Jehlomatu si troufla na práci v softwarové firmě
 
@@ -55,7 +67,11 @@ Jako koordinátorka v Jehlomatu získala spoustu zkušeností. Nabírala nové �
 
 „Už před vstupem do č.d jsem pomáhala v nezisku, takže k dobrovolnictví mám velmi blízko. Česko.Digital mě ale lákalo z pohledu digitalizace, chtěla jsem se přiučit tomu, jak se tvoří technologie v přímém přenosu,“ shrnuje Lucia své dobrovolnictví. „Dodalo mi to odvahy ucházet se o práci v technologické firmě, kam bych si nikdy dřív poslat životopis netroufla. Pomohlo mi to také zapracovat na time managementu a konzistentnosti v práci. Myslím, že je to hlavně díky pocitu zodpovědnosti komunikovat projekt, na kterém vám záleží, do komunity i ven.“
 
+<center>
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
 
 ## A co váš příběh? 
 
