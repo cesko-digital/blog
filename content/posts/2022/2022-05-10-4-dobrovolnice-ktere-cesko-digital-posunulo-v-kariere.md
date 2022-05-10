@@ -1,6 +1,6 @@
 ---
 title: 4 dobrovolnice, které Česko.Digital posunulo v kariéře
-author: jindrich.oukropec
+author: lenkab
 cover: http://data.cesko.digital/img/4-dobrovolnice-clanek.png
 date: 2022-05-10-01-03
 slug: 4-dobrovolnice-ktere-cesko-digital-posunulo-v-kariere
