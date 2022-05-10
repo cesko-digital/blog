@@ -31,13 +31,13 @@ Koordinovat jakýkoliv projektový tým na dálku vyžaduje pořádnou dávku di
 
 </center>
 
-## Z mateřinky do Národního pedagogického institutu
+## Z mateřinky do Národní pedagogický institut České republiky
 
-Kateřina Beranová je původní profesí učitelka v mateřské školce. Dnes už ale pracuje jako copywriterka a také jako projektová koordinátorka webinářů v Národním pedagogickém institutu (NPI). Z pozice expertní dobrovolnice tak díky projektu [Učíme online](https://www.ucimeonline.cz/) přešla do NPI jako zaměstnanec. Pomohly jí k tomu zkušenosti, které nasbírala při koordinování projektu v >č.d.
+Kateřina Beranová je původní profesí učitelka v mateřské školce. Dnes už ale pracuje jako copywriterka a také jako projektová koordinátorka webinářů v Národní pedagogický institut České republiky (NPI ČR). Z pozice expertní dobrovolnice tak díky projektu [Učíme online](https://www.ucimeonline.cz/) přešla do NPI ČR jako zaměstnanec. Pomohly jí k tomu zkušenosti, které nasbírala při koordinování projektu v >č.d.
 
 „Ocenila jsem transparentnost, která tady funguje. Nebyla jsem zvyklá všechno řešit přede všemi, viděla jsem to jako takovou slabost a ze začátku si připadala trapně, když jsem se na něco ptala. Myslela jsem si , že se na mě budou všichni dívat stylem ‚vždyť je to tak samozřejmý‘. To se ale nekonalo. Nikdo se takhle nechoval. Tady se vždycky najde někdo, kdo pomůže, a není špatně, že něco nevíte. Horší je, když se nezeptáte,“ říká Kačka o svých zkušenostech z č.d. „Předtím jsem pracovala ve státním sektoru. Spousta byrokracie. Tady? Máme též pravidla, ale jednoduchá, které nemá nikdo potřebu obcházet. V Česko.Digital jsem se naučila používat nové nástroje, které mi pomohly být efektivnější, což je žádoucí, ať děláte cokoliv.“
 
-Projekt Učíme online vznikl na jaře roku 2020 jako průvodce pro učitele při distanční výuce. Jeho obsahem byly webináře pro učitele, sbírky techniky pro děti, pomoc s přechodem na online výuku. Když jsme ho v roce 2022 předali pod záštitu NPI, koordinátorka Kačka Beranová přešla pod křídla NPI spolu s projektem. Stará se tam o webináře, spravuje sociální sítě, pečuje o dobrovolníky a hledá nové.
+Projekt Učíme online vznikl na jaře roku 2020 jako průvodce pro učitele při distanční výuce. Jeho obsahem byly webináře pro učitele, sbírky techniky pro děti, pomoc s přechodem na online výuku. Když jsme ho v roce 2022 předali pod záštitu NPI ČR, koordinátorka Kačka Beranová přešla pod křídla NPI ČR spolu s projektem. Stará se tam o webináře, spravuje sociální sítě, pečuje o dobrovolníky a hledá nové.
 
 <center>
 
