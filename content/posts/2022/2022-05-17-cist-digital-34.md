@@ -40,7 +40,7 @@ lang: cs
 
 📱S **1 000 použitelnými frázemi** v češtině a ukrajinštině se už teď Movapp.cz řadí mezi běžná menší jazyková díla. Po dvou měsících fungování chodí na [Movapp.cz](http://movapp.cz/) samá chvála a zmiňují se o ní česká i cizojazyčná média ([BusinessINFO.cz](https://www.businessinfo.cz/clanky/cesko-digital-spousti-dalsi-projekt-na-podporu-ukrajiny-movapp-cz/), [Radio Prague International](https://cesky.radio.cz/ukrajinsky-se-jazyk-rekne-mova-8747428), [Aktuálně.cz](https://zpravy.aktualne.cz/domaci/ukrajinsti-uprchlici-vyuka-cestiny/r~3ed8b718a90911ec8d900cc47ab5f122/)). 🎉 Tým také aktuálně vypouští do světa mobilní [aplikaci pro iOS](https://apps.apple.com/app/apple-store/id1617768476?pt=124252508&ct=newsletter-ceskodigital&mt=8), verze pro Android bude brzy následovat. Pracujeme i na obsahu: Po dubnové Velikonoční nadílce 🐰, plné frází i dětských omalovánek, připravujeme tematické fráze pro Den dětí a blížící se prázdniny. 🏖 
 
-**\>** **Chceš se stát součástí hvězdného týmu? Hledáme nové vývojáře v Reactu a nové tváře do marketingu. Pokud máš chuť a čas, ozvi se Táně Chytilové na [pryvit@movapp.cz](<pryvit@movapp.cz>).**
+**\>** **Chceš se stát součástí hvězdného týmu? Hledáme nové vývojáře v Reactu a nové tváře do marketingu. Pokud máš chuť a čas, ozvi se Táně Chytilové na [pryvit@movapp.cz](mailto:pryvit@movapp.cz).**
 
 ![](https://data.cesko.digital/newsletter/34/movapp-nl.jpg)
 
@@ -84,7 +84,7 @@ lang: cs
 
 🚸 Bezpečné místo v online prostoru je tu. Na začátku dubna jsme [Safezónu](https://www.safezona.cz/) pustili do světa. Na jednom místě tak najdou děti a dospívající informace o duševním zdraví a o prevenci psychických potíží. Spolu s [Ámos Vision](https://amosvision.cz/cz) a [Czech Video Center](https://www.linkedin.com/company/czech-video-center/) pracujeme na videích pro jednotlivá témata, která uvidí děti ve **263 školách**. Na palubu přistoupila online marketingová [agentura H1](https://www.linkedin.com/company/h1cz/), se kterou aktuálně řešíme spolupráci s influencery. Všem partnerům moc děkujeme!
 
-**\> Zajímá tě, co se u nás děje nebo se k nám chceš přidat? [Ozvi se nám na Slack](https://cesko.digital/join) nebo na e-mail: [vladimira.osadnikova@cesko.digital](<vladimira.osadnikova@cesko.digital>)!**
+**\> Zajímá tě, co se u nás děje nebo se k nám chceš přidat? [Ozvi se nám na Slack](https://cesko.digital/join) nebo na e-mail: [vladimira.osadnikova@cesko.digital](mailto:vladimira.osadnikova@cesko.digital)!**
 
 ## Stojíme za Ukrajinou
 
@@ -130,7 +130,7 @@ lang: cs
 
 ## Potkejme se již brzy na unikátním festivalu WebExpo
 
-🎉 Webexpo proběhne v červnu. Registrace byla právě zahájena a naše [CEO Eva Pavlíková](https://www.webexpo.net/prague2022/talk/eva-pavlikova) zde bude jedním ze speakerů. Spolu s platinovým partnerem [Livesport](https://www.livesport.eu/) a komunitou [Frontendisti.cz](https://frontendisti.cz/) zažijeme to nejlepší ze světa vývoje, service designu, UX, dat a mnoha jiných témat a navíc i s 50 volnými vstupy pro příchozí z Ukrajiny!
+🎉 WebExpo proběhne v červnu. Registrace byla právě zahájena a naše [CEO Eva Pavlíková](https://www.webexpo.net/prague2022/talk/eva-pavlikova) zde bude jedním ze speakerů. Spolu s platinovým partnerem [Livesport](https://www.livesport.eu/) a komunitou [Frontendisti.cz](https://frontendisti.cz/) zažijeme to nejlepší ze světa vývoje, service designu, UX, dat a mnoha jiných témat a navíc i s 50 volnými vstupy pro příchozí z Ukrajiny!
 
 **\> [Kup si vstupenku na stránce festivalu](https://www.webexpo.net/prague2022)**
 
