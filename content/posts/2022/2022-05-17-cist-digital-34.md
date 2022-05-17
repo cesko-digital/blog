@@ -20,7 +20,7 @@ lang: cs
 
 ## Kdy naposledy jsi byl/a na preventivní prohlídce?
 
-🥳 Dobrovolníci Česko.Digital a [Loono](http://loono.cz/) mají za sebou 8 měsíců práce a skvělý výsledek – aplikace Preventivka je venku! 📱 Najdeš v ní ověřené informace o tom, jak se starat o své zdraví. Pohlídá za tebe, kdy na jaké prohlídky zajít a pomůže ti dokonce najít i doktora v okolí. Děkujeme všem zúčastněným expertním dobrovolníkům, týmu a lékařům z Loono a také [Nadaci PPF](http://nadaceppf.cz/) za skvělou práci a podporu!
+🥳 Dobrovolníci Česko.Digital a [Loono](http://loono.cz/) mají za sebou 12 měsíců práce a skvělý výsledek – **aplikace Preventivka je venku!** 📱 Najdeš v ní ověřené informace o tom, jak se starat o své zdraví. Pohlídá za tebe, kdy na jaké prohlídky zajít a pomůže ti dokonce najít i doktora v okolí. Děkujeme všem zúčastněným expertním dobrovolníkům, týmu a lékařům z Loono a také [Nadaci PPF](http://nadaceppf.cz/) za skvělou práci a podporu!
 
 👉** [Stáhni si aplikaci na Google Play](https://play.google.com/store/apps/details?id=cz.loono.app)**
 
@@ -30,7 +30,7 @@ lang: cs
 
 ## 4x Jak mi č.d pomohlo v pracovním životě
 
-🧑‍🤝‍🧑 Na blogu máme nový článek, kde se Lucia Poláková, Kačka Beranová, Klára Podpierová a Šárka Rauchová rozpovídaly o tom, jak jim dobrovolnictví pomohlo v práci a v přístupu k ní. Jestli ti mluví z duše, sdílej ho mezi své okolí a řekni jim, jaké to v č.d je. Třeba někdo z nich na podobnou inspiraci zrovna čeká. Nebo na ni čekáš právě ty?
+🧑‍🤝‍🧑 Na blogu máme nový článek, kde se Lucia Poláková, Kačka Beranová, Klára Podpierová a Šárka Rauchová rozpovídaly o tom, jak jim dobrovolnictví pomohlo v práci a v přístupu k ní. Jestli ti mluví z duše, sdílej ho mezi své okolí a řekni jim, jaké to v č.d je. Třeba někdo z nich na podobnou inspiraci zrovna čeká. **Nebo na ni čekáš právě ty?**
 
 **\> [Čtyři dobrovolnice, které Česko.Digital posunulo v kariéře](https://blog.cesko.digital/2022/05/4-dobrovolnice-ktere-cesko-digital-posunulo-v-kariere)**
 
@@ -46,7 +46,7 @@ lang: cs
 
 ### Nová série plná copywriterského know-how: 7 tipů, díky kterým napíšeš úspěšný post na Facebook
 
-🚀 Chceš psát na Facebook lepší texty? Chceš své příspěvky vyladit tak, aby byly úspěšnější? Jelikož nám v obsahovém týmu záleží na tom, abychom na sítích komunikovali co nejlépe, tak pro tebe připravuje Tereza Kubíčková v rámci projektu [Tvořit může každý](https://cesko-digital.atlassian.net/l/c/wmmVxPLe) seriál s copywriterskými tipy pro jednotlivé kanály. V prvním článku ze série přehledně a srozumitelně shrnuje, jakým stylem psát na Facebooku, jak text strukturovat a na co si dát pozor. Přečíst si ho můžeš na našem blogu – know-how jednotlivců je totiž pákou komunity!
+🚀 Chceš psát na Facebook lepší texty? Chceš své příspěvky vyladit tak, aby byly úspěšnější? Jelikož nám v obsahovém týmu záleží na tom, abychom na sítích komunikovali co nejlépe, tak pro tebe připravuje Tereza Kubíčková v rámci projektu **[Tvořit může každý](https://cesko-digital.atlassian.net/l/c/wmmVxPLe)** seriál s copywriterskými tipy pro jednotlivé kanály. V prvním článku ze série přehledně a srozumitelně shrnuje, jakým stylem psát na Facebooku, jak text strukturovat a na co si dát pozor. **Přečíst si ho můžeš na našem blogu** – know-how jednotlivců je totiž pákou komunity!
 
 **\> [Jak psát příspěvky na Facebook aneb Staňte se virtuálním kavárníkem snadno a rychle](https://blog.cesko.digital/2022/05/jak-psat-prispevky-na-facebook)**
 
@@ -54,11 +54,11 @@ lang: cs
 
 ### Další podpora od Nadace PPF
 
-🤝 V souvislosti s aktuálním krizovým obdobím a výrazným nárůstem našich aktivit jsme nesmírně rádi, že se náš hlavní partner, kterým je [Nadace PPF](https://nadaceppf.cz/), rozhodl navýšit finanční podporu pro Česko.Digital. Díky tomu získáváme větší prostor pro růst a péči o naši komunitu, rozvoj a podporu sítě neziskových organizací a aktivit zaměřených na pomoc obyvatel zasažených konfliktem na Ukrajině.
+🤝 V souvislosti s aktuálním krizovým obdobím a výrazným nárůstem našich aktivit jsme nesmírně rádi, že se náš hlavní partner, kterým je [Nadace PPF](https://nadaceppf.cz/), rozhodl **navýšit finanční podporu pro Česko.Digital**. Díky tomu získáváme větší prostor pro růst a péči o naši komunitu, rozvoj a podporu sítě neziskových organizací a aktivit zaměřených na pomoc obyvatel zasažených konfliktem na Ukrajině.
 
 ### Nový nadační program
 
-🤗 Díky [Avast Foundation](https://foundation.avast.com/) jsme se zapojili do nového nadačního programu pro podporu expertního dobrovolnictví, kde je pomoc násobena a podpořena kampaní #GiveBack. Děkujeme také za další báječné expertní posily z řad Avastians pro naše projekty.
+🤗 Díky [Avast Foundation](https://foundation.avast.com/) jsme se zapojili do nového nadačního programu pro podporu expertního dobrovolnictví, kde je pomoc násobena a podpořena kampaní **\#GiveBack**. Děkujeme také za další báječné expertní posily z řad Avastians pro naše projekty.
 
 ![](https://data.cesko.digital/img/dad68fa0.png)
 
