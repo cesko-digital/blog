@@ -22,9 +22,9 @@ lang: cs
 
 🥳 Dobrovolníci Česko.Digital a [Loono](http://loono.cz/) mají za sebou 8 měsíců práce a skvělý výsledek – aplikace Preventivka je venku! 📱 Najdeš v ní ověřené informace o tom, jak se starat o své zdraví. Pohlídá za tebe, kdy na jaké prohlídky zajít a pomůže ti dokonce najít i doktora v okolí. Děkujeme všem zúčastněným expertním dobrovolníkům, týmu a lékařům z Loono a také [Nadaci PPF](http://nadaceppf.cz/) za skvělou práci a podporu!
 
-👉 [Stáhni si aplikaci na Google Play](https://play.google.com/store/apps/details?id=cz.loono.app)
+👉** [Stáhni si aplikaci na Google Play](https://play.google.com/store/apps/details?id=cz.loono.app)**
 
-👉 [Stáhni si aplikaci v App Store](https://apps.apple.com/cz/app/preventivka/id1573646003?l=cs)
+**👉 [Stáhni si aplikaci v App Store](https://apps.apple.com/cz/app/preventivka/id1573646003?l=cs)**
 
 ![](https://data.cesko.digital/newsletter/34/preventivka-nl.png)
 
@@ -32,7 +32,7 @@ lang: cs
 
 🧑‍🤝‍🧑 Na blogu máme nový článek, kde se Lucia Poláková, Kačka Beranová, Klára Podpierová a Šárka Rauchová rozpovídaly o tom, jak jim dobrovolnictví pomohlo v práci a v přístupu k ní. Jestli ti mluví z duše, sdílej ho mezi své okolí a řekni jim, jaké to v č.d je. Třeba někdo z nich na podobnou inspiraci zrovna čeká. Nebo na ni čekáš právě ty?
 
-\> [Čtyři dobrovolnice, které Česko.Digital posunulo v kariéře](https://blog.cesko.digital/2022/05/4-dobrovolnice-ktere-cesko-digital-posunulo-v-kariere)
+**\> [Čtyři dobrovolnice, které Česko.Digital posunulo v kariéře](https://blog.cesko.digital/2022/05/4-dobrovolnice-ktere-cesko-digital-posunulo-v-kariere)**
 
 ![](https://data.cesko.digital/newsletter/34/4-dobrovolnice-NL.png)
 
@@ -40,7 +40,7 @@ lang: cs
 
 📱S **1 000 použitelnými frázemi** v češtině a ukrajinštině se už teď Movapp.cz řadí mezi běžná menší jazyková díla. Po dvou měsících fungování chodí na [Movapp.cz](http://movapp.cz/) samá chvála a zmiňují se o ní česká i cizojazyčná média ([BusinessINFO.cz](https://www.businessinfo.cz/clanky/cesko-digital-spousti-dalsi-projekt-na-podporu-ukrajiny-movapp-cz/), [Radio Prague International](https://cesky.radio.cz/ukrajinsky-se-jazyk-rekne-mova-8747428), [Aktuálně.cz](https://zpravy.aktualne.cz/domaci/ukrajinsti-uprchlici-vyuka-cestiny/r~3ed8b718a90911ec8d900cc47ab5f122/)). 🎉 Tým také aktuálně vypouští do světa mobilní [aplikaci pro iOS](https://apps.apple.com/app/apple-store/id1617768476?pt=124252508&ct=newsletter-ceskodigital&mt=8), verze pro Android bude brzy následovat. Pracujeme i na obsahu: Po dubnové Velikonoční nadílce 🐰, plné frází i dětských omalovánek, připravujeme tematické fráze pro Den dětí a blížící se prázdniny. 🏖 
 
-\> **Chceš se stát součástí hvězdného týmu? Hledáme nové vývojáře v Reactu a nové tváře do marketingu. Pokud máš chuť a čas, ozvi se Táně Chytilové na [pryvit@movapp.cz](<>).**
+**\>** **Chceš se stát součástí hvězdného týmu? Hledáme nové vývojáře v Reactu a nové tváře do marketingu. Pokud máš chuť a čas, ozvi se Táně Chytilové na [pryvit@movapp.cz](<>).**
 
 ![](https://data.cesko.digital/newsletter/34/movapp-nl.jpg)
 
@@ -48,7 +48,7 @@ lang: cs
 
 🚀 Chceš psát na Facebook lepší texty? Chceš své příspěvky vyladit tak, aby byly úspěšnější? Jelikož nám v obsahovém týmu záleží na tom, abychom na sítích komunikovali co nejlépe, tak pro tebe připravuje Tereza Kubíčková v rámci projektu [Tvořit může každý](https://cesko-digital.atlassian.net/l/c/wmmVxPLe) seriál s copywriterskými tipy pro jednotlivé kanály. V prvním článku ze série přehledně a srozumitelně shrnuje, jakým stylem psát na Facebooku, jak text strukturovat a na co si dát pozor. Přečíst si ho můžeš na našem blogu – know-how jednotlivců je totiž pákou komunity!
 
-\> [Jak psát příspěvky na Facebook aneb Staňte se virtuálním kavárníkem snadno a rychle](https://blog.cesko.digital/2022/05/jak-psat-prispevky-na-facebook)
+**\> [Jak psát příspěvky na Facebook aneb Staňte se virtuálním kavárníkem snadno a rychle](https://blog.cesko.digital/2022/05/jak-psat-prispevky-na-facebook)**
 
 ![](https://data.cesko.digital/newsletter/34/7-tipu-nl.png)
 
@@ -70,7 +70,7 @@ lang: cs
 
 👏 V dubnu jsme učinili velký krok a stvrdili spolupráci s [Národním pedagogickým institutem České republiky](https://www.npi.cz/). Učíme online plně přešlo pod NPI a naše webináře již děláme společně. Spolu s projektem přešli pod NPI i dobrovolníci, jelikož pro mnohé se projekt stal srdcovou záležitostí, na které se chtějí podílet. [Stránky](http://ucimeonline.cz/) i profily na sociálních sítích zůstávají stejné. Nepřestávej nás sledovat kvůli dalším novinkám!
 
-\> Podívej se na to, jaký dopad projekt měl!
+**\> [Podívej se na to, jaký dopad projekt měl!](http://data.cesko.digital/newsletter/34/OnePager-UcimeOnline-2022.pdf)**
 
 ### Safezóna
 
@@ -94,9 +94,9 @@ lang: cs
 
 🗺️ Aktualizujeme a vylepšujeme. Je to měsíc a kousek, co vypustil tým č.d ve spolupráci s [Mapotic](https://www.mapotic.com/) do světa [Umapu](https://www.stojimezaukrajinou.cz/umapa) –⁠ komunitní a integrační mapu pro lidi přicházející z Ukrajiny. V mapě už je **víc než 3 000 užitečných institucí**, míst a služeb. Vylepšujeme i naši mobilní appku, kterou si nainstalovalo už **přes 4 900 uživatelů**. Spojujeme také síly s médii –⁠ zmínku o Umapě můžeš najít na stránkách [Blesku](https://proukrainu.blesk.cz/) nebo [v českém mezinárodním rozhlasu](https://cesky.radio.cz/shcho-robiti-koli-priyihali-z-domashnimi-tvarinami-karta-umapa-vse-dlya-8749047), brzy o ní najdeš článek také na Seznamu.
 
-> [Podívej se na konci této stránky na otevřené pozice a přidej se k nám!](https://cesko.digital/projects/umapa)
+**\> [Podívej se na konci této stránky na otevřené pozice a přidej se k nám!](https://cesko.digital/projects/umapa)**
 
-💻 Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).
+**💻 Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).**
 
 ![](https://data.cesko.digital/img/dad68fa0.png)
 
@@ -112,25 +112,25 @@ lang: cs
 
 🎉 Webexpo proběhne v červnu. Registrace byla právě zahájena a naše [CEO Eva Pavlíková](https://www.webexpo.net/prague2022/talk/eva-pavlikova) zde bude jedním ze speakerů. Spolu s platinovým partnerem [Livesport](https://www.livesport.eu/) a komunitou [Frontendisti.cz](https://frontendisti.cz/) zažijeme to nejlepší ze světa vývoje, service designu, UX, dat a mnoha jiných témat a navíc i s 50 volnými vstupy pro příchozí z Ukrajiny!
 
-\> [Kup si vstupenku na stránce festivalu](https://www.webexpo.net/prague2022)
+**\> [Kup si vstupenku na stránce festivalu](https://www.webexpo.net/prague2022)**
 
 ## Vzděláváme Česko.Digital
 
 ### edu.digital, dříve č.edu
 
-💻 V dubnu jsme přijali nový název edu.digital a uspořádali dva webináře. Ve webináři o GitHub nám Petr Švarný vysvětlil základní funkce a možnosti, jaké GitHub nabízí manažerovi i vývojáři. Od Lucie Klabanové nově víme, proč je plánování klíčem ke spokojenosti. Lucie nás naučila, jak a kdy dělat plány a ukázala nám vhodné aplikace. 
+💻 V dubnu jsme přijali nový název **edu.digital** a uspořádali dva webináře. Ve webináři o GitHub nám Petr Švarný vysvětlil základní funkce a možnosti, jaké GitHub nabízí manažerovi i vývojáři. Od Lucie Klabanové nově víme, proč je plánování klíčem ke spokojenosti. Lucie nás naučila, jak a kdy dělat plány a ukázala nám vhodné aplikace. 
 
-\> [Z webinářů získáš nejvíce připojením se naživo, přihlas se na Portálu dobrovolníka.](http://cesko.digital/portal-dobrovolnika) 
+**\> [Z webinářů získáš nejvíce připojením se naživo, přihlas se na Portálu dobrovolníka.](http://cesko.digital/portal-dobrovolnika)** 
 
-\> [Sleduj také #eventy-pozvánky na Slacku](https://cesko-digital.slack.com/archives/CMCCD7415) nebo sociální sítě Česko.Digital.
+**\> [Sleduj také #eventy-pozvánky na Slacku](https://cesko-digital.slack.com/archives/CMCCD7415) nebo sociální sítě Česko.Digital.**
 
-\> [Pokud nějaký webinář nestíháš, nezoufej –⁠ postupně je zveřejníme na našem YouTube.](https://www.youtube.com/c/%C4%8CeskoDigital/playlists?view=50&sort=dd&shelf_id=2)
+**\> [Pokud nějaký webinář nestíháš, nezoufej –⁠ postupně je zveřejníme na našem YouTube.](https://www.youtube.com/c/%C4%8CeskoDigital/playlists?view=50&sort=dd&shelf_id=2)**
 
 ## Koho aktuálně hledáme
 
 🤓 Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digitalizuj s námi Česko.
 
-\> Všechny pozice najdeš přehledně na [Portálu dobrovolníka](http://cesko.digital/portal-dobrovolnika).
+**\> Všechny pozice najdeš přehledně na [Portálu dobrovolníka](http://cesko.digital/portal-dobrovolnika).**
 
 ## Děkujeme, že jsi s námi!
 
@@ -138,7 +138,7 @@ lang: cs
 
 Digitálu zdar!
 
-Za obsahový tým Česko.Digital
+**Za obsahový tým Česko.Digital**
 
 *Koordinace: Lenka Moravcová, Hanka Burešová*
 
