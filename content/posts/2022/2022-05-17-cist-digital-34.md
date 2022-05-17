@@ -82,7 +82,7 @@ lang: cs
 
 #### *Tvoříme jednotné místo pro prevenci a včasnou pomoc při duševní nepohodě či složité životní situaci*
 
-🚸 Bezpečné místo v online prostoru je tu. Na začátku dubna jsme [Safezónu](https://www.safezona.cz/) pustili do světa. Na jednom místě tak najdou děti a dospívající informace o duševním zdraví a o prevenci psychických potíží. Spolus [Ámos Vision](https://amosvision.cz/cz) a [Czech Video Center](https://www.linkedin.com/company/czech-video-center/) pracujeme na videích pro jednotlivá témata, která uvidí děti ve **263 školách**. Na palubu přistoupila online marketingová [agentura H1](https://www.linkedin.com/company/h1cz/), která se zaměřuje na influencery. Všem partnerům moc děkujeme!
+🚸 Bezpečné místo v online prostoru je tu. Na začátku dubna jsme [Safezónu](https://www.safezona.cz/) pustili do světa. Na jednom místě tak najdou děti a dospívající informace o duševním zdraví a o prevenci psychických potíží. Spolu s [Ámos Vision](https://amosvision.cz/cz) a [Czech Video Center](https://www.linkedin.com/company/czech-video-center/) pracujeme na videích pro jednotlivá témata, která uvidí děti ve **263 školách**. Na palubu přistoupila online marketingová [agentura H1](https://www.linkedin.com/company/h1cz/), se kterou aktuálně řešíme spolupráci s influencery. Všem partnerům moc děkujeme!
 
 **\> Zajímá tě, co se u nás děje nebo se k nám chceš přidat? [Ozvi se nám na Slack](https://cesko.digital/join) nebo na e-mail: [vladimira.osadnikova@cesko.digital](<>)!**
 
