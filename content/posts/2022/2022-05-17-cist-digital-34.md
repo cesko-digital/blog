@@ -118,6 +118,12 @@ lang: cs
 
 🧑‍🔬 V dubnu jsme uspořádali UX research – ptali jsme se současných uživatelů, jak kalkulačku používají. Výsledky nám pomůžou vylepšit wireframe a design nového flow. Podzimní komunální volby se budou konat 23. –⁠ 24. 9. 2022, čímž je stanovený milník pro náš vývoj.
 
+<center>
+
+![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
+
 <br>
 
 # Jak si v komunitě žijeme
@@ -127,6 +133,12 @@ lang: cs
 🎉 Webexpo proběhne v červnu. Registrace byla právě zahájena a naše [CEO Eva Pavlíková](https://www.webexpo.net/prague2022/talk/eva-pavlikova) zde bude jedním ze speakerů. Spolu s platinovým partnerem [Livesport](https://www.livesport.eu/) a komunitou [Frontendisti.cz](https://frontendisti.cz/) zažijeme to nejlepší ze světa vývoje, service designu, UX, dat a mnoha jiných témat a navíc i s 50 volnými vstupy pro příchozí z Ukrajiny!
 
 **\> [Kup si vstupenku na stránce festivalu](https://www.webexpo.net/prague2022)**
+
+<center>
+
+![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
 
 <br>
 
@@ -142,6 +154,12 @@ lang: cs
 
 **\> [Pokud nějaký webinář nestíháš, nezoufej –⁠ postupně je zveřejníme na našem YouTube.](https://www.youtube.com/c/%C4%8CeskoDigital/playlists?view=50&sort=dd&shelf_id=2)**
 
+<center>
+
+![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
+
 <br>
 
 # Koho aktuálně hledáme
@@ -149,6 +167,12 @@ lang: cs
 🤓 Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digitalizuj s námi Česko.
 
 **\> Všechny pozice najdeš přehledně na [Portálu dobrovolníka](http://cesko.digital/portal-dobrovolnika).**
+
+<center>
+
+![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
 
 <br>
 
