@@ -76,23 +76,23 @@ lang: cs
 
 ##### *Tvoříme jednotné místo pro prevenci a včasnou pomoc při duševní nepohodě či složité životní situaci*
 
-🚸 Bezpečné místo v online prostoru je tu. Na začátku dubna jsme [Safezónu](https://www.safezona.cz/) pustili do světa. Na jednom místě tak najdou děti a dospívající informace o duševním zdraví a o prevenci psychických potíží. Spolus [Ámos Vision](https://amosvision.cz/cz) a [Czech Video Center](https://www.linkedin.com/company/czech-video-center/) pracujeme na videích pro jednotlivá témata, která uvidí děti ve 263 školách. Na palubu přistoupila online marketingová [agentura H1](https://www.linkedin.com/company/h1cz/), která se zaměřuje na influencery. Všem partnerům moc děkujeme!
+🚸 Bezpečné místo v online prostoru je tu. Na začátku dubna jsme [Safezónu](https://www.safezona.cz/) pustili do světa. Na jednom místě tak najdou děti a dospívající informace o duševním zdraví a o prevenci psychických potíží. Spolus [Ámos Vision](https://amosvision.cz/cz) a [Czech Video Center](https://www.linkedin.com/company/czech-video-center/) pracujeme na videích pro jednotlivá témata, která uvidí děti ve **263 školách**. Na palubu přistoupila online marketingová [agentura H1](https://www.linkedin.com/company/h1cz/), která se zaměřuje na influencery. Všem partnerům moc děkujeme!
 
-\> Zajímá tě, co se u nás děje nebo se k nám chceš přidat? [Ozvi se nám na Slack](https://cesko.digital/join) nebo na e-mail: [vladimira.osadnikova@cesko.digital](<>)!
+**\> Zajímá tě, co se u nás děje nebo se k nám chceš přidat? [Ozvi se nám na Slack](https://cesko.digital/join) nebo na e-mail: [vladimira.osadnikova@cesko.digital](<>)!**
 
 ### Stojíme za Ukrajinou
 
 ##### *Lidé z platformy Stojíme za Ukrajinou se spojili s Česko.Digital a za víkend vytvořili rozcestník pro pomoc Ukrajině*
 
-💙💛 Vylepšujeme a nasloucháme uživatelům. Nově jsme zprovoznili doménu [pryvit.cz](https://www.pryvit.cz/), která je pro Ukrajince srozumitelnější než české stránky „Stojíme za Ukrajinou“. Celý web pravidelně aktualizujeme a chystáme uživatelský výzkum. Motivací je pro nás návštěvnost, která z březnových 300 tisíc stoupla na 456 tisíc návštěvníků. 👀 Moc díky za velkou pomoc dobrovolníků a velké poděkování patří také [Solidpixels](https://www.solidpixels.com/cs), [Asociaci komunikačních agentur](https://aka.cz/), [Czech Video Center](https://www.linkedin.com/company/czech-video-center/) a mnoha dalším! Podívej se také na [otevřené pozice](https://cesko.digital/opportunities), rádi tě přivítáme mezi sebou.
+💙💛 Vylepšujeme a nasloucháme uživatelům. Nově jsme zprovoznili doménu [pryvit.cz](https://www.pryvit.cz/), která je pro Ukrajince srozumitelnější než české stránky „Stojíme za Ukrajinou“. Celý web pravidelně aktualizujeme a chystáme uživatelský výzkum. Motivací je pro nás návštěvnost, která z březnových 300 tisíc stoupla na **456 tisíc návštěvníků**. 👀 Moc díky za velkou pomoc dobrovolníků a velké poděkování patří také [Solidpixels](https://www.solidpixels.com/cs), [Asociaci komunikačních agentur](https://aka.cz/), [Czech Video Center](https://www.linkedin.com/company/czech-video-center/) a mnoha dalším! Podívej se také na [otevřené pozice](https://cesko.digital/opportunities), rádi tě přivítáme mezi sebou.
 
-\> Víš o místě, na kterém by informace o Rozcestníku v ukrajinštině neměly chybět? [Dali jsme dohromady Media kit, který můžeš sdílet.](https://drive.google.com/drive/u/0/folders/1TeQiRr25AH5gRDshOzWsn5VhUhd7q1k0)
+**\> Víš o místě, na kterém by informace o Rozcestníku v ukrajinštině neměly chybět? [Dali jsme dohromady Media kit, který můžeš sdílet.](https://drive.google.com/drive/u/0/folders/1TeQiRr25AH5gRDshOzWsn5VhUhd7q1k0)**
 
 ### Umapa
 
 ##### *Mapa pro ukrajinskou komunitu s důležitými informacemi a místy v novém domově*
 
-🗺️ Aktualizujeme a vylepšujeme. Je to měsíc a kousek, co vypustil tým č.d ve spolupráci s [Mapotic](https://www.mapotic.com/) do světa [Umapu](https://www.stojimezaukrajinou.cz/umapa) –⁠ komunitní a integrační mapu pro lidi přicházející z Ukrajiny. V mapě už je víc než 3 000 užitečných institucí, míst a služeb. Vylepšujeme i naši mobilní appku, kterou si nainstalovalo už přes 4 900 uživatelů. Spojujeme také síly s médii –⁠ zmínku o Umapě můžeš najít na stránkách [Blesku](https://proukrainu.blesk.cz/) nebo [v českém mezinárodním rozhlasu](https://cesky.radio.cz/shcho-robiti-koli-priyihali-z-domashnimi-tvarinami-karta-umapa-vse-dlya-8749047), brzy o ní najdeš článek také na Seznamu.
+🗺️ Aktualizujeme a vylepšujeme. Je to měsíc a kousek, co vypustil tým č.d ve spolupráci s [Mapotic](https://www.mapotic.com/) do světa [Umapu](https://www.stojimezaukrajinou.cz/umapa) –⁠ komunitní a integrační mapu pro lidi přicházející z Ukrajiny. V mapě už je **víc než 3 000 užitečných institucí**, míst a služeb. Vylepšujeme i naši mobilní appku, kterou si nainstalovalo už **přes 4 900 uživatelů**. Spojujeme také síly s médii –⁠ zmínku o Umapě můžeš najít na stránkách [Blesku](https://proukrainu.blesk.cz/) nebo [v českém mezinárodním rozhlasu](https://cesky.radio.cz/shcho-robiti-koli-priyihali-z-domashnimi-tvarinami-karta-umapa-vse-dlya-8749047), brzy o ní najdeš článek také na Seznamu.
 
 > [Podívej se na konci této stránky na otevřené pozice a přidej se k nám!](https://cesko.digital/projects/umapa)
 
