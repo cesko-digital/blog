@@ -40,7 +40,7 @@ lang: cs
 
 📱S **1 000 použitelnými frázemi** v češtině a ukrajinštině se už teď Movapp.cz řadí mezi běžná menší jazyková díla. Po dvou měsících fungování chodí na [Movapp.cz](http://movapp.cz/) samá chvála a zmiňují se o ní česká i cizojazyčná média ([BusinessINFO.cz](https://www.businessinfo.cz/clanky/cesko-digital-spousti-dalsi-projekt-na-podporu-ukrajiny-movapp-cz/), [Radio Prague International](https://cesky.radio.cz/ukrajinsky-se-jazyk-rekne-mova-8747428), [Aktuálně.cz](https://zpravy.aktualne.cz/domaci/ukrajinsti-uprchlici-vyuka-cestiny/r~3ed8b718a90911ec8d900cc47ab5f122/)). 🎉 Tým také aktuálně vypouští do světa mobilní [aplikaci pro iOS](https://apps.apple.com/app/apple-store/id1617768476?pt=124252508&ct=newsletter-ceskodigital&mt=8), verze pro Android bude brzy následovat. Pracujeme i na obsahu: Po dubnové Velikonoční nadílce 🐰, plné frází i dětských omalovánek, připravujeme tematické fráze pro Den dětí a blížící se prázdniny. 🏖 
 
-**\>** **Chceš se stát součástí hvězdného týmu? Hledáme nové vývojáře v Reactu a nové tváře do marketingu. Pokud máš chuť a čas, ozvi se Táně Chytilové na [pryvit@movapp.cz](<>).**
+**\>** **Chceš se stát součástí hvězdného týmu? Hledáme nové vývojáře v Reactu a nové tváře do marketingu. Pokud máš chuť a čas, ozvi se Táně Chytilové na [pryvit@movapp.cz](<pryvit@movapp.cz>).**
 
 ![](https://data.cesko.digital/newsletter/34/movapp-nl.jpg)
 
