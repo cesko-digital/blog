@@ -22,9 +22,9 @@ lang: cs
 
 🥳 Dobrovolníci Česko.Digital a [Loono](http://loono.cz/) mají za sebou 12 měsíců práce a skvělý výsledek – **aplikace Preventivka je venku!** 📱 Najdeš v ní ověřené informace o tom, jak se starat o své zdraví. Pohlídá za tebe, kdy na jaké prohlídky zajít a pomůže ti dokonce najít i doktora v okolí. Děkujeme všem zúčastněným expertním dobrovolníkům, týmu a lékařům z Loono a také [Nadaci PPF](http://nadaceppf.cz/) za skvělou práci a podporu!
 
-👉** [Stáhni si aplikaci na Google Play](https://play.google.com/store/apps/details?id=cz.loono.app)**
+👉 [Stáhni si aplikaci na Google Play](https://play.google.com/store/apps/details?id=cz.loono.app)
 
-**👉 [Stáhni si aplikaci v App Store](https://apps.apple.com/cz/app/preventivka/id1573646003?l=cs)**
+👉 [Stáhni si aplikaci v App Store](https://apps.apple.com/cz/app/preventivka/id1573646003?l=cs)
 
 ![](https://data.cesko.digital/newsletter/34/preventivka-nl.png)
 
@@ -60,7 +60,13 @@ lang: cs
 
 🤗 Díky [Avast Foundation](https://foundation.avast.com/) jsme se zapojili do nového nadačního programu pro podporu expertního dobrovolnictví, kde je pomoc násobena a podpořena kampaní **\#GiveBack**. Děkujeme také za další báječné expertní posily z řad Avastians pro naše projekty.
 
+<center>
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
+
+<br>
 
 # To nejlepší z našich projektů
 
@@ -98,13 +104,21 @@ lang: cs
 
 **💻 Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).**
 
+<center>
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
+
+<br>
 
 # Co se klube v našem inkubátoru
 
 ## Volební kalkulačka
 
 🧑‍🔬 V dubnu jsme uspořádali UX research – ptali jsme se současných uživatelů, jak kalkulačku používají. Výsledky nám pomůžou vylepšit wireframe a design nového flow. Podzimní komunální volby se budou konat 23. –⁠ 24. 9. 2022, čímž je stanovený milník pro náš vývoj.
+
+<br>
 
 # Jak si v komunitě žijeme
 
@@ -113,6 +127,8 @@ lang: cs
 🎉 Webexpo proběhne v červnu. Registrace byla právě zahájena a naše [CEO Eva Pavlíková](https://www.webexpo.net/prague2022/talk/eva-pavlikova) zde bude jedním ze speakerů. Spolu s platinovým partnerem [Livesport](https://www.livesport.eu/) a komunitou [Frontendisti.cz](https://frontendisti.cz/) zažijeme to nejlepší ze světa vývoje, service designu, UX, dat a mnoha jiných témat a navíc i s 50 volnými vstupy pro příchozí z Ukrajiny!
 
 **\> [Kup si vstupenku na stránce festivalu](https://www.webexpo.net/prague2022)**
+
+<br>
 
 # Vzděláváme Česko.Digital
 
@@ -126,15 +142,21 @@ lang: cs
 
 **\> [Pokud nějaký webinář nestíháš, nezoufej –⁠ postupně je zveřejníme na našem YouTube.](https://www.youtube.com/c/%C4%8CeskoDigital/playlists?view=50&sort=dd&shelf_id=2)**
 
+<br>
+
 # Koho aktuálně hledáme
 
 🤓 Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digitalizuj s námi Česko.
 
 **\> Všechny pozice najdeš přehledně na [Portálu dobrovolníka](http://cesko.digital/portal-dobrovolnika).**
 
+<br>
+
 ## Děkujeme, že jsi s námi!
 
-🤗 Jak se ti líbí náš newsletter? Budeme rádi, když nám [necháš zpětnou vazbu](https://airtable.com/shrLH9CrSztEXGnKa), která nám ho pomůže vylepšit. A jestli se na tvorbě tohoto newsletteru chceš také podílet, ozvi se v kanálu [\#ceskodigital-obsah](https://cesko-digital.slack.com/archives/C01FQBDMDGQ) ve Slacku nebo napiš na [terezia@cesko.digital](mailto:terezia@cesko.digital).
+🤗 Jak se ti líbí náš newsletter? Budeme rádi, když nám [necháš zpětnou vazbu](https://airtable.com/shrLH9CrSztEXGnKa), která nám ho pomůže vylepšit. A jestli se na tvorbě tohoto newsletteru chceš také podílet, ozvi se v kanálu [\#ceskodigital-obsah](https://cesko-digital.slack.com/archives/C01FQBDMDGQ) ve Slacku nebo napiš na [terezia@cesko.digital.](mailto:terezia@cesko.digital)
+
+<br>
 
 Digitálu zdar!
 
