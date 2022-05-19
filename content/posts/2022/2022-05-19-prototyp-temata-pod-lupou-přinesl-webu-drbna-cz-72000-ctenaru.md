@@ -76,8 +76,6 @@ Pilotní nasazení prototypu aplikace Témata pod lupou proběhlo od července d
 \
 Ukázka banneru na webu Drbna..cz, který odkazoval na hlásování o tématech
 
-
-
 Pilotní projekt se skládal z těchto fází: 
 
 * nasazení hlasovací systému do redakce
@@ -114,8 +112,6 @@ Témata byla poskytnuta jednotlivým redakcím, které je připravili pro násle
 * Výstavba Na Perštýně
 * Přetížená nákladní vozidla na silnicích Libereckého kraje
 * Nová silnice z Turnova na Jičín 
-
-
 
 **Praha**
 
@@ -170,10 +166,6 @@ Témata byla poskytnuta jednotlivým redakcím, které je připravili pro násle
 * Dostupnost a počet WC ve městě
 * Město versus cyklisté. Proč na ně vůbec nemyslí?
 
-
-
-![](https://lh6.googleusercontent.com/_1ErsZYYNEbymfnYUTYKGxP9u6rW4kBw0wA4ZH1GO3trwEVUxVGxksizRZWcWpyV37RgYS3_r9GwPZ-pTuN-tVLLBEhj559bFzuF3MSLkWCu74s36uHzI295gi-aPeuaFrKjrcE0k0xpN72tuA)
-
 Ukázka formuláře pro sběr témat
 
 ### Hlasování o tématech čtenáři
@@ -205,8 +197,6 @@ Brno (156 hlasů)
 * Zvýšení průjezdnosti křižovatek v Českýcj Budějovicích (21 hlasů)
 * Parkování v Českých Budějovicích a připravované rozšíření modrých zón (16 hlasů)
 * Stav ulic v Českých Budějovicích je velice špatný (15 hlasů)
-
-
 
 ### Zpracování článků na vítězná témata
 
