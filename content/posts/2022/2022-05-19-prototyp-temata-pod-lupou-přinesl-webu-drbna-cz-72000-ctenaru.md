@@ -1,5 +1,5 @@
 ---
-title: "Case study: Prototyp Témata pod lupou přinesl webu Drbna.cz 72 000 čtenářů"
+title: Prototyp Témata pod lupou přinesl webu Drbna.cz 72 000 čtenářů
 author: zavis.pexidr
 tags:
   - inovace-zpravodajstvi
