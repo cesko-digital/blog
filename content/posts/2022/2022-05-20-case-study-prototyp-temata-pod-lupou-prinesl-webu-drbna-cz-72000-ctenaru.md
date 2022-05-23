@@ -59,8 +59,6 @@ Obrázek 2 - Ukázka pracovních materiálů z ideačních workshopů
 
 ![Zdroj: Inovace zpravodajského storytellingu (MIRO)](https://data.cesko.digital/img/Inovace_ideacni-workshopy.jpg)
 
-
-
 ## Jak to funguje
 
 Přidanou hodnotou Témat pod lupou je dát čtenářům možnost reálně něco změnit ve svém okolí a zároveň si vybudovat důvěru v novináře a média. Na straně druhé dát novinářům možnost poznat, co lidi v jejich regionu opravdu pálí a zaměřit se tak na témata, která jim přinesou nejvíce čtenářů.
@@ -178,7 +176,7 @@ Ukázka formuláře pro sběr témat
 
 ### Hlasování o tématech čtenáři
 
-Testování proběhlo na hlasovací platformě D21 ([ih21.org/janeckova-hlasovaci-metoda](https://www.ih21.org/janeckova-hlasovaci-metoda)). Hlasování proběhlo od  30. 8. do 3. 9 a bylo rozděleno 510 hlasů. 
+Testování proběhlo na hlasovací platformě D21 ([ih21.org/janeckova-hlasovaci-metoda](https://www.ih21.org/janeckova-hlasovaci-metoda)). Hlasování proběhlo od  30. 8. 21 do 3. 9. 21 a bylo rozděleno 510 hlasů. 
 
 ### Nejúspěšnější témata dle hlasování čtenářů: 
 
@@ -238,4 +236,4 @@ Liberecká Drbna
 
 Nástroj pro sběr podnětů a témat od čtenářů Témata pod lupou zapojil přes 500 čtenářů, vygeneroval přes 60 témat ke zpracování a výsledné články přinesly čtenost 72 000 čtenářů.
 
-Testování nástroje probíhalo včetně technické přípravy celkem 4 měsíce. Sběr témat samotných trval 14 dnů a nasbíralo se celkově 68 témat v období od 30. 8. do 3. 9 a bylo rozděleno 510 hlasů.
+Testování nástroje probíhalo včetně technické přípravy celkem 4 měsíce. Sběr témat samotných trval 14 dnů a nasbíralo se celkově 68 témat v období od 30. 8. 21 do 3. 9. 21 a bylo rozděleno 510 hlasů.
