@@ -3,7 +3,7 @@ title: "Case study: Prototyp Témata pod lupou přinesl webu Drbna.cz 72 000 čt
 author: zavis.pexidr
 tags:
   - inovace-zpravodajstvi
-cover: https://data.cesko.digital/img/b15a5410.png
+cover: https://data.cesko.digital/img/case-study_temata-pod-lupou.png
 date: 2022-05-20-08-55
 slug: case-study-prototyp-Temata-pod-lupou-prinesl-webu-Drbna-cz-72000-ctenaru
 description: Třetina Čechů nesleduje zpravodajství, ukázal výzkum Češi a
@@ -34,10 +34,8 @@ Metody, jakými se snaží zahraniční redakce udržet pozornost čtenářů, z
 
 Drbna.cz (dále jen Drbna) vznikla v roce 2014 jako nový internetový projekt společnosti TRIMA NEWS s.r.o. Zabývá se veřejnými financemi, regulacemi, byznysem a kulturou. Publikuje analýzy a komentáře vztahující se ke stěžejním tématům společenského dění v České republice. 
 
-\
 Drbna patří k nejsilnějším hráčům v oblasti lokální žurnalistiky a nabízí regionální mutace: [BudejckaDrbna.cz](http://www.budejckadrbna.cz), [BrnenskaDrbna.cz](http://www.brnenskadrbna.cz), [LibereckaDrbna.cz](http://www.libereckadrbna.cz), [OlomouckáDrbna.cz](http://www.olomouckadrbna.cz) nebo například [HradeckáDrbna.cz](http://www.hradeckadrbna.cz).
 
-\
 Vztah s čtenářem a jeho zapojení do lokálního zpravodajství je pro Drbnu klíčový. Nejen proto se v projektu Inovace zpravodajského storytellingu rozhodli testovat prototyp nástroje Témata pod lupou právě s touto redakcí.
 
 Zapojit čtenáře do redakčního obsahu se snažila Drbna již dříve. Zpravodajský deník nabízí čtenářům vytvoření vlastního profilu na stránkách Drbny, čímž čtenář získá další možnosti participace. Čtenář s registrací může vytvořit blog, vstupovat do diskuzí, přidávat fotky apod. 
@@ -49,6 +47,8 @@ Jedna z pracovních skupin projektu Inovace zpravodajského storytellingu se zam
 \
 Obrázek 1 -  ukázka zápisů z brainstormingů nad nápady na inovace
 
+![](https://data.cesko.digital/img/Inovace_brainstorming.jpg)
+
 Zdroj: Inovace zpravodajského storytellingu (MIRO)
 
 Nápadů, jak tuto skupinu motivovat, aby se více zajímala o zpravodajství, bylo hned několik. Jedním z nich byl “Content slider plugin”, tedy nástroj, který by v článcích na internetu graficky animoval informace k danému tématu. Mezi dalšími nápady na zapojení této skupiny do čtení zpráv byli například Zprávy ve 30ti vteřinách, Wikipedie pro lepší porozumění zprávám nebo Vadí / Nevadí, koncept, ve kterém by se čtenář mohl vyjádřit a hodnotit 3 zprávy ze svého regionu.
@@ -57,7 +57,9 @@ Téma, které v týmu rezonovalo nejvíce bylo zapojení čtenáře do procesu t
 
 Obrázek 2 - Ukázka pracovních materiálů z ideačních workshopů
 
-Zdroj: Inovace zpravodajského storytellingu (MIRO)
+![Zdroj: Inovace zpravodajského storytellingu (MIRO)](https://data.cesko.digital/img/Inovace_ideacni-workshopy.jpg)
+
+
 
 ## Jak to funguje
 
@@ -67,14 +69,18 @@ Inspiraci našel tým u novináře Johna D. Suttera ze CNN. Jeho crowdsourcing t
 
 Obrázek 3 - Crowdsourcing lokálních témat ve Skotsku
 
+![](https://data.cesko.digital/img/Inovace_crowdsourcing-skotsko.jpg)
+
 Sběr témat má umožnit čtenáři participovat na výběru témat, která redakce zpracovává. Hlasování se může objevit na sociálních sítích nebo například na webových stránkách médií a municipalit.
 
 # Pilotní projekt 
 
 Pilotní nasazení prototypu aplikace Témata pod lupou proběhlo od července do října  2021 s internetovým zpravodajským portálem Drbna.cz. 
 
+![](https://data.cesko.digital/img/Banner_drbna.png)
+
 \
-Ukázka banneru na webu Drbna..cz, který odkazoval na hlásování o tématech
+Ukázka banneru na webu Drbna.cz, který odkazoval na hlásování o tématech
 
 Pilotní projekt se skládal z těchto fází: 
 
@@ -165,6 +171,8 @@ Témata byla poskytnuta jednotlivým redakcím, které je připravili pro násle
 * Chybějící kanalizace ve městě (např. Haklovy dvory)
 * Dostupnost a počet WC ve městě
 * Město versus cyklisté. Proč na ně vůbec nemyslí?
+
+![](https://data.cesko.digital/img/Inovace_ukazka-formulare.png)
 
 Ukázka formuláře pro sběr témat
 
