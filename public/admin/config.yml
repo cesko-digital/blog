@@ -72,6 +72,7 @@ collections:
             "tereza.vaisova",
             "michaela.vranova",
             "tereza.kubickova",
+            "michaela.petrova",
           ]
         required: true
       - label: "Tags"
@@ -192,6 +193,7 @@ collections:
             "tereza.vaisova",
             "michaela.vranova",
             "tereza.kubickova",
+            "michaela.petrova",
           ]
         required: true
       - label: "Cover"
