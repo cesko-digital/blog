@@ -24,7 +24,7 @@ Díky tomu, že sdružujeme znalce z mnoha různorodých oblastí, máme unikát
 
 <br>
 
-![]()
+![](https://data.cesko.digital/img/clanek-spoluprace-s-cd/tym-dame-rousky.png)
 
 <br>
 
@@ -78,7 +78,7 @@ Pokud vše zafunguje na **obou stranách**, čeká vás (ale i nás) spousta **v
 
 <br>
 
-![]()
+![](https://data.cesko.digital/img/clanek-spoluprace-s-cd/pohyb-je-reseni-meet.png)
 
 <br>
 
@@ -93,6 +93,8 @@ Spolupráce s námi může být **dlouhodobá** a **časově náročná**. Dobro
 💡 Pokud si chcete o všech možnostech spolupráce přečíst více, podívejte se na **detailnější přehled na stránce „[Co očekávat od spolupráce s č.d](https://cesko-digital.atlassian.net/l/c/Sf5sJ1es)**", kde najdete i kontakt v případě dalších dotazů.
 
 <br>
+
+![](https://data.cesko.digital/img/clanek-spoluprace-s-cd/4-moznosti-spoluprace-s-cd.png)
 
 <br>
 
