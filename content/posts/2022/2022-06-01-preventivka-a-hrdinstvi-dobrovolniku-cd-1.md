@@ -4,7 +4,7 @@ title: Preventivka a hrdinství dobrovolníků – když děláte aplikaci s tak
 author: katka
 tags:
   - loono
-cover: http://data.cesko.digital/img/clanek-preventivka/preventivka-cover.png
+cover: http://data.cesko.digital/img/clanek-preventivka/cover-preventivka.png
 date: 2022-06-01-04-26
 slug: preventivka-a-hrdinstvi-dobrovolniku-cd
 description: Kdy mám jít na preventivní prohlídku k lékaři? Kde je nejbližší
