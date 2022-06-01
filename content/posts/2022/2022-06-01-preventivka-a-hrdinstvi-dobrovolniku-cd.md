@@ -5,7 +5,7 @@ author: katka
 tags:
   - loono
 cover: http://data.cesko.digital/img/clanek-preventivka/preventivka-cover.png
-date: 2022-06-01-02-43
+date: 2022-06-01-04-03
 slug: preventivka-a-hrdinstvi-dobrovolniku-cd
 description: Kdy mám jít na preventivní prohlídku k lékaři? Kde je nejbližší
   lékař specialista v okolí? Tyto otázky vám pomůže zodpovědět nová aplikace
