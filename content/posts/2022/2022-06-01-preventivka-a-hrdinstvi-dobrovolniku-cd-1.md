@@ -52,13 +52,13 @@ Takové nadšení strhlo i vyhořelého Otakara, který v rámci studia informac
 
 Všichni nasbírali spoustu zkušeností, profesně povyrostli, naučili se pracovat s novými nástroji. Koukali pod ruce kolegům na stejných pozicích a měli možnost posoudit, jak tu samou práci dělají jiní.
 
-A všichni mají větší povědomí o prevenci. Jak to komentuje Martin Macek: *„Mimo jiné při práci na appce pracuji s informacemi o prevenci pro obě pohlaví a v poměrně širokém rozsahu. Najednou tak **vím o prevenci věcí, o které bych se jinak nezajímal**. Důsledek to má i takový, že najednou žádné věci okolo vlastního zdraví nejsou tabu, ale spíše osobní zodpovědnost --⁠ možná až samozřejmost."*
+A všichni mají větší povědomí o prevenci. Jak to komentuje Martin Macek: *„Mimo jiné při práci na appce pracuji s informacemi o prevenci pro obě pohlaví a v poměrně širokém rozsahu. Najednou tak **vím o prevenci věcí, o které bych se jinak nezajímal**. Důsledek to má i takový, že najednou žádné věci okolo vlastního zdraví nejsou tabu, ale spíše osobní zodpovědnost – možná až samozřejmost."*
 
 <br>
 
 ## Konec dobrý, všechno dobré?
 
-Zda se skutečně vše povedlo, se ukáže po tom, co aplikaci začnou používat reální uživatelé. Práce na vývoji Preventivky ale ještě není u konce, jak říká [Martin Ladecký](https://www.linkedin.com/in/martin-ladecky-9366ba5/): *„**Ciele sú nekonečné.** Mať veľa ľudí, ktorí aplikáciu používajú a pomáha im. Aplikácia sa dá zlepšovať --⁠ napríklad zapojovať lekárov, poisťovne, motivácia, môžeme pridať herné prvky. Takže o prácu je postarané."*
+Zda se skutečně vše povedlo, se ukáže po tom, co aplikaci začnou používat reální uživatelé. Práce na vývoji Preventivky ale ještě není u konce, jak říká [Martin Ladecký](https://www.linkedin.com/in/martin-ladecky-9366ba5/): * „**Ciele sú nekonečné.** Mať veľa ľudí, ktorí aplikáciu používajú a pomáha im. Aplikácia sa dá zlepšovať – napríklad zapojovať lekárov, poisťovne, motivácia, môžeme pridať herné prvky. Takže o prácu je postarané."*
 
 <br>
 
