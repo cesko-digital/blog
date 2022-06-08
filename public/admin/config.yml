@@ -73,6 +73,7 @@ collections:
             "michaela.vranova",
             "tereza.kubickova",
             "michaela.petrova",
+            "lenka.moravcova",
           ]
         required: true
       - label: "Tags"
@@ -194,6 +195,7 @@ collections:
             "michaela.vranova",
             "tereza.kubickova",
             "michaela.petrova",
+            "lenka.moravcova",
           ]
         required: true
       - label: "Cover"
