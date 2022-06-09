@@ -22,7 +22,11 @@ Svět se nestihl ani pořádně nadechnout po koronavirové krizi a náhle ho oc
 
 [Code for Romania](https://code4.ro/en) ve snaze pomoci uprchlíkům z Ukrajiny za méně než 72 hodin dodala podpůrnou a informační platformu [Dopomoha.ro](https://dopomoha.ro/en) ve 4 jazykových mutací a hned následovaly další propojené weby s [poptávkou/nabídkou pomoci](https://sprijindeurgenta.ro/) a [vyhledáváním ubytování](https://unacoperis.ro/en). Komunita navázala na své zkušenosti z doby COVID-19, kdy dodala neuvěřitelných 12 různých řešení,  které využilo více než 59 milionů lidí. Jedním z nich byl i projekt na boj s dezinformacemi.
 
+<center>
+
 ![](https://data.cesko.digital/img/clanek-svet-je-v-krizi/dopomoha-poster.png)
+
+</center>
 
 ## Technologická inovace jako bořič strachu a bezmoci
 
@@ -58,7 +62,11 @@ S vypuknutím války na Ukrajině opět přišla neuvěřitelná míra solidarit
 
 Přehled a bezpečnost  přinesl [rozcestník Stojíme za Ukrajinou](https://www.stojimezaukrajinou.cz/), který do 10 dnů navštívilo čtvrt milionu lidí včetně pěti tisíc Ukrajinců. Webová stránka funguje jako přehledný rozcestník, kde na jednom místě zjistíte, jak pomoc dát či jí vyhledat a to i v ukrajinštině, ruštině a angličtině. Dobrovolnický projekt, který svou dynamikou, zkušenostmi a schopností se propojit, předběhl jiné projekty se stejnou myšlenkou.
 
+<center>
+
 ![](https://data.cesko.digital/img/clanek-svet-je-v-krizi/szu-img.png)
+
+</center>
 
 A protože správná transformace spočívá v neustálé akci a reakci, tak v komunitě vznikly další[  nové projekty](https://blog.cesko.digital/2022/03/jake-projekty-pro-pomoc-ukrajine-vznikaji-v-cesko-digital), které řeší pomoc Ukrajincům dlouhodobě a navazují na již rozběhnutý rozcestník pomoci.
 
