@@ -41,21 +41,17 @@ lang: cs
 
 ![](https://data.cesko.digital/newsletter/35/3-narozeniny-cover.png)
 
-
-
 ![](https://data.cesko.digital/img/dad68fa0.png)
 
 # To nejlepší z našich projektů
 
-### Jehlomat
+## Jehlomat
 
 *Bezpečná a rychlá likvidace injekčního odpadu odhozeného na veřejných prostranstvích*
 
 💉 Ladíme poslední bugy z testování, máme za sebou pre-launch pro odborné organizace a zpracováváme první vlnu zpětné vazby. Připravujeme se také na ostré spuštění nové verze a s organizací [Magdalena o.p.s.](http://www.magdalena-ops.eu/cz/) to celé brzy oznámíme veřejnosti!
 
-
-
-### Safezóna
+## Safezóna
 
 *Připravili jsme místo pro prevenci a pomoc při duševní nepohodě dětí a dospívajících*
 
@@ -63,7 +59,7 @@ lang: cs
 
 \> **Chceš vědět novinky jako první? Sleduj náš [Instagram](https://www.instagram.com/safezona.cz/) anebo ještě lépe: [Pojď ho s námi rovnou tvořit](https://cesko.digital/opportunities/recxWt15iPiGXW6Va)!** Příště ti neuteče například výstava v [Cargo Gallery](http://www.cargogallery.eu/) od Magdaleny Fiala, která se uskutečnila v květnu.
 
-### Stojíme za Ukrajinou
+## Stojíme za Ukrajinou
 
 *Spolu a přehledně jsme připravili rozcestník ověřených zdrojů, kde najít pomoc*
 
@@ -71,7 +67,7 @@ lang: cs
 
 \> **Vytvořili jsme pracovní verzi [ukrajinského media kitu](https://drive.google.com/drive/u/0/folders/1TeQiRr25AH5gRDshOzWsn5VhUhd7q1k0).** Chceme být vidět tam, kde je nás třeba. Sdílením media kitu nám můžeš pomoct i ty. 👐
 
-### Movapp
+## Movapp
 
 *Nauč se základy češtiny a ukrajinštiny pro běžné životní situace*
 
@@ -81,15 +77,11 @@ lang: cs
 
 ![](https://data.cesko.digital/newsletter/35/movapp-team.jpg)
 
-
-
 \> *Skvělou aplikaci báječně doplňuje **[Učebnice pro Ukrajinu](http://ucebniceproukrajinu.cz/)**, kde vyhledáš **učebnice češtiny zdarma** pro všechny věkové kategorie, česko-ukrajinský ilustrovaný slovník a další. Projekt připravila [Nadace PPF](https://nadaceppf.cz/) ve spolupráci s [The Kellner Family Foundation](https://www.kellnerfoundation.cz/) a MŠMT ČR.*
 
 ![](https://data.cesko.digital/newsletter/35/ucebnice-pro-ukrajinu.jpg)
 
-
-
-### Místo ve škole + Umapa
+## Místo ve škole + Umapa
 
 *Webový portál pro sledování nabídek a poptávek volných míst ve školách či školkách + Mapa pro ukrajinskou komunitu s důležitými informacemi a místy v novém domově*
 
@@ -97,7 +89,7 @@ lang: cs
 
 \> **[Jestli chceš na projektu pomoci i několika konzultacemi jako seniorní UX designer, uvítáme tvou radu a pomoc!](https://cesko.digital/opportunities/recCLHqBK5FT9dwvT)**
 
-### Pomáhej Ukrajině
+## Pomáhej Ukrajině
 
 *Rozvoj digitální platformy pro tržiště nabídek a poptávek pomoci Ukrajině*
 
@@ -105,11 +97,9 @@ lang: cs
 
 ![](https://data.cesko.digital/img/dad68fa0.png)
 
-
-
 # Co se klube v našem inkubátoru
 
-### Nepanikař
+## Nepanikař
 
 *První rychlá psychologická pomoc*
 
@@ -121,19 +111,17 @@ Momentálně tým zpracovává výsledky z dotazníkového šetření mezi 153 u
 
 ![](https://data.cesko.digital/newsletter/35/Nepanikar.jpg)
 
-
-
-### Volební kalkulačka
+## Volební kalkulačka
 
 🎨 Pavla Řádková precizně zpracovala výstupy z UX výzkumu do přehledné prezentace.  Dík tomu víme, jak naložit s novým UI a správně nastavit wireframy. Hotové jsou i návrhy loga.
 
 \> **[Podívej se na prezentaci Pavly!](https://docs.google.com/presentation/d/1vrPJa1_pQ_VDdDDrsOxPALEkGpBAdaGpPb6bK62t72k/edit#slide=id.g4dfce81f19_0_45)**
 
-### Darování hotových pokrmů
+## Darování hotových pokrmů
 
 🍝 Pro projekt [Zachraň jídlo](https://zachranjidlo.cz/) vzniká nová webová stránka, kterou oslovíme podnikové jídelny a charity. Ve spolupráci s UX designérem Markem Malíkem máme definovaný wireframe, který začneme přetavovat do nově vznikající domény zachranobed.cz. Vyrážíme za zástupci gastroprovozů na konference a expa. Osobní setkání nás dostává do většího povědomí.
 
-### DigiSen
+## DigiSen
 
 🦉 S organizací [Moudrá sovička](https://www.moudrasovicka.cz/) rozjíždíme projekt DigiSen. Cílíme na zvýšení digitální gramotnosti seniorů. Jak na to? Chceme vybudovat digitální infrastrukturu, která zajistí prostor pro vzdělávání i individuální pomoc. Stojíme na samém začátku, ověřujeme projektový záměr a dáváme dohromady tým.
 
@@ -141,17 +129,11 @@ Momentálně tým zpracovává výsledky z dotazníkového šetření mezi 153 u
 
 ![](https://data.cesko.digital/img/dad68fa0.png)
 
-
-
 # Vzděláváme Česko.Digital
 
 🌸 **V květnu jsme v edu.digital uspořádali tři webináře.** Začali jsme tím o Miru, který vedl Jan Seidl z Avastu. Po velkém úspěchu Honzy Páva s úvodním webinářem o Airtable se vrhnul na pokračování. A poprvé jsme uspořádali webinář na téma Marketing pro sociální sítě, který je prvním ze série z marketingového prostředí. Díky lektorkám z H1 za pomoc při jeho přípravách.
 
-
-
 📌 **Společně s [Avast Foundation](https://foundation.avast.com/) proběhlo další Mastermind setkání** na téma „Product Owner – Jak se stát skvělým vlastníkem projektu (v nezisku)“, kde si zkušenosti a tipy vyměňovali zástupci z komerčního, ale i neziskového prostředí. Díky všem za účast.
-
-
 
 🎤 **Nepropásni letošní [WebExpo 2022](https://www.webexpo.net/prague2022)**, kde se můžeš taky potkat s Česko.Digital – konference právě startuje a je plná skvělých řečníků ze světa designu, produktového vývoje, UX a bezpečnosti.
 
@@ -166,8 +148,6 @@ Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digita
 **Jak se ti líbí náš newsletter?** Budeme rádi, když nám [necháš zpětnou vazbu](https://airtable.com/shrLH9CrSztEXGnKa), která nám pomůže ho vylepšit. A jestli se na tvorbě tohoto newsletteru chceš také podílet, ozvi se v kanálu [\#ceskodigital-obsah](https://cesko-digital.slack.com/archives/C01FQBDMDGQ) ve Slacku nebo napiš na terezia@cesko.digital. 🤗
 
 Digitálu zdar!
-
-
 
 **Za obsahový tým Česko.Digital**
 
