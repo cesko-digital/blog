@@ -77,7 +77,7 @@ lang: cs
 
 ![](https://data.cesko.digital/newsletter/35/movapp-team.jpg)
 
-\> *Skvělou aplikaci báječně doplňuje **[Učebnice pro Ukrajinu](http://ucebniceproukrajinu.cz/)**, kde vyhledáš **učebnice češtiny zdarma** pro všechny věkové kategorie, česko-ukrajinský ilustrovaný slovník a další. Projekt připravila [Nadace PPF](https://nadaceppf.cz/) ve spolupráci s [The Kellner Family Foundation](https://www.kellnerfoundation.cz/) a MŠMT ČR.*
+\> *Skvělou aplikaci báječně doplňuje [Učebnice pro Ukrajinu](http://ucebniceproukrajinu.cz/), kde vyhledáš učebnice češtiny zdarma pro všechny věkové kategorie, česko-ukrajinský ilustrovaný slovník a další. Projekt připravila [Nadace PPF](https://nadaceppf.cz/) ve spolupráci s [The Kellner Family Foundation](https://www.kellnerfoundation.cz/) a MŠMT ČR.*
 
 ![](https://data.cesko.digital/newsletter/35/ucebnice-pro-ukrajinu.jpg)
 
