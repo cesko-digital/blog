@@ -21,13 +21,21 @@ lang: cs
 
 **\> [Bez grantů a papírování. Posunout svůj projekt díky technologiím lze v Česko.Digital hned několika způsoby. Prozkoumejte jak](https://blog.cesko.digital/2022/05/jak-spolupracovat-s-cesko-digital)**
 
+<br>
+
 ## A co z toho dobrovolnictví vlastně máš?
 
 🤔 Přemýšlíš někdy nad tím, co může člověku přinést být dobrovolníkem pro Česko.Digital? Tentokrát jsme si posvítili na to, jak práce skrze jedničky a nuly mění nejen svět, ale i nás – dobrovolníky. A vem jed na to, že nám dává mnohem více, než jen dobrý pocit. Aplikace Preventivka 📲, kterou jsme vyvinuli ve spolupráci s neziskovou organizací [Loono](http://loono.cz/) a za finanční podpory [Nadace PPF](https://nadaceppf.cz/), dokázala mnoha lidem změnit život ještě dřív, než jsme ji vypustili do světa. Přečti si o tom náš nový článek na blogu!
 
 \> **[Preventivka a hrdinství dobrovolníků – když děláte aplikaci s takovým nadšením, že tomu obětujete i spánek](https://blog.cesko.digital/2022/06/preventivka-a-hrdinstvi-dobrovolniku-cd)**
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/35/citace_otakar-hyps.png)
+
+</center>
+
+<br>
 
 ## Jak komunity bojují se světem v krizi
 
@@ -35,13 +43,23 @@ lang: cs
 
 \> **[Svět je v krizi. Komunity sehrávají čím dál důležitější roli a ČR není výjimkou](https://blog.cesko.digital/2022/06/svet-je-v-krizi-komunity-sehravaji-dulezitejsi-roli)**
 
+<br>
+
 ## Do třetice všechno nejlepší!
 
-🎂 Minulý rok online, letos konečně offline. Narozeninová oslava Česko.Digital se blíží… Přijď za námi do Karlína! Přivítáme tě s tvou rodinou nebo kamarády s úsměvem, dobrou náladou, skvělým jídlem a pitím a zajímavým programem. Potkáme se v neděli 19. 6. od 15:00 v Kasárnách Karlín na Prvního pluku 20/2 v Praze!
+🎂 **Tak se zase setkáme!** Narozeninová oslava Česko.Digital se blíží… Přijď za námi do Karlína! Přivítáme tě s tvou rodinou nebo kamarády s úsměvem, dobrou náladou, skvělým jídlem a pitím a zajímavým programem. Potkáme se v neděli 19. 6. od 15:00 v Kasárnách Karlín na Prvního pluku 20/2 v Praze!
+
+<center>
 
 ![](https://data.cesko.digital/newsletter/35/3-narozeniny-cover.png)
 
+
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
+
+<br>
 
 # To nejlepší z našich projektů
 
@@ -75,11 +93,19 @@ lang: cs
 
 \> **Stále rozvíjíme mnoho témat, ozvi se Táně Chytilové na [pryvit@movapp.cz](<>) a přidej se k našemu týmu!**
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/35/movapp-team.jpg)
+
+</center>
 
 \> *Skvělou aplikaci báječně doplňuje [Učebnice pro Ukrajinu](http://ucebniceproukrajinu.cz/), kde vyhledáš učebnice češtiny zdarma pro všechny věkové kategorie, česko-ukrajinský ilustrovaný slovník a další. Projekt připravila [Nadace PPF](https://nadaceppf.cz/) ve spolupráci s [The Kellner Family Foundation](https://www.kellnerfoundation.cz/) a MŠMT ČR.*
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/35/ucebnice-pro-ukrajinu.jpg)
+
+</center>
 
 ## Místo ve škole + Umapa
 
@@ -95,7 +121,13 @@ lang: cs
 
 💪 Projekt **Pomáhej Ukrajině** finišuje první fázi vývoje. Napnuli jsme heroicky síly a zapracovali většinu nutných změn a vylepšení. Díky všem dobrovolníkům, kteří posunují platformu [pomahejukrajine.cz](https://www.pomahejukrajine.cz/) kupředu! První fázi zhodnotíme a rozhodneme se, kudy dál.
 
+<center>
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
+
+<br>
 
 # Co se klube v našem inkubátoru
 
@@ -109,7 +141,11 @@ Momentálně tým zpracovává výsledky z dotazníkového šetření mezi 153 u
 
 \> **Do týmu také hledáme [marketéra](https://cesko.digital/opportunities/rec8Ez1zYLQHkhvQs) a [ilustrátora](https://cesko.digital/opportunities/recSFBYkBJpkLhT96), máš zájem?**
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/35/Nepanikar.jpg)
+
+</center>
 
 ## Volební kalkulačka
 
@@ -127,7 +163,13 @@ Momentálně tým zpracovává výsledky z dotazníkového šetření mezi 153 u
 
 \> **[Chceš vědět víc, nebo se rovnou zapojit? Přidej se na Slacku do projektového kanálu!](https://cesko-digital.slack.com/archives/C03G217GHLY)**
 
+<center>
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
+
+<br>
 
 # Vzděláváme Česko.Digital
 
@@ -137,11 +179,19 @@ Momentálně tým zpracovává výsledky z dotazníkového šetření mezi 153 u
 
 🎤 **Nepropásni letošní [WebExpo 2022](https://www.webexpo.net/prague2022)**, kde se můžeš taky potkat s Česko.Digital – konference právě startuje a je plná skvělých řečníků ze světa designu, produktového vývoje, UX a bezpečnosti.
 
+<center>
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
+
+<br>
 
 # Koho aktuálně hledáme
 
 Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digitalizuj s námi Česko. **Všechny pozice najdeš přehledně na [Portálu dobrovolníka](http://cesko.digital/portal-dobrovolnika).**
+
+<br>
 
 ## Děkujeme, že jsi s námi!
 
