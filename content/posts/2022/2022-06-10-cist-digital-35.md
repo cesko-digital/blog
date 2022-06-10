@@ -13,6 +13,8 @@ description: Ahoj Česko.Digital! 👋 Víš, proč s námi na projektech spolup
   Přejeme příjemné digi čtení našeho nového čísla měsíčního zpravodaje.
 lang: cs
 ---
+Podcastovou verzi našeho newsletteru si můžeš poslechnout 👉 [ZDE](https://anchor.fm/poslouchatdigital/episodes/poslouchat-st-digital2-Dobrovolnictv-jako-lk-na-syndrom-vyhoen---Poslechni-si-Pernkovou-chaloupku-v-ukrajintin--Slavme-narozky-e1jp69a) 👈
+
 # Žhavé novinky měsíce
 
 ## Jak a proč s námi spolupracovat při rozvoji idey nebo projektu
@@ -52,8 +54,6 @@ lang: cs
 <center>
 
 ![](https://data.cesko.digital/newsletter/35/3-narozeniny-cover.png)
-
-
 
 ![](https://data.cesko.digital/img/dad68fa0.png)
 
