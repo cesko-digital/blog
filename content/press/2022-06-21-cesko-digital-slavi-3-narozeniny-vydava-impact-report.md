@@ -31,7 +31,3 @@ lang: cs
 Martina Habová, martina@cesko.digital, 720 363 481
 
 Česko.Digital
-
-Česko.Digital je komunita expertních dobrovolníků, kteří rozumí technologiím, pro bono pomáhají neziskovým organizacím i státu, a mění tak Česko k lepšímu. Od svého založení v květnu 2019 propojila přes 5200 vývojářů, designérů, projektových a produktových manažerů a marketérů. Stojí za projekty [www.ucimeonline.cz](http://www.ucimeonline.cz/), [www.damerousky.cz](http://www.damerousky.cz/) nebo [www.safezona.cz](http://www.safezona.cz/). 
-
-Více o komunitě najdete na [www.cesko.digital](https://cesko.digital/).
