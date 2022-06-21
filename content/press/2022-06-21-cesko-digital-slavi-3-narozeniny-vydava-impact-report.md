@@ -3,7 +3,7 @@ title: Česko.Digital slaví 3. narozeniny, vydává Impact Report. Svými proje
   se dotklo již 4 000 000 lidí
 author: jindrich.oukropec
 cover: https://data.cesko.digital/img/narozeniny-foto.jpg
-date: 2022-06-20-11-49
+date: 2022-06-21-02-49
 slug: cesko-digital-slavi-3-narozeniny-vydava-impact-report
 description: Během tří let zasáhly projekty Česko.Digital přes 4 000 000 lidí,
   píše se v novém Impact Reportu. Třináctistránková publikace ukazuje dopad a
