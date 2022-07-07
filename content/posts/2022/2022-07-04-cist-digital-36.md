@@ -36,11 +36,13 @@ lang: cs
 
 ![](https://data.cesko.digital/newsletter/36/3-narozeniny.png)
 
+![](https://data.cesko.digital/img/dad68fa0.png)
+
 # To nejlepší z našich projektů
 
 ## Jehlomat
 
-##### Bezpečná a rychlá likvidace injekčního odpadu odhozeného na veřejných prostranstvích
+*Bezpečná a rychlá likvidace injekčního odpadu odhozeného na veřejných prostranstvích*
 
 🏁 Je spuštěna další fáze projektu, a to díky výzkumu uživatelů a 2 nabitých hack days. Navazuje testování základní funkce nové webové aplikace. Uspěli jsme také na schůzkách s odbornými organizacemi, které přislíbily Jehlomat používat. Tento projekt ale získá ještě větší smysl, až bude aplikace venku, ušetří totiž stovky hodin administrativní práce ročně. Stále však hledáme posily do týmu.
 
@@ -48,7 +50,7 @@ lang: cs
 
 ## Safezóna
 
-##### Připravili jsme místo pro prevenci a pomoc při duševní nepohodě dětí a dospívajících
+*Připravili jsme místo pro prevenci a pomoc při duševní nepohodě dětí a dospívajících*
 
 🤝 Ve spolupráci s [Moje tělo je moje](https://mojetelojemoje.cz/) pracujeme na tématu Bodyshaming. Díky [Centru Anabell](http://www.anabell.cz/) brzy zveřejníme téma Nízké sebevědomí. Dále rozvíjíme témata Sebepoškozování a Sebevražedné myšlenky.
 
@@ -60,7 +62,7 @@ lang: cs
 
 ## Místo ve škole
 
-##### Pomáháme UA - vzdělávací zařízení v České republice a jejich volné kapacity na jednom místě.
+*Pomáháme UA - vzdělávací zařízení v České republice a jejich volné kapacity na jednom místě.*
 
 Vytvořili jsme unikátní aplikaci "Místo ve škole", která prezentuje data o volných kapacitách v základních a mateřských školách napříč Českou republikou, s potenciálem rozšíření dat o střední školy či volnočasové aktivity. Cílem je pomoci zejména ukrajinským rodičům najít vhodné místo pro vzdělávání svých dětí v nové domovině.
 
@@ -72,7 +74,7 @@ Web [mistoveskole.cz](http://www.mistoveskole.cz/) vznikl z iniciativy [Pedagogi
 
 ## Stojíme za Ukrajinou
 
-##### Aktuálně a přehledně -- rozcestník ověřených zdrojů, kde najít pomoc
+*Aktuálně a přehledně – rozcestník ověřených zdrojů, kde najít pomoc*
 
 ✨ Pro snadnější vyhledávání jsme na ukrajinské části webu zredukovali počet kategorií z 15 na 12 a vylepšili jsme mobilní verzi rozcestníku. Ukrajinský mediakit jsme rozeslali neziskovým organizacím, spolkům i ambasádám a dál pracujeme na tom, aby byla stránka dobře vidět.
 
@@ -82,9 +84,9 @@ Web [mistoveskole.cz](http://www.mistoveskole.cz/) vznikl z iniciativy [Pedagogi
 
 ## Movapp
 
-##### Naučte se základy češtiny a ukrajinštiny pro běžné životní situace
+*Naučte se základy češtiny a ukrajinštiny pro běžné životní situace*
 
-📱 Mobilní aplikace jedou -- Movapp si už stáhlo 300 lidí na iOS a 250 lidí na Android a čísla stále rostou.
+📱 Mobilní aplikace jedou – Movapp si už stáhlo 300 lidí na iOS a 250 lidí na Android a čísla stále rostou.
 
 🎥 Se [Západočeským divadlem v Chebu](https://www.divadlocheb.cz/) připravujeme propagační videa, která tě zábavnou formou připraví na typická nedorozumění v běžném životě mezi česky a ukrajinsky hovořícími (scénky na poště, v lékárně, u maséra...). Momentky z natáčení nafotil [Petr Illek](https://www.linkedin.com/in/petrillek/).
 
@@ -98,11 +100,13 @@ Web [mistoveskole.cz](http://www.mistoveskole.cz/) vznikl z iniciativy [Pedagogi
 
 Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).
 
+![](https://data.cesko.digital/img/dad68fa0.png)
+
 # Co se klube v našem inkubátoru a akcelerátoru
 
 ## DigiSen
 
-##### Podpořme zvyšování digitálních dovedností seniorů
+*Podpořme zvyšování digitálních dovedností seniorů*
 
 👴 Přinášíme nový projekt, jehož vývoj můžeš podpořit zasláním pohlednice, kterou podepíšeš novou službou BankID SIGN. Za každý podpis míří 20 Kč na podporu vývoje řešení DigiSen v čele s neziskovou organizací Moudrá Sovička.
 
@@ -110,11 +114,13 @@ Na čem pracujeme v dalších projektech a co se nám na nich za poslední měs�
 
 ## Volební kalkulačka
 
-##### Těsně před volbami, v době největších politických bojů, chceme nabídnout přehledný nástroj pro snadnou, rychlou a informovanou volbu
+*Těsně před volbami, v době největších politických bojů, chceme nabídnout přehledný nástroj pro snadnou, rychlou a informovanou volbu*
 
 🧮 Ve volební kalkulačce UX tým finišuje s designy a s Look & Feel. Než začne vývoj, spustíme závěrečné testování s uživateli.
 
 **\> [Do týmu hledáme Vue.js frontend vývojáře](https://cesko.digital/opportunities/recjzNBBGBd699kY9)**
+
+![](https://data.cesko.digital/img/dad68fa0.png)
 
 # Jak si v komunitě žijeme
 
@@ -143,6 +149,8 @@ Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digita
 ## Děkujeme, že jsi s námi!
 
 Jak se ti líbí náš newsletter? Budeme rádi, když nám [necháš zpětnou vazbu](https://airtable.com/shrLH9CrSztEXGnKa), která nám pomůže ho vylepšit. A jestli se na tvorbě tohoto newsletteru chceš podílet také, ozvi se v kanálu [\#ceskodigital-obsah](https://cesko-digital.slack.com/archives/C01FQBDMDGQ) na Slacku nebo napiš na [terezia@cesko.digital](mailto:terezia@cesko.digital). 🤗
+
+
 
 Digitálu zdar!
 
