@@ -26,7 +26,7 @@ lang: cs
 
 ## Oslavili jsme to ve velkém... bazénu!
 
-🍾 Na oslavě našich 3. narozenin jsme ve stylových prostorách Kasáren Karlín pokřtili nový Impact Report Česko.Digital (spolu s naší CEO, jak je vidět na fotkách 😁)! Report shrnuje dopad a přínos některých projektů komunity z let 2019--2022. Během 3 let totiž projekty Česko.Digital zasáhly přes 4 000 000 lidí. 🎉
+🍾 Na oslavě našich 3. narozenin jsme ve stylových prostorách Kasáren Karlín pokřtili nový Impact Report Česko.Digital (spolu s naší CEO, jak je vidět na fotkách 😁)! Report shrnuje dopad a přínos některých projektů komunity z let 2019–2022. Během 3 let totiž projekty Česko.Digital zasáhly **přes 4 000 000 lidí**. 🎉
 
 🎂 Příjemně nás překvapilo, kolik lidí si v neděli udělalo čas a přijelo nás podpořit. Chceme poděkovat všem, kteří to s námi patřičně oslavili, dobrovolníkům za jejich skvělou práci v komunitě a našim partnerům Avast, Livesport a Nadace PPF za podporu toho, co děláme. Ať nás čeká ještě spousta takových oslav!
 
@@ -34,9 +34,15 @@ lang: cs
 
 **\> [Podívej se na fotografie od Jury Ryszaweho](https://drive.google.com/drive/u/0/folders/1GBa--vWtRf5RD6MlFtC5b9VRAcxbWRqP)**
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/36/3-narozeniny.png)
 
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
+
+<br>
 
 # To nejlepší z našich projektů
 
@@ -64,7 +70,7 @@ lang: cs
 
 *Pomáháme UA - vzdělávací zařízení v České republice a jejich volné kapacity na jednom místě.*
 
-Vytvořili jsme unikátní aplikaci "Místo ve škole", která prezentuje data o volných kapacitách v základních a mateřských školách napříč Českou republikou, s potenciálem rozšíření dat o střední školy či volnočasové aktivity. Cílem je pomoci zejména ukrajinským rodičům najít vhodné místo pro vzdělávání svých dětí v nové domovině.
+Vytvořili jsme unikátní aplikaci "Místo ve škole", která prezentuje **data o volných kapacitách** v základních a mateřských školách napříč Českou republikou, s potenciálem rozšíření dat o střední školy či volnočasové aktivity. Cílem je pomoci zejména ukrajinským rodičům najít vhodné místo pro vzdělávání svých dětí v nové domovině.
 
 Chceš pomoci? Zapoj se do šíření informací o našem webu [mistoveskole.cz](https://mistoveskole.cz/cs), aby se dostal tam, kde je třeba! Budeme rádi za jakékoliv sdílení, abychom našli to správné místo pro vzdělávání pro všechny Ukrajinské děti postižené válkou.
 
@@ -86,9 +92,9 @@ Web [mistoveskole.cz](http://www.mistoveskole.cz/) vznikl z iniciativy [Pedagogi
 
 *Naučte se základy češtiny a ukrajinštiny pro běžné životní situace*
 
-📱 Mobilní aplikace jedou – Movapp si už stáhlo 300 lidí na iOS a 250 lidí na Android a čísla stále rostou.
+📱 Mobilní aplikace jedou – Movapp si už stáhlo **300 lidí na iOS** a **250 lidí na Android** a čísla stále rostou.
 
-🎥 Se [Západočeským divadlem v Chebu](https://www.divadlocheb.cz/) připravujeme propagační videa, která tě zábavnou formou připraví na typická nedorozumění v běžném životě mezi česky a ukrajinsky hovořícími (scénky na poště, v lékárně, u maséra...). Momentky z natáčení nafotil [Petr Illek](https://www.linkedin.com/in/petrillek/).
+🎥 Se [Západočeským divadlem v Chebu](https://www.divadlocheb.cz/) připravujeme **propagační videa**, která tě zábavnou formou připraví na **typická nedorozumění v běžném životě** mezi česky a ukrajinsky hovořícími (scénky na poště, v lékárně, u maséra...). Momentky z natáčení nafotil [Petr Illek](https://www.linkedin.com/in/petrillek/).
 
 🧑‍🤝‍🧑 Stále hledáme pomocníky na marketing a také  lidi mluvící slovensky a polsky, kteří by nám pomohli s rozvojem nových jazykových verzí Movappu.
 
@@ -98,9 +104,13 @@ Web [mistoveskole.cz](http://www.mistoveskole.cz/) vznikl z iniciativy [Pedagogi
 
 ![](https://data.cesko.digital/newsletter/36/movapp-nataceni.png)
 
-Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).
+**Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).**
+
+<center>
 
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
 
 # Co se klube v našem inkubátoru a akcelerátoru
 
@@ -120,13 +130,17 @@ Na čem pracujeme v dalších projektech a co se nám na nich za poslední měs�
 
 **\> [Do týmu hledáme Vue.js frontend vývojáře](https://cesko.digital/opportunities/recjzNBBGBd699kY9)**
 
+<center>
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
 
 # Jak si v komunitě žijeme
 
 🎫 Krom oslavy narozenin se pro nás červen nesl ve znamení konferencí. Podíleli jsme se na realizaci [IDC Summitu](https://www.idc.com/eu/events/69891-idc-summit), kde jsme zaštítili programovou linku Veřejná správa budoucnosti. Přispěli jsme do panelových diskusí na [Civic Tech Open](https://osf.cz/programy/ziva-demokracie/nas-stat-nase-data/civic-tech-open/) nebo na [CommunityBuilders' World](https://www.cbw2022.com/), první české komunitní konferenci zaměřené na budování komunit.
 
-👏 Největší akcí však bylo nepochybně WebExpo, kde měli Karel Minařík s Evou Pavlíkovou přednášku na téma expertního dobrovolnictví.
+👏 Největší akcí však bylo nepochybně **WebExpo**, kde měli Karel Minařík s Evou Pavlíkovou přednášku na téma expertního dobrovolnictví.
 
 **\> [Mrkni na záznam](https://slideslive.com/38984417/expert-volunteering-is-not-a-charity?ref=folder-104209)**
 
@@ -136,7 +150,7 @@ Na čem pracujeme v dalších projektech a co se nám na nich za poslední měs�
 
 ## edu.digital
 
-Těš se na prázdniny. V průběhu července a srpna zveřejníme 4 další webináře, mrkni třeba na téma GitHub 2, Copywriting nebo Tabidoo.
+Těš se na prázdniny. V průběhu července a srpna **zveřejníme 4 další webináře**, mrkni třeba na téma GitHub 2, Copywriting nebo Tabidoo.
 
 **\> [Sleduj Portál dobrovolníka, ať nic neprošvihneš](http://cesko.digital/portal-dobrovolnika)**
 
@@ -144,11 +158,11 @@ Těš se na prázdniny. V průběhu července a srpna zveřejníme 4 další web
 
 # Koho aktuálně hledáme
 
-Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digitalizuj s námi Česko. Všechny pozice najdeš přehledně na [Portálu dobrovolníka](http://cesko.digital/portal-dobrovolnika).
+Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digitalizuj s námi Česko. **Všechny pozice najdeš přehledně na [Portálu dobrovolníka](http://cesko.digital/portal-dobrovolnika)**.
 
 ## Děkujeme, že jsi s námi!
 
-Jak se ti líbí náš newsletter? Budeme rádi, když nám [necháš zpětnou vazbu](https://airtable.com/shrLH9CrSztEXGnKa), která nám pomůže ho vylepšit. A jestli se na tvorbě tohoto newsletteru chceš podílet také, ozvi se v kanálu [\#ceskodigital-obsah](https://cesko-digital.slack.com/archives/C01FQBDMDGQ) na Slacku nebo napiš na [terezia@cesko.digital](mailto:terezia@cesko.digital). 🤗
+**Jak se ti líbí náš newsletter?** Budeme rádi, když nám [necháš zpětnou vazbu](https://airtable.com/shrLH9CrSztEXGnKa), která nám pomůže ho vylepšit. A jestli se na tvorbě tohoto newsletteru chceš podílet také, ozvi se v kanálu [\#ceskodigital-obsah](https://cesko-digital.slack.com/archives/C01FQBDMDGQ) na Slacku nebo napiš na [terezia@cesko.digital](mailto:terezia@cesko.digital). 🤗
 
 
 
