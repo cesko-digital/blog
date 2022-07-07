@@ -28,7 +28,7 @@ lang: cs
 
 🍾 Na oslavě našich 3. narozenin jsme ve stylových prostorách Kasáren Karlín pokřtili nový Impact Report Česko.Digital (spolu s naší CEO, jak je vidět na fotkách 😁)! Report shrnuje dopad a přínos některých projektů komunity z let 2019–2022. Během 3 let totiž projekty Česko.Digital zasáhly **přes 4 000 000 lidí**. 🎉
 
-🎂 Příjemně nás překvapilo, kolik lidí si v neděli udělalo čas a přijelo nás podpořit. Chceme poděkovat všem, kteří to s námi patřičně oslavili, dobrovolníkům za jejich skvělou práci v komunitě a našim partnerům Avast, Livesport a Nadace PPF za podporu toho, co děláme. Ať nás čeká ještě spousta takových oslav!
+🎂 Příjemně nás překvapilo, kolik lidí si v neděli udělalo čas a přijelo nás podpořit. Chceme poděkovat všem, kteří to s námi patřičně oslavili, dobrovolníkům za jejich skvělou práci v komunitě a našim partnerům **Avast, Livesport a Nadace PPF** za podporu toho, co děláme. Ať nás čeká ještě spousta takových oslav!
 
 **\> [Přečti si náš Impact Report](http://cesko.digital/impact22)**
 
@@ -60,7 +60,7 @@ lang: cs
 
 🤝 Ve spolupráci s [Moje tělo je moje](https://mojetelojemoje.cz/) pracujeme na tématu Bodyshaming. Díky [Centru Anabell](http://www.anabell.cz/) brzy zveřejníme téma Nízké sebevědomí. Dále rozvíjíme témata Sebepoškozování a Sebevražedné myšlenky.
 
-📲 Díky partnerství s [digitální agenturou H1](https://www.h1.cz/)  sdílí Safezónu influenceři, kteří mají k dětem a dospívajícím velmi blízko. [Gabriela Drdošová](https://www.instagram.com/reel/CfHO14HOKMJ/?utm_source=ig_web_copy_link) natočila o Safezóně reels a influencerka [Proste Djany](https://www.instagram.com/proste_djany/) poukázala na téma kyberšikany. Další spolupráce aktivně chystáme.
+📲 Díky partnerství s [digitální agenturou H1](https://www.h1.cz/) sdílí Safezónu influenceři, kteří mají k dětem a dospívajícím velmi blízko. [Gabriela Drdošová](https://www.instagram.com/reel/CfHO14HOKMJ/?utm_source=ig_web_copy_link) natočila o Safezóně reels a influencerka [Proste Djany](https://www.instagram.com/proste_djany/) poukázala na téma kyberšikany. Další spolupráce aktivně chystáme.
 
 🕵️‍♂️ Stále hledáme organizaci, která si Safezónu převezme, bude ji nadále rozvíjet a pomáhat dětem.
 
@@ -118,7 +118,7 @@ Web [mistoveskole.cz](http://www.mistoveskole.cz/) vznikl z iniciativy [Pedagogi
 
 *Podpořme zvyšování digitálních dovedností seniorů*
 
-👴 Přinášíme nový projekt, jehož vývoj můžeš podpořit zasláním pohlednice, kterou podepíšeš novou službou BankID SIGN. Za každý podpis míří 20 Kč na podporu vývoje řešení DigiSen v čele s neziskovou organizací Moudrá Sovička.
+👴 Přinášíme nový projekt, jehož vývoj můžeš podpořit zasláním pohlednice, kterou podepíšeš novou službou **BankID SIGN**. Za každý podpis míří 20 Kč na podporu vývoje řešení DigiSen v čele s neziskovou organizací Moudrá Sovička.
 
 **\> [Pošli pohlednici](https://narozeniny.bankid.cz/) a přispěj**
 
