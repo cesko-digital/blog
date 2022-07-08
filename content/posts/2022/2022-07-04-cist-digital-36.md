@@ -16,7 +16,7 @@ description: "Ahoj Česko.Digital! 👋 Ladíme s počasím a horké novinky ti 
   Report, ale i CEO Česko.Digital. 😁 Čti dál!"
 lang: cs
 ---
-🎧 Podcastovou verzi newsletteru poslouchej 👉 zde. 
+🎧 Podcastovou verzi newsletteru poslouchej 👉 [zde](https://anchor.fm/poslouchatdigital/episodes/poslouchat-st-digital3-Kde-jet-maj-volno-ve-kole-nebo-kolce---Co-jsme-krom-dopadovho-reportu-na-narozkch-poktili-e1kudbb). 
 
 # Žhavé novinky měsíce
 
@@ -74,7 +74,7 @@ lang: cs
 
 Vytvořili jsme unikátní aplikaci "Místo ve škole", která prezentuje **data o volných kapacitách** v základních a mateřských školách napříč Českou republikou, s potenciálem rozšíření dat o střední školy či volnočasové aktivity. Cílem je pomoci zejména ukrajinským rodičům najít vhodné místo pro vzdělávání svých dětí v nové domovině.
 
-Chceš pomoci? Zapoj se do šíření informací o našem webu [mistoveskole.cz](https://mistoveskole.cz/cs), aby se dostal tam, kde je třeba! Budeme rádi za jakékoliv sdílení, abychom našli to správné místo pro vzdělávání pro všechny Ukrajinské děti postižené válkou.
+Chceš pomoci? Zapoj se do šíření informací o našem webu [mistoveskole.cz](https://mistoveskole.cz/cs), aby se dostal tam, kde je třeba! Budeme rádi za jakékoliv sdílení, abychom našli to správné místo pro vzdělávání pro všechny ukrajinské děti postižené válkou.
 
 🙏🏻 Pokud jsi PRist(k)a nebo máš zajímavé kontakty, skrze něž můžeme UA rodiče oslovit, tak se nám ozvi - komunikace a promo bude pro náš web zásadní v následujících dnech a týdnech.
 
@@ -96,7 +96,7 @@ Web [mistoveskole.cz](http://www.mistoveskole.cz/) vznikl z iniciativy [Pedagogi
 
 📱 Mobilní aplikace jedou – Movapp si už stáhlo **300 lidí na iOS** a **250 lidí na Android** a čísla stále rostou.
 
-🎥 Se [Západočeským divadlem v Chebu](https://www.divadlocheb.cz/) připravujeme **propagační videa**, která tě zábavnou formou připraví na **typická nedorozumění v běžném životě** mezi česky a ukrajinsky hovořícími (scénky na poště, v lékárně, u maséra...). Momentky z natáčení nafotil [Petr Illek](https://www.linkedin.com/in/petrillek/).
+🎥 Se [Západočeským divadlem v Chebu](https://www.divadlocheb.cz/) připravujeme **propagační videa**, která tě zábavnou formou připraví na **typická nedorozumění v běžném životě** mezi česky a ukrajinsky hovořícími (scénky na poště, v lékárně, u maséra...). 
 
 🧑‍🤝‍🧑 Stále hledáme pomocníky na marketing a také  lidi mluvící slovensky a polsky, kteří by nám pomohli s rozvojem nových jazykových verzí Movappu.
 
@@ -105,6 +105,12 @@ Web [mistoveskole.cz](http://www.mistoveskole.cz/) vznikl z iniciativy [Pedagogi
 **\> [Podívej se na vypsané pozice v projektu](https://cesko.digital/projects/movapp)**
 
 ![](https://data.cesko.digital/newsletter/36/movapp-nataceni.png)
+
+<center>
+
+*Momentky z natáčení nafotil [Petr Illek](https://www.linkedin.com/in/petrillek/).*
+
+</center>
 
 **Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).**
 
@@ -140,7 +146,7 @@ Web [mistoveskole.cz](http://www.mistoveskole.cz/) vznikl z iniciativy [Pedagogi
 
 # Jak si v komunitě žijeme
 
-🎫 Krom oslavy narozenin se pro nás červen nesl ve znamení konferencí. Podíleli jsme se na realizaci [IDC Summitu](https://www.idc.com/eu/events/69891-idc-summit), kde jsme zaštítili programovou linku Veřejná správa budoucnosti. Přispěli jsme do panelových diskusí na [Civic Tech Open](https://osf.cz/programy/ziva-demokracie/nas-stat-nase-data/civic-tech-open/) nebo na [CommunityBuilders' World](https://www.cbw2022.com/), první české komunitní konferenci zaměřené na budování komunit.
+🎫 Krom oslavy narozenin se pro nás červen nesl ve znamení konferencí. Podíleli jsme se na realizaci [IDC Summitu](https://www.idc.com/eu/events/69891-idc-summit), kde jsme zaštítili programovou linku Veřejná správa budoucnosti. Přispěli jsme do panelových diskusí na [Civic Tech Open](https://osf.cz/programy/ziva-demokracie/nas-stat-nase-data/civic-tech-open/) nebo na [Community Builders' World](https://www.cbw2022.com/), první české komunitní konferenci zaměřené na budování komunit.
 
 👏 Největší akcí však bylo nepochybně **WebExpo**, kde měli Karel Minařík s Evou Pavlíkovou přednášku na téma expertního dobrovolnictví.
 
