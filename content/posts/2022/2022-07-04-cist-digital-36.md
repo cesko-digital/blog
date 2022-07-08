@@ -158,7 +158,7 @@ Web [mistoveskole.cz](http://www.mistoveskole.cz/) vznikl z iniciativy [Pedagogi
 
 ## edu.digital
 
-Těš se na prázdniny. V průběhu července a srpna **zveřejníme 4 další webináře**, mrkni třeba na téma GitHub 2, Copywriting nebo Tabidoo.
+Těš se na prázdniny. V průběhu července a srpna **zveřejníme 4 další webináře**, mrkni třeba na téma Jak na Git, Copywriting nebo Tabidoo.
 
 **\> [Sleduj Portál dobrovolníka, ať nic neprošvihneš](http://cesko.digital/portal-dobrovolnika)**
 
