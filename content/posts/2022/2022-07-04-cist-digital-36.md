@@ -174,12 +174,12 @@ Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digita
 
 Digitálu zdar!
 
-Za obsahový tým Česko.Digital
+*Za obsahový tým Česko.Digital*
 
-Koordinace: Hana Burešová, Lenka Moravcová
+*Koordinace: Hana Burešová, Lenka Moravcová*
 
-Texty: Petr Hrudka, Katka Peřinová
+*Texty: Petr Hrudka, Katka Peřinová*
 
-Korektura: Zuzka Konečná
+*Korektura: Zuzka Konečná*
 
-Grafika & rozesílka: Lukáš Návesník
+*Grafika & rozesílka: Lukáš Návesník*
