@@ -163,7 +163,7 @@ lang: cs
 
 # Vzděláváme s edu.digital
 
-💻I přestože jsou prázdniny, my jsme v červenci nezaháleli. Petr Švarný z [Katedry kybernetiky FEL ČVUT](https://cyber.felk.cvut.cz/cs/) připravil webinář pro všechny z nás, kteří se zajímají o práci s GitHubem „Jak pracovat s Gitem, aby vás z toho nebolela hlava“.
+💻 I přestože jsou prázdniny, my jsme v červenci nezaháleli. Petr Švarný z [Katedry kybernetiky FEL ČVUT](https://cyber.felk.cvut.cz/cs/) připravil webinář pro všechny z nás, kteří se zajímají o práci s GitHubem „Jak pracovat s Gitem, aby vás z toho nebolela hlava“.
 
 ⌨️ Lucie Hrdinová z [agentury H1](https://www.h1.cz/) nás v 90 minutách zahrnula tipy o psaní textů „Copywriting v 90 minutách“.
 
