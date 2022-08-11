@@ -27,7 +27,7 @@ lang: cs
 
 ##### Spolu a přehledně. Lidé z platformy Stojíme za Ukrajinou se spojili s Česko.Digital a za víkend vytvořili rozcestník pro pomoc Ukrajině.
 
-🛣️ Několik stovek dobrovolníků z Česko.Digital pracovalo 5 měsíců na největším rozcestníku pro pomoc lidem přicházejícím z Ukrajiny. Nově hledáme organizaci, která by se ujala jednoduché správy webu. Ten sdružuje nejrůznější formy pomoci přes ověřené odkazy. Denně ho navštěvuje 1 500 lidí. Chceš si tento projekt vzít pod svá křídla?
+🛣️ Několik stovek dobrovolníků z Česko.Digital pracovalo 5 měsíců na největším rozcestníku pro pomoc lidem přicházejícím z Ukrajiny. Nově hledáme organizaci, která by se ujala jednoduché správy webu. Ten sdružuje nejrůznější formy pomoci přes ověřené odkazy. Denně ho navštěvuje **1 500 lidí**. Chceš si tento projekt vzít pod svá křídla?
 
 \> [Zjisti víc nebo napiš koordinátorce Anežce Laské](https://docs.google.com/presentation/d/1n1gPQ18sHwhnW-Zlkr9BBDPrnxM5yEDM7hWZhuPZJ08/edit?usp=sharing)
 
@@ -51,7 +51,7 @@ lang: cs
 
 💬 Díky partnerství s poradnou [Nepanikař](https://nepanikar.eu/) (které mimochodem také v Česko.Digital pomáháme zlepšit aplikaci) máme nově na [Safezóně](http://safezona.cz/) chat. Děti a dospívající se tak mohou o své problémy podělit s lidmi z Nepanikař, kteří se jim snaží obratem pomoci. Chat funguje v pondělí, úterý a ve čtvrtek od 17 do 19 hodin.
 
-👏 Taky máme velkou radost, že díky partnerské organizaci [Moje tělo je moje](https://mojetelojemoje.cz/) je online nové téma [Bodyshaming](https://www.safezona.cz/bodyshaming).
+👏 Taky máme velkou radost, že díky partnerské organizaci [Moje tělo je moje](https://mojetelojemoje.cz/) je **online nové téma [Bodyshaming](https://www.safezona.cz/bodyshaming)**.
 
 \> [Sleduj náš Instagram, ať ti nic neunikne!](https://www.instagram.com/safezona.cz/)
 
@@ -119,19 +119,19 @@ lang: cs
 
 ![](https://data.cesko.digital/newsletter/37/volebni-kalkulacka-preview.png)
 
-Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).
+**Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).**
 
 ![](https://data.cesko.digital/img/dad68fa0.png)
 
 ## Setkání (nejen) s Česko.Digital
 
-🖥️ Připravujeme se na konferenční sezonu! V září nás můžeš potkat na [All Digital Summit](https://all-digital.org/adsummit/), který se zabývá tématem digitální transformace, a to specificky jejími účinky v sektorech vzdělávání a kultury. Konference se zaměří na představení různých úhlů pohledu, přičemž zvláštní pozornost bude věnována účinkům digitální transformace na mládež. Akce proběhne v Praze 28 — 30. 9. 2022. Účast je zdarma.
+🖥️ Připravujeme se na konferenční sezonu! V září nás můžeš potkat na **[All Digital Summit](https://all-digital.org/adsummit/)**, který se zabývá tématem **digitální transformace**, a to specificky jejími účinky v sektorech vzdělávání a kultury. Konference se zaměří na představení různých úhlů pohledu, přičemž zvláštní pozornost bude věnována účinkům digitální transformace na mládež. Akce proběhne v Praze **28 — 30. 9. 2022**. Účast je zdarma.
 
 \> [Registruj se](https://tceurope.wufoo.com/forms/q1jvskjx06orlrd/)
 
 \> [Zapoj se na akci jako dobrovolník](https://www.epma.cz/2022/07/28/prilezitost-pro-dobrovolniky/)
 
-🌱 Další akce, kde se můžeme potkat, je Prague City Data Congress. Konference, která se zabývá inovacemi v urbanismu, proběhne již počtvrté a to 19. a 20. 9. 2022. Letošním zastřešujícím tématem je změna klimatu a datová řešení v oblastech mobility a veřejného prostoru. Během dne se budou konat workshopy, interaktivní lekce s případovými studiemi, komentované procházky Prahou a hlavní přednášky, kam přijali pozvání například Fábio Duarte a Eunsu Kim, aby představili svoje zkušenosti s projekty v MIT Senseable City Lab.
+🌱 Další akce, kde se můžeme potkat, je **Prague City Data Congress**. Konference, která se zabývá inovacemi v urbanismu, proběhne již počtvrté a to **19. a 20. 9. 2022**. Letošním zastřešujícím tématem je **změna klimatu a datová řešení v oblastech mobility a veřejného prostoru**. Během dne se budou konat workshopy, interaktivní lekce s případovými studiemi, komentované procházky Prahou a hlavní přednášky, kam přijali pozvání například Fábio Duarte a Eunsu Kim, aby představili svoje zkušenosti s projekty v MIT Senseable City Lab.
 
 \> [Registruj se už teď](https://praguedatacongress.com/)
 
@@ -157,16 +157,16 @@ Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digita
 
 ## Děkujeme, že jsi s námi!
 
-Jak se ti líbí náš newsletter? Budeme rádi, když nám [necháš zpětnou vazbu](https://airtable.com/shrLH9CrSztEXGnKa), která nám ho pomůže vylepšit. A jestli se na tvorbě tohoto newsletteru chceš také podílet, ozvi se v kanálu [\#ceskodigital-obsah](https://cesko-digital.slack.com/archives/C01FQBDMDGQ) ve Slacku nebo napiš na terezia@cesko.digital. 🤗
+**Jak se ti líbí náš newsletter?** Budeme rádi, když nám [necháš zpětnou vazbu](https://airtable.com/shrLH9CrSztEXGnKa), která nám ho pomůže vylepšit. A jestli se na tvorbě tohoto newsletteru chceš také podílet, ozvi se v kanálu [\#ceskodigital-obsah](https://cesko-digital.slack.com/archives/C01FQBDMDGQ) ve Slacku nebo napiš na terezia@cesko.digital. 🤗
 
-Digitálu zdar!
+**Digitálu zdar!**
 
-Za obsahový tým Česko.Digital
+*Za obsahový tým Česko.Digital*
 
-Koordinace: Hana Burešová, Lenka Moravcová
+*Koordinace: Hana Burešová, Lenka Moravcová*
 
-Texty: Verča Uhrová, Kamila Hráchová, Petr Hrudka
+*Texty: Verča Uhrová, Kamila Hráchová, Petr Hrudka*
 
-Korektura: Marie Oulehlová
+*Korektura: Marie Oulehlová*
 
-Grafika: Lukáš Návesník
+*Grafika: Lukáš Návesník*
