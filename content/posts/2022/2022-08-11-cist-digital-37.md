@@ -77,8 +77,6 @@ lang: cs
 
 \> [A protože je pořád na čem pracovat, hledáme šikovné lidi do týmu!](https://cesko.digital/projects/movapp)
 
-
-
 ### Místo ve škole
 
 ##### Webový portál pro sledování nabídek a poptávek volných míst ve školách či školkách.
@@ -111,6 +109,8 @@ lang: cs
 
 \> [Mrkni na otevřené role na portálu projektu a přidej se k nám!](https://cesko.digital/projects/volebni-kalkulacka)
 
+![](https://data.cesko.digital/newsletter/37/volebni-kalkulacka-preview.png)
+
 Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).
 
 ## Setkání (nejen) s Česko.Digital
@@ -125,7 +125,7 @@ Na čem pracujeme v dalších projektech a co se nám na nich za poslední měs�
 
 \> [Registruj se už teď](https://praguedatacongress.com/)
 
-
+![](https://data.cesko.digital/newsletter/37/pcdc.png)
 
 ## Vzděláváme s edu.digital
 
