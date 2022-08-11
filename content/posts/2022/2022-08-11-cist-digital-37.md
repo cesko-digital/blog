@@ -31,6 +31,8 @@ lang: cs
 
 \> [Zjisti víc nebo napiš koordinátorce Anežce Laské](https://docs.google.com/presentation/d/1n1gPQ18sHwhnW-Zlkr9BBDPrnxM5yEDM7hWZhuPZJ08/edit?usp=sharing)
 
+![](https://data.cesko.digital/newsletter/37/szu-predani-projektu.png)
+
 ## To nejlepší z našich projektů
 
 ### Jehlomat
@@ -50,6 +52,8 @@ lang: cs
 👏 Taky máme velkou radost, že díky partnerské organizaci [Moje tělo je moje](https://mojetelojemoje.cz/) je online nové téma [Bodyshaming](https://www.safezona.cz/bodyshaming).
 
 \> [Sleduj náš Instagram, ať ti nic neunikne!](https://www.instagram.com/safezona.cz/)
+
+![](https://data.cesko.digital/newsletter/37/safezona-web.png)
 
 ### Movapp
 
@@ -76,6 +80,8 @@ lang: cs
 \> [Omrkni představení projektu v rámci LUkrainian Conference na Lancaster University](https://www.youtube.com/watch?v=ThY0ZiWmBV8&t=2353s)
 
 \> [A protože je pořád na čem pracovat, hledáme šikovné lidi do týmu!](https://cesko.digital/projects/movapp)
+
+![](https://data.cesko.digital/newsletter/37/movapp-prezentace.png)
 
 ### Místo ve škole
 
