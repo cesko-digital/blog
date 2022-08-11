@@ -31,9 +31,13 @@ lang: cs
 
 \> **[Zjisti víc nebo napiš koordinátorce Anežce Laské](https://docs.google.com/presentation/d/1n1gPQ18sHwhnW-Zlkr9BBDPrnxM5yEDM7hWZhuPZJ08/edit?usp=sharing)**
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/37/szu-predani-projektu.png)
 
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
 
 # To nejlepší z našich projektů
 
@@ -55,7 +59,11 @@ lang: cs
 
 \> **[Sleduj náš Instagram, ať ti nic neunikne!](https://www.instagram.com/safezona.cz/)**
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/37/safezona-web.png)
+
+</center>
 
 ## Movapp
 
@@ -83,7 +91,11 @@ lang: cs
 
 \> **[A protože je pořád na čem pracovat, hledáme šikovné lidi do týmu!](https://cesko.digital/projects/movapp)**
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/37/movapp-prezentace.png)
+
+</center>
 
 ## Místo ve škole
 
@@ -117,11 +129,19 @@ lang: cs
 
 \> **[Mrkni na otevřené role na portálu projektu a přidej se k nám!](https://cesko.digital/projects/volebni-kalkulacka)**
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/37/volebni-kalkulacka-preview.png)
+
+</center>
 
 **Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).**
 
+<center>
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
 
 # Setkání (nejen) s Česko.Digital
 
@@ -135,7 +155,11 @@ lang: cs
 
 \> **[Registruj se už teď](https://praguedatacongress.com/)**
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/37/pcdc.png)
+
+</center>
 
 # Vzděláváme s edu.digital
 
@@ -155,13 +179,15 @@ Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digita
 
 \> **[Všechny pozice najdeš přehledně na Portálu dobrovolníka!](http://cesko.digital/portal-dobrovolnika)**
 
-
+<br>
 
 ## Děkujeme, že jsi s námi!
 
 **Jak se ti líbí náš newsletter?** Budeme rádi, když nám [necháš zpětnou vazbu](https://airtable.com/shrLH9CrSztEXGnKa), která nám ho pomůže vylepšit. A jestli se na tvorbě tohoto newsletteru chceš také podílet, ozvi se v kanálu [\#ceskodigital-obsah](https://cesko-digital.slack.com/archives/C01FQBDMDGQ) ve Slacku nebo napiš na terezia@cesko.digital. 🤗
 
 **Digitálu zdar!**
+
+<br>
 
 *Za obsahový tým Česko.Digital*
 
