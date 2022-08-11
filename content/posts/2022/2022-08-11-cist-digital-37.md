@@ -33,6 +33,8 @@ lang: cs
 
 ![](https://data.cesko.digital/newsletter/37/szu-predani-projektu.png)
 
+![](https://data.cesko.digital/img/dad68fa0.png)
+
 ## To nejlepší z našich projektů
 
 ### Jehlomat
@@ -118,6 +120,8 @@ lang: cs
 ![](https://data.cesko.digital/newsletter/37/volebni-kalkulacka-preview.png)
 
 Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).
+
+![](https://data.cesko.digital/img/dad68fa0.png)
 
 ## Setkání (nejen) s Česko.Digital
 
