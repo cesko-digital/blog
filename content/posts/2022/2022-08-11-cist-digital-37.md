@@ -197,4 +197,4 @@ Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digita
 
 *Korektura: Marie Oulehlová*
 
-*Grafika: Lukáš Návesník*
+*Grafika & rozesílka: Lukáš Návesník*
