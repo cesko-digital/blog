@@ -109,7 +109,7 @@ lang: cs
 
 🙏 Nemáš kontakty? Nevadí. I tak nám můžeš hodně pomoct. Sdílej odkaz na web na svých sociálních sítích, nikdy nevíš, ke komu se může tvůj příspěvek dostat.
 
-\> **[Dej vědět svému okolí o www.mistaveskole.cz!](https://mistoveskole.cz/cs)**
+\> **[Dej vědět svému okolí o www.mistoveskole.cz](https://mistoveskole.cz/cs)**
 
 ## DigiSen
 
