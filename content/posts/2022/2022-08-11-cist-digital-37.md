@@ -15,6 +15,8 @@ description: Ahoj Česko.Digital! 👋 Okurková sezóna? Kdepak, Česko.Digital
   musíš vědět. Přejeme příjemné čtení!
 lang: cs
 ---
+Audio verzi našeho newsletteru si poslechneš 👉 [ZDE](https://spotifyanchor-web.app.link/e/QwkBPyEnusb) 👈
+
 # Horké novinky měsíce
 
 ## Jak jsme v komunitě spokojeni?
@@ -183,7 +185,7 @@ Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digita
 
 ## Děkujeme, že jsi s námi!
 
-**Jak se ti líbí náš newsletter?** Budeme rádi, když nám [necháš zpětnou vazbu](https://airtable.com/shrLH9CrSztEXGnKa), která nám ho pomůže vylepšit. A jestli se na tvorbě tohoto newsletteru chceš také podílet, ozvi se v kanálu [\#ceskodigital-obsah](https://cesko-digital.slack.com/archives/C01FQBDMDGQ) ve Slacku nebo napiš na <terezia@cesko.digital>. 🤗
+**Jak se ti líbí náš newsletter?** Budeme rádi, když nám [necháš zpětnou vazbu](https://airtable.com/shrLH9CrSztEXGnKa), která nám ho pomůže vylepšit. A jestli se na tvorbě tohoto newsletteru chceš také podílet, ozvi se v kanálu [\#ceskodigital-obsah](https://cesko-digital.slack.com/archives/C01FQBDMDGQ) ve Slacku nebo napiš na [terezia@cesko.digital](mailto:terezia@cesko.digital). 🤗
 
 **Digitálu zdar!**
 
