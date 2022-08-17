@@ -15,9 +15,13 @@ Civic-tech obestírají mýty a předsudky týkající se státní správy, fina
 
 Jako člověk s netechnickým zázemím, který se v této oblasti objevil tak nějak náhodou, jsem využila možnosti zeptat se civic-tech komunity na nejčastější (a nejvtipnější) mylné představy, které lidé o jejich práci mají. Vybrala jsem pár ze zmíněných mýtů, jejich pořadí je náhodné.
 
+<center>
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
 
-## Mýtus č. 1 –⁠ Civic-tech jsou jenom o technologiích!
+</center>
+
+# Mýtus č. 1 –⁠ Civic-tech jsou jenom o technologiích!
 
 Panuje obecné přesvědčení, že nástroje –⁠ ty, které pomáhají vytvářet demokratičtější, transparentnější a na občany zaměřené vlády –⁠ jsou ty, které si prorazí cestu a pozitivně ovlivní společnost.
 
@@ -25,9 +29,13 @@ Nástroje ale představují [pouze jeden díl skládačky](https://codeforall.or
 
 Je také důležité myslet za hranice technologií a nástrojů. Zakladatelka projektu [Small Fires](https://www.smallfires.com.au/) Grace O'Hara [žertuje](https://blog.codeforaustralia.org/to-the-women-of-civic-tech-f5961fd1eda2?gi=ea317d05281c), že „civic-tech je z 90 % o občanských potřebách a jen z 10 % o technologiích; ve skutečnosti to bude ale spíše z 99 % o občanech“. Technické dovednosti jsou nezbytné, ale soft skills (tzv. měkké dovednosti) jsou v této oblasti přednější. Tyto dovednosti se vzájemně doplňují, nemají nahrazovat jedna druhou.
 
+<center>
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
 
-## Mýtus č. 2 –⁠ Civic-tech jsou jenom vládní projekty
+</center>
+
+# Mýtus č. 2 –⁠ Civic-tech jsou jenom vládní projekty
 
 Digitální technologie sehrály v zapojení lidí do demokratického procesu podstatnou roli. Umožnily a stále umožňují občanům vést vládu k odpovědnosti a zapojovat se do rozhodovacích procesů, což přispívá k prosazování technologií do vládních procesů po celém světě.
 
@@ -41,9 +49,13 @@ Níže jsou příklady významných civic-tech projektů v Code for All:
 
 To je jen hrstka vybraných. Podívejte se na webové stránky členů Code for All a zjistěte více o jejich vytříbených projektech.
 
+<center>
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
 
-## Mýtus č. 3 –⁠ Civic-tech a gov-tech jsou jedno a to samé
+</center>
+
+# Mýtus č. 3 –⁠ Civic-tech a gov-tech jsou jedno a to samé
 
 Oba koncepty v posledních letech získaly na popularitě. Prašť jako uhoď, říkáte si? Je pravda, že ve světě otevřených dat (open data), otevřených softwarů (open-source) a státních služeb zní „civic-tech“ a „gov-tech“ velmi podobně.
 
@@ -55,9 +67,13 @@ Na druhou stranu u gov-tech jsou hlavními uživateli vlády. Gov-tech zastřeš
 
 Mohou civic-tech a gov-tech existovat společně? Samozřejmě. Je to právě jejich snoubení, které tolik organizací vyhledává. Jejich kombinace přináší větší zapojení občanů a pomáhá vládám lépe reagovat na problémy, na které občané upozorňují, což vede k upevňování demokratických procesů.
 
+<center>
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
 
-## Mýtus č. 4 –⁠ Financování neziskových civic-tech projektů je hračka
+</center>
+
+# Mýtus č. 4 –⁠ Financování neziskových civic-tech projektů je hračka
 
 Noví investoři začínají objevovat oblast civic-tech. Technologie umožnily vládám přenést své aktivity do 21. století a občané tak mohou lépe přispívat svým dílkem do demokracie.
 
@@ -69,9 +85,13 @@ Nedostatek kapitálu a sponzorů omezuje schopnost neziskových civic-tech organ
 
 A když už jsme u toho, Nonso Jideofor, manažer financování a spolupráce v Code for All, sestavil list [Jak na financování civic-tech](https://codeforall.org/2022/01/11/challenges-tips-for-funding-civic-tech/).
 
+<center>
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
 
-## Mýtus č. 5 –⁠ Civic-tech vyřeší všechny naše problémy!
+</center>
+
+# Mýtus č. 5 –⁠ Civic-tech vyřeší všechny naše problémy!
 
 Abrakadabra! Ne, civic-tech bohužel nedokáže vyřešit všechny občanské problémy.
 
@@ -95,9 +115,9 @@ tvořte hladce a rychle, a
 
 co nejrychleji se propojte a spolupracujte s uživateli.
 
-</center>
-
 ![]()
+
+</center>
 
 V civic-tech se propojují lidé, technologie a dopady. [Jak zmiňuje Grace O’Hara](https://medium.com/code-for-all/civic-tech-as-a-process-a-framework-for-uniting-civic-tech-organisations-d93e5f640106), dohromady vedou k pozitivní sociální proměně.
 
