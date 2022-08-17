@@ -1,7 +1,7 @@
 ---
 title: 5 mýtů o civic-tech
 author: michaela.petrova
-cover: xxx
+cover: https://data.cesko.digital/img/clanek-civic-tech/civic-tech-cover.png
 date: 2022-08-17-12-28
 slug: 5-mytu-o-civic-tech
 description: Tento článek byl s dovolením autorky textu Mar Marín přeložen z
