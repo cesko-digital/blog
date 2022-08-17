@@ -21,7 +21,9 @@ Jako člověk s netechnickým zázemím, který se v této oblasti objevil tak n
 
 </center>
 
-# Mýtus č. 1 –⁠ Civic-tech jsou jenom o technologiích!
+# Mýtus č. 1
+
+## Civic-tech jsou jenom o technologiích!
 
 Panuje obecné přesvědčení, že nástroje –⁠ ty, které pomáhají vytvářet demokratičtější, transparentnější a na občany zaměřené vlády –⁠ jsou ty, které si prorazí cestu a pozitivně ovlivní společnost.
 
@@ -35,7 +37,9 @@ Je také důležité myslet za hranice technologií a nástrojů. Zakladatelka p
 
 </center>
 
-# Mýtus č. 2 –⁠ Civic-tech jsou jenom vládní projekty
+# Mýtus č. 2
+
+## Civic-tech jsou jenom vládní projekty
 
 Digitální technologie sehrály v zapojení lidí do demokratického procesu podstatnou roli. Umožnily a stále umožňují občanům vést vládu k odpovědnosti a zapojovat se do rozhodovacích procesů, což přispívá k prosazování technologií do vládních procesů po celém světě.
 
@@ -55,7 +59,9 @@ To je jen hrstka vybraných. Podívejte se na webové stránky členů Code for 
 
 </center>
 
-# Mýtus č. 3 –⁠ Civic-tech a gov-tech jsou jedno a to samé
+# Mýtus č. 3
+
+## Civic-tech a gov-tech jsou jedno a to samé
 
 Oba koncepty v posledních letech získaly na popularitě. Prašť jako uhoď, říkáte si? Je pravda, že ve světě otevřených dat (open data), otevřených softwarů (open-source) a státních služeb zní „civic-tech“ a „gov-tech“ velmi podobně.
 
@@ -73,7 +79,9 @@ Mohou civic-tech a gov-tech existovat společně? Samozřejmě. Je to právě je
 
 </center>
 
-# Mýtus č. 4 –⁠ Financování neziskových civic-tech projektů je hračka
+# Mýtus č. 4
+
+## Financování neziskových civic-tech projektů je hračka
 
 Noví investoři začínají objevovat oblast civic-tech. Technologie umožnily vládám přenést své aktivity do 21. století a občané tak mohou lépe přispívat svým dílkem do demokracie.
 
@@ -91,7 +99,9 @@ A když už jsme u toho, Nonso Jideofor, manažer financování a spolupráce v 
 
 </center>
 
-# Mýtus č. 5 –⁠ Civic-tech vyřeší všechny naše problémy!
+# Mýtus č. 5
+
+## Civic-tech vyřeší všechny naše problémy!
 
 Abrakadabra! Ne, civic-tech bohužel nedokáže vyřešit všechny občanské problémy.
 
