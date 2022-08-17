@@ -115,7 +115,7 @@ tvořte hladce a rychle, a
 
 co nejrychleji se propojte a spolupracujte s uživateli.
 
-![]()
+![](https://data.cesko.digital/img/clanek-civic-tech/img1.png)
 
 </center>
 
