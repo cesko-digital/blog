@@ -99,7 +99,7 @@ Luke Jordan napsal ve svém průvodci [Nestavte to. Průvodce pro civic-tech pra
 
 <center>
 
-Pokud to nemusíte vytvořit, i tak to udělejte;
+Pokud to nemusíte vytvořit, tak to nevytvářejte;
 
 pokud to musíte vytvořit,
 
