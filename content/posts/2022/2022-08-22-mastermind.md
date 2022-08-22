@@ -27,13 +27,21 @@ Stejně jako panelová diskuze má Mastermind znalého moderátora, zaručujíc�
 
 Postupně odpovídají všichni zúčastnění a jejich odpovědi jsou omezeny časovým limitem (1-2 minuty), který mohou, ale nemusí využít. Délku odpovědí, společně s tendencí držet se tématu a nerozvíjet diskuzi, má na starosti moderátor.
 
-![](https://lh5.googleusercontent.com/jmKwNoMwsE0o8z5LfdffSQuVgrYpOAGFKpqVqRXwZMaxTb2NOAdAvniO6mYjuChUZMg72Sv5UUiPjCtiobf298uIvn87oE49DG9F96lijLCSL7T7eGHDNk5NQXZBJgThBEiRgeQQCQdCVjxX4fe3wbI)
+<center>
+
+![](https://data.cesko.digital/img/clanek-mastermind/mastermind-setkani.jpg)
+
+</center>
 
 # Mastermind 2: Scrum Masteři, spojte se
 
 Ve čtvrtek 21. dubna se konal náš v pořadí druhý Mastermind. Tentokrát se sešlo 11 [Scrum Masterů a Scrum Masterek](https://cesko-digital.atlassian.net/l/cp/UmN1ZuY7) z Česko.Digital, soukromého i státního sektoru, kteří se v moderních prostorách [Avastu](https://www.avast.com/) rozpovídali o tom, co to vlastně Scrum Mastering je, co jim přináší, jaké to je být Scrum Masterem v remote prostředí, jaké výzvy jim role přináší a jak se s kterou situací popasovali.
 
-![](https://lh5.googleusercontent.com/WpYXIXzA79LWye957nZEDL_Uh4yJ26nJxjZmt_ScsGmtIaGan2PVaZvclrDZnE-JPdsCJYG5JFZa9UVQ-7Ud_c3Uc6_x-hgbjVgyP4-pE54wIE5ORmcJGtuafkYU2leWyULNG_6uQCG9vdhOCo4se9g)
+<center>
+
+![](https://data.cesko.digital/img/clanek-mastermind/mastermind-grafika.png)
+
+</center>
 
 *Zdroj: [Cybermedian](https://www.cybermedian.com/pl/scrum-master-how-to-avoid-personal-issues/)*
 
