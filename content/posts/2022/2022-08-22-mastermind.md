@@ -10,22 +10,22 @@ description: Prostřený stůl, mikrofony, mechanické pokládání otázek a
   – inovativní způsob setkávání lidí z oboru. Jak setkání probíhají?
 lang: cs
 ---
-Mastermind je jedinečná akce, kde si účastníci pomáhají navzájem růst. Je zde prostor položit otázku, představit nápad, zmínit problém nebo potřebu, se kterou se potýkáte. Na toto téma pak od ostatních dostanete zpětnou vazbu, postřehy, nové úhly pohledu a zkušenosti druhých. Při sdílení se společně hledají cesty, jak vyřešit nebo posunout danou tematiku.
+Mastermind je jedinečná akce, kde si účastníci pomáhají navzájem růst. Je zde prostor **položit otázku, představit nápad, zmínit problém nebo potřebu**, se kterou se potýkáte. Na toto téma pak od ostatních dostanete **zpětnou vazbu**, postřehy, nové úhly pohledu a zkušenosti druhých. Při sdílení se společně hledají cesty, jak vyřešit nebo posunout danou tematiku.
 
 # O čem je a není Mastermind 
 
-Koncept Mastermind v Česko.Digital představil [Jindřich Fialka](https://www.linkedin.com/in/jindrichfialka/) z [Q Designers](https://www.qdesigners.co/), který většinu akcí moderuje. Oproti klasickým panelovým diskuzím, během kterých se hrstka expertů vyjadřuje k předem daným otázkám, zatímco plný sál účastníků pasivně poslouchá, se Mastermind v mnohém odlišuje.
+Koncept Mastermind v Česko.Digital představil [Jindřich Fialka](https://www.linkedin.com/in/jindrichfialka/) z [Q Designers](https://www.qdesigners.co/), který většinu akcí moderuje. Oproti **klasickým panelovým diskuzím**, během kterých se hrstka expertů vyjadřuje k předem daným otázkám, zatímco plný sál **účastníků pasivně poslouchá**, se Mastermind v mnohém odlišuje.
 
-1. Zaprvé předpokládá aktivní zapojení všech přítomných, ať už jde o seniory s léty praxe nebo juniory zajímající se o dané téma.
-2. V praxi Mastermind funguje lépe v malé skupině lidí, ideální počet je pak 7 až 8 osob.
-3. Účelem celého Mastermindu není předat teoretické postupy krok za krokem, ale nasdílet různé tipy z praxe od několika expertů.
+1. Zaprvé předpokládá **aktivní zapojení** všech přítomných, ať už jde o **seniory** s léty praxe nebo **juniory** zajímající se o dané téma.
+2. V praxi Mastermind funguje lépe v **malé skupině lidí**, ideální počet je pak **7 až 8 osob**.
+3. Účelem celého Mastermindu není předat teoretické postupy krok za krokem, ale **nasdílet různé tipy z praxe** od několika expertů.
 4. Senioři mohou nabídnout letité zkušenosti s danou oblastí, junioři zase naopak čerstvý pohled.
 
 # Nebojte se zapojit
 
-Stejně jako panelová diskuze má Mastermind znalého moderátora, zaručujícího kvalitu diskuze. Otázky však pokládají sami účastníci. Mastermind má typicky zaměřené téma (u nás je to například Scrum Master v remote prostředí, Jak začít v roli Product Ownera apod.), jednotlivci tak mohou položit jednu konkrétní otázku, jak řešit nastalý problém či výzvu ve své roli a dostat tipy od jiných kolegů.
+Stejně jako panelová diskuze má Mastermind **znalého moderátora**, zaručujícího kvalitu diskuze. Otázky však pokládají sami účastníci. Mastermind má **typicky zaměřené téma** (u nás je to například Scrum Master v remote prostředí, Jak začít v roli Product Ownera apod.), jednotlivci tak mohou položit jednu **konkrétní otázku**, jak řešit nastalý problém či výzvu ve své roli a dostat tipy od jiných kolegů.
 
-Postupně odpovídají všichni zúčastnění a jejich odpovědi jsou omezeny časovým limitem (1-2 minuty), který mohou, ale nemusí využít. Délku odpovědí, společně s tendencí držet se tématu a nerozvíjet diskuzi, má na starosti moderátor.
+Postupně **odpovídají všichni zúčastnění** a jejich odpovědi jsou **omezeny časovým limitem** (1-2 minuty), který mohou, ale nemusí využít. Délku odpovědí, společně s tendencí **držet se tématu a nerozvíjet diskuzi**, má na starosti moderátor.
 
 <center>
 
@@ -35,7 +35,7 @@ Postupně odpovídají všichni zúčastnění a jejich odpovědi jsou omezeny �
 
 # Mastermind 2: Scrum Masteři, spojte se
 
-Ve čtvrtek 21. dubna se konal náš v pořadí druhý Mastermind. Tentokrát se sešlo 11 [Scrum Masterů a Scrum Masterek](https://cesko-digital.atlassian.net/l/cp/UmN1ZuY7) z Česko.Digital, soukromého i státního sektoru, kteří se v moderních prostorách [Avastu](https://www.avast.com/) rozpovídali o tom, co to vlastně Scrum Mastering je, co jim přináší, jaké to je být Scrum Masterem v remote prostředí, jaké výzvy jim role přináší a jak se s kterou situací popasovali.
+Ve čtvrtek 21. dubna se konal náš v pořadí druhý Mastermind. Tentokrát se sešlo 11 **[Scrum Masterů a Scrum Masterek](https://cesko-digital.atlassian.net/l/cp/UmN1ZuY7)** z Česko.Digital, soukromého i státního sektoru, kteří se v moderních prostorách [Avastu](https://www.avast.com/) rozpovídali o tom, co to vlastně Scrum Mastering je, co jim přináší, jaké to je být Scrum Masterem v remote prostředí, jaké výzvy jim role přináší a jak se s kterou situací popasovali.
 
 <center>
 
