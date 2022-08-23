@@ -1,6 +1,6 @@
 ---
 title: Už více než 2000 míst. Unikátní komunitní Umapa z dílny Česko.Digital a
-  Mapotic pomáhá příchozím z Uktrajiny zorientovat se v nové zemi a potkávat se
+  Mapotic pomáhá příchozím z Ukrajiny zorientovat se v nové zemi a potkávat se
 author: tereza.vaisova
 cover: https://data.cesko.digital/img/Umapa_ilustr_mood.jpg
 date: 2022-03-17-05-26
