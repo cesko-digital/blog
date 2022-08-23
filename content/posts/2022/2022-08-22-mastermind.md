@@ -47,13 +47,13 @@ Ve čtvrtek 21. dubna se konal náš v pořadí druhý Mastermind. Tentokrát se
 
 Účastníci sdíleli radosti i úskalí práce na home office, způsoby motivace (nejen) dobrovolných týmů, **tipy na čtení**, např. [Coaching habit (Michael Stanier)](https://knihy.heureka.cz/coaching-habit-stanier-mb/#prehled/), scrum experimenty, které nevyšly, a způsoby propojení týmů v jiných časových zónách.
 
-„Měl jsem radost, protože jsme na Mastermindu v č.d šli hodně pod povrch. Řešili jsme věci, které v knížkách nevyčtete. Jak pracovat s motivací týmu, jak nastavovat očekávání, jak na správnou zpětnou vazbu atp. Bavilo mě to i jako moderátora a taky jsem si odnesl kopu inspirace,“ říká moderátor akce Jindřich Fialka.
+*„Měl jsem radost, protože jsme na Mastermindu v č.d šli hodně pod povrch. Řešili jsme věci, které v knížkách nevyčtete. Jak pracovat s motivací týmu, jak nastavovat očekávání, jak na správnou zpětnou vazbu atp. Bavilo mě to i jako moderátora a taky jsem si odnesl kopu inspirace,“* říká moderátor akce Jindřich Fialka.
 
 Atmosféra Mastermindu byla zároveň **uvolněná a přátelská**. Účastníci často zjistili, že jejich problémy či starosti jsou stejné jako u ostatních. V tom leží rafinovanost a inovativnost Mastermindu.
 
-„Neměl jsem nijak vysoká očekávání, což možná pramenilo z mé první účasti na takovém workshopu. Za sebe musím ocenit přínosnou diskusi a vlastně i fakt, že povětšinou řešíme na projektech obdobné problémy. Nakonec to bylo fajn,“ popisuje Víťa Vlasák, projektový manažer SISTA TA ČR, přínos Mastermindu.
+*„Neměl jsem nijak vysoká očekávání, což možná pramenilo z mé první účasti na takovém workshopu. Za sebe musím ocenit přínosnou diskusi a vlastně i fakt, že povětšinou řešíme na projektech obdobné problémy. Nakonec to bylo fajn,“* popisuje Víťa Vlasák, projektový manažer SISTA TA ČR, přínos Mastermindu.
 
-„"Give Back" a firemní, expertní dobrovolnictví je pro nás jedním ze třech základních pilířů práce Avast Foundation a hodnot v samotné organizaci Avast. Jsme velmi rádi, že poskytováním našich prostor a umožnění expertům z Avast zapojit se do Mastermind eventů můžeme podporovat tuto skvělou iniciativu,“ uzavírá Julia Helena Szymanská, Employee Engagement Manager z [Avast Foundation](https://foundation.avast.com/).
+*„"Give Back" a firemní, expertní dobrovolnictví je pro nás jedním ze třech základních pilířů práce Avast Foundation a hodnot v samotné organizaci Avast. Jsme velmi rádi, že poskytováním našich prostor a umožnění expertům z Avast zapojit se do Mastermind eventů můžeme podporovat tuto skvělou iniciativu,“* uzavírá Julia Helena Szymanská, Employee Engagement Manager z [Avast Foundation](https://foundation.avast.com/).
 
 Co z tohoto Mastermindu vyplynulo? Ať pracujete s dobrovolníky, zaměstnanci ve státním sektoru či soukromém sektoru, máte v roli Scrum Mastera podobné výzvy, jak podpořit vznik samořízeného týmu či pracovat s různými potřebami a motivacemi členů týmu.
 
