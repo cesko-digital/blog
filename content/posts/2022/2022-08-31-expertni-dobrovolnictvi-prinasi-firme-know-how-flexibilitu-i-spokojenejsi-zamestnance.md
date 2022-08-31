@@ -17,6 +17,8 @@ lang: cs
 
 Protože takové dobrovolnictví je **strategická aktivita**, která umožňuje zaměstnancům **využít profesní znalosti a dovednosti a získat nové či rozvinout ty stávající**. A to tak, že se zapojují do dobrovolnických aktivit v externí neziskové organizaci, která postrádá konkrétní kompetence ve vlastním týmu. Tím, že podpoříte své zaměstnance v dobrovolnictví, můžete také jako firma jednoduše ukázat, že si vážíte talentovaných lidí a nabízíte jim reálné příležitosti, jak se profesně a osobnostně posouvat.
 
+<br>
+
 # Jaké výhody expertní dobrovolnictví přináší vašim zaměstnancům?
 
 Zaměstnanci-dobrovolníci potvrzují, že **být součástí komunity**, ve které si mohou **vyzkoušet nové role** a **uplatnit svou kreativitu**, má pro ně význam jak v profesním, tak i v osobním životě.
@@ -29,6 +31,8 @@ Další výhodou je zcela jistě možnost podílet se na **společensky přínos
 
 *„Filantropie a podpora neziskových organizací je zakódována v DNA firemní kultury Googlu. Kromě dlouhodobé a systematické pomoci neziskovému sektoru v Česku například prostřednictvím produktů Googlu, poskytováním reklamního prostoru nebo přímé finanční pomoci, podporuje firma své zaměstnance, aby přiložili ruku k dílu a zapojili se do dobrovolničení nebo charitativních aktivit. Myslím, že pro každého je přínosné vystoupit občas ze své pracovní bubliny a nabídnout své služby ve prospěch společnosti, ve které všichni žijeme. Tyto spolupráce nás mohou obohatit o pohledy zvenčí, nová řešení problémů a sdílení zkušeností, což určitě platí pro obě strany – jak pro neziskovky, tak pro lidi z korporátu,“* říká manažerka komunikace Googlu [Iva Fialová](https://www.linkedin.com/in/iva-fialova/).
 
+<br>
+
 # A jaké výhody přináší vám jako zaměstnavatelům?
 
 Zaměstnanci se prostřednictvím expertního dobrovolnictví učí **nalézat nová řešení** a mnohem **efektivněji spolupracovat**. Díky tomu dokážou lépe uchopit změny, které se odehrávají ve společnosti a na trhu. Přispívají tak k **vytvoření nových produktů**, které přilákají nové zákazníky. Aktivně se tedy podílejí na **dlouhodobém úspěchu firmy**. Potvrzují to i výsledky [výzkumu Muthuri et al. (2009)](https://www.sciencedirect.com/science/article/pii/S105348222100053X#bb0070).
@@ -36,6 +40,8 @@ Zaměstnanci se prostřednictvím expertního dobrovolnictví učí **nalézat n
 V rámci dobrovolnických aktivit jsou vaši zaměstnanci v kontaktu s novými lidmi a pracují s různými tématy. Pohybují se tak mimo svou sociální bublinu a denní rutinu. Taková zkušenost je inspiruje. Znamená to, že se budou **více angažovat** a přinesou do firmy **větší diverzitu**. Společně tak vytvoříte vstřícné pracovní prostředí, kde budete **naplno žít hodnoty firmy** a jako tým prospějete společnosti konkrétním a viditelným způsobem. Ve výsledku na tom tedy vydělají všichni zúčastnění.
 
 V Česko.Digital spolupracujeme v této oblasti už nějakou dobu s naším partnerem Avast, který umožňuje svým zaměstnancům věnovat nějakou část pracovního úvazku dobrovolničení. *„Firemní dobrovolnictví má z našeho pohledu několik obrovských výhod. Je to způsob, jak můžeme společně podporovat neziskové organizace v rámci expertizy, kterou většinou tyto organizace nemají. Díky dobrovolnictví se zaměstnanci posouvají také profesně: získávají nové schopnosti, rozšiřují své obzory a poznávají nové lidi. Prohlubuje se u nich také pocit satisfakce, motivace a pozitivní vztah k firmě, která umožňuje svým zaměstnancům se takto zapojovat,“* vysvětluje Julia Helena Szymanská, Employee Engagement Manager z [Avast Foundation](https://foundation.avast.com/).
+
+<br>
 
 # Proč v Česko.Digital podporujeme expertní (firemní) dobrovolnictví?
 
