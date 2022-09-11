@@ -25,7 +25,7 @@ lang: cs
 
 ## 10 000 zachráněných obědů a nový web k tomu!  
 
-🥗 Díky aktivní práci organizace Zachraň jídlo na projektu Zachraň oběd se od poloviny března podařilo rozvést potřebným **10 000 porcí vařeného jídla**. Projekt propojuje charitativní organizace s gastropodniky, kterým na konci výdejní doby zbývají nezávadné pokrmy. Ty zdarma darují potřebným a eliminují zbytečné vyhazování jídla. Ve spolupráci s dobrovolníky z Česko.Digital se navíc podařilo vybudovat a **spustit nový web zachranobed.cz** 🎉, který nabízí veškeré informace o darování hotových jídel a **propojuje gastropodniky a charitativní organizace**.  Za celé Česko.Digital máme obrovskou radost z těchto úspěchů a těšíme se na další spolupráci! 
+🥗 Díky aktivní práci organizace Zachraň jídlo na projektu Zachraň oběd se od poloviny března podařilo rozvést potřebným **10 000 porcí vařeného jídla**. Projekt propojuje charitativní organizace s gastropodniky, kterým na konci výdejní doby zbývají nezávadné pokrmy. Ty zdarma darují potřebným a eliminují zbytečné vyhazování jídla. Ve spolupráci s dobrovolníky z Česko.Digital se navíc podařilo vybudovat a **spustit nový web zachranobed.cz** 🎉, který nabízí veškeré informace o darování hotových jídel a **propojuje gastropodniky a charitativní organizace**. Za celé Česko.Digital máme obrovskou radost z těchto úspěchů a těšíme se na další spolupráci! 
 
 \> [Zachraň oběd nebo jen omrkni nový web](http://www.zachranobed.cz/)
 
@@ -145,17 +145,12 @@ Díky aplikaci si čeští senioři **najdou svého digitálního asistenta/tku*
 
 # Události
 
-Srpen jsme si v rámci akcí udělali volnější, protože máme zářijový kalendář pořádně nabitý!
-
-🔮 Zapojíme se do diskuze o budoucnosti vzdělávání na konferenci na [FutureEdu 2022](https://www.futureedu.cz/) konané 14. 9.  v Opero. Na akci se lze připojit prostřednictvím [online streamu](https://docs.google.com/forms/d/e/1FAIpQLSdiO5Oi1-mVdA343nsWUykfumG838yux4IlVB-7JStQxY2BPQ/viewform). 
-
-🎤 O expertním dobrovolnictví a aktivitách Česko.Digital popovídá Martina Habová 17. 9. na letošním brněnském [OpenAltu](https://www.openalt.cz/2022/). 
-
-🌍 Nemůžeme chybět ani u letošního [Code for All Summitu](https://codeforall.org/summit-2022/), který proběhne 19.–22. 9. online. 
-
-📚💻 A na konci září se s námi můžete setkat na konferenci [All Digital Summit 2022](https://all-digital.org/adsummit/), která se zabývá tématem digitální transformace ve vzdělávání a kultuře.
-
-🤝🏻20. října pořádáme pilotní event společně s Nadací Avast a TechSoup pro neziskové organizace, a to paralelně v Praze a Brně. **Hledáme proto mentory**, kteří by přihlášeným zástupcům neziskových organizací nabídli **radu v oblastech základních digitálních nástrojů** a **efektivní spolupráce, možnostech Google Workspace a Microsoft 365 pro neziskový sektor, bezpečného designu služeb** a **základních právních otázek**.
+* Srpen jsme si v rámci akcí udělali volnější, protože máme zářijový kalendář pořádně nabitý!
+* 🔮 Zapojíme se do diskuze o budoucnosti vzdělávání na konferenci na [FutureEdu 2022](https://www.futureedu.cz/) konané 14. 9.  v Opero. Na akci se lze připojit prostřednictvím [online streamu](https://docs.google.com/forms/d/e/1FAIpQLSdiO5Oi1-mVdA343nsWUykfumG838yux4IlVB-7JStQxY2BPQ/viewform). 
+* 🎤 O expertním dobrovolnictví a aktivitách Česko.Digital popovídá Martina Habová 17. 9. na letošním brněnském [OpenAltu](https://www.openalt.cz/2022/). 
+* 🌍 Nemůžeme chybět ani u letošního [Code for All Summitu](https://codeforall.org/summit-2022/), který proběhne 19.–22. 9. online. 
+* 📚💻 A na konci září se s námi můžete setkat na konferenci [All Digital Summit 2022](https://all-digital.org/adsummit/), která se zabývá tématem digitální transformace ve vzdělávání a kultuře.
+* 🤝🏻20. října pořádáme pilotní event společně s Nadací Avast a TechSoup pro neziskové organizace, a to paralelně v Praze a Brně. **Hledáme proto mentory**, kteří by přihlášeným zástupcům neziskových organizací nabídli **radu v oblastech základních digitálních nástrojů** a **efektivní spolupráce, možnostech Google Workspace a Microsoft 365 pro neziskový sektor, bezpečného designu služeb** a **základních právních otázek**.
 
 Zajímá tě to? Napiš [Anežce Müller](https://cesko-digital.slack.com/archives/D01M688TRJ6) ([anezka@cesko.digital](mailto:anezka@cesko.digital)).
 
