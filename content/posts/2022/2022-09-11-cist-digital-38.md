@@ -31,7 +31,11 @@ lang: cs
 
 \> [Poslechni si podcast a dozvíš se více jak o projektu, tak i o tom, jak neplýtvat jídlem](https://spotifyanchor-web.app.link/e/jfDWlbDAetb)
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/38/hotove-pokrmy.png)
+
+</center>
 
 ## Místo ve škole 
 
@@ -39,7 +43,11 @@ lang: cs
 
 \> [Koukni na dostupnost škol a školek](http://mistoveskole.cz/)
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/38/misto-ve-skole.png)
+
+</center>
 
 ## Klasickým panelovým diskuzím odzvonilo!
 
@@ -49,7 +57,11 @@ lang: cs
 
 *\> Tento příspěvek také napsala [Míša](https://www.linkedin.com/in/michaela-petrova-edit/) z obsahového týmu Česko.Digital.*
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/38/mastermind-setkani.jpg)
+
+</center>
 
 ## 5 mýtů o civic-tech
 
@@ -61,7 +73,11 @@ lang: cs
 
 *\> Tento příspěvek napsala dobrovolnice [Lenka](https://www.linkedin.com/in/lenka-bla%C5%BEkov%C3%A1-29762857/) z obsahového týmu Česko.Digital.* 
 
+<center>
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
 
 # To nejlepší z našich projektů
 
@@ -89,7 +105,11 @@ S partnerskou organizací [Řešení dohodou](https://resenidohodou.cz/) jsme do
 
 [\> Přečti si, jak o nás píšou v Polsku na UA in Krakow](https://uainkrakow.pl/najpotribnishi-slova-j-frazy-volontery-stvoryly-dodatok-dlya-vyvchennya-polskoyi-movy/)
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/38/movapp1.jpg)
+
+</center>
 
 ## Veřejné zakázky spolu
 
@@ -97,7 +117,11 @@ S partnerskou organizací [Řešení dohodou](https://resenidohodou.cz/) jsme do
 
 V červenci nám z tiskárny dorazilo 1 000 kusů Průvodce světem řízení státních IT projektů. Průvodce jsme předtím měli jen v online podobě. V srpnu jsme odeslali vytištěného Průvodce do regionální kanceláře každého poslance parlamentu (celkem 200 kusů). V září Průvodce pošleme všem státním úřadům na jejich IT oddělení. Pracujeme na spuštění webu urednik.digital a dáváme do kupy obrysy listopadového eventu **Creative Bureaucracy Festival 2022** pořádaného v Praze  – [zapište si do diáře datum 7.– 9. 11. 2022](https://creativebureaucracy.cz/).
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/38/prirucka.jpg)
+
+</center>
 
 ## Moudrá Síť
 
@@ -113,7 +137,11 @@ Díky aplikaci si čeští senioři **najdou svého digitálního asistenta/tku*
 
 **Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).**
 
+<center>
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
 
 # Události
 
@@ -131,7 +159,11 @@ Srpen jsme si v rámci akcí udělali volnější, protože máme zářijový ka
 
 Zajímá tě to? Napiš [Anežce Müller](https://cesko-digital.slack.com/archives/D01M688TRJ6) ([anezka@cesko.digital](mailto:anezka@cesko.digital)).
 
+<center>
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
 
 # edu.digital
 
@@ -155,7 +187,11 @@ Zajímá tě to? Napiš [Anežce Müller](https://cesko-digital.slack.com/archiv
 
 *\> Tento příspěvek také napsala [Terka](https://www.linkedin.com/in/tereza-kubickova-a8534a147/) (z obsahového týmu Česko.Digital).*
 
+<center>
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
 
 # Partnership
 
@@ -167,7 +203,11 @@ Zajímá tě to? Napiš [Anežce Müller](https://cesko-digital.slack.com/archiv
 
 **Děkujeme Nadaci PPF, společnosti Livesport a Nadaci Avast za podporu.**
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/38/movapp2.png)
+
+</center>
 
 # Koho aktuálně hledáme
 
