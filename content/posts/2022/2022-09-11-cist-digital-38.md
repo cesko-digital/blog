@@ -21,15 +21,15 @@ lang: cs
 
 🗳️ **Spuštění volební kalkulačky se blíží** a tak se vývoj projektu rozjel na plné obrátky. Na pomoc jsme přivolali nové frontend vývojáře a nového tech leada. Už v **první polovině září** si budeš moci díky volební kalkulačce ověřit, která strana nebo kandidát se s tvými názory nejlépe shoduje. Kalkulačku propagujeme v médiích - brzy ji najdeš i na [seznamzpravy.cz](https://www.seznamzpravy.cz/). 
 
-\> [Tak si pospěš vyzkoušet Volební kalkulačku 2022](https://www.volebnikalkulacka.cz/)
+\> **[Tak si pospěš vyzkoušet Volební kalkulačku 2022](https://www.volebnikalkulacka.cz/)**
 
 ## 10 000 zachráněných obědů a nový web k tomu!  
 
 🥗 Díky aktivní práci organizace Zachraň jídlo na projektu Zachraň oběd se od poloviny března podařilo rozvést potřebným **10 000 porcí vařeného jídla**. Projekt propojuje charitativní organizace s gastropodniky, kterým na konci výdejní doby zbývají nezávadné pokrmy. Ty zdarma darují potřebným a eliminují zbytečné vyhazování jídla. Ve spolupráci s dobrovolníky z Česko.Digital se navíc podařilo vybudovat a **spustit nový web zachranobed.cz** 🎉, který nabízí veškeré informace o darování hotových jídel a **propojuje gastropodniky a charitativní organizace**. Za celé Česko.Digital máme obrovskou radost z těchto úspěchů a těšíme se na další spolupráci! 
 
-\> [Zachraň oběd nebo jen omrkni nový web](http://www.zachranobed.cz/)
+\> **[Zachraň oběd nebo jen omrkni nový web](http://www.zachranobed.cz/)**
 
-\> [Poslechni si podcast a dozvíš se více jak o projektu, tak i o tom, jak neplýtvat jídlem](https://spotifyanchor-web.app.link/e/jfDWlbDAetb)
+\> **[Poslechni si podcast a dozvíš se více jak o projektu, tak i o tom, jak neplýtvat jídlem](https://spotifyanchor-web.app.link/e/jfDWlbDAetb)**
 
 <center>
 
@@ -41,7 +41,7 @@ lang: cs
 
 🧑‍🎓A je to venku! Po několika měsících práce se nám **podařilo spustit web [mistoveskole.cz](https://mistoveskole.cz/cs)**. Díky tomuto webu můžou zejména rodiny z Ukrajiny snáze najít vhodnou mateřskou či základní školu pro své děti. Nyní se zaměříme na získávání zpětné vazby, pravidelnou aktualizaci a zlepšováky. Naším cílem je mít co nejširší záběr, aby projekt mohl posloužit i širší veřejnosti, proto plánujeme rozšíření aplikace pro další využití k nalezení volných míst na středních školách nebo v zájmových skupinách. Drž nám palce! Nebo ještě lépe: Přidej se k nám do Slacku. Hodí se nám každý, komu dává projekt smysl a chce přiložit ruku k dílu!
 
-\> [Koukni na dostupnost škol a školek](http://mistoveskole.cz/)
+\> **[Koukni na dostupnost škol a školek](http://mistoveskole.cz/)**
 
 <center>
 
@@ -53,7 +53,7 @@ lang: cs
 
 🧠 Rádi přinášíme do komunity něco nového. A tak jsme společně s [Q Designers](https://www.qdesigners.co/) a [Avast Foundation](https://foundation.avast.com/) rozběhli koncept Mastermind. Ten vtáhne do debaty všechny účastníky a každý si z ní něco odnese. V dubnu se takto sešli Scrum Masteři ze soukromého i státního sektoru. Jak Mastermind probíhá, jaká na něm byla atmosféra a o čem se mluvilo? 
 
-\> [Přečti si v novém blogovém článku od Michaely Petrové](https://blog.cesko.digital/2022/08/mastermind)
+\> **[Přečti si v novém blogovém článku od Michaely Petrové](https://blog.cesko.digital/2022/08/mastermind)**
 
 *\> Tento příspěvek také napsala [Míša](https://www.linkedin.com/in/michaela-petrova-edit/) z obsahového týmu Česko.Digital.*
 
@@ -69,7 +69,7 @@ lang: cs
 
 💡 **Co je civic-tech?** *Jde o občanské technologie, tedy takové, které umožňují občanům a vládním institucím i úřadům vzájemně komunikovat, informovat se a podílet se na konkrétních řešeních.*
 
-\> [Přečti si blogový článek v překladu Michaely Petrové](https://blog.cesko.digital/2022/08/5-mytu-o-civic-tech)
+\> **[Přečti si blogový článek v překladu Michaely Petrové](https://blog.cesko.digital/2022/08/5-mytu-o-civic-tech)**
 
 *\> Tento příspěvek napsala dobrovolnice [Lenka](https://www.linkedin.com/in/lenka-bla%C5%BEkov%C3%A1-29762857/) z obsahového týmu Česko.Digital.* 
 
@@ -91,7 +91,7 @@ S partnerskou organizací [Řešení dohodou](https://resenidohodou.cz/) jsme do
 
 ⌨️ **V říjnu nás čeká Webinář s [Férovou školou](http://www.ferovaskola.cz/uvod)** díky spolupráci s Helenou Pravdovou. Velkou radost máme také z toho, že o **převzetí Safezóny projevila zájem Marie Froulíková z organizace [Kudykampus](https://kudykampus.cz/)**. Další informace o možné předávce Safezóny budeme postupně přidávat.
 
-\> [Podívej se na marketingové vyhodnocení Safezóny](https://drive.google.com/file/d/1oiF6V8KfQN-x8UqaQNewlXxjWhCwaqpZ/view?usp=sharing)
+\> **[Podívej se na marketingové vyhodnocení Safezóny](https://drive.google.com/file/d/1oiF6V8KfQN-x8UqaQNewlXxjWhCwaqpZ/view?usp=sharing)**
 
 ## Movapp
 
@@ -103,7 +103,7 @@ S partnerskou organizací [Řešení dohodou](https://resenidohodou.cz/) jsme do
 
 **Movapp v terénu**: díky využití aplikace v adaptačních skupinách na Mariánskolázeňsku se téměř 500 dětí z Ukrajiny seznámily s češtinou.
 
-[\> Přečti si, jak o nás píšou v Polsku na UA in Krakow](https://uainkrakow.pl/najpotribnishi-slova-j-frazy-volontery-stvoryly-dodatok-dlya-vyvchennya-polskoyi-movy/)
+\> **[Přečti si, jak o nás píšou v Polsku na UA in Krakow](https://uainkrakow.pl/najpotribnishi-slova-j-frazy-volontery-stvoryly-dodatok-dlya-vyvchennya-polskoyi-movy/)**
 
 <center>
 
@@ -133,7 +133,7 @@ Během pandemie covid-19 zůstala velká část seniorů osamělá a jediným sp
 
 Díky aplikaci si čeští senioři **najdou svého digitálního asistenta/tku** v blízkosti svého bydliště, který/á jim bude **trpělivě pomáhat se správným a bezpečným používáním jejich zařízení**.
 
-\> [Máš v okolí nějakého seniora? Pomůžeš nám, pokud s ním vyplníš tento dotazník](https://docs.google.com/forms/d/e/1FAIpQLSc7Ja3Rgy7l0h6t6X7j4WrfUgclAFp2yCMJuqhLS8odV7Dt9g/viewform)
+\> **[Máš v okolí nějakého seniora? Pomůžeš nám, pokud s ním vyplníš tento dotazník](https://docs.google.com/forms/d/e/1FAIpQLSc7Ja3Rgy7l0h6t6X7j4WrfUgclAFp2yCMJuqhLS8odV7Dt9g/viewform)**
 
 **Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).**
 
@@ -168,9 +168,9 @@ Zajímá tě to? Napiš [Anežce Müller](https://cesko-digital.slack.com/archiv
 
 🐱‍🏍 Daniel Gamrot je už 9 let lektorem pro lepší time management, sebedisciplínu a osobní produktivitu. O těchto tématech školí, píše články, točí videa a vzdělává. V rámci svého workshopu pro edu.digital nám ukázal, že účinnou strategií je naslouchat sám sobě, pracovat se svou energií a pěstovat osvědčené rutiny.
 
-\> [Sestříhaný webinář najdeš na YouTube Česko.Digital!](https://www.youtube.com/playlist?list=PLOX5xelTsEv8UtPxtPiLhRNclVXQge-ai) 
+\> [**Sestříhaný webinář najdeš na YouTube Česko.Digital**!](https://www.youtube.com/playlist?list=PLOX5xelTsEv8UtPxtPiLhRNclVXQge-ai) 
 
-\> [Více se dozvíš také v blogovém článku o webináři od Rony Jankovičové](https://blog.cesko.digital/2021/11/osobni-produktivita-daniel-gamrot)
+\> **[Více se dozvíš také v blogovém článku o webináři od Rony Jankovičové](https://blog.cesko.digital/2021/11/osobni-produktivita-daniel-gamrot)**
 
 *\> Tento příspěvek napsala dobrovolnice [Veronika](https://www.linkedin.com/in/veronika-uhrov%C3%A1-57619572/) z obsahového týmu Česko.Digital.*
 
@@ -178,7 +178,7 @@ Zajímá tě to? Napiš [Anežce Müller](https://cesko-digital.slack.com/archiv
 
 ✍️ Naše copywriterská kuchařka v rámci projektu **[Tvořit může každý](https://cesko-digital.atlassian.net/l/c/wmmVxPLe)** pokračuje dalším dílem. Naučíme tě, jak úspěšně psát na jednotlivé sociální sítě. Naše dobrovolnice [Tereza Kubíčková](https://www.linkedin.com/in/tereza-kubickova-a8534a147/) tentokrát řízla do Instagramu a nechala rozvonět emoce, příběhy, smysly a autentičnost. Na blogovém podnose ti servíruje výživný koncentrát šťavnatých myšlenek, vyzrálých faktů a šéfkuchařských tipů. 👌
 
-\> [Blogový nášup podáváme tady!](https://blog.cesko.digital/2022/09/jak-psat-lepsi-posty-na-instagram)
+\> [**Blogový nášup podáváme tady**!](https://blog.cesko.digital/2022/09/jak-psat-lepsi-posty-na-instagram)
 
 *\> Tento příspěvek také napsala [Terka](https://www.linkedin.com/in/tereza-kubickova-a8534a147/) (z obsahového týmu Česko.Digital).*
 
@@ -211,6 +211,8 @@ Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digita
 ### Děkujeme, že jsi s námi!
 
 **Jak se ti líbí náš newsletter?** Budeme rádi, když nám [necháš zpětnou vazbu](https://airtable.com/shrLH9CrSztEXGnKa), která nám ho pomůže vylepšit. A jestli se na tvorbě tohoto newsletteru chceš také podílet, ozvi se v kanálu [\#ceskodigital-obsah](https://cesko-digital.slack.com/archives/C01FQBDMDGQ) ve Slacku nebo napiš na [terezia@cesko.digital](terezia@cesko.digital). 🤗
+
+<br>
 
 **Digitálu zdar!**
 
