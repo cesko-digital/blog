@@ -1,6 +1,6 @@
 ---
 title: "číst.digital/38: Kolik obědů se podařilo zachránit? | Koho budeš volit?
-  | Panelová diskuze nebo Mastermind? | Jak se stát InstaMágem?"
+  | Představujeme Mastermind | Jak se stát InstaMágem"
 author: hana.buresova
 tags:
   - newsletter
@@ -8,11 +8,9 @@ cover: https://data.cesko.digital/newsletter/38/cover38.png
 date: 2022-09-11-02-08
 slug: cist-digital-38
 description: Ahoj Česko.Digital! 👋 Letní prázdniny jsou za námi, nový
-  newsletter před námi. Už víš, kolik porcí jídla se zachránilo? Který web ti
-  pomůže najít místo ve škole a školce? Kdo nebo co ti pomůže se zorientovat
-  před volbami? Co ti říká Mastermind? Kolik mýtů o civic-tech znáš? Jak se
-  macerují šťavnaté myšlenky, aneb jak se stát InstaMágem? To a mnohem víc ti
-  přináší naše číst.digital.
+  newsletter před námi. Už víš, kolik porcí jídla se zachránilo nebo co ti
+  pomůže se zorientovat před volbami? Říká ti něco Mastermind? A kolik mýtů o
+  civic-tech znáš? To a mnohem víc ti přináší náš číst.digital.
 lang: cs
 ---
 # Horké novinky měsíce
@@ -39,7 +37,7 @@ lang: cs
 
 ## Místo ve škole 
 
-🧑‍🎓A je to venku! Po několika měsících práce se nám **podařilo spustit web [mistoveskole.cz](https://mistoveskole.cz/cs)**. Díky tomuto webu můžou zejména rodiny z Ukrajiny snáze najít vhodnou mateřskou či základní školu pro své děti. Nyní se zaměříme na získávání zpětné vazby, pravidelnou aktualizaci a zlepšováky. Naším cílem je mít co nejširší záběr, aby projekt mohl posloužit i širší veřejnosti, proto plánujeme rozšíření aplikace pro další využití k nalezení volných míst na středních školách nebo v zájmových skupinách. Drž nám palce! Nebo ještě lépe: Přidej se k nám do Slacku. Hodí se nám každý, komu dává projekt smysl a chce přiložit ruku k dílu!
+🧑‍🎓 A je to venku! Po několika měsících práce se nám **podařilo spustit web [mistoveskole.cz](https://mistoveskole.cz/cs)**. Díky tomuto webu můžou zejména rodiny z Ukrajiny snáze najít vhodnou mateřskou či základní školu pro své děti. Nyní se zaměříme na získávání zpětné vazby, pravidelnou aktualizaci a zlepšováky. Naším cílem je mít co nejširší záběr, aby projekt mohl posloužit i širší veřejnosti, proto plánujeme rozšíření aplikace pro další využití k nalezení volných míst na středních školách nebo v zájmových skupinách. Drž nám palce! Nebo ještě lépe: Přidej se k nám do Slacku. Hodí se nám každý, komu dává projekt smysl a chce přiložit ruku k dílu!
 
 \> **[Koukni na dostupnost škol a školek](http://mistoveskole.cz/)**
 
@@ -115,7 +113,9 @@ S partnerskou organizací [Řešení dohodou](https://resenidohodou.cz/) jsme do
 
 *Pomáháme státu poskytovat a rozvíjet služby v souladu s technologickými trendy prostřednictvím kultivace prostředí zadávání veřejných zakázek*
 
-V červenci nám z tiskárny dorazilo 1 000 kusů Průvodce světem řízení státních IT projektů. Průvodce jsme předtím měli jen v online podobě. V srpnu jsme odeslali vytištěného Průvodce do regionální kanceláře každého poslance parlamentu (celkem 200 kusů). V září Průvodce pošleme všem státním úřadům na jejich IT oddělení. Pracujeme na spuštění webu urednik.digital a dáváme do kupy obrysy listopadového eventu **Creative Bureaucracy Festival 2022** pořádaného v Praze  – [zapište si do diáře datum 7.– 9. 11. 2022](https://creativebureaucracy.cz/).
+**📖** V červenci nám z tiskárny dorazilo 1 000 kusů Průvodce světem řízení státních IT projektů. Průvodce jsme předtím měli jen v online podobě. V srpnu jsme odeslali vytištěného Průvodce do regionální kanceláře každého poslance parlamentu (celkem 200 kusů). V září Průvodce pošleme všem státním úřadům na jejich IT oddělení. Pracujeme na spuštění webu urednik.digital a dáváme do kupy obrysy listopadového eventu **Creative Bureaucracy Festival 2022** pořádaného v Praze.
+
+**\> [Zapiš si do diáře datum 7.– 9. 11. 2022 a přijď na festival!](https://creativebureaucracy.cz/)**
 
 <center>
 
@@ -201,6 +201,8 @@ Zajímá tě to? Napiš [Anežce Müller](https://cesko-digital.slack.com/archiv
 <center>
 
 ![](https://data.cesko.digital/newsletter/38/movapp2.png)
+
+![](https://data.cesko.digital/img/dad68fa0.png)
 
 </center>
 
