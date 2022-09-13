@@ -17,7 +17,7 @@ lang: cs
 
 ## Volební kalkulačka 2022
 
-🗳️ **Spuštění volební kalkulačky se blíží** a tak se vývoj projektu rozjel na plné obrátky. Na pomoc jsme přivolali nové frontend vývojáře a nového tech leada. Už v **první polovině září** si budeš moci díky volební kalkulačce ověřit, která strana nebo kandidát se s tvými názory nejlépe shoduje. Kalkulačku propagujeme v médiích - brzy ji najdeš i na [seznamzpravy.cz](https://www.seznamzpravy.cz/). 
+🗳️ **Spuštění volební kalkulačky je tu** a tak se vývoj projektu rozjel na plné obrátky. Na pomoc jsme přivolali nové frontend vývojáře a nového tech leada. Už v **první polovině září** si budeš moci díky volební kalkulačce ověřit, která strana nebo kandidát se s tvými názory nejlépe shoduje. Kalkulačku propagujeme v médiích - brzy ji najdeš i na [seznamzpravy.cz](https://www.seznamzpravy.cz/). 
 
 \> **[Tak si pospěš vyzkoušet Volební kalkulačku 2022](https://www.volebnikalkulacka.cz/)**
 
@@ -188,7 +188,7 @@ Zajímá tě to? Napiš [Anežce Müller](https://cesko-digital.slack.com/archiv
 
 </center>
 
-# Partnership
+# Partnerství
 
 ## Spolu toho dokážeme víc
 
