@@ -127,11 +127,11 @@ S partnerskou organizací [Řešení dohodou](https://resenidohodou.cz/) jsme do
 
 *Podpořme zvyšování digitálních kompetencí seniorů!*
 
-🦉 Senioři vnímají název Moudrá Síť lépe než DigiSen. Je pro ně srozumitelnější, a proto **jsme aplikaci přejmenovali**. 
+🦉 Senioři vnímají název Moudrá Síť lépe než DigiSen. Je pro ně srozumitelnější, a proto **jsme webovou službu přejmenovali**. 
 
-Během pandemie covid-19 zůstala velká část seniorů osamělá a jediným spojením se pro ně staly moderní technologie. Moudrá Síť pomůže seniorům nejen komunikovat s rodinou a přáteli, ale třeba i zajistit penzi, objednávku léků nebo nákupu domů. 
+Během pandemie covid-19 zůstala velká část seniorů osamělá a jediným spojením se pro ně staly moderní technologie. Moudrá Síť pomůže seniorům nejen komunikovat s rodinou a přáteli, ale třeba i objednávku léků nebo nákupu domů. 
 
-Díky aplikaci si čeští senioři **najdou svého digitálního asistenta/tku** v blízkosti svého bydliště, který/á jim bude **trpělivě pomáhat se správným a bezpečným používáním jejich zařízení**.
+Díky webové aplikaci si čeští senioři **najdou svého digitálního asistenta/tku** v blízkosti svého bydliště, který/á jim bude **trpělivě pomáhat se správným a bezpečným používáním jejich zařízení**.
 
 \> **[Máš v okolí nějakého seniora? Pomůžeš nám, pokud s ním vyplníš tento dotazník](https://docs.google.com/forms/d/e/1FAIpQLSc7Ja3Rgy7l0h6t6X7j4WrfUgclAFp2yCMJuqhLS8odV7Dt9g/viewform)**
 
