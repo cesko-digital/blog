@@ -1,7 +1,7 @@
 ---
 title: "Spouští se Volební kalkulačka 2022. Opět pomůže s orientací v programech
   stran a kandidátů "
-author: martina
+author: coreteam
 cover: https://data.cesko.digital/web/projects/volebni-kalkulacka/cover.jpg
 date: 2022-09-13-04-24
 slug: spousti-se-volebni-kalkulacka-2022
@@ -15,7 +15,7 @@ lang: cs
 
 Jednoduché internetové rozhraní, díky kterému během 10 minut zjistíte, jak moc (ne)souzníte s postoji a programy subjektů, které kandidují v komunálních volbách. To je ve zkratce [Volební kalkulačka 2022](https://www.volebnikalkulacka.cz/). U komunálních voleb pokrývá všechny města nad 30 000 obyvatel, celkem tedy 35 městn a u senátních voleb třetinu obvodů.
 
-![]()
+![](https://data.cesko.digital/web/projects/volebni-kalkulacka_cesko-digital.png)
 
 Jde o další z řady více než 30 volebních kalkulaček, které od roku 2006 vyvíjí a provozuje spolek KohoVolit.eu. „*Připravovali jsme volební kalkulačky pro všechny druhy voleb – evropské, prezidentské, parlamentní, regionální i komunální*,“ říká jeden ze zakládajících členů spolku Mgr. Michal Škop, PhD.. „*Vůbec nejúspěšnější byla kalkulačka pro první kolo prezidentských voleb v roce 2018. Využilo ji více než 1,25 milionu voličů*.“ 
 
