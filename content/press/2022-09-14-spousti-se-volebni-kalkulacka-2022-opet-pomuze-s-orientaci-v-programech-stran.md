@@ -1,5 +1,5 @@
 ---
-title: "Spouští se Volební kalkulačka 2022. Opět pomůže s orientací v programech
+title: "Spouští se Volební kalkulačka 2022. Pomůže s orientací v programech
   stran a kandidátů "
 author: coreteam
 cover: https://data.cesko.digital/web/projects/volebni-kalkulacka/cover.jpg
