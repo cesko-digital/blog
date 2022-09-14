@@ -75,6 +75,7 @@ collections:
             "michaela.petrova",
             "lenka.moravcova",
             "veronika.uhrova",
+            "lucie.hrdinova",
           ]
         required: true
       - label: "Tags"
@@ -198,6 +199,7 @@ collections:
             "michaela.petrova",
             "lenka.moravcova",
             "veronika.uhrova",
+            "lucie.hrdinova",
           ]
         required: true
       - label: "Cover"
