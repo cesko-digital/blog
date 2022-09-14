@@ -13,7 +13,7 @@ lang: cs
 ---
 „*Cílem volebních kalkulaček je zlepšit orientaci v programech stran, porovnat postoje jednotlivců s postoji politických stran a kandidátů, a snížit tak před volbami informační bariéru*,“ říká její zakladatel Mgr. Michal Škop, PhD. Obě volební kalkulačky 2022 jsou navíc oproti předchozím letům výrazně vylepšené. A to díky civic-tech organizaci Česko.Digital a práci desítek expertních dobrovolníků z jejich komunity. 
 
-Jednoduché internetové rozhraní, díky kterému během 10 minut zjistíte, jak moc (ne)souzníte s postoji a programy subjektů, které kandidují v komunálních volbách. To je ve zkratce [Volební kalkulačka 2022](https://www.volebnikalkulacka.cz/). U komunálních voleb pokrývá všechny města nad 30 000 obyvatel, celkem tedy 35 městn a u senátních voleb třetinu obvodů.
+Jednoduché internetové rozhraní, díky kterému **během 10 minut zjistíte**, jak moc (ne)souzníte s postoji a programy subjektů, které kandidují v komunálních volbách. To je ve zkratce [Volební kalkulačka 2022](https://www.volebnikalkulacka.cz/). U komunálních voleb pokrývá všechny města nad 30 000 obyvatel, celkem tedy 35 městn a u senátních voleb třetinu obvodů.
 
 ![](https://data.cesko.digital/web/projects/volebni-kalkulacka_cesko-digital.png)
 
