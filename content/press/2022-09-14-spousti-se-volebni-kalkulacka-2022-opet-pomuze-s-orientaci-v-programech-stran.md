@@ -1,7 +1,7 @@
 ---
 title: "Spouští se Volební kalkulačka 2022. Pomůže s orientací v programech
   stran a kandidátů "
-author: coreteam
+author: lucie.hrdinova
 cover: https://data.cesko.digital/web/projects/volebni-kalkulacka/cover.jpg
 date: 2022-09-14-01-03
 slug: spousti-se-volebni-kalkulacka-2022-opet-pomuze-s-orientaci-v-programech-stran
