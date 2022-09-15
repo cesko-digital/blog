@@ -1,6 +1,6 @@
 ---
 title: "Spouští se Safezóna: Bezpečné místo pro mladé v tíživé situaci "
-author: martina
+author: jindrich.oukropec
 cover: https://cesko.digital/api/resize?src=/web/projects/strecha-dusevniho-zdravi/safezona-cover.jpg&width=1160
 date: 2022-04-05-03-59
 slug: spousti-se-safezona
@@ -36,7 +36,7 @@ Vedle Česko.Digital podpořila projekt Safezóny také nadace [Bakala Foundatio
 
 Vladimíra Osadníková, Product Owner
 
-[vladimira.osadnikova@cesko.digital](<>)
+[vladimira.osadnikova@cesko.digital](<vladimira.osadnikova@cesko.digital>)
 
 +420 728 424 835
 
