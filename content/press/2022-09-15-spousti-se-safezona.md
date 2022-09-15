@@ -1,6 +1,6 @@
 ---
 title: "Spouští se Safezóna: Bezpečné místo pro mladé v tíživé situaci "
-author: jindrich.oukropec
+author: lucie.hrdinova
 cover: https://cesko.digital/api/resize?src=/web/projects/strecha-dusevniho-zdravi/safezona-cover.jpg&width=1160
 date: 2022-04-05-03-59
 slug: spousti-se-safezona
