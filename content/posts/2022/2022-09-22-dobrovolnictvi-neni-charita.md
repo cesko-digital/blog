@@ -35,15 +35,13 @@ Aby se to celé dobře potkalo, **není důležité mít společnou kancelář n
 
 ![](https://data.cesko.digital/img/clanek-dobrovolnictvi-neni-charita/online-meeting.png)
 
-
-
 Zapojení dobrovolníků z komunity ve své organizaci i po ukončení projektu v Česko.Digital si pochvalují i samotní zadavatelé. *„**Velká výhoda zapojení takových dobrovolníků je v tom, že jsou již vyzkoušení, víme, co od nich můžeme čekat, jak pracují, co ovládají**. Zároveň i oni pokračují v projektu, který znají, takže je nemusíme zaučovat a ušetří to čas oběma stranám. Důležité také je, že se díky předešlé spolupráci **hodnotově shodujeme**, máme nastavené hranice a pravidla a pokud se daní lidé podílejí na projektu dlouhé měsíce jako dobrovolníci, je jasné, že je to baví, že v projektu našli smysl a chtějí se tomu věnovat i nadále,“* vyzdvihuje benefity spolupráce [Radek Hábl](https://www.linkedin.com/in/radekhabl/), zakladatel Institutu prevence a řešení předlužení a Product Owner projektu Nedlužím státu.
 
 <br>
 
 # Jana Hejnová: Pro ajťáka na mateřské je dobrovolnictví způsob, jak zůstat v praxi
 
-*„K dobrovolnické práci na projektu [Preventivka](https://www.loono.cz/mobilni-aplikace) jsem se dostala v době, kdy jsme doma řešili vážný zdravotní problém, který souvisel právě se zanedbáním prevence,“ říká o svém působení v Česko.Digital ajťačka [Jana Hejnová](https://www.linkedin.com/in/jana-hejnova-62401050/). „Přišlo mi sympatické, že by podobná aplikace mohla zabránit tomu, aby se do stejné situace dostal někdo další. Proto jsem se přidala do týmu Česko.Digital.“*
+*„K dobrovolnické práci na projektu [Preventivka](https://www.loono.cz/mobilni-aplikace) jsem se dostala v době, kdy jsme doma řešili vážný zdravotní problém, který souvisel právě se zanedbáním prevence,“ říká o svém působení v Česko.Digital ajťačka [Jana Hejnová](https://www.linkedin.com/in/jana-hejnov%C3%A1-62401050/). „Přišlo mi sympatické, že by podobná aplikace mohla zabránit tomu, aby se do stejné situace dostal někdo další. Proto jsem se přidala do týmu Česko.Digital.“*
 
 ![](https://data.cesko.digital/img/clanek-dobrovolnictvi-neni-charita/tymove-setkani.png)
 
