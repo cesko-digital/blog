@@ -41,7 +41,7 @@ Zapojení dobrovolníků z komunity ve své organizaci i po ukončení projektu 
 
 # Jana Hejnová: Pro ajťáka na mateřské je dobrovolnictví způsob, jak zůstat v praxi
 
-*„K dobrovolnické práci na projektu [Preventivka](https://www.loono.cz/mobilni-aplikace) jsem se dostala v době, kdy jsme doma řešili vážný zdravotní problém, který souvisel právě se zanedbáním prevence,“ říká o svém působení v Česko.Digital ajťačka [Jana Hejnová](https://www.linkedin.com/in/jana-hejnov%C3%A1-62401050/). „Přišlo mi sympatické, že by podobná aplikace mohla zabránit tomu, aby se do stejné situace dostal někdo další. Proto jsem se přidala do týmu Česko.Digital.“*
+*„K dobrovolnické práci na projektu [Preventivka](https://www.loono.cz/mobilni-aplikace) jsem se dostala v době, kdy jsme doma řešili vážný zdravotní problém, který souvisel právě se zanedbáním prevence,“* říká o svém působení v Česko.Digital ajťačka [Jana Hejnová](https://www.linkedin.com/in/jana-hejnov%C3%A1-62401050/). *„Přišlo mi sympatické, že by podobná aplikace mohla zabránit tomu, aby se do stejné situace dostal někdo další. Proto jsem se přidala do týmu Česko.Digital.“*
 
 ![](https://data.cesko.digital/img/clanek-dobrovolnictvi-neni-charita/tymove-setkani.png)
 
