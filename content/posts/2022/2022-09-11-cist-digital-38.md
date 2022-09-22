@@ -13,6 +13,8 @@ description: Ahoj Česko.Digital! 👋 Letní prázdniny jsou za námi, nový
   civic-tech znáš? To a mnohem víc ti přináší náš číst.digital.
 lang: cs
 ---
+Podcastová audio verze k poslechu 👉 **[ZDE.](https://spotifyanchor-web.app.link/e/YhLfMJVQwtb)**
+
 # Horké novinky měsíce
 
 ## Volební kalkulačka 2022
