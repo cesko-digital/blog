@@ -41,13 +41,13 @@ Zapojení dobrovolníků z komunity ve své organizaci i po ukončení projektu 
 
 # Jana Hejnová: Pro ajťáka na mateřské je dobrovolnictví způsob, jak zůstat v praxi
 
-*„K dobrovolnické práci na projektu [Preventivka](https://www.loono.cz/mobilni-aplikace) jsem se dostala v době, kdy jsme doma řešili vážný zdravotní problém, který souvisel právě se zanedbáním prevence,“ říká o svém působení v Česko.Digital ajťačka [Jana Hejnová](https://www.linkedin.com/in/jana-hejnov%C3%A1-62401050/). „Přišlo mi sympatické, že by podobná aplikace mohla zabránit tomu, aby se do stejné situace dostal někdo další. Proto jsem se přidala do týmu Česko.Digital.“*
+*„K dobrovolnické práci na projektu [Preventivka](https://www.loono.cz/mobilni-aplikace) jsem se dostala v době, kdy jsme doma řešili vážný zdravotní problém, který souvisel právě se zanedbáním prevence,“* říká o svém působení v Česko.Digital ajťačka [Jana Hejnová](https://www.linkedin.com/in/jana-hejnov%C3%A1-62401050/). *„Přišlo mi sympatické, že by podobná aplikace mohla zabránit tomu, aby se do stejné situace dostal někdo další. Proto jsem se přidala do týmu Česko.Digital.“*
 
 ![](https://data.cesko.digital/img/clanek-dobrovolnictvi-neni-charita/tymove-setkani.png)
 
 Její první krůčky dobrovolnické práce tedy vedly do týmu, který pro neziskovku Loono vyvíjel aplikaci Preventivka. Ta má za úkol pohlídat uživateli termíny preventivních prohlídek a srozumitelně mu připomenout, kdy a kam je potřeba pravidelně chodit. Za nápadem stojí neziskovka [Loono](http://loono.cz/), která má za sebou už několik úspěšných kampaní pro prevenci (nejen) rakoviny prsu nebo prostaty. 
 
-**A právě pro Loono dnes Jana Hejnová pracuje jako IT analytička při své mateřské dovolené.** Z dobrovolnického týmu přešla na placenou pozici, která jí dovolí efektivně využít 15 hodin týdně, které se rozhodla práci věnovat při péči o miminko. „Musím si vybírat, jak čas efektivně využít,“ vysvětluje to Jana.
+**A právě pro Loono dnes Jana Hejnová pracuje jako IT analytička při své mateřské dovolené.** Z dobrovolnického týmu přešla na placenou pozici, která jí dovolí efektivně využít 15 hodin týdně, které se rozhodla práci věnovat při péči o miminko. *„Musím si vybírat, jak čas efektivně využít,“* vysvětluje to Jana.
 
 A co na to Loono? *„Po ukončení projektu jsme se rozhodli zapojit Janču na pozici analytičky. **Dávalo nám to obrovský smysl. Dobře zná aplikaci, procesy i tým a je velmi šikovná, proto jsme chtěli, aby byla součástí Loono i nadále. Velice si vážíme toho, že naši nabídku přijala.** Jako nezisková organizace nemůžeme platovými podmínkami konkurovat soukromým firmám, nicméně jsme spolupráci nastavili tak, aby byla flexibilní a vyhovovala Janči kapacitám a potřebám spojeným s péčí o rodinu,“* říká Product Owner aplikace Preventivka [Adéla Sedláčková](https://www.linkedin.com/in/adela-sedlackova/). 
 
