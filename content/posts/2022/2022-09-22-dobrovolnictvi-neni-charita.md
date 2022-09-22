@@ -23,6 +23,8 @@ U služby Nedlužím státu šlo o případ, kdy se po úspěšném vydání a d
 
 ![](https://data.cesko.digital/img/clanek-dobrovolnictvi-neni-charita/nedluzim-statu-meet.png)
 
+<br>
+
 # David Němec: Otevřenost a profesionalita, toho si na dobrovolnictví cením nejvíc 
 
 V projektu [Nedlužím státu](https://www.nedluzimstatu.cz/) působil jako dobrovolník také [David Němec](https://www.linkedin.com/in/david-nemec/), wordpress vývojář, správce a tvůrce e-shopů a IT konzultant na volné noze. Web tohoto projektu je z velké části také jeho „dítě“, jak o něm sám říká.
@@ -33,7 +35,11 @@ Aby se to celé dobře potkalo, **není důležité mít společnou kancelář n
 
 ![](https://data.cesko.digital/img/clanek-dobrovolnictvi-neni-charita/online-meeting.png)
 
+
+
 Zapojení dobrovolníků z komunity ve své organizaci i po ukončení projektu v Česko.Digital si pochvalují i samotní zadavatelé. *„**Velká výhoda zapojení takových dobrovolníků je v tom, že jsou již vyzkoušení, víme, co od nich můžeme čekat, jak pracují, co ovládají**. Zároveň i oni pokračují v projektu, který znají, takže je nemusíme zaučovat a ušetří to čas oběma stranám. Důležité také je, že se díky předešlé spolupráci **hodnotově shodujeme**, máme nastavené hranice a pravidla a pokud se daní lidé podílejí na projektu dlouhé měsíce jako dobrovolníci, je jasné, že je to baví, že v projektu našli smysl a chtějí se tomu věnovat i nadále,“* vyzdvihuje benefity spolupráce [Radek Hábl](https://www.linkedin.com/in/radekhabl/), zakladatel Institutu prevence a řešení předlužení a Product Owner projektu Nedlužím státu.
+
+<br>
 
 # Jana Hejnová: Pro ajťáka na mateřské je dobrovolnictví způsob, jak zůstat v praxi
 
@@ -46,6 +52,8 @@ Její první krůčky dobrovolnické práce tedy vedly do týmu, který pro nezi
 **A právě pro Loono dnes Jana Hejnová pracuje jako IT analytička při své mateřské dovolené.** Z dobrovolnického týmu přešla na placenou pozici, která jí dovolí efektivně využít 15 hodin týdně, které se rozhodla práci věnovat při péči o miminko. „Musím si vybírat, jak čas efektivně využít,“ vysvětluje to Jana.
 
 A co na to Loono? *„Po ukončení projektu jsme se rozhodli zapojit Janču na pozici analytičky. **Dávalo nám to obrovský smysl. Dobře zná aplikaci, procesy i tým a je velmi šikovná, proto jsme chtěli, aby byla součástí Loono i nadále. Velice si vážíme toho, že naši nabídku přijala.** Jako nezisková organizace nemůžeme platovými podmínkami konkurovat soukromým firmám, nicméně jsme spolupráci nastavili tak, aby byla flexibilní a vyhovovala Janči kapacitám a potřebám spojeným s péčí o rodinu,“* říká Product Owner aplikace Preventivka [Adéla Sedláčková](https://www.linkedin.com/in/adela-sedlackova/). 
+
+<br>
 
 # Máte pár hodin navíc? Staňte se expertním dobrovolníkem
 
