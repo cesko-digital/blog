@@ -76,6 +76,7 @@ collections:
             "lenka.moravcova",
             "veronika.uhrova",
             "lucie.hrdinova",
+            "anezka.muller",
           ]
         required: true
       - label: "Tags"
@@ -200,6 +201,7 @@ collections:
             "lenka.moravcova",
             "veronika.uhrova",
             "lucie.hrdinova",
+            "anezka.muller",
           ]
         required: true
       - label: "Cover"
