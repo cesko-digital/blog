@@ -29,6 +29,6 @@ Další podrobnější informace o výstupech konference Vám sdělí Anežka M�
 
 —
 
-*Česko.Digital je komunita expertních dobrovolníků, kteří rozumí technologiím, pro bono pomáhají neziskovým organizacím i státu, a mění tak Česko k lepšímu. Od svého založení v květnu 2019 propojila přes 5 400 vývojářů, designérů, projektových a produktových manažerů a marketérů. Stojí za projekty [www.ucimeonline.cz](http://www.ucimeonline.cz/), [www.damerousky.cz](http://www.damerousky.cz/),* [](http://www.safezona.cz/)* [www.safezona.cz](http://www.safezona.cz) a  [www.stojimezaukrajinou.cz](http://www.stojimezaukrajinou.cz).*
+*Česko.Digital je komunita expertních dobrovolníků, kteří rozumí technologiím, pro bono pomáhají neziskovým organizacím i státu, a mění tak Česko k lepšímu. Od svého založení v květnu 2019 propojila přes 5 400 vývojářů, designérů, projektových a produktových manažerů a marketérů. Stojí za projekty [www.ucimeonline.cz](http://www.ucimeonline.cz/), [www.damerousky.cz](http://www.damerousky.cz/), [](http://www.safezona.cz/), [www.safezona.cz](http://www.safezona.cz) a  [www.stojimezaukrajinou.cz](http://www.stojimezaukrajinou.cz).*
 
 *Více o komunitě najdete na [www.cesko.digital](https://cesko.digital/).*
