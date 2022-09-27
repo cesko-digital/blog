@@ -22,3 +22,15 @@ Deklaraci, která bude sloužit jako základ vzniku budoucího centra, společn�
 Jako zástupce Evropského parlamentu se konference účastnil Marcel Kolaja, který výstup akce zhodnotil takto: *„Jsem velice rád, že Evropa začíná aktivně podporovat technologie Open Source napříč institucemi. Vytvoření české odnože Open Source Program Office (OSPO) pod patronátem Evropské komise zde v Brně zcela určitě pomůže. OSPO pomůže veřejné správě a také akademické obci zvýšit využívání Open Source Software a přispěje k větší udržitelnosti ekosystému Open Source.“*
 
 Myšlenku vzniku národní Open Source Program Office podporuje i Ondřej Profant, hlavní poradce vicepremiéra ČR pro digitalizaci: „*OSPO vnímáme jako přirozeného partnera pro DIA v oblasti otevřeného software. Díky této spolupráci máme šanci dosáhnout úspor a efektivnějších řešení.“*
+
+*\---*
+
+Další podrobnější informace o výstupech konference Vám sdělí Anežka Müller, e-mail: anežka@cesko.digital, tel.č.: 773 633 753.
+
+
+
+—
+
+*Česko.Digital je komunita expertních dobrovolníků, kteří rozumí technologiím, pro bono pomáhají neziskovým organizacím i státu, a mění tak Česko k lepšímu. Od svého založení v květnu 2019 propojila přes 5 400 vývojářů, designérů, projektových a produktových manažerů a marketérů. Stojí za projekty [www.ucimeonline.cz](http://www.ucimeonline.cz/), [www.damerousky.cz](http://www.damerousky.cz/), [](http://www.safezona.cz/) [www.safezona.cz](http://www.safezona.cz) a  [www.stojimezaukrajinou.cz](http://www.stojimezaukrajinou.cz).*
+
+*Více o komunitě najdete na [www.cesko.digital](https://cesko.digital/).*
