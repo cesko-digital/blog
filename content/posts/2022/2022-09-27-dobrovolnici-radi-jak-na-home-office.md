@@ -26,6 +26,8 @@ V každém případě podle studií realizovaných **v roce 2018** využívalo p
 
 V současné době se práci z domova věnuje pouze jedno **ustanovení §317 Zákoníku práce**. To v podstatě vymezuje, že na pracovníka, který nepracuje na pracovišti, se vztahují všechna ustanovení Zákoníku práce, s výjimkou tří oblastí. Jsou to – rozvržení pracovní doby a prostojů, náhrada mzdy při důležitých osobních překážkách v práci a náhrada mzdy za práci ve svátek. Všechna ostatní ustanovení Zákoníku práce se na práci z domova vztahují, a to často způsobuje různé výkladové i praktické komplikace.
 
+<br>
+
 # Jak pandemie změnila home office
 
 Propuknutí pandemie COVID-19 tento stav zcela zásadně proměnilo. Firmy zkrátka neměly na výběr, a tak to, o čem se dlouhé roky jen debatovalo, se uskutečnilo prakticky **ze dne na den**. A to i v odvětvích, u kterých byla práce na dálku do té doby nemyslitelná (např. učitelé, státní úředníci). Odhaduje se, že z domova pracovala až jedna třetina pracujících. 
@@ -34,6 +36,8 @@ Ne každý ale doma měl adekvátní technické vybavení a prostředí vhodné 
 
 ![](http://data.cesko.digital/img/clanek-jak-na-homeoffice-dobrovolnici/img1.jpg)
 
+<br>
+
 # Praktické tipy na práci z domu
 
 Všechna doporučení, která jsem pro vás našla, se shodují na jednom – **nejdůležitější je vyčlenit si pro práci svůj vlastní prostor**. Místo, které bude jen vaše a bude s prací jasně spojené. Kde vás nebude nic rozptylovat, a tak se vyhnete zbytečné prokrastinaci a odbíhání od pracovních úkolů. 
@@ -41,6 +45,8 @@ Všechna doporučení, která jsem pro vás našla, se shodují na jednom – **
 Až budete mít jasno v tom, kde budete pracovat, určete si také, **kdy budete pracovat**. Pokud máte časovou volnost, **stanovte si vlastní pracovní hodiny**. Dobré je vyzkoušet si, v jakou denní dobu jste nejvýkonnější, a pracovní režim tomu přizpůsobit. Naopak v době, kdy vaše výkony klesají, **jděte na procházku** nebo se protáhněte. Provětráte si hlavu, a bude se vám lépe pracovat. 
 
 Aby vám práce nezačala zasahovat do osobního života, důsledně **dbejte na to, abyste práci ve vymezený čas dodržovali**. Když začnete některý den brzy ráno videokonferencí, skončete s prací dřív. To samé platí i o nastavených pauzách. Tím, že si je budete cíleně zkracovat, naděláte víc škody než užitku. Pokud víte, že to pro vás může být problém, **využijte online stopky** např. [Timer Tab](https://www.timer-tab.com/), které vám vždy připomenou, že je čas dát si od práce pauzu. 
+
+<br>
 
 # Technologie, které vám pomohou být na home office efektivnější
 
@@ -55,6 +61,8 @@ Aby vám práce nezačala zasahovat do osobního života, důsledně **dbejte na
 > **ONLINE TO DO LIST**: Abyste neztratili přehled o tom, jaké úkoly už máte hotové a jaké na vás ještě čekají, poslouží vám online to-do seznamy. V nich si můžete hotové věci odškrtávat případně si nastavit upozornění. Využít můžete například **Google Tasks, [TickTick](https://ticktick.com/) či [Todoist](https://todoist.com/)**.
 >
 > **SOUSTŘEDĚNÍ SE NA PRÁCI**: Nevíte se soustředit při práci? Pomůže vám aplikace **[Forest](https://www.forestapp.cc/)**. Kdykoli se chcete soustředit, zasaďte strom. Strom roste, zatímco se budete soustředit na svou práci. Opuštění aplikace v polovině cesty způsobí, že váš stromek odumře. Na počítači zase můžete použít **[Cold Turkey](https://getcoldturkey.com/)**, který vám zablokuje všechny stránky vyrušující vás od práce.
+
+<br>
 
 # Jak se pracuje v Česko.Digital
 
@@ -86,6 +94,8 @@ Dobrovolný redaktor Filip Šula považuje za nejdůležitější, že **vždy v
 
 V Česko.Digital je důležitější plnění stanovených termínů, než práce ve vymezený čas. Díky tomu má každý **možnost sladit práci a svůj osobní život**. Kateřina toto potvrzuje a přidává jedno vlastní doporučení: „*Home office si řídím podle svých aktuálních potřeb. Někdy začínám s prací ráno a jindy až odpoledne. Taky se snažím netrávit obědy u počítače, i když to k tomu svádí.“*
 
+<br>
+
 # Co nás čeká dál
 
 Mezi práci z domova a pokles produktivity rozhodně není možné dávat rovnítko. Naopak. Práce na dálku znamená pro řadu lidí skvělou příležitost jak sladit osobní a pracovní život a tím dosáhnout také vyšší celkové životní i pracovní spokojenosti. **Odvádějí tak lepší pracovní výkony** než ti, kteří v práci spokojení nejsou.
@@ -95,5 +105,7 @@ A data toto potvrzují. Z uskutečněných průzkumů v zemích střední a již
 Také ze strany firem panuje obdobné přesvědčení. Hybridní formu práce, tedy kombinaci práce z kanceláře a na dálku, plánuje i po konci pandemie zavést 79 % z nich.
 
 Vše tedy nasvědčuje tomu, že práce na dálku přestane být definitivně vnímána jako benefit a stane se nedílnou součástí našich životů. Pokud to bude i váš případ, můžete využít některé z našich doporučení a docílit tím ještě efektivnějších pracovních výkonů než dosud.
+
+<br>
 
 Korektor: [Martin Kasper](http://www.linkedin.com/in/martin-k-0a562021b)
