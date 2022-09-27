@@ -77,6 +77,7 @@ collections:
             "veronika.uhrova",
             "lucie.hrdinova",
             "anezka.muller",
+            "kamila.hrachova",
           ]
         required: true
       - label: "Tags"
@@ -202,6 +203,7 @@ collections:
             "veronika.uhrova",
             "lucie.hrdinova",
             "anezka.muller",
+            "kamila.hrachova"
           ]
         required: true
       - label: "Cover"
