@@ -5,14 +5,12 @@ author: anezka.muller
 cover: https://data.cesko.digital/img/tz_ospo_title.jpg
 date: 2022-09-27-09-11
 slug: open-source-usnadni-digitalizaci-statni-spravy-i-akademickeho-sektoru
-description: Česko má našlápnuto ke vzniku národního centra na podporu open
-  source, takzvaného Open Source Program Office. Centrum, které má sídlit v
-  Brně, pomůže rozvíjet potenciál využití open source ve veřejné sféře a v
-  akademickém sektoru v České republice.
+description: "Brno, 21. září 2022: Česko má našlápnuto ke vzniku národního
+  centra na podporu open source, takzvaného Open Source Program Office. Centrum,
+  které má sídlit v Brně, pomůže rozvíjet potenciál využití open source ve
+  veřejné sféře a v akademickém sektoru v České republice. "
 lang: cs
 ---
-Česko má našlápnuto ke vzniku **národního centra na podporu open source**, takzvaného Open Source Program Office. Centrum, které má sídlit v Brně, pomůže **rozvíjet potenciál využití open source ve veřejné sféře a v akademickém sektoru v České republice**. 
-
 Deklaraci, která bude sloužit jako základ vzniku budoucího centra, společně zformulovali účastníci konference “[Open Source Driving the European Digital Decade](https://openforumeurope.org/event/open-source-driving-the-european-digital-decade/)” 16. září v Brně. Konferenci pod záštitou českého předsednictví v Radě EU pořádala bruselská nezisková organizace OpenForum Europe ve spolupráci s lokálními partnery Česko.Digital, Otevřená města, Open Content a Masarykovou univerzitou. Z komerčního sektoru se na organizaci akce významně podílela společnost Red Hat.
 
 *„Open source je jedním z pilířů inovace dnešního digitálního světa. A pokud se nám podaří jej plošně prosadit, je cenným přínosem pro digitální transformaci veřejné správy a digitální rozvoj Česka. Deklarací vnímám jako logické vyústění zájmu v další konkrétní kroky a společný hlas. Těší mě, že jsme za Česko.Digital u toho a budeme veřejnému sektoru partnery ve snahách, aby idea národního centra nezůstala jen na papíře,“* uvedla Eva Pavlíková, ředitelka komunity expertního dobrovolníků Česko.Digital.
