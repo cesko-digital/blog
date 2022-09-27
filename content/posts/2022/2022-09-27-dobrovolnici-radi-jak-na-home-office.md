@@ -32,9 +32,7 @@ Propuknutí pandemie COVID-19 tento stav zcela zásadně proměnilo. Firmy zkrá
 
 Ne každý ale doma měl adekvátní technické vybavení a prostředí vhodné pro nerušenou práci. Chyběly **procesy kontroly** práce ze strany nadřízených a řada lidí jednoduše **nebyla na práci z domu zvyklá** (až 40 % s ní nemělo do té doby vůbec žádné zkušenosti). A, i když se my všichni  pravděpodobně nadále potýkáme s různými obtížemi, hlavní rady pro efektivní práci se dají zobecnit.
 
-
-
-![](https://lh5.googleusercontent.com/mj7pU3aZPEMWk_LuSz-NmI-gHxDY32VzT3EcihrbhatRux6VJx9L_TLFTp4bOvnu2eWEVURKH68ElYuROtUXY9WQqrAhFiE22Ba9-ymExFOUYmk2-l8Onhr_vhcjgLE-QepsuXlDyjs53x2t4BVKr1O12LQ_zhg9RbCt6FbPjXzutg3iWx9iBnyHGg)
+![](http://data.cesko.digital/img/clanek-jak-na-homeoffice-dobrovolnici/img1.jpg)
 
 # Praktické tipy na práci z domu
 
@@ -46,17 +44,17 @@ Aby vám práce nezačala zasahovat do osobního života, důsledně **dbejte na
 
 # Technologie, které vám pomohou být na home office efektivnější
 
-> ONLINE MEETINGY: Videokonference jsou zřejmě nejpoužívanějším nástrojem pro práci na dálku. Pandemie ukázala, že i když výhradně virtuální jednání není ideální řešení, velkou část osobních schůzek lze takto bez problémů nahradit. Mezi nejčastěji používanými nástroji pro videokonference, se kterými se můžete setkat jsou [Zoom](https://zoom.us/), [Teams](https://www.microsoft.com/cs-cz/microsoft-teams/log-in) či Google Meet.
-
-ONLINE ÚLOŽIŠTĚ: Druhým klíčovým nástrojem je sdílení dokumentů a souborů na cloudovém úložišti. S kolegy tak můžete spolupracovat v podstatě stejně, jako když v kanceláři využíváte společný disk na serveru. Pro online sdílení se využívají Google Disk, OneDrive nebo [Dropbox](https://www.dropbox.com/).
-
-ONLINE CHAT: Nedostatek kontaktu s kolegy, odzicení a ztrátu týmového ducha vám pomohou částečně nahradit chatovací aplikace. Díky tomu budete mít přehled, na čem kdo pracuje a co se ohledně jakého projektu řeší, skoro stejně, jako byste vnímali hovory v kanceláři. Pro tyto asynchronní konverzace firmy využívají nástroje jako [Slack](https://slack.com/) nebo Google Hangouts.
-
-ONLINE ŘÍZENÍ: Pokud je vaše práce alespoň z části projektová, neobejdete se bez nástrojů pro jejich řízení. Díky tomuto softwaru budou mít všichni členové týmu přehled o tom, jaké jsou jejich úkoly, termíny a co již bylo splněno. Příkladem může být [Trello](https://trello.com/), [Asana](https://asana.com/) nebo [Basecamp](https://basecamp.com/).  
-
-ONLINE TO DO LIST: Abyste neztratili přehled o tom, jaké úkoly už máte hotové a jaké na vás ještě čekají, poslouží vám online to-do seznamy. V nich si můžete hotové věci odškrtávat případně si nastavit upozornění. Využít můžete například Google Tasks, [TickTick](https://ticktick.com/) či [Todoist](https://todoist.com/).
-
-SOUSTŘEDĚNÍ SE NA PRÁCI: Nevíte se soustředit při práci? Pomůže vám aplikace [Forest](https://www.forestapp.cc/). Kdykoli se chcete soustředit, zasaďte strom. Strom roste, zatímco se budete soustředit na svou práci. Opuštění aplikace v polovině cesty způsobí, že váš stromek odumře. Na počítači zase můžete použít [Cold Turkey](https://getcoldturkey.com/), který vám zablokuje všechny stránky vyrušující vás od práce.
+> **ONLINE MEETINGY**: Videokonference jsou zřejmě nejpoužívanějším nástrojem pro práci na dálku. Pandemie ukázala, že i když výhradně virtuální jednání není ideální řešení, velkou část osobních schůzek lze takto bez problémů nahradit. Mezi nejčastěji používanými nástroji pro videokonference, se kterými se můžete setkat jsou **[Zoom](https://zoom.us/), [Teams](https://www.microsoft.com/cs-cz/microsoft-teams/log-in) či Google Meet**.
+>
+> **ONLINE ÚLOŽIŠTĚ**: Druhým klíčovým nástrojem je sdílení dokumentů a souborů na cloudovém úložišti. S kolegy tak můžete spolupracovat v podstatě stejně, jako když v kanceláři využíváte společný disk na serveru. Pro online sdílení se využívají **Google Disk, OneDrive nebo [Dropbox](https://www.dropbox.com/)**.
+>
+> **ONLINE CHAT**: Nedostatek kontaktu s kolegy, odzicení a ztrátu týmového ducha vám pomohou částečně nahradit chatovací aplikace. Díky tomu budete mít přehled, na čem kdo pracuje a co se ohledně jakého projektu řeší, skoro stejně, jako byste vnímali hovory v kanceláři. Pro tyto asynchronní konverzace firmy využívají nástroje jako **[Slack](https://slack.com/) nebo Google Hangouts**.
+>
+> **ONLINE ŘÍZENÍ**: Pokud je vaše práce alespoň z části projektová, neobejdete se bez nástrojů pro jejich řízení. Díky tomuto softwaru budou mít všichni členové týmu přehled o tom, jaké jsou jejich úkoly, termíny a co již bylo splněno. Příkladem může být **[Trello](https://trello.com/), [Asana](https://asana.com/) nebo [Basecamp](https://basecamp.com/)**.  
+>
+> **ONLINE TO DO LIST**: Abyste neztratili přehled o tom, jaké úkoly už máte hotové a jaké na vás ještě čekají, poslouží vám online to-do seznamy. V nich si můžete hotové věci odškrtávat případně si nastavit upozornění. Využít můžete například **Google Tasks, [TickTick](https://ticktick.com/) či [Todoist](https://todoist.com/)**.
+>
+> **SOUSTŘEDĚNÍ SE NA PRÁCI**: Nevíte se soustředit při práci? Pomůže vám aplikace **[Forest](https://www.forestapp.cc/)**. Kdykoli se chcete soustředit, zasaďte strom. Strom roste, zatímco se budete soustředit na svou práci. Opuštění aplikace v polovině cesty způsobí, že váš stromek odumře. Na počítači zase můžete použít **[Cold Turkey](https://getcoldturkey.com/)**, který vám zablokuje všechny stránky vyrušující vás od práce.
 
 # Jak se pracuje v Česko.Digital
 
@@ -71,8 +69,6 @@ Tomu také odpovídají [naše hodnoty](https://cesko-digital.atlassian.net/l/c/
 Po praktické stránce tvoří základ práce Česko.Digital komunikační nástroj Slack, kde najdete komunikační vlákna týkající se obecných témat č.d i vlákna ke konkrétním projektům. Vše, co není soukromé, se píše veřejně do příslušných kanálů. Slack využívají členové komunity také pro soukromé zprávy. Kateřina Kocianová, která dlouho působila na pozici Project & Care Coordinator Česko.Digital, k efektivní práci s touto aplikací dodává: „Co se týče Slacku, tak mám vypnutá upozornění pro všechny kanály, které nepotřebuji sledovat. Také se mi osvědčila funkce Add to saved items s připomenutím. A když nejsem u počítače, vždy si nastavuji status Away.“
 
 ![](https://lh3.googleusercontent.com/qftVoFg4cNjMCL0fxqG7Pz4zmNd4IEsM26c5vYGqR6972uBj7ncsjKI_7j7iIeIT-ANvKFJRei9gJ0E_cSGWidagAOOVS1vn3iqNH3dydaIlJm45NqFgxPQiUkvsVYeLwYyZiPd1Cif3hQ5tDyg5rUUh5tZ6e3mKHiPDQtAv-ciXLbu0lrIO7_cW)![](https://lh4.googleusercontent.com/SAIAf7ihD2QRySMGW1YDZ_yc_awAPHnCeLh91umJGcUNMPbJ3xG8Nh7wSDdeDv8Xom6mY_GBeYqNkIF1Bb-D0_ekZlv6zaVdutkGK9UTZJw660UZYP0cJU3zm_jhOW7vOUOIFkE77W3if-DerU-A2XexDtkx9fg1qPAzxeJC9_raMX8wu29xFw5t)
-
-
 
 Pokud je potřeba naplánovat si online schůzku s koordinátorem či dalšími dobrovolníky, Kačce i Terézii Palaščákové, Content Lead Česko.Digital, to usnadňuje plánovací nástroj [Calendly](http://calendly.com/), kde mají vyznačené své časové možnosti a zájemce si může přímo poptat a naplánovat nějaký z termínů.
 
