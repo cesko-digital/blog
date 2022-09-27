@@ -60,37 +60,37 @@ Aby vám práce nezačala zasahovat do osobního života, důsledně **dbejte na
 
 V Česko.Digital je práce na dálku a z domova náš denní chleba. Jsme komunita expertních dobrovolníků, kteří ve svém volném čase pomáhají státu i neziskovým organizacím. Už je nás přes 5 tisíc a fungovat jinak než na dálku by ani nebylo možné.
 
-Tomu také odpovídají [naše hodnoty](https://cesko-digital.atlassian.net/l/c/HPmh4KK9), kterými se řídíme a nástroje, které používáme:
+Tomu také odpovídají **[naše hodnoty](https://cesko-digital.atlassian.net/l/c/HPmh4KK9)**, kterými se řídíme a nástroje, které používáme:
 
-* Jsme otevřená a transparentní organizace, a proto si zakládáme na otevřeném přístupu k datům a otevřené komunikaci. Asynchronní schůzky a většina informací jsou proto přístupné všem.
-* Naší podstatou je dobrovolnictví, a tak se snažíme, aby se mohl zapojit opravdu každý, kdo má zájem, bez ohledu na to, kde se právě nachází a kdy se mu hodí pracovat. Neklademe proto žádné překážky, jako je povinná docházka do kanceláře.
-* Jsme efektivní, a proto volíme nejvhodnější typ komunikace i schůzek, s respektem k druhým a využíme pro ně elektronické nástroje. Jsme profesionální, a k tomu nám nejlépe slouží nové procesy a technologie.
+* Jsme otevřená a transparentní organizace, a proto si zakládáme **na otevřeném přístupu k datům a otevřené komunikaci**. Asynchronní schůzky a většina informací jsou proto přístupné všem.
+* Naší podstatou je dobrovolnictví, a tak se snažíme, aby se **mohl zapojit opravdu každý**, kdo má zájem, bez ohledu na to, kde se právě nachází a kdy se mu hodí pracovat. Neklademe proto žádné překážky, jako je povinná docházka do kanceláře.
+* Jsme efektivní, a proto volíme **nejvhodnější typ komunikace i schůzek**, s respektem k druhým a využíme pro ně elektronické nástroje. Jsme **profesionální**, a k tomu nám nejlépe slouží **nové procesy a technologie**.
 
-Po praktické stránce tvoří základ práce Česko.Digital komunikační nástroj Slack, kde najdete komunikační vlákna týkající se obecných témat č.d i vlákna ke konkrétním projektům. Vše, co není soukromé, se píše veřejně do příslušných kanálů. Slack využívají členové komunity také pro soukromé zprávy. Kateřina Kocianová, která dlouho působila na pozici Project & Care Coordinator Česko.Digital, k efektivní práci s touto aplikací dodává: „Co se týče Slacku, tak mám vypnutá upozornění pro všechny kanály, které nepotřebuji sledovat. Také se mi osvědčila funkce Add to saved items s připomenutím. A když nejsem u počítače, vždy si nastavuji status Away.“
+Po praktické stránce tvoří základ práce Česko.Digital **komunikační nástroj Slack**, kde najdete komunikační vlákna týkající se obecných témat č.d i vlákna ke konkrétním projektům. Vše, co není soukromé, se píše veřejně do příslušných kanálů. Slack využívají členové komunity také pro soukromé zprávy. Kateřina Kocianová, která dlouho působila na pozici Project & Care Coordinator Česko.Digital, k efektivní práci s touto aplikací dodává: *„Co se týče Slacku, tak mám **vypnutá upozornění pro všechny kanály, které nepotřebuji sledovat**. Také se mi osvědčila funkce **Add to saved items s připomenutím**. A když nejsem u počítače, vždy si nastavuji **status Away**.“*
 
-![](https://lh3.googleusercontent.com/qftVoFg4cNjMCL0fxqG7Pz4zmNd4IEsM26c5vYGqR6972uBj7ncsjKI_7j7iIeIT-ANvKFJRei9gJ0E_cSGWidagAOOVS1vn3iqNH3dydaIlJm45NqFgxPQiUkvsVYeLwYyZiPd1Cif3hQ5tDyg5rUUh5tZ6e3mKHiPDQtAv-ciXLbu0lrIO7_cW)![](https://lh4.googleusercontent.com/SAIAf7ihD2QRySMGW1YDZ_yc_awAPHnCeLh91umJGcUNMPbJ3xG8Nh7wSDdeDv8Xom6mY_GBeYqNkIF1Bb-D0_ekZlv6zaVdutkGK9UTZJw660UZYP0cJU3zm_jhOW7vOUOIFkE77W3if-DerU-A2XexDtkx9fg1qPAzxeJC9_raMX8wu29xFw5t)
+![](https://data.cesko.digital/img/clanek-jak-na-homeoffice-dobrovolnici/slack.png)
 
-Pokud je potřeba naplánovat si online schůzku s koordinátorem či dalšími dobrovolníky, Kačce i Terézii Palaščákové, Content Lead Česko.Digital, to usnadňuje plánovací nástroj [Calendly](http://calendly.com/), kde mají vyznačené své časové možnosti a zájemce si může přímo poptat a naplánovat nějaký z termínů.
+Pokud je potřeba naplánovat si online schůzku s koordinátorem či dalšími dobrovolníky, Kačce i Terézii Palaščákové, Content Lead Česko.Digital, to usnadňuje plánovací nástroj **[Calendly](http://calendly.com/)**, kde mají vyznačené své časové možnosti a zájemce si může přímo poptat a naplánovat nějaký z termínů.
 
-![](https://lh3.googleusercontent.com/B-l5q5wCMMKaKTey1jb3Ix6Mdo6oyCRrVfRLac7kV8VxpHga0abngjI-dt7KsVKqqzIgOM3MGAkLL6pGL4VxeSZMv-V8M8Tm2CG0JBtoKgAZlSj1Z-FxAL3XblDL-A76D0g4VPha7a1oSd4eMdXQI-AmjoFJTmLk-DbT23K6aKnF3QiDuK22sfc1)
+![](https://data.cesko.digital/img/clanek-jak-na-homeoffice-dobrovolnici/call-s-terkou.png)
 
-Obě také nedají dopustit na veřejný kalendář Google. V něm mají uvedené všechny termíny a deadliny, které nesnesou odkladu a také dobu, kdy nejsou dostupné, protože se věnují hluboké práci nebo mají svůj osobní čas.
+Obě také nedají dopustit na **veřejný kalendář Google**. V něm mají uvedené všechny termíny a deadliny, které nesnesou odkladu a také dobu, kdy nejsou dostupné, protože se věnují hluboké práci nebo mají svůj osobní čas.
 
-Pro sledování projektů slouží nástroj [Trello](http://trello.com/), kde má každý konkrétní úkol svoji kartu s přiřazením zodpovědných osob. Každý dobrovolník si zde plní vlastní úkoly, přesun  do další fáze projektu mají na starost výhradně koordinátoři.
+Pro sledování projektů slouží nástroj **[Trello](http://trello.com/)**, kde má každý konkrétní úkol svoji kartu s přiřazením zodpovědných osob. Každý dobrovolník si zde plní vlastní úkoly, přesun  do další fáze projektu mají na starost výhradně koordinátoři.
 
-![](https://lh6.googleusercontent.com/eDnXUZKn8_pMqxS1hjc2Oa7VlwN_NboCbsvzPQNgLRu9gvSAPbKMd9nj276E2AtqdGTUCBWSSInu_c5PwUdBXVe_Cc3XAuxJPr9PfMm0NcQMgWvqOra9cDlXY1Z7DFUvX-qPGaW54gv03L3oH3jy2PCKzLrhMNaWxYr9QlmUNiitWBkSjGet62Jp)
+![](https://data.cesko.digital/img/clanek-jak-na-homeoffice-dobrovolnici/trello.png)
 
-Pro sdílení podkladů využíváme služby Google Disku, kam mají přístup všichni ti, kteří dané podklady potřebují pro práci. Vývoj samotných aplikací probíhá ve webových programovacích nástrojích a využíváme také [GitHub](https://github.com/cesko-digital). Veškeré souhrnné informace o organizaci nebo projektech najde každý na tzv. [wiki Česko.Digital](https://cesko-digital.atlassian.net/wiki/spaces/CD/overview?mode=global).
+Pro sdílení podkladů využíváme služby **Google Disku**, kam mají přístup všichni ti, kteří dané podklady potřebují pro práci. Vývoj samotných aplikací probíhá ve webových programovacích nástrojích a využíváme také **[GitHub](https://github.com/cesko-digital)**. Veškeré souhrnné informace o organizaci nebo projektech najde každý na tzv. **[wiki Česko.Digital](https://cesko-digital.atlassian.net/wiki/spaces/CD/overview?mode=global)**.
 
-Dobrovolný redaktor Filip Šula považuje za nejdůležitější, že vždy ví, na koho se může obrátit. Také oceňuje, že práce je interně transparentní. „Všechny informace potřebné k práci najdu na oficiálních stránkách, ve vláknech ve Slacku i v jiných pracích na různých projektech. Vím, kde co najdu a mám dost prostoru udělat si práci podle sebe. Česko.Digital funguje tak, že sice vždycky najdete ochotnou pomoc v každé sféře organizace, ale zároveň odvedete dobrou práci sami za sebe.“
+Dobrovolný redaktor Filip Šula považuje za nejdůležitější, že **vždy ví, na koho se může obrátit**. Také oceňuje, že práce je interně transparentní. *„Všechny informace potřebné k práci najdu na oficiálních stránkách, ve vláknech ve Slacku i v jiných pracích na různých projektech. Vím, kde co najdu a mám dost prostoru udělat si práci podle sebe. Česko.Digital funguje tak, že sice vždycky najdete ochotnou pomoc v každé sféře organizace, ale zároveň odvedete dobrou práci sami za sebe.“*
 
-V Česko.Digital je důležitější plnění stanovených termínů, než práce ve vymezený čas. Díky tomu má každý možnost sladit práci a svůj osobní život. Kateřina toto potvrzuje a přidává jedno vlastní doporučení: „Home office si řídím podle svých aktuálních potřeb. Někdy začínám s prací ráno a jindy až odpoledne. Taky se snažím netrávit obědy u počítače, i když to k tomu svádí.“
+V Česko.Digital je důležitější plnění stanovených termínů, než práce ve vymezený čas. Díky tomu má každý **možnost sladit práci a svůj osobní život**. Kateřina toto potvrzuje a přidává jedno vlastní doporučení: „*Home office si řídím podle svých aktuálních potřeb. Někdy začínám s prací ráno a jindy až odpoledne. Taky se snažím netrávit obědy u počítače, i když to k tomu svádí.“*
 
 # Co nás čeká dál
 
-Mezi práci z domova a pokles produktivity rozhodně není možné dávat rovnítko. Naopak. Práce na dálku znamená pro řadu lidí skvělou příležitost jak sladit osobní a pracovní život a tím dosáhnout také vyšší celkové životní i pracovní spokojenosti. Odvádějí tak lepší pracovní výkony než ti, kteří v práci spokojení nejsou.
+Mezi práci z domova a pokles produktivity rozhodně není možné dávat rovnítko. Naopak. Práce na dálku znamená pro řadu lidí skvělou příležitost jak sladit osobní a pracovní život a tím dosáhnout také vyšší celkové životní i pracovní spokojenosti. **Odvádějí tak lepší pracovní výkony** než ti, kteří v práci spokojení nejsou.
 
-A data toto potvrzují. Z uskutečněných průzkumů v zemích střední a jižní Evropy včetně ČR vyplývá, že 48 % zaměstnanců by preferovalo kombinaci práce z domova s prací v kanceláři. Při práci z domova oceňují lidé především možnost kontroly nad organizací práce. Pro práci v kanceláři zase hovoří hlavně sociální interakce s kolegy, kterou během práce na dálku postrádali, rychlejší a efektivnější přenos informací v týmu a intenzivnější budování firemní kultury. 
+A data toto potvrzují. Z uskutečněných průzkumů v zemích střední a jižní Evropy včetně ČR vyplývá, že **48 % zaměstnanců by preferovalo kombinaci práce z domova s prací v kanceláři**. Při práci z domova oceňují lidé především možnost kontroly nad organizací práce. Pro práci v kanceláři zase hovoří hlavně sociální interakce s kolegy, kterou během práce na dálku postrádali, rychlejší a efektivnější přenos informací v týmu a intenzivnější budování firemní kultury. 
 
 Také ze strany firem panuje obdobné přesvědčení. Hybridní formu práce, tedy kombinaci práce z kanceláře a na dálku, plánuje i po konci pandemie zavést 79 % z nich.
 
