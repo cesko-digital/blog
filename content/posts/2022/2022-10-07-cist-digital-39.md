@@ -23,7 +23,13 @@ lang: cs
 
 \> **[Staň se hrdinou svého zdraví a stáhni si aplikaci Preventivka](https://www.loono.cz/mobilni-aplikace)!**
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/39/preventivka-newsletter.png)
+
+</center>
+
+<br>
 
 ## Event Nezisk.Digital: nálož digitálního know-how pro jakoukoliv neziskovku 
 
@@ -45,13 +51,21 @@ Co akce neziskovkám přinese:
 
 *Znáš neziskovku z Brna a okolí, které by se půlden plný informací hodil? Dej jí o něm vědět!*
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/39/nezisk.digital.png)
+
+</center>
+
+<br>
 
 ## Nominace na Křišťálovou Lupu
 
 ⚡ **Flash NEWS** ⚡ Česko.Digital získalo 4 nominace na významnou cenu českého internetu [Křišťalová Lupa](https://kristalova.lupa.cz/2022/)! 🎉
 
 \> **[Mrkni na video na Instagramu. Líbí se ti to? Dej 🧡, ať poznáme, že to má smysl](https://www.instagram.com/reel/CjDJC8AgUP1/?utm_source=ig_web_copy_link)**
+
+<br>
 
 ## Také věříš, že by mělo být expertní dobrovolnictví součástí vzdělávání a CSR programů firem?
 
@@ -65,15 +79,25 @@ Co akce neziskovkám přinese:
 
 ❗ A pokud práci naopak hledáš, neměla by ti uniknout konference [Profesia Days](https://profesiadays.cz/) – probíhá ve stejném čase, na stejném místě.
 
+<br>
+
 ## Dobrovolnictví není charita
 
 🧑‍🤝‍🧑 V novém článku na blogu jsme vyzpovídali 3 dobrovolníky, kterým práce na projektu u nás přinesla i placenou spolupráci. Zjistíš v něm, co na spolupráci s námi nejvíce oceňují a jak se k práci dostali. Najdeš tam také názory spolupracujících neziskových organizací na tento typ spolupráce. Tak si článek [Lenky Vaculínové](https://www.linkedin.com/in/lenka-vacul%C3%ADnov%C3%A1-29762857/) nenech ujít! 🤩
 
 \> **[Dobrovolnictví není charita aneb 3 příběhy o tom, jak můžete v Česko.Digital vyrůst](https://blog.cesko.digital/2022/09/dobrovolnictvi-neni-charita)**
 
+<center>
+
 ![](https://data.cesko.digital/img/clanek-dobrovolnictvi-neni-charita/dobrovolnictvi-neni-charita.png)
 
 
+
+![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
+
+<br>
 
 # To nejlepší z našich projektů
 
@@ -131,7 +155,11 @@ Denně náš web navštíví kolem **1 500 návštěvníků**, z toho téměř 
 
 \> **[Podívej se na omalovánky s Movappem](https://drive.google.com/file/d/1f1SvKlp3iXW4fQFs8T8bT7Jh14NUOPvr/view?usp=sharing)**
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/39/movapp.png)
+
+</center>
 
 ## Umapa
 
@@ -141,7 +169,13 @@ Denně náš web navštíví kolem **1 500 návštěvníků**, z toho téměř 
 
 **Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).**
 
+<center>
 
+![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
+
+<br>
 
 # Události
 
@@ -152,6 +186,14 @@ Máme za sebou událostmi nadupané září, kdy jsme nejen nadšeně přednáš
 💻 V Brně jsme mezitím společně s [OpenForum Europe](https://openforumeurope.org/), [Otevřenými městy](https://www.otevrenamesta.cz/), [Open Content](https://www.opencontent.cz/), [Red Hat Czech](https://www.redhat.com/en/global/czech-republic) a [Masarykovou univerzitou](http://www.muni.cz/) uspořádali **konferenci [Open Source Driving the European Digital Decade](https://openforumeurope.org/event/open-source-driving-the-european-digital-decade/)**. Odborníci z ČR i různých koutů světa tu v rámci probíhajícího českého předsednictví v Radě EU diskutovali [roli Open Source technologií ve veřejném a akademické sektoru](https://blog.cesko.digital/2022/09/open-source-usnadni-digitalizaci-statni-spravy-i-akademickeho-sektoru). Na podporu open source má v Brně dokonce vzniknout [nové národní centrum](https://blog.cesko.digital/2022/09/open-source-usnadni-digitalizaci-statni-spravy-i-akademickeho-sektoru).
 
 \> **[Nechceš minout žádnou akci? Sleduj aktuální nabídku na Portálu dobrovolníka](https://cesko.digital/dashboard?gclid=CjwKCAjw4c-ZBhAEEiwAZ105RaZmfAwDs583t-S16_cU-VEQolJEoJTB1VKeys3zWVu3hYhV1VRzyhoC-CcQAvD_BwE)**
+
+<center>
+
+![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
+
+<br>
 
 # edu.digital
 
@@ -173,7 +215,13 @@ Máme za sebou událostmi nadupané září, kdy jsme nejen nadšeně přednáš
 
 \> **[Podívej se na záznam webináře na našem YouTube](https://www.youtube.com/playlist?list=PLOX5xelTsEv_KSzj0soqcWx1Ygp5gKdG)**
 
+<center>
 
+![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
+
+<br>
 
 # Novinky od našich partnerů
 
@@ -181,17 +229,23 @@ Máme za sebou událostmi nadupané září, kdy jsme nejen nadšeně přednáš
 
 \> **[Podívej se na výzvu živě](http://twitch.tv/livesporteu)**
 
+<center>
 
+![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
+
+<br>
 
 # Koho aktuálně hledáme
 
 Přilož ruku k dílu v největší dobrovolnické civic-tech organizaci v Evropě a digitalizuj s námi Česko. **Všechny pozice najdeš přehledně na [Portálu dobrovolníka](http://cesko.digital/portal-dobrovolnika).**
 
-
+<br>
 
 ## Děkujeme, že jsi s námi!
 
-**Jak se ti líbí náš newsletter?** Budeme rádi, když nám [necháš zpětnou vazbu](https://airtable.com/shrLH9CrSztEXGnKa), která nám ho pomůže vylepšit. A jestli se na tvorbě tohoto newsletteru chceš také podílet, ozvi se v kanálu [\#ceskodigital-obsah](https://cesko-digital.slack.com/archives/C01FQBDMDGQ) ve Slacku nebo napiš na <terezia@cesko.digital>. 🤗
+**Jak se ti líbí náš newsletter?** Budeme rádi, když nám [necháš zpětnou vazbu](https://airtable.com/shrLH9CrSztEXGnKa), která nám ho pomůže vylepšit. A jestli se na tvorbě tohoto newsletteru chceš také podílet, ozvi se v kanálu [\#ceskodigital-obsah](https://cesko-digital.slack.com/archives/C01FQBDMDGQ) ve Slacku nebo napiš na [terezia@cesko.digital](mailto:terezia@cesko.digital). 🤗
 
 Digitálu zdar!
 
