@@ -19,7 +19,7 @@ lang: cs
 
 ## Loono vyslalo novou aplikaci Preventivka oficiálně do světa
 
-📱 A co ti může nabídnout? 🩺 Vyfiltruje a připomene **preventivní prohlídky**, provede samovyšetřením, najde odborníka v okolí a nabídne ověřené a **srozumitelné informace o prevenci** nejrůznějších onemocnění. Díky podpoře [Nadace PPF](https://nadaceppf.cz/) a díky několikaměsíční práci dobrovolníků spustila nezisková organizace [Loono](https://www.loono.cz/) aplikaci v podobě MVP, na jehož tvorbě se několik měsíců podíleli i naši dobrovolníci, a kterou si během testovacího provozu stáhlo **4 700 uživatelů**. Co děláš pro své zdraví ty?
+📱 A co ti může nabídnout? 🩺 Vyfiltruje a připomene **preventivní prohlídky**, provede samovyšetřením, najde odborníka v okolí a nabídne ověřené a **srozumitelné informace o prevenci** nejrůznějších onemocnění. Díky podpoře [Nadace PPF](https://nadaceppf.cz/) a díky několikaměsíční práci dobrovolníků spustila nezisková organizace [Loono](https://www.loono.cz/) aplikaci v podobě MVP, kterou si během testovacího provozu stáhlo **4 700 uživatelů**. Co děláš pro své zdraví ty?
 
 \> **[Staň se hrdinou svého zdraví a stáhni si aplikaci Preventivka](https://www.loono.cz/mobilni-aplikace)!**
 
