@@ -71,6 +71,8 @@ Co akce neziskovkám přinese:
 
 \> **[Radost má i vedení společnosti: Expertní dobrovolnictví přináší firmě know-how, flexibilitu i spokojenější zaměstnance](https://blog.cesko.digital/2022/08/expertni-dobrovolnictvi-prinasi-firme-know-how-flexibilitu-i-spokojenejsi-zamestnance)**
 
+<br>
+
 🎤 Mimochodem, už 12. a 13. 10. 2022 proběhne 11. ročník odborného veletrhu **HRDays** v PVA Expo Praha. Marketing and Communication Lead Česko.Digital Martina Habová tu 13. 10. 2022 od 14:05 vystoupí s přednáškou o přínosech expertního dobrovolnictví pro firmy a její zaměstnance. Akce je určena pro všechny HR manažery a personalisty a vstup je zdarma, je potřeba se akorát zaregistrovat.
 
 \> **[Zaregistruj se a doraž na přednášku](https://registrace.hrdays.cz/)**
