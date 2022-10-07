@@ -55,15 +55,11 @@ Co akce neziskovkám přinese:
 
 </center>
 
-
-
 ## Nominace na Křišťálovou Lupu
 
 ⚡ **Flash NEWS** ⚡ Česko.Digital získalo 4 nominace na významnou cenu českého internetu [Křišťalová Lupa](https://kristalova.lupa.cz/2022/)! 🎉
 
 \> **[Mrkni na video na Instagramu. Líbí se ti to? Dej 🧡, ať poznáme, že to má smysl](https://www.instagram.com/reel/CjDJC8AgUP1/?utm_source=ig_web_copy_link)**
-
-
 
 ## Také věříš, že by mělo být expertní dobrovolnictví součástí vzdělávání a CSR programů firem?
 
@@ -71,7 +67,11 @@ Co akce neziskovkám přinese:
 
 \> **[Radost má i vedení společnosti: Expertní dobrovolnictví přináší firmě know-how, flexibilitu i spokojenější zaměstnance](https://blog.cesko.digital/2022/08/expertni-dobrovolnictvi-prinasi-firme-know-how-flexibilitu-i-spokojenejsi-zamestnance)**
 
-<br>
+<center>
+
+![](https://data.cesko.digital/img/expert-dobrovolnictvi.png)
+
+</center>
 
 🎤 Mimochodem, už 12. a 13. 10. 2022 proběhne 11. ročník odborného veletrhu **HRDays** v PVA Expo Praha. Marketing and Communication Lead Česko.Digital Martina Habová tu 13. 10. 2022 od 14:05 vystoupí s přednáškou o přínosech expertního dobrovolnictví pro firmy a její zaměstnance. Akce je určena pro všechny HR manažery a personalisty a vstup je zdarma, je potřeba se akorát zaregistrovat.
 
@@ -88,8 +88,6 @@ Co akce neziskovkám přinese:
 <center>
 
 ![](https://data.cesko.digital/img/clanek-dobrovolnictvi-neni-charita/dobrovolnictvi-neni-charita.png)
-
-
 
 ![](https://data.cesko.digital/img/dad68fa0.png)
 
