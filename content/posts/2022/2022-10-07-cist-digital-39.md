@@ -29,8 +29,6 @@ lang: cs
 
 </center>
 
-<br>
-
 ## Event Nezisk.Digital: nálož digitálního know-how pro jakoukoliv neziskovku 
 
 🎁 Nadupaný půlden, kdy zástupci neziskových organizací se zkušenými mentory proberou všechno, co je pálí v oblasti **digitální bezpečnosti**. Event organizujeme společně s [Nadací Avast](https://foundation.avast.com/) a [Sdružením Via](https://sdruzenivia.cz/).
@@ -57,7 +55,7 @@ Co akce neziskovkám přinese:
 
 </center>
 
-<br>
+
 
 ## Nominace na Křišťálovou Lupu
 
@@ -65,7 +63,7 @@ Co akce neziskovkám přinese:
 
 \> **[Mrkni na video na Instagramu. Líbí se ti to? Dej 🧡, ať poznáme, že to má smysl](https://www.instagram.com/reel/CjDJC8AgUP1/?utm_source=ig_web_copy_link)**
 
-<br>
+
 
 ## Také věříš, že by mělo být expertní dobrovolnictví součástí vzdělávání a CSR programů firem?
 
@@ -78,8 +76,6 @@ Co akce neziskovkám přinese:
 \> **[Zaregistruj se a doraž na přednášku](https://registrace.hrdays.cz/)**
 
 ❗ A pokud práci naopak hledáš, neměla by ti uniknout konference [Profesia Days](https://profesiadays.cz/) – probíhá ve stejném čase, na stejném místě.
-
-<br>
 
 ## Dobrovolnictví není charita
 
