@@ -171,25 +171,31 @@ Máme za sebou událostmi nadupané září, kdy jsme nejen nadšeně přednáš
 
 💻 Čtyři hosté webináře edu.digital fungují v remote režimu už dlouho a podělí se s tebou o užitečné tipy, nástroje a rituály, které můžeš zkusit i ty. Dozvíš se, co je to systém 6 + 1, jak správně využívat týmové rituály a komunikační nástroje, jak pracovat s emocemi v remote práci nebo třeba to, jak se s využitím 5 tipů připravit na úspěšné interaktivní online školení. 👇
 
-\> [Podívej se na záznam webináře na našem YouTube](https://www.youtube.com/playlist?list=PLOX5xelTsEv_KSzj0soqcWx1Ygp5gKdG)
+\> **[Podívej se na záznam webináře na našem YouTube](https://www.youtube.com/playlist?list=PLOX5xelTsEv_KSzj0soqcWx1Ygp5gKdG)**
+
+
 
 # Novinky od našich partnerů
 
-🧑‍💻 V pátek 7. 10. a sobotu 8. 10. 2022 proběhne unikátní programátorská výzva Livesport Extreme Coding Challenge. Pro účastníky jsou připravená zadání, která prověří jejich znalosti v extrémních podmínkách a zaručeně je vyhodí z komfortu. Naopak ty vše můžeš sledovat živě z gauče na Twitch kanálu v pátek od 16:00 hodin, v sobotu pak od 14:00. Celou akcí tě provedou experti na hru i kód vzatí Mikoláš Tuček, Roman Hraška a Alžběta Trojanová.
+🧑‍💻 V pátek **7. 10.** a sobotu **8. 10. 2022** proběhne **unikátní programátorská výzva Livesport Extreme Coding Challenge**. Pro účastníky jsou připravená zadání, která prověří jejich znalosti v extrémních podmínkách a zaručeně je vyhodí z komfortu. Naopak ty vše můžeš sledovat živě z gauče na Twitch kanálu v pátek od 16:00 hodin, v sobotu pak od 14:00. Celou akcí tě provedou experti na hru i kód vzatí Mikoláš Tuček, Roman Hraška a Alžběta Trojanová.
 
-\> [Podívej se na výzvu živě](http://twitch.tv/livesporteu)
+\> **[Podívej se na výzvu živě](http://twitch.tv/livesporteu)**
+
+
 
 # Koho aktuálně hledáme
 
-Přilož ruku k dílu v největší dobrovolnické civic-tech organizaci v Evropě a digitalizuj s námi Česko. Všechny pozice najdeš přehledně na [Portálu dobrovolníka](http://cesko.digital/portal-dobrovolnika).
+Přilož ruku k dílu v největší dobrovolnické civic-tech organizaci v Evropě a digitalizuj s námi Česko. **Všechny pozice najdeš přehledně na [Portálu dobrovolníka](http://cesko.digital/portal-dobrovolnika).**
+
+
 
 ## Děkujeme, že jsi s námi!
 
-Jak se ti líbí náš newsletter? Budeme rádi, když nám [necháš zpětnou vazbu](https://airtable.com/shrLH9CrSztEXGnKa), která nám ho pomůže vylepšit. A jestli se na tvorbě tohoto newsletteru chceš také podílet, ozvi se v kanálu [\#ceskodigital-obsah](https://cesko-digital.slack.com/archives/C01FQBDMDGQ) ve Slacku nebo napiš na terezia@cesko.digital. 🤗
+**Jak se ti líbí náš newsletter?** Budeme rádi, když nám [necháš zpětnou vazbu](https://airtable.com/shrLH9CrSztEXGnKa), která nám ho pomůže vylepšit. A jestli se na tvorbě tohoto newsletteru chceš také podílet, ozvi se v kanálu [\#ceskodigital-obsah](https://cesko-digital.slack.com/archives/C01FQBDMDGQ) ve Slacku nebo napiš na <terezia@cesko.digital>. 🤗
 
 Digitálu zdar!
 
-*Za obsahový tým Česko.Digital*
+**Za obsahový tým Česko.Digital**
 
 *Koordinace: Hana Burešová a Lenka Moravcová*
 
