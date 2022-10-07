@@ -19,7 +19,7 @@ lang: cs
 
 ## Loono vyslalo novou aplikaci Preventivka oficiálně do světa
 
-📱 A co ti může nabídnout? 🩺 Vyfiltruje a připomene **preventivní prohlídky**, provede samovyšetřením, najde odborníka v okolí a nabídne ověřené a **srozumitelné informace o prevenci** nejrůznějších onemocnění. Díky podpoře [Nadace PPF](https://nadaceppf.cz/) a díky několikaměsíční práci dobrovolníků spustila nezisková organizace [Loono](https://www.loono.cz/) aplikaci v podobě MVP, kterou během testovacího provozu si stáhlo **4 700 uživatelů**. Co děláš pro své zdraví ty?
+📱 A co ti může nabídnout? 🩺 Vyfiltruje a připomene **preventivní prohlídky**, provede samovyšetřením, najde odborníka v okolí a nabídne ověřené a **srozumitelné informace o prevenci** nejrůznějších onemocnění. Díky podpoře [Nadace PPF](https://nadaceppf.cz/) a díky několikaměsíční práci dobrovolníků spustila nezisková organizace [Loono](https://www.loono.cz/) aplikaci v podobě MVP, na jehož tvorbě se několik měsíců podíleli i naši dobrovolníci, a kterou si během testovacího provozu stáhlo **4 700 uživatelů**. Co děláš pro své zdraví ty?
 
 \> **[Staň se hrdinou svého zdraví a stáhni si aplikaci Preventivka](https://www.loono.cz/mobilni-aplikace)!**
 
@@ -41,7 +41,7 @@ Co akce neziskovkám přinese:
 * osvědčené **postupy**
 * cenné osobní **kontakty**
 
-**Kdy**: 20. 10. 2022 od 8:30 do 13 hodin + přibližně hodina na networking.
+**Kdy**: 20. 10. 2022 od 8:30 do 13 hodin.
 
 **Kde**: V kancelářích Avastu v Brně a v Praze.
 
@@ -209,7 +209,7 @@ Máme za sebou událostmi nadupané září, kdy jsme nejen nadšeně přednáš
 
 💻 Čtyři hosté webináře edu.digital fungují v remote režimu už dlouho a podělí se s tebou o užitečné tipy, nástroje a rituály, které můžeš zkusit i ty. Dozvíš se, co je to systém 6 + 1, jak správně využívat týmové rituály a komunikační nástroje, jak pracovat s emocemi v remote práci nebo třeba to, jak se s využitím 5 tipů připravit na úspěšné interaktivní online školení. 👇
 
-\> **[Podívej se na záznam webináře na našem YouTube](https://www.youtube.com/playlist?list=PLOX5xelTsEv_KSzj0soqcWx1Ygp5gKdG)**
+\> **[Podívej se na záznam webináře na našem YouTube](https://youtube.com/playlist?list=PLOX5xelTsEv_KSzj0soqcWx1Ygp5gKdGe)**
 
 <center>
 
