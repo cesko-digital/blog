@@ -177,7 +177,7 @@ Denně náš web navštíví kolem **1 500 návštěvníků**, z toho téměř 
 
 Máme za sebou událostmi nadupané září, kdy jsme nejen nadšeně přednášeli, ale také akce sami organizovali.
 
-🧠 V půlce září proběhl v Praze už **pátý Mastermind**, tentokrát na téma „**Scrum master a samořízený tým**“. O naší sérii *Mastermind* jsme psali už [na našem](https://blog.cesko.digital/2022/08/mastermind) blogu.
+🧠 V půlce září proběhl v Praze už **pátý Mastermind**, tentokrát na téma „**Scrum master a samořízený tým**“. O naší sérii *Mastermind* jsme psali už [na našem blogu](https://blog.cesko.digital/2022/08/mastermind).
 
 💻 V Brně jsme mezitím společně s [OpenForum Europe](https://openforumeurope.org/), [Otevřenými městy](https://www.otevrenamesta.cz/), [Open Content](https://www.opencontent.cz/), [Red Hat Czech](https://www.redhat.com/en/global/czech-republic) a [Masarykovou univerzitou](http://www.muni.cz/) uspořádali **konferenci [Open Source Driving the European Digital Decade](https://openforumeurope.org/event/open-source-driving-the-european-digital-decade/)**. Odborníci z ČR i různých koutů světa tu v rámci probíhajícího českého předsednictví v Radě EU diskutovali [roli Open Source technologií ve veřejném a akademické sektoru](https://blog.cesko.digital/2022/09/open-source-usnadni-digitalizaci-statni-spravy-i-akademickeho-sektoru). Na podporu open source má v Brně dokonce vzniknout [nové národní centrum](https://blog.cesko.digital/2022/09/open-source-usnadni-digitalizaci-statni-spravy-i-akademickeho-sektoru).
 
