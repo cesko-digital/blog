@@ -15,6 +15,8 @@ description: Ahoj Česko.Digital! 👋 Zatím to vypadá, že babího léta se l
   samozřejmostí a spoustu dalšího… Tak si uvař čaj a hurá do toho!
 lang: cs
 ---
+Audio verzi newsletteru si může poslechnout 👉 **[ZDE](https://spotifyanchor-web.app.link/e/P3psvzgz0tb)**
+
 # Horké novinky měsíce
 
 ## Loono vyslalo novou aplikaci Preventivka oficiálně do světa
