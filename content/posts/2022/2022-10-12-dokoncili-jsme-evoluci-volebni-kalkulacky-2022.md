@@ -27,7 +27,7 @@ Své know-how dali dohromady nadšenci z nejrůznějších oborů, kteří proje
 
 ![](https://data.cesko.digital/img/clanek-evoluce-volebni-kalkulacka/2.png)
 
-[Gabriela Chladilová](https://www.linkedin.com/in/gabriela-chladilov%C3%A1-91ab8b52/), support koordinátorka tohoto projektu v Česko.Digital, o kalkulačce říká: „*Považuji volební kalkulačku za důležitý nástroj pro voliče, kde si mohou ověřit, kdo opravdu reprezentuje jejich zájmy nebo do jaké míry se jejich zájmy shodují s těmi kandidáty či stranami, které chtějí volit. Při výběru projektu do akcelerátoru se zohlednilo mimo jiného také to, že pro spolupracující organizaci KohoVolit.eu v rámci technologického upgradu je cílem* **udržitelnost kalkulačky** *měřená v letech, reusabilita (znovupoužitelnost pro další volby, specifické edice pro slovenské nebo maďarské volby, atd.) a možnost vlastních ad-hoc úprav i za další 2 nebo 4 roky.*“ 
+[Gabriela Chladilová](https://www.linkedin.com/in/gabriela-chladilov%C3%A1-91ab8b52/), support koordinátorka tohoto projektu v Česko.Digital, o kalkulačce říká: „*Považuji volební kalkulačku za důležitý nástroj pro voliče, kde si mohou ověřit, kdo opravdu reprezentuje jejich zájmy nebo do jaké míry se jejich zájmy shodují s těmi kandidáty či stranami, které chtějí volit. Při výběru projektu do akcelerátoru se zohlednilo mimo jiného také to, že pro spolupracující organizaci KohoVolit.eu v rámci technologického upgradu je cílem* ___udržitelnost kalkulačky___ měřená v letech, reusabilita (znovupoužitelnost pro další volby, specifické edice pro slovenské nebo maďarské volby, atd.) a možnost vlastních ad-hoc úprav i za další 2 nebo 4 roky.*“ 
 
 # Když se společné schopnosti sečtou, potenciál se násobí
 
