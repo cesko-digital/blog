@@ -27,17 +27,17 @@ Své know-how dali dohromady nadšenci z nejrůznějších oborů, kteří proje
 
 ![](https://data.cesko.digital/img/clanek-evoluce-volebni-kalkulacka/2.png)
 
-[Gabriela Chladilová](https://www.linkedin.com/in/gabriela-chladilov%C3%A1-91ab8b52/), support koordinátorka tohoto projektu v Česko.Digital, o kalkulačce říká: *„Považuji volební kalkulačku za důležitý nástroj pro voliče, kde si mohou ověřit, kdo opravdu reprezentuje jejich zájmy nebo do jaké míry se jejich zájmy shodují s těmi kandidáty či stranami, které chtějí volit. Při výběru projektu do akcelerátoru se zohlednilo mimo jiného také to, že pro spolupracující organizaci KohoVolit.eu v rámci technologického upgradu je cílem udržitelnost kalkulačky měřená v letech, reusabilita (znovupoužitelnost pro další volby, specifické edice pro slovenské nebo maďarské volby, atd.) a možnost vlastních ad-hoc úprav i za další 2 nebo 4 roky.*“ 
+[Gabriela Chladilová](https://www.linkedin.com/in/gabriela-chladilov%C3%A1-91ab8b52/), support koordinátorka tohoto projektu v Česko.Digital, o kalkulačce říká: „*Považuji volební kalkulačku za důležitý nástroj pro voliče, kde si mohou ověřit, kdo opravdu reprezentuje jejich zájmy nebo do jaké míry se jejich zájmy shodují s těmi kandidáty či stranami, které chtějí volit. Při výběru projektu do akcelerátoru se zohlednilo mimo jiného také to, že pro spolupracující organizaci KohoVolit.eu v rámci technologického upgradu je cílem udržitelnost kalkulačky měřená v letech, reusabilita (znovupoužitelnost pro další volby, specifické edice pro slovenské nebo maďarské volby, atd.) a možnost vlastních ad-hoc úprav i za další 2 nebo 4 roky.*“ 
 
 # Když se společné schopnosti sečtou, potenciál se násobí
 
 A jak spolupráci na kalkulačce vnímají někteří ze členů týmu? Co je motivovalo k práci na projektu a co si z něj odnáší?
 
-„*Kalkulačka je něco, co používá spousta lidí včetně mě – poctivě ji vyplňuju před každými volbami a je mi prostě sympatická, líbí se mi, že je to takový passion projekt jednoho týpka – Michala – a pro mě má takovou svoji milou autenticitu a zároveň mi přijde vážně ***podstatná pro společnost,***“ vysvětluje svou motivaci [Klára Scholleová](https://www.linkedin.com/in/klara-scholleova/), která se do projektu nabídla s tím, že vytvoří logo a branding, a nakonec se zapojila i do prací v oblasti UX/UI.
+„*Kalkulačka je něco, co používá spousta lidí včetně mě – poctivě ji vyplňuju před každými volbami a je mi prostě sympatická, líbí se mi, že je to takový passion projekt jednoho týpka – Michala – a pro mě má takovou svoji milou autenticitu a zároveň mi přijde vážně podstatná pro společnost,*“ vysvětluje svou motivaci [Klára Scholleová](https://www.linkedin.com/in/klara-scholleova/), která se do projektu nabídla s tím, že vytvoří logo a branding, a nakonec se zapojila i do prací v oblasti UX/UI.
 
-[Lukáš Přikryl](https://www.linkedin.com/in/lukasprikryl/), který vytvořil komunikační strategii, inicializoval také nový brandový vizuál a nastavil brandovou architekturu, doplňuje: „*Volební kalkulačka má jasný účel a prokázanou historii a užitečnost. Takže je na čem stavět a na co navazovat.*“ Projekt ho zaujal hlavně tím, že je společensky prospěšný a apolitický. „*Zároveň je to ale po marketingové stránce celkem nepopsaný list, který ***umožňuje se realizovat***,“ doplňuje.
+[Lukáš Přikryl](https://www.linkedin.com/in/lukasprikryl/), který vytvořil komunikační strategii, inicializoval také nový brandový vizuál a nastavil brandovou architekturu, doplňuje: „*Volební kalkulačka má jasný účel a prokázanou historii a užitečnost. Takže je na čem stavět a na co navazovat.*“ Projekt ho zaujal hlavně tím, že je společensky prospěšný a apolitický. „*Zároveň je to ale po marketingové stránce celkem nepopsaný list, který umožňuje se realizovat,*“ doplňuje.
 
-Další dobrovolník, [Ondřej Kyjanek](https://www.linkedin.com/in/ondrej-kyjanek-b24832a3/), zrovna vyhlížel projekt, kterému by mohl nabídnout své programátorské know-how. Inovace kalkulačky mu přesně padla do noty. „*Doufám, že zvedne politickou gramotnost, přiblíží lidem politické priority/programy jednotlivých politiků a stran a v neposlední řadě **pomůže lidem správně se rozhodnout**,*“ říká.
+Další dobrovolník, [Ondřej Kyjanek](https://www.linkedin.com/in/ondrej-kyjanek-b24832a3/), zrovna vyhlížel projekt, kterému by mohl nabídnout své programátorské know-how. Inovace kalkulačky mu přesně padla do noty. „*Doufám, že zvedne politickou gramotnost, přiblíží lidem politické priority/programy jednotlivých politiků a stran a v neposlední řadě pomůže lidem správně se rozhodnout,*“ říká.
 
 Ondra odvedl na kalkulačce obrovský kus práce stejně jako [Kryštof Korb](https://www.linkedin.com/in/krystofk/), který vedl celý front-end tým. [Lucie Zatorska](https://www.linkedin.com/in/lucie-zatorska-81714350/), která projekt koordinovala jako Scrum Master, vyzdvihuje právě Kryštofovo nasazení: „*Kryštof je jedním z hlavních frontendistů, díky kterému vlastně bude projekt hotový, bez něj bychom to nedali.*“
 
@@ -45,7 +45,7 @@ Ondra odvedl na kalkulačce obrovský kus práce stejně jako [Kryštof Korb](ht
 
 Každý ze členů týmu šel do projektu s nadšením a ochotou obětovat smysluplné práci svůj volný čas. Všichni vědí, proč to dělají a proč to stojí za to.
 
-„*Mojou najväčšou motiváciou zapojiť sa bolo pracovať na nástroji, ktorý má potenciál (nestranne) **pomáhať v rozhodovaní koho voliť tisíckam ľudí**,*“ říká [Natália Bebjaková](https://www.linkedin.com/in/natalia-bebjakova/), která spolu s UX researcherkou [Pavlou Řádkovou](https://www.linkedin.com/in/pavla-radkova/) pečlivě připravovala UX výzkum, wireframe, testování a UI design.
+„*Mojou najväčšou motiváciou zapojiť sa bolo pracovať na nástroji, ktorý má potenciál (nestranne) pomáhať v rozhodovaní koho voliť tisíckam ľudí,*“ říká [Natália Bebjaková](https://www.linkedin.com/in/natalia-bebjakova/), která spolu s UX researcherkou [Pavlou Řádkovou](https://www.linkedin.com/in/pavla-radkova/) pečlivě připravovala UX výzkum, wireframe, testování a UI design.
 
 Natália věnovala práci na projektu stovky hodin a byla u jeho evoluce od samého počátku až do konce.
 
@@ -55,17 +55,17 @@ Natália věnovala práci na projektu stovky hodin a byla u jeho evoluce od sam�
 
 Odměnou jsou všem zúčastněným nejen **nové zkušenosti**, ale hlavně **hrdost z dobře odvedené práce**.
 
-„*Doufám (a povede-li se, budu hrdá), že se nám podaří kalkulačku ještě více zpropagovat a ještě více ji **uživatelsky zpříjemnit** a zpřístupnit,*“ těší se Klára. Pochvaluje si i efektivitu společného úsilí: „*Výsledek, doufám, stojí za to – spoustu skvělých věcí, které v design systému jsou, **bych sama určitě nevymyslela**.*“
+„*Doufám (a povede-li se, budu hrdá), že se nám podaří kalkulačku ještě více zpropagovat a ještě více ji uživatelsky zpříjemnit a zpřístupnit,*“ těší se Klára. Pochvaluje si i efektivitu společného úsilí: „*Výsledek, doufám, stojí za to – spoustu skvělých věcí, které v design systému jsou, bych sama určitě nevymyslela.*“
 
-[Martin Ladecký](https://www.linkedin.com/in/martin-ladeck%C3%BD-9366ba5/), který v projektu působil jako Tech Lead a pomáhal propojit UX design, zadání a vývoj, zase oceňuje rychlost týmových prací: „*Som hrdý, že kalkulačku stíhame **v tak krátkom čase**.*“
+[Martin Ladecký](https://www.linkedin.com/in/martin-ladeck%C3%BD-9366ba5/), který v projektu působil jako Tech Lead a pomáhal propojit UX design, zadání a vývoj, zase oceňuje rychlost týmových prací: „*Som hrdý, že kalkulačku stíhame v tak krátkom čase.*“
 
 ![](https://data.cesko.digital/img/clanek-evoluce-volebni-kalkulacka/3.png)
 
 Dobrovolníky spojuje také pocit **uspokojení nad výsledkem** a radost z **dobře fungujícího týmu**.
 
-„*Velmi mě potěšilo, že se členové týmu často na společných online setkáních chválili za to, že se **jeden od druhého naučili spoustu nového**,*“ oceňuje Lucie. „*Bohužel i nás se dotknul tzv '**ghosting**' (ukončení jakékoliv komunikace a kontaktu s jinou osobou bez jakéhokoli zjevného varování nebo omluvy a následné ignorování jakýchkoliv pokusů o oslovení, pozn. red.), který je v dobrovolničení častý,*“ upozorňuje na to, že ani ve světě dobro.vůle nemusí jít všechno hladce. „*Pro mě to byla jedna z nejtěžších částí projektu, kterou jsme si prošli. Velmi nám pomohla podpora z kmenového týmu Česko.Digital Gabriely Chladilové.*“
+„*Velmi mě potěšilo, že se členové týmu často na společných online setkáních chválili za to, že se jeden od druhého naučili spoustu nového,*“ oceňuje Lucie. „*Bohužel i nás se dotknul tzv 'ghosting' (ukončení jakékoliv komunikace a kontaktu s jinou osobou bez jakéhokoli zjevného varování nebo omluvy a následné ignorování jakýchkoliv pokusů o oslovení, pozn. red.), který je v dobrovolničení častý,“ upozorňuje na to, že ani ve světě dobro.vůle nemusí jít všechno hladce. „Pro mě to byla jedna z nejtěžších částí projektu, kterou jsme si prošli. Velmi nám pomohla podpora z kmenového týmu Česko.Digital Gabriely Chladilové.*“
 
-„*Skvelá vec na Česko.Digital je, že na nič nie ste sami a **keď cítite, že už na vás toho padá moc, tak môžete osloviť ďalších nadšencov**, ktorí sa radi zapoja,*“ pochvaluje si sílu komunity Natalia.
+„*Skvelá vec na Česko.Digital je, že na nič nie ste sami a keď cítite, že už na vás toho padá moc, tak môžete osloviť ďalších nadšencov, ktorí sa radi zapoja,*“ pochvaluje si sílu komunity Natalia.
 
 # A co vy? Chcete se taky zapojit do projektů, které mají smysl? 
 
