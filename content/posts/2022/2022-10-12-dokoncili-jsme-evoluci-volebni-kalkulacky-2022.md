@@ -33,7 +33,7 @@ Své know-how dali dohromady nadšenci z nejrůznějších oborů, kteří proje
 
 A jak spolupráci na kalkulačce vnímají někteří ze členů týmu? Co je motivovalo k práci na projektu a co si z něj odnáší?
 
-„*Kalkulačka je něco, co používá spousta lidí včetně mě – poctivě ji vyplňuju před každými volbami a je mi prostě sympatická, líbí se mi, že je to takový passion projekt jednoho týpka – Michala – a pro mě má takovou svoji milou autenticitu a zároveň mi přijde vážně **podstatná pro společnost***,“ vysvětluje svou motivaci [Klára Scholleová](https://www.linkedin.com/in/klara-scholleova/), která se do projektu nabídla s tím, že vytvoří logo a branding, a nakonec se zapojila i do prací v oblasti UX/UI.
+„*Kalkulačka je něco, co používá spousta lidí včetně mě – poctivě ji vyplňuju před každými volbami a je mi prostě sympatická, líbí se mi, že je to takový passion projekt jednoho týpka – Michala – a pro mě má takovou svoji milou autenticitu a zároveň mi přijde vážně podstatná pro společnost,*“ vysvětluje svou motivaci [Klára Scholleová](https://www.linkedin.com/in/klara-scholleova/), která se do projektu nabídla s tím, že vytvoří logo a branding, a nakonec se zapojila i do prací v oblasti UX/UI.
 
 [Lukáš Přikryl](https://www.linkedin.com/in/lukasprikryl/), který vytvořil komunikační strategii, inicializoval také nový brandový vizuál a nastavil brandovou architekturu, doplňuje: „*Volební kalkulačka má jasný účel a prokázanou **historii a užitečnost**. Takže je na čem stavět a na co navazovat.*“ Projekt ho zaujal hlavně tím, že je společensky prospěšný a apolitický. „*Zároveň je to ale po marketingové stránce celkem nepopsaný list, který **umožňuje se realizovat**,*“ doplňuje.
 
