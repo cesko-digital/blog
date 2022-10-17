@@ -17,7 +17,7 @@ lang: cs
 ---
 **[Akce](https://creativebureaucracy.cz/) organizovaná pod vedením IPR Praha, Kreativní Prahou a Česko.Digital s podporou pražského magistrátu a Deloitte si vypůjčila [koncept z Berlína](https://creativebureaucracy.org/)**, kde se festival kreativních byrokratů koná už čtvrtým rokem.
 
-![](stát-si-ty.jpg)
+![](https://data.cesko.digital/img/clanek-prvni-rocnik-cbf/hrnek.png)
 
 **Na místě se sešli lidé z různých organizací** ve státní správě, jak zástupci neziskových organizací, které se státem spolupracují, tak i někteří z byznysu. S touto pestrobarevnou paletou lidí se tedy mohlo bojovat proti „intelektuálnímu incestu“, jak zmínil jeden z řečníků.
 
@@ -27,7 +27,7 @@ lang: cs
 
 První blok **KREATIVNÍ BYROKRACIE A ORGANIZAČNÍ KULTURA, který se věnoval firemní kultuře**, byl pro mne plný silných emocí. U obrázku Jiřího Brédy z Mise HERo zašuměl sál, protože se s labyrintem mohl ztotožnit asi každý, kdo ve státní správě nějakou dobu pracoval.
 
-![](20211108_095027.jpg)
+![](https://data.cesko.digital/img/clanek-prvni-rocnik-cbf/dela-se-to-tak.png)
 
 Živě se mi před očima vybavily bariéry, se kterými jsem několik let bojovala skoro do úplného vyčerpání. Zajímavé bylo také poslouchat konkrétní příklady z praxe, třeba od Markéty Pěchoučkové. Konečně jsem si připadala jako menší exot a že jsem možná nespadla z jiné planety.
 
@@ -39,7 +39,7 @@ Večer se účastníci setkali ještě jednou a to v rámci tzv. **Večera pří
 
 **David Kašpar**, místostarosta Prahy 10 za Vlasta/STAN pak **uvedl, jak na několikrát obsazovali člověka, který měl podpořit komunikaci** a péči o komunity. Dušan Navrátil nasdílel hromadu příhod z celé kariéry. Jako první ředitel Národního úřadu pro kybernetickou a informační bezpečnost jich zažil mnoho. Historka o tom, jak s panem prezidentem Zemanem řešil prověrky, byla jen jednou z nich.
 
-![](festival-kreativni-byrokracie-prezentace.jpg)
+![](https://data.cesko.digital/img/clanek-prvni-rocnik-cbf/co.png)
 
 Druhé ráno po úvodním slovu od naší CEO Česko.Digital Evy Pavlíkové jsme začali blokem poeticky nazvaným **ŘÍKEJ MI TO NĚŽNĚ** o komunikaci. Ten moderovala Pavlína Louženská a skvěle podpořila příjemně namíchané hosty z Prahy a Brna. Znovu se ukázalo, že **druhý neznamená být druhý** – Brno zářilo svěžestí i autenticitou. Odnesla jsem si kromě tipů na zajímavou literaturu také zásadu **„mluvit jednoduše spíše než zjednodušovat“**, což by měl být náš cíl, který je pro mne asi také celoživotní výzvou.
 
@@ -49,7 +49,7 @@ V panelu **DATA JAKO HNACÍ HŘÍDEL BYROKRACIE** se diskutovalo o tom, jak jsou
 
 **Stát by měl být ve všech oblastech transparentní a zveřejňovat svá data** k dispozici občanům a firmám. Pravidla na to už jsou dána, ale mnoho státních organizací tato pravidla bohužel nerespektuje a odmítá data zveřejňovat.
 
-![](prezentace-festival.png)
+![](https://data.cesko.digital/img/clanek-prvni-rocnik-cbf/proc.png)
 
 Byl jsem také součástí panelu **ZJEDNODUŠENÍ A DIGITÁLNÍ STEZKY K NĚMU**. Snažil jsem v rámci něj vyjádřit, že **jako státní úředníci máme snahu dělat věci flexibilně**, jenom nám v tom brání složitá administrativa. Tu si paradoxně vytváříme v institucích často sami bez nějaké širší analýzy, přidané hodnoty nebo opatření a v některých případech se opatření navíc duplikují, čímž vzniká následně nepřehledná situace, která opět úředníky zatěžuje. **Všechny procesy vyžadují poměrně složitou administrativu a chybí automatizace.** 
 
