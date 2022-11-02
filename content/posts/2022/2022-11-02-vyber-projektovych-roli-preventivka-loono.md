@@ -1,7 +1,7 @@
 ---
 title: "Výběr projektových rolí, které stojí za úspěšným vývojem aplikace
   Preventivka: Co obnášely a jak je vidí dobrovolníci?"
-author: lukas.n
+author: jan.kalab
 tags:
   - loono
 cover: http://data.cesko.digital/img/clanek-launch-preventivka/preventivka-cover.png
