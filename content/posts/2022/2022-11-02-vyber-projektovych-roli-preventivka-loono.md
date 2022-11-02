@@ -46,7 +46,11 @@ Zajímá tě práce Product Ownera? 
 
 Přečti si oborové články o tom [jak se jím stát](https://www.scrum.org/resources/blog/how-become-product-owner-5-simple-steps) (i s tipy na četbu) nebo se podívej, [jak k této roli přistupuje Česko.Digital](https://cesko-digital.atlassian.net/l/cp/Nhr7T1nS). Adéla také doporučuje [e-book](https://www.productboard.com/ebook/product-strategy-playbook/), [blog a webináře](https://www.scrum.org/) nebo šikovné [frameworky](https://www.intercom.com/resources/books/intercom-product-management). 
 
+<center>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZIRPNfVrCeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
 
 # Scrum Master: Adéla Kalusová
 
@@ -90,7 +94,11 @@ V rámci dobrovolnictví může člověk nabídnout relativně málo času, prot
 
 Zajímá tě práce Scrum Mastera? Přečti si články [jak se jím stát bez zkušeností](https://big-agile.com/blog/2020/getting-started-as-a-scrum-master-without-experience) nebo [se inspiruj popisem role od Česko.Digital](https://cesko-digital.atlassian.net/l/cp/pTh7HRF1). Adéla také doporučuje články a obsah z komunity [Scrum](https://www.scrum.org/).
 
+<center>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ESk80Pq_YPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
 
 # Product Designer: Otakar Hyps
 
@@ -131,7 +139,11 @@ Tým hledal další dobrovolníky, kteří se postupně připojili – **část 
 
 Chceš se dozvědět jak na roli Product Designera? Přečti si články o tom, [co tato role obnáší](https://www.coursera.org/articles/what-is-a-product-designer) a [jak k ní přistupovat](https://www.freecodecamp.org/news/product-designer-roadmap) nebo [se podívej na charakteristiku této role v Česko.Digital](https://cesko-digital.atlassian.net/l/cp/1mCbKoK3). Otakar na závěr doporučuje krátký [whitepaper](https://readings.design/PDF/Tim%20Brown,%20Design%20Thinking.pdf), který popisuje roli Designera.
 
+<center>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KLnHXhnAmvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
 
 # Tech Lead: Martin Ladecký
 
@@ -169,7 +181,11 @@ Tech Lead odpovídá za efektivní postup práce developerů a pravidelné code
 
 Co dělá přesněji Tech Lead? Přečti si [tyto tipy jak se jím stát](https://www.freecodecamp.org/news/if-you-want-to-become-a-tech-leader-follow-this-advice-831c8fdecff8/), [co vše to obnáší](<https://www.harrisonclarke.com/devops-sre-candidate-blog/what-it-takes-to-become-a-technical-leader)>) nebo [zjisti, jak k roli přistupuje Česko.Digital](https://cesko-digital.atlassian.net/l/cp/GCPvgb1J). Martin taky doporučuje [článek](https://dev.to/thawkin3/lessons-from-a-tech-lead-roles-responsibilities-and-words-of-advice-ldj#:~:text=Responsibilities%20of%20a%20Tech%20Lead&text=They%20play%20the%20role%20of,design%20meetings%20and%20tech%20breakdowns) o této pozici.
 
+<center>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xqlTR1leBps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
 
 # IT analytik: Jana Hejnová
 
@@ -195,7 +211,11 @@ IT analytik zprostředkovává komunikaci mezi vývojem, Product Ownerem a Desi
 
 Co vše představuje role IT analytika? Přečti si [článek o této pozici](https://careerkarma.com/blog/how-to-become-an-it-analyst/).
 
+<center>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N3JzueeP4YI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
 
 ## Přidej se k nám!
 
