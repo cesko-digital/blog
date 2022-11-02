@@ -78,6 +78,7 @@ collections:
             "lucie.hrdinova",
             "anezka.muller",
             "kamila.hrachova",
+            "jan.kalab",
           ]
         required: true
       - label: "Tags"
@@ -204,6 +205,7 @@ collections:
             "lucie.hrdinova",
             "anezka.muller",
             "kamila.hrachova"
+            "jan.kalab",
           ]
         required: true
       - label: "Cover"
