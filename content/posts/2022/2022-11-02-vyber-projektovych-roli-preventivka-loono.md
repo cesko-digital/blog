@@ -62,7 +62,11 @@ Scrum Master pomáhá týmu odstranit překážky, úzce spolupracuje s Product 
 
 **Plánuje schůzky** a snaží se **navést fungování týmu** správným směrem – věnuje maximální úsilí vytvoření samořiditelných týmů. Adéla Kalusová pozici hodnotí takto: „*Práci Scrum Mastera vnímám jako schopnost být flexibilní vůči týmu. Přicházet s inovativními nápady jak např. zefektivnit komunikaci a vytvořit lidem příjemné pracovní prostředí.*“
 
-![](https://lh4.googleusercontent.com/kTsN2AfZThrLa03l8jHG0fH9n-bzBV6TEKeodeIyl6MCeUzKkdaqZBS2dIs2N1jTeg01AIjWf2Smq0LYcQZVoxce0AuaJ8xm1tUIpyqYn0I4WbLiAkhzdJ4HC9_0mibfZa9s4iFqj1pwotPsTCUgUU5sXadYuQjF0h06g3q7TrT0Rl86X9e6M9FvwE45ag)
+<center>
+
+![](http://data.cesko.digital/img/clanek-launch-preventivka/1.png)
+
+</center>
 
 Scrum Master zajišťuje, aby komunikace v týmu i mimo něj byla přátelská, s respektem, konstruktivní a každý v ní měl dostatek prostoru. **Pomáhá týmu hledat způsoby jak učinit práci produktivnější**, zábavnější a přínosnější nejen pro zákazníky, ale i pro tým, a dohlíží na kvalitu práce. 
 
@@ -110,11 +114,19 @@ Aplikace Preventivka byla Otův pilotní projekt v Česko.Digital. Počátek spo
 
 Společně s vývojáři **spolupracuje na vývoji technologického řešení** a navrhuje odpovídající směr a obrysy výsledného stavu.
 
-![](https://lh4.googleusercontent.com/Q24L3gxW26u6Q9zKjiRSmHIRBhPHtghOyAJBx4C6q5MNqGxSv8WBjisl-8VXbw3EuXsk6P49ao-eMbFXp_e_2vs1z8pJDz4q5QIqt0u7k78zFYUx2zXgCDaBaTXTkZX6ukW0V9SkxEDCIltlV5BCLaVsb0IJtdGyclZNNOQftujOe-DIOXw6SUXSpTW09w)
+<center>
+
+![](http://data.cesko.digital/img/clanek-launch-preventivka/2.png)
+
+</center>
 
 **Designer kreslí průchodové cesty uživatelů**, tedy jak bude aplikace zapadat do života člověka, který ji bude používat. Dále kreslí skeče, vymýšlí příběh aplikace a **navrhuje finální design, např. ve Figmě**.
 
-![](https://lh3.googleusercontent.com/AqGgSW_sSvQel8nGsi0ADMNcQAz37yTWqAP1Mr0BkoK3TWdUWyXU4zMcp-zWJ9Q-JII7vtfip430-RVaABrHwbzM7v-Pqni-I4aplV8brLImgqYmhSgUp18wHHFyZKbOa2_QlFSu7-EBQp15DEavPJjxEihdyWRQjh-_T16FkmTRjupOp8b1zZNPmqDkuQ)
+<center>
+
+![](http://data.cesko.digital/img/clanek-launch-preventivka/3.png)
+
+</center>
 
 **Dovednosti Product Designera:**
 
@@ -157,9 +169,13 @@ Tech Lead má na starosti **technické vedení projektu**: analyzuje technické 
 
 Tech Lead odpovídá za efektivní postup práce developerů a pravidelné code reviews a pull-requests (pravidelná komunikace s vývojáři) – za úkol má i **ořezávat nápady designérů, aby byla aplikace realizovatelná** v rámci vývoje.
 
-[![](https://lh5.googleusercontent.com/42BA3tC2dHuUVZq1kmBaTogF-gRfml3M9-dapH7O7TbdWtC3UVO2H_vkNt1VUhyp4Oly1LWxnVprv_BvoA97t1fKeUjl60WSXYVlpiahOHQT--FOtAX2jwquv_kZS8SaK8e3klFHRFzhk8CAsu560fEccliN5isKmn8eT9u_QVfPuzr3sEKZs2vxB_dfDg)](https://cs.wizcase.com/wp-content/uploads/2022/03/GitHub-Logo.png)
+<center>
+
+![](http://data.cesko.digital/img/clanek-launch-preventivka/4.png)
 
 [Zdroj obrázku](https://cs.wizcase.com/wp-content/uploads/2022/03/GitHub-Logo.png)
+
+</center>
 
 **Dovednosti Tech Leadera:**
 
