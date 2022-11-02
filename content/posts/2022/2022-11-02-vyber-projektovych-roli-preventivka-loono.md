@@ -18,7 +18,7 @@ lang: cs
 ---
 # Product Owner: Adéla Sedláčková
 
-Adéla v Loono pracuje již 4 roky. Na pozici Product Ownera je od ledna tohoto roku. Počátek spolupráce s dobrovolníky komentuje: „Tým si musel ujasnit očekávání, co a kdo to vlastně Product Owner bude, a co a jaká bude jeho práce.“
+Adéla v Loono pracuje již 4 roky. Na pozici Product Ownera je od ledna tohoto roku. Počátek spolupráce s dobrovolníky komentuje: *„Tým si musel ujasnit očekávání, co a kdo to vlastně Product Owner bude, a co a jaká bude jeho práce.“*
 
 ## Popis pozice 
 
@@ -38,7 +38,7 @@ Komunikuje se zákazníky, zadavatelem i týmem, bere v potaz jejich pohled, pr
 
 ## Co Adélu projekt naučil
 
-„*Naučila jsem se důvěřovat týmu, který je složený ze zkušených lidí, kteří jsou otevření a schopní vymýšlet nové řešení. Člověk přichází s vizí, kterou tým společně vytvoří. Je úžasné, že dobrovolníci věnují svůj čas naší misi,*“ dodává Adéla.
+*„Naučila jsem se důvěřovat týmu, který je složený ze zkušených lidí, kteří jsou otevření a schopní vymýšlet nové řešení. Člověk přichází s vizí, kterou tým společně vytvoří. Je úžasné, že dobrovolníci věnují svůj čas naší misi,“* dodává Adéla.
 
 ## Role Product Ownera pod drobnohledem
 
@@ -54,13 +54,13 @@ Přečti si oborové články o tom [jak se jím stát](https://www.scrum.org/re
 
 # Scrum Master: Adéla Kalusová
 
-Adéla má background projekťáka, ale v rámci vývoje Preventivky se ujala pozice Scrum Mastera. „*Role Scrum Mastera se během projektu vyvíjela. Zpočátku jsem měla pocit, že je třeba využít schopnosti z projektového řízení, ale poté jsem mnohem více využila dovedností z agilních projektů,*“ popisuje roli Adéla.
+Adéla má background projekťáka, ale v rámci vývoje Preventivky se ujala pozice Scrum Mastera. *„Role Scrum Mastera se během projektu vyvíjela. Zpočátku jsem měla pocit, že je třeba využít schopnosti z projektového řízení, ale poté jsem mnohem více využila dovedností z agilních projektů,“* popisuje roli Adéla.
 
 ## Popis pozice
 
 Scrum Master pomáhá týmu odstranit překážky, úzce spolupracuje s Product Ownerem, pomáhá oddělit fakta od domněnek a **moderuje týmové ceremonie** (pravidelná pracovní setkání).
 
-**Plánuje schůzky** a snaží se **navést fungování týmu** správným směrem – věnuje maximální úsilí vytvoření samořiditelných týmů. Adéla Kalusová pozici hodnotí takto: „*Práci Scrum Mastera vnímám jako schopnost být flexibilní vůči týmu. Přicházet s inovativními nápady jak např. zefektivnit komunikaci a vytvořit lidem příjemné pracovní prostředí.*“
+**Plánuje schůzky** a snaží se **navést fungování týmu** správným směrem – věnuje maximální úsilí vytvoření samořiditelných týmů. Adéla Kalusová pozici hodnotí takto: *„Práci Scrum Mastera vnímám jako schopnost být flexibilní vůči týmu. Přicházet s inovativními nápady jak např. zefektivnit komunikaci a vytvořit lidem příjemné pracovní prostředí.“*
 
 <center>
 
@@ -88,11 +88,11 @@ V rámci dobrovolnictví může člověk nabídnout relativně málo času, prot
 
 ## První kroky Scrum Mastera na nové pozici
 
-„*Na začátku jsme hodně mluvili o procesech a nástrojích, se kterými umíme pracovat. Nakonec jsme se rozhodli používat Jiru. Všichni jsme na ni byli zvyklí. Dále jsme otevřeli debatu, jak chceme, aby fungovala. Z týdenních schůzek jsme se následně přenesli do agilních callů,*“ dodává Adéla.  
+*„Na začátku jsme hodně mluvili o procesech a nástrojích, se kterými umíme pracovat. Nakonec jsme se rozhodli používat Jiru. Všichni jsme na ni byli zvyklí. Dále jsme otevřeli debatu, jak chceme, aby fungovala. Z týdenních schůzek jsme se následně přenesli do agilních callů,“* dodává Adéla.  
 
 ## Co Adélu projekt naučil
 
-„*Jak efektivně hospodařit s časem. Pracuji na full-time a vedle toho se snažím dobrovolničit. Spolupráce mi mimo jiné dala fajn kamarády,*“ komentuje svoje zkušenosti Adéla.
+*„Jak efektivně hospodařit s časem. Pracuji na full-time a vedle toho se snažím dobrovolničit. Spolupráce mi mimo jiné dala fajn kamarády,“* komentuje svoje zkušenosti Adéla.
 
 ## Role Scrum Mastera pod drobnohledem
 
@@ -106,7 +106,7 @@ Zajímá tě práce Scrum Mastera? Přečti si články [jak se jím stát bez z
 
 # Product Designer: Otakar Hyps
 
-Aplikace Preventivka byla Otův pilotní projekt v Česko.Digital. Počátek spolupráce hodnotí takto: „*Překvapily mě podkladové materiály podložené daty, která často v praxi nenacházím. Projekt byl hodně o čtení, rozhovorech s Product Ownerem a porozumění datům –⁠ jaký problém řešíme.*“
+Aplikace Preventivka byla Otův pilotní projekt v Česko.Digital. Počátek spolupráce hodnotí takto: *„Překvapily mě podkladové materiály podložené daty, která často v praxi nenacházím. Projekt byl hodně o čtení, rozhovorech s Product Ownerem a porozumění datům –⁠ jaký problém řešíme.“*
 
 ## Popis pozice
 
@@ -145,7 +145,7 @@ Tým hledal další dobrovolníky, kteří se postupně připojili – **část 
 
 ## Co Otakara práce na projektu naučila
 
-„*Naučil jsem se přizpůsobit práci tomu, co je aktuálně nejvíc potřeba – prioritizaci. Největší přínos byl naučit se pracovat s týmem designéru jako leader, což pro mě byla velká novinka a super zkušenost. Pochopil jsem, že tým dokáže fungovat efektivně i na dálku a projekt se nakonec stal mým dítětem, které jsem ve chvíli, kdy byl hotový, nechtěl opustit,*“ říká Otakar.
+*„Naučil jsem se přizpůsobit práci tomu, co je aktuálně nejvíc potřeba – prioritizaci. Největší přínos byl naučit se pracovat s týmem designéru jako leader, což pro mě byla velká novinka a super zkušenost. Pochopil jsem, že tým dokáže fungovat efektivně i na dálku a projekt se nakonec stal mým dítětem, které jsem ve chvíli, kdy byl hotový, nechtěl opustit,“* říká Otakar.
 
 ## Role Product Designera pod drobnohledem
 
@@ -159,7 +159,7 @@ Chceš se dozvědět jak na roli Product Designera? Přečti si články o tom,
 
 # Tech Lead: Martin Ladecký
 
-Martin byl na palubě projektu od samotného začátku. K práci říká: „*Náš cíl nebyl jenom dokončit aplikaci, šlo nám o dlouhodobou udržitelnost, bez údržby. Loono nemusí platit za servery a nikdo se nemusí starat o aktualizace operačního systému apod. Nasměrovali jsme tedy projekt do cloudu.*“
+Martin byl na palubě projektu od samotného začátku. K práci říká: *„Náš cíl nebyl jenom dokončit aplikaci, šlo nám o dlouhodobou udržitelnost, bez údržby. Loono nemusí platit za servery a nikdo se nemusí starat o aktualizace operačního systému apod. Nasměrovali jsme tedy projekt do cloudu.“*
 
 ## Popis pozice 
 
@@ -187,11 +187,11 @@ Tech Lead odpovídá za efektivní postup práce developerů a pravidelné code
 
 ## Výběr platformy pro Preventivku
 
-„*Dlouho jsme přemýšleli o technologii pro vývoj aplikace. Nakonec jsme se rozhodli pro Flutter, open source, který nám umožnil současně vyvinout aplikaci pro iOS i Android – stačil nám menší počet lidí. Problémem bylo minimum zkušeností s jazykem, který byl a stále je poměrně nový*,“ přidává Martin. Jelikož aplikace uchovává nemalou řádku dat a importy ze státního sektoru, byla třeba i práce backend vývojářů.
+*„Dlouho jsme přemýšleli o technologii pro vývoj aplikace. Nakonec jsme se rozhodli pro Flutter, open source, který nám umožnil současně vyvinout aplikaci pro iOS i Android – stačil nám menší počet lidí. Problémem bylo minimum zkušeností s jazykem, který byl a stále je poměrně nový,“* přidává Martin. Jelikož aplikace uchovává nemalou řádku dat a importy ze státního sektoru, byla třeba i práce backend vývojářů.
 
 ## Co Martina práce na projektu naučila
 
-„*Full-time člověk jako já dostává dobrý pocit naplnění a smyslu své práce. Naučil jsem se práci na full remote, nové technologie a postupy. Studenti dostali příležitost získat nové zkušenosti a lidé v týmu všeobecně nabrali zajímavé zkušenosti,*“ dodává Martin.
+*„Full-time člověk jako já dostává dobrý pocit naplnění a smyslu své práce. Naučil jsem se práci na full remote, nové technologie a postupy. Studenti dostali příležitost získat nové zkušenosti a lidé v týmu všeobecně nabrali zajímavé zkušenosti,“* dodává Martin.
 
 ## Role Tech Leada pod drobnohledem
 
@@ -221,7 +221,7 @@ IT analytik zprostředkovává komunikaci mezi vývojem, Product Ownerem a Desi
 
 ## Co Janu práce na projektu naučila
 
-„*Práce na projektu pro mě byla osvědčující. Měla jsem možnost pracovat s fajn lidmi, seznámit se s novými technologiemi a poznat doménu, ve které jsem se předtím nepohybovala. Během projektu jsme řešili zajímavé výzvy a udělali spoustu chyb – ale i to nás posunulo a obohatilo, proto času stráveného na projektu rozhodně nelituji,*“ doplňuje Jana.
+*„Práce na projektu pro mě byla osvědčující. Měla jsem možnost pracovat s fajn lidmi, seznámit se s novými technologiemi a poznat doménu, ve které jsem se předtím nepohybovala. Během projektu jsme řešili zajímavé výzvy a udělali spoustu chyb – ale i to nás posunulo a obohatilo, proto času stráveného na projektu rozhodně nelituji,“* doplňuje Jana.
 
 ## Role IT analytika pod drobnohledem
 
