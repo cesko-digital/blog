@@ -80,8 +80,6 @@ Scrum Master zajišťuje, aby komunikace v týmu i mimo něj byla přátelská
 * Komunikační dovednosti
 * Pozitivní přístup a flexibilita v myšlení
 
-
-
 ## Dobrovolnictví vs. život
 
 V rámci dobrovolnictví může člověk nabídnout relativně málo času, proto by **neměl Scrum Master vytvářet tlak**, kdy bude práce hotová. **V obdobných projektech neexistují stand-upy** (denní schůzky), proto musí Scrum Master budovat tým, který postupně naladí na stejnou vizi – často ve spojení s Product Ownerem.
@@ -139,7 +137,7 @@ Společně s vývojáři **spolupracuje na vývoji technologického řešení**
 
 ## V projektu se hodila každá designérská ruka
 
-Tým se hodně měnil, zpočátku na projektu pracoval Ota a Jirka Diblík, který pomohl s vykopnutím aplikace, a Product Owner. Postupem času **začínalo přibývat práce**, na kterou už jediný dobrovolník nestačil.
+Tým se hodně měnil, zpočátku na projektu pracoval Otakar a Jirka Diblík, který pomohl s vykopnutím aplikace, a Product Owner. Postupem času **začínalo přibývat práce**, na kterou už jediný dobrovolník nestačil.
 
 Tým hledal další dobrovolníky, kteří se postupně připojili – **část se stala mentory pro juniory**, kteří neměli zkušenosti, zbytek navrhoval design ve Figmě a Otakar vše zastřešoval.
 
