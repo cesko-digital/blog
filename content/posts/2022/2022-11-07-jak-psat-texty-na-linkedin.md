@@ -16,6 +16,8 @@ LinkedIn je vaše digitální vizitka. Není to statická databáze, kde si pers
 
 Jak na to, abyste na námluvním bále LinkedInu oslnili? Stačí rozlousknout tři kouzelné oříšky.
 
+<br>
+
 # 1. Životopis: Dopřejte mu facelift zkušeností, liposukci balastu a augmentaci sebeprezentačních schopností
 
 Čeká váš životopis v koutě Linkedinu jako Popelka v ušmudlaných šatičkách, až si jí někdo všimne? Pokud chcete při kvapíku na LinkedInu udržet tempo, musíte začít u svého životopisu. Přepudrujte své CV, ověste ho referencemi, obnažte zkušenosti.
@@ -49,6 +51,8 @@ Primárním účelem LinkedInu **je tvoření sítě a navazování kontaktů**.
 Pokud jste na tomto parketu noví, nejdřív se chvíli rozkoukejte, abyste zjistili, jak to tu chodí. Jakmile nasajete atmosféru a omrknete zvyklosti, můžete začít **komentovat příspěvky**, které jsou pro vás relevantní. Naučíte se tak lépe komunikovat s okolím. Mnoho uživatelů ještě LinkedIn aktivně nepoužívá, máte tedy možnost zaujmout a odlišit se.
 
 Ale pozor, nejste na Facebooku. Vaše reakce by proto měla být **inteligentní a fundovaná**, protože nejspíš přivede lidi na váš profil, aby se podívali, kdo na jejich příspěvky reaguje. Proto nezapomínejte, že každá vaše odezva skládá mozaiku informací o vás.
+
+<br>
 
 # 3. Texty a komunikace: Copy bižuterie pro neodolatelný obsah
 
