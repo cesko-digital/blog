@@ -20,7 +20,9 @@ Jak na to, abyste na námluvním bále LinkedInu oslnili? Stačí rozlousknout t
 
 Čeká váš životopis v koutě Linkedinu jako Popelka v ušmudlaných šatičkách, až si jí někdo všimne? Pokud chcete při kvapíku na LinkedInu udržet tempo, musíte začít u svého životopisu. Přepudrujte své CV, ověste ho referencemi, obnažte zkušenosti.
 
-Do popředí dejte vše, co je důležité, relevantní a zajímavé. Prodejte se a zmiňte vše podstatné. Nepodstatné věci vynechte. Zbytečně text nafukují a mohou čtenáře odradit.
+Do popředí dejte vše, co je **důležité, relevantní a zajímavé**. Prodejte se a zmiňte vše podstatné. Nepodstatné věci vynechte. Zbytečně text nafukují a mohou čtenáře odradit.
+
+<center>
 
 ![](https://data.cesko.digital/img/clanek-jak-psat-texty-na-li/1.png)
 
@@ -33,6 +35,8 @@ Do popředí dejte vše, co je důležité, relevantní a zajímavé. Prodejte s
 ![](https://data.cesko.digital/img/clanek-jak-psat-texty-na-li/3.png)
 
 *Zdroj: LinkedIn Barbory Hlavicové*
+
+</center>
 
 # 2. Vytvoření relevantní sítě: Rozhazujte střevíčky žádoucím kontaktům
 
@@ -54,9 +58,13 @@ Proto si dodejte odvahy a připravte se na komunikaci se světem prostřednictv�
 
 Nejprve se zamyslete, pro koho budete psát – jsou to majitelé, manažeři, ředitelé? Na LinkedIn máte možnost přesně zacílit na ty, kdo ve firmách rozhodují. Popřemýšlejte tedy, co tito lidé hledají a řeší. Jakými slovy je zaujmete? Pokuste se přemýšlet jako vaše cílová skupina a nalaďte se na stejnou vlnu.
 
+<center>
+
 ![](https://data.cesko.digital/img/clanek-jak-psat-texty-na-li/4.png)
 
 *Zdroj: [Xtensio](https://xtensio.com/how-to-create-a-persona/)*
+
+</center>
 
 Sdílejte své myšlenky, názory a tvorbu. Komunikujte tak, jak běžně mluvíte – třeba s kolegy v práci. Polopaticky, svižně, inteligentně, svěže, vtipně. Ukažte, že svému oboru rozumíte.
 
@@ -70,9 +78,13 @@ Důležitou součástí marketingu vaší Popelky jsou značka a identita, i kdy
 
 Vyšperkujte svůj příspěvek obrázkem nebo krátkým videem. Pokud chcete skenujícího čtenáře ještě více zaujmout, přidejte poutavý titulek a na závěr několik hashtagů – zvolte nějaký populární k tématu nebo si vytvořte svůj vlastní hashtag, pod kterým se budou vaše příspěvky sdružovat.
 
+<center>
+
 ![](https://data.cesko.digital/img/clanek-jak-psat-texty-na-li/5.png)
 
 *Zdroj: LinkedIn Michaely Losekoot*
+
+</center>
 
 Jestli to s touto sítí myslíte vážně a čekáte od ní mnoho, měli byste na ní tančit pravidelně. Ideální je zveřejňovat 2 až 3 příspěvky týdně.
 
