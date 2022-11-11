@@ -1,7 +1,7 @@
 ---
-title: "číst.digital/40: Už i Nadace Google.org podporuje naše aktivity | Moudrá
-  Síť má za sebou první testování prototypu | Movapp je taky na papíře | Kdo na
-  home office je, nepracuje?"
+title: "číst.digital/40: Už i Google.org podporuje naše aktivity | Moudrá Síť má
+  za sebou první testování prototypu | Movapp je taky na papíře | Kdo na home
+  office je, nepracuje?"
 author: hana.buresova
 tags:
   - newsletter
@@ -20,7 +20,7 @@ lang: cs
 
 ## Už i Google podporuje naši komunitu a aktivity
 
-🥳 Tak tohle je pecka. [Nadaci Google.org](https://www.google.org/) naše aktivity tak zaujaly, že se rozhodla podpořit nás na 2 roky částkou **7 300 000 korun**.
+🥳 Tak tohle je pecka. [Google.org](https://www.google.org/), filantropickou odnož Google, naše aktivity tak zaujaly, že se rozhodla podpořit nás na 2 roky částkou **7 300 000 korun**.
 
 My budeme díky tomu mít víc prostoru věnovat se také těm, kterým chybí zkušenosti s technologiemi. Využijeme pro to v komunitě již prověřený koncept learning by doing. Chystáme se rozjet **aktivity, které pomohou snížit dopady digitální nerovnosti** (digital divide). Plánujeme ukazovat příklady použití technologií na běžných životních situacích, jako např. návštěva lékaře nebo komunikace s rodinou. 
 
