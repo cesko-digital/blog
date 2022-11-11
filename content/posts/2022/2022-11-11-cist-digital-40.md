@@ -78,7 +78,7 @@ Sleduj nás, pokud tě toto téma zajímá. Brzy budeme hledat nové dobrovolní
 
 *Organizace Zachraň jídlo chce dostat nevydané pokrmy z jídelen k lidem v nouzi, například rodičům samoživitelům nebo seniorům*
 
-🥘 O našem projektu už se v Praze šušká, a tak se nám hlásí další a další restaurace – hurá! Od jeho spuštění se nám podařilo předat už 10 000 zachráněných obědů těm, kterým se nedostává. 🙏 My se naopak díky Anně Strejcové dostali na konferenci Předcházení vzniku odpadu. 
+🥘 O našem projektu už se v **Praze šušká**, a tak se nám hlásí další a další restaurace – hurá! Od jeho spuštění se nám podařilo předat už **10 000 zachráněných obědů** těm, kterým se nedostává. 🙏 My se naopak díky Anně Strejcové dostali na konferenci Předcházení vzniku odpadu. 
 
 \> [Hoď očkem na záznam](https://slideslive.com/38973276/7-rocnik-narodni-konference-predchazeni-vzniku-odpadu)
 
@@ -88,19 +88,19 @@ Sleduj nás, pokud tě toto téma zajímá. Brzy budeme hledat nové dobrovolní
 
 *Podpořme zvyšování digitálních kompetencí seniorů*
 
-💙 Cílem projektu organizace Moudrá Sovička je vytvořit aplikaci, přes kterou si senior jednoduše zadá dotaz nebo technický problém se svým chytrým zařízením. Požadavek si převezme konkrétní digitální asistent v místě bydliště seniora a problém bezplatně vyřeší buď online, nebo se domluví na osobní schůzce. A co se nám už povedlo za 2 měsíce, kdy Moudrá Sovička svěřila zárodek Moudré Sítě do našeho dobro.inkubátoru?
+💙 Cílem projektu organizace Moudrá Sovička je **vytvořit aplikaci**, přes kterou si senior jednoduše zadá dotaz nebo technický problém se svým chytrým zařízením. Požadavek si převezme konkrétní digitální asistent v místě bydliště seniora a problém bezplatně vyřeší buď online, nebo se domluví na osobní schůzce. **A co se nám už povedlo za 2 měsíce**, kdy Moudrá Sovička svěřila zárodek Moudré Sítě do našeho dobro.inkubátoru?
 
-✨ Hodiny na videohovorech, stovky zpráv a online dumání nad designem rozhraní se zhmotnily do prvního milníku: našim dobrovolníkům se podařilo dokončit prototyp pro testování, který si vyzkoušelo prvních 6 seniorů ve věku od 65 do 83 let.
+✨ Hodiny na videohovorech, stovky zpráv a online dumání nad designem rozhraní se zhmotnily do prvního milníku: našim dobrovolníkům se podařilo **dokončit prototyp pro testování**, který si vyzkoušelo prvních 6 seniorů ve věku od 65 do 83 let.
 
-📻 O Moudré Síti se už mluvilo i v rádiu! O Sovičce, Síti i Česko.Digital hovořil 15. 10. v Sobotním dobrém ránu na Radiožurnálu předseda Moudré Sovičky Tomáš Hubálek.
+📻 **O Moudré Síti se už mluvilo i v rádiu!** O Sovičce, Síti i Česko.Digital hovořil 15. 10. v Sobotním dobrém ránu na Radiožurnálu předseda Moudré Sovičky Tomáš Hubálek.
 
-🏫 Tomáš také oslovil střední školy a už dvě se rozhodly zapojit. Jedna pomůže s testováním digitálních asistentů, druhá navrhne logo a grafiku. Díky tomu se Moudrá Síť stává projektem s mezigeneračním přesahem!
+🏫 **Tomáš také oslovil střední školy** a už dvě se rozhodly zapojit. Jedna pomůže s testováním digitálních asistentů, druhá navrhne logo a grafiku. Díky tomu se Moudrá Síť stává **projektem s mezigeneračním přesahem**!
 
 \> [Chceš se do projektu taky zapojit? Podívej se na projektovou stránku na vypsané role!](https://cesko.digital/projects/moudra-sit)
 
 ![](https://data.cesko.digital/newsletter/40/moudra-sit.png)
 
-Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).
+**Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).**
 
 ![](https://data.cesko.digital/img/dad68fa0.png)
 
@@ -116,7 +116,7 @@ Velké poděkování všem zúčastněným i spolupořádajícím organizacím.�
 
 ![](https://data.cesko.digital/newsletter/40/nezisk-digital.png)
 
-📝 15. 10. proběhl v Brně náš první Copy Day – celodenní intenzivní workshop pro dobrovolnické copywritery pod vedením naší Content Lead Terky Palaščákové, idea makerky a copywriterky Báry Truksové a marketingové kouzelnice Jany Kneschke. Zázemí nám poskytlo [Kiwi.com](https://www.kiwi.com/). Zpětná vazba je velmi pozitivní, takže brzy plánujeme podobnou akci i v Praze. 
+📝 **15. 10. proběhl v Brně náš první Copy Day** – celodenní intenzivní workshop pro dobrovolnické copywritery pod vedením naší Content Lead Terky Palaščákové, idea makerky a copywriterky Báry Truksové a marketingové kouzelnice Jany Kneschke. Zázemí nám poskytlo [Kiwi.com](https://www.kiwi.com/). Zpětná vazba je velmi pozitivní, takže brzy plánujeme podobnou akci i v Praze. 
 
 [\> Chceš se také těchto eventů zúčastnit? Sleduj náš Portál dobrovolníka, ať neprošvihneš termíny!](https://cesko.digital/dashboard)
 
@@ -126,7 +126,7 @@ Velké poděkování všem zúčastněným i spolupořádajícím organizacím.�
 
 # edu.digital
 
-💻 Tento rok nás čekají ještě 3 webináře, které určitě stojí za to:
+💻 Tento rok nás čekají ještě **3 webináře**, které určitě stojí za to:
 
 * [Novinky ze světa sociálních sítí & influencer marketingu](https://cesko.digital/events/marketing-na-socialnich-sitich-2) – 22. 11. v 18:00
 * [Copy & SEO: Aneb když jde obsah ruku v ruce s daty](https://cesko.digital/events/copy-seo) – 29. 11. v 18:00
@@ -136,7 +136,7 @@ Uvidíme se?
 
 ## Kdo na home office je, nepracuje?
 
-👩‍💻 Jak zvládáš práci z domova? Je to pro tebe stále tak trochu výzva, nebo jsi naopak mnohem výkonnější než s kolegy za zády? Pro nás v Česko.Digital je home office denní chleba. Na našem blogu jsme se proto v článku naší dobrovolnice [Kamily Hráchové](https://www.linkedin.com/in/kakamila-hr%C3%A1chov%C3%A1/), který napsala v rámci projektu [Tvořit může každý](https://cesko-digital.atlassian.net/wiki/spaces/RED/pages/816677293/Projekt+Tvo+it+m+e+ka+d), podívali na to, jak můžeš být při práci z domova efektivnější. Dozvíš se také, co za nástroje používáme my v č.d a svoje vlastní zaručené tipy nám odhalili i naši dobrovolníci.
+👩‍💻 Jak zvládáš práci z domova? Je to pro tebe stále tak trochu výzva, nebo jsi naopak mnohem výkonnější než s kolegy za zády? Pro nás v Česko.Digital je home office denní chleba. Na našem blogu jsme se proto v článku naší dobrovolnice [Kamily Hráchové](https://www.linkedin.com/in/kakamila-hr%C3%A1chov%C3%A1/), který napsala v rámci projektu [Tvořit může každý](https://cesko-digital.atlassian.net/wiki/spaces/RED/pages/816677293/Projekt+Tvo+it+m+e+ka+d), podívali na to, **jak můžeš být při práci z domova efektivnější**. Dozvíš se také, co za nástroje používáme my v č.d a svoje vlastní **zaručené tipy** nám odhalili i naši dobrovolníci.
 
 \> [Přečti si článek s tipy na blogu!](https://blog.cesko.digital/2022/09/dobrovolnici-radi-jak-na-home-office)
 
@@ -146,11 +146,11 @@ Uvidíme se?
 
 Rozlouskne pro tebe:
 
-🌰 Jak přistupovat k vyplnění profilu na LinkedIn.
+🌰 Jak přistupovat k **vyplnění profilu na LinkedIn**.
 
-🌰 Jaké možnosti tato sociální síť nabízí.
+🌰 Jaké **možnosti** tato sociální síť nabízí.
 
-🌰 Jaký styl komunikace ti zajistí úspěch.
+🌰 Jaký **styl komunikace** ti zajistí úspěch.
 
 Chceš napsat svou vlastní LinkedIn pohádku se šťastným koncem? 
 
@@ -160,17 +160,17 @@ Chceš napsat svou vlastní LinkedIn pohádku se šťastným koncem? 
 
 # Koho aktuálně hledáme
 
-Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digitalizuj s námi Česko. Všechny příležitosti najdeš přehledně na [Portálu dobrovolníka.](http://cesko.digital/portal-dobrovolnika) Nepřehlédni ani druhou část s názvem Marketplace. Ten ti nabízí příležitosti v projektech jiných neziskových organizací –⁠ mimo Česko.Digital.
+Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digitalizuj s námi Česko. **Všechny příležitosti najdeš přehledně na [Portálu dobrovolníka.](http://cesko.digital/portal-dobrovolnika) Nepřehlédni ani druhou část s názvem Marketplace. Ten ti nabízí příležitosti v projektech jiných neziskových organizací –⁠ mimo Česko.Digital.**
 
 ![](https://data.cesko.digital/newsletter/40/marketplace.png)
 
 ## Děkujeme, že jsi s námi!
 
-Jak se ti líbí náš newsletter? Budeme rádi, když nám [necháš zpětnou vazbu](https://airtable.com/shrLH9CrSztEXGnKa), která nám ho pomůže vylepšit. A jestli se na tvorbě tohoto newsletteru chceš také podílet, ozvi se v kanálu [\#ceskodigital-obsah](https://cesko-digital.slack.com/archives/C01FQBDMDGQ) ve Slacku nebo napiš na [terezia@cesko.digital](mailto:terezia@cesko.digital). 🤗
+**Jak se ti líbí náš newsletter?** Budeme rádi, když nám [necháš zpětnou vazbu](https://airtable.com/shrLH9CrSztEXGnKa), která nám ho pomůže vylepšit. A jestli se na tvorbě tohoto newsletteru chceš také podílet, ozvi se v kanálu [\#ceskodigital-obsah](https://cesko-digital.slack.com/archives/C01FQBDMDGQ) ve Slacku nebo napiš na [terezia@cesko.digital](mailto:terezia@cesko.digital). 🤗
 
 Digitálu zdar!
 
-Za obsahový tým Česko.Digital
+**Za obsahový tým Česko.Digital**
 
 *Koordinace: Lenka Moravcová a Hana Burešová*
 
