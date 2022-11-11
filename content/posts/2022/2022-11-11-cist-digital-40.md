@@ -18,7 +18,7 @@ lang: cs
 ---
 # Žhavé novinky měsíce
 
-## Už i Google podporuje naši komunitu a aktivity
+## Už i Google.org podporuje naši komunitu a aktivity
 
 🥳 Tak tohle je pecka. [Google.org](https://www.google.org/), filantropickou odnož Google, naše aktivity tak zaujaly, že se rozhodla podpořit nás na 2 roky částkou **7 300 000 korun**.
 
