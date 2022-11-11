@@ -42,7 +42,11 @@ Sleduj nás, pokud tě toto téma zajímá. Brzy budeme hledat nové dobrovolní
 
 \> [Výběr projektových rolí, které stojí za úspěšným vývojem aplikace Preventivka: Co obnášely a jak je vidí dobrovolníci?](https://blog.cesko.digital/2022/11/vyber-projektovych-roli-preventivka-loono)
 
+<center>
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
 
 # To nejlepší z našich projektů
 
@@ -72,7 +76,11 @@ Sleduj nás, pokud tě toto téma zajímá. Brzy budeme hledat nové dobrovolní
 
 \> [Stáhni si omalovánku s Movappem](https://drive.google.com/file/d/1f1SvKlp3iXW4fQFs8T8bT7Jh14NUOPvr/view?usp=sharing)
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/40/movapp.png)
+
+</center>
 
 ## Darování hotových pokrmů
 
@@ -96,13 +104,21 @@ Sleduj nás, pokud tě toto téma zajímá. Brzy budeme hledat nové dobrovolní
 
 🏫 **Tomáš také oslovil střední školy** a už dvě se rozhodly zapojit. Jedna pomůže s testováním digitálních asistentů, druhá navrhne logo a grafiku. Díky tomu se Moudrá Síť stává **projektem s mezigeneračním přesahem**!
 
-\> [Chceš se do projektu taky zapojit? Podívej se na projektovou stránku na vypsané role!](https://cesko.digital/projects/moudra-sit)
+\> [Chceš se do projektu taky zapojit? Podívej se na projektovou stránku na vypsané role](https://cesko.digital/projects/moudra-sit)
+
+<center>
 
 ![](https://data.cesko.digital/newsletter/40/moudra-sit.png)
 
+</center>
+
 **Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).**
 
+<center>
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
 
 # Události
 
@@ -114,15 +130,23 @@ Velké poděkování všem zúčastněným i spolupořádajícím organizacím.�
 
 [\> Chceš taky diskutovat digitální bezpečnost? Přidej se na Slacku do #sdileni-nezisk_digital](https://cesko-digital.slack.com/archives/C046R2MTD8F)
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/40/nezisk-digital.png)
+
+</center>
 
 📝 **15. 10. proběhl v Brně náš první Copy Day** – celodenní intenzivní workshop pro dobrovolnické copywritery pod vedením naší Content Lead Terky Palaščákové, idea makerky a copywriterky Báry Truksové a marketingové kouzelnice Jany Kneschke. Zázemí nám poskytlo [Kiwi.com](https://www.kiwi.com/). Zpětná vazba je velmi pozitivní, takže brzy plánujeme podobnou akci i v Praze. 
 
 [\> Chceš se také těchto eventů zúčastnit? Sleduj náš Portál dobrovolníka, ať neprošvihneš termíny!](https://cesko.digital/dashboard)
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/40/copy-day.jpg)
 
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
 
 # edu.digital
 
@@ -156,13 +180,21 @@ Chceš napsat svou vlastní LinkedIn pohádku se šťastným koncem? 
 
 \> [Louskej na našem blogu!](https://blog.cesko.digital/2022/11/jak-psat-texty-na-linkedin)
 
+<center>
+
 ![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
 
 # Koho aktuálně hledáme
 
 Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digitalizuj s námi Česko. **Všechny příležitosti najdeš přehledně na [Portálu dobrovolníka.](http://cesko.digital/portal-dobrovolnika) Nepřehlédni ani druhou část s názvem Marketplace. Ten ti nabízí příležitosti v projektech jiných neziskových organizací –⁠ mimo Česko.Digital.**
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/40/marketplace.png)
+
+</center>
 
 ## Děkujeme, že jsi s námi!
 
