@@ -32,15 +32,15 @@ Sleduj nás, pokud tě toto téma zajímá. Brzy budeme hledat nové dobrovolní
 
 💙 Právě o tom je projekt Volební kalkulačky. Michal Škop se svou organizací [KohoVolit.eu](https://kohovolit.eu/) **vytvořil už přes 30 volebních kalkulaček** pro všechny druhy voleb. Loni Michal oslovil Česko.Digital a společně s dalšími nadšenci z různých oborů dali dohromady své know-how. Co vlastně Volební kalkulačka umí a jak ti pomůže usnadnit rozhodování u voleb? A co si z vývoje její současné verze odnášejí dobrovolníci, kteří na redesignu pracovali?
 
-\> [Přečti si nový blogový článek od Terezy Kubíčkové!](https://blog.cesko.digital/2022/10/dokoncili-jsme-evoluci-volebni-kalkulacky-2022)
+\> **[Přečti si nový blogový článek od Terezy Kubíčkové!](https://blog.cesko.digital/2022/10/dokoncili-jsme-evoluci-volebni-kalkulacky-2022)**
 
-\> [A nebo si poslechni podcast s týmem Volební kalkulačky!](https://spotifyanchor-web.app.link/e/QwCmQpvMRub)
+\> **[A nebo si poslechni podcast s týmem Volební kalkulačky!](https://spotifyanchor-web.app.link/e/QwCmQpvMRub)**
 
 ## Jaké dobrovolnické role se podílejí na vývoji aplikace?
 
 💪 Co má na starosti Product Owner? Jak funguje komunikace v týmu a kdo se o ni stará? A proč musí Tech Lead ořezávat nápady Product Designera? Dobrovolníci s tebou nasdílejí své zkušenosti a⁠ specifika svých rolí v projektu po roce dobrovolnictví v rámci vývoje aplikace Preventivka. Přečti si článek od [Jana Kalába](https://www.linkedin.com/in/jan-kal%C3%A1b-linked-in/).
 
-\> [Výběr projektových rolí, které stojí za úspěšným vývojem aplikace Preventivka: Co obnášely a jak je vidí dobrovolníci?](https://blog.cesko.digital/2022/11/vyber-projektovych-roli-preventivka-loono)
+\> **[Výběr projektových rolí, které stojí za úspěšným vývojem aplikace Preventivka: Co obnášely a jak je vidí dobrovolníci?](https://blog.cesko.digital/2022/11/vyber-projektovych-roli-preventivka-loono)**
 
 <center>
 
@@ -56,7 +56,7 @@ Sleduj nás, pokud tě toto téma zajímá. Brzy budeme hledat nové dobrovolní
 
 💉 V týmu běží jako o život náš **poslední projektový sprint**. A je to celkem maraton, protože v něm máme 15 různých tasků. Také průběžně **testujeme demo verzi** naší webové aplikace, která svým uživatelům ušetří čas i spoustu zbytečných papírů. A protože práce máme pořád až nad hlavu, sháníme **posily na frontend (React)**. Máme místo i [pro juniory](https://cesko.digital/opportunities/recOzq8wzGu8Z8DAm). Jsi to ty nebo znáš někoho, kdo by chtěl přidat jedničku k nule?
 
-\> [Dej nám vědět do kanálu na Slacku #run-jehlomat!](https://cesko-digital.slack.com/archives/C017VKLRRC0)
+\> **[Dej nám vědět do kanálu na Slacku #run-jehlomat!](https://cesko-digital.slack.com/archives/C017VKLRRC0)**
 
 ## Safezóna
 
@@ -74,7 +74,7 @@ Sleduj nás, pokud tě toto téma zajímá. Brzy budeme hledat nové dobrovolní
 
 🖌️ Ministerstvo zahraničí pozvalo několik novinářek z Ukrajiny, kterým ukazovalo, jak stát pomáhá Ukrajincům. Movapp byl přizván na večerní program, kde prezentoval, **jak funguje naše dobrovolnická pomoc**. Všechny novinářky si jako dárek odvezly na Ukrajinu omalovánky s Movappem.
 
-\> [Stáhni si omalovánku s Movappem](https://drive.google.com/file/d/1f1SvKlp3iXW4fQFs8T8bT7Jh14NUOPvr/view?usp=sharing)
+\> **[Stáhni si omalovánku s Movappem](https://drive.google.com/file/d/1f1SvKlp3iXW4fQFs8T8bT7Jh14NUOPvr/view?usp=sharing)**
 
 <center>
 
@@ -88,9 +88,9 @@ Sleduj nás, pokud tě toto téma zajímá. Brzy budeme hledat nové dobrovolní
 
 🥘 O našem projektu už se v **Praze šušká**, a tak se nám hlásí další a další restaurace – hurá! Od jeho spuštění se nám podařilo předat už **10 000 zachráněných obědů** těm, kterým se nedostává. 🙏 My se naopak díky Anně Strejcové dostali na konferenci Předcházení vzniku odpadu. 
 
-\> [Hoď očkem na záznam](https://slideslive.com/38973276/7-rocnik-narodni-konference-predchazeni-vzniku-odpadu)
+\> **[Hoď očkem na záznam](https://slideslive.com/38973276/7-rocnik-narodni-konference-predchazeni-vzniku-odpadu)**
 
-\> [A taky už o nás píše CzechCrunch](https://cc.cz/zachranene-obedy-deset-tisic-jidel-doputovalo-ze-zatisi-group-a-perfect-canteen-do-azylovych-domu/)
+\> **[A taky už o nás píše CzechCrunch](https://cc.cz/zachranene-obedy-deset-tisic-jidel-doputovalo-ze-zatisi-group-a-perfect-canteen-do-azylovych-domu/)**
 
 ## Moudrá Síť
 
@@ -104,7 +104,7 @@ Sleduj nás, pokud tě toto téma zajímá. Brzy budeme hledat nové dobrovolní
 
 🏫 **Tomáš také oslovil střední školy** a už dvě se rozhodly zapojit. Jedna pomůže s testováním digitálních asistentů, druhá navrhne logo a grafiku. Díky tomu se Moudrá Síť stává **projektem s mezigeneračním přesahem**!
 
-\> [Chceš se do projektu taky zapojit? Podívej se na projektovou stránku na vypsané role](https://cesko.digital/projects/moudra-sit)
+\> **[Chceš se do projektu taky zapojit? Podívej se na projektovou stránku na vypsané role](https://cesko.digital/projects/moudra-sit)**
 
 <center>
 
@@ -128,7 +128,7 @@ Sleduj nás, pokud tě toto téma zajímá. Brzy budeme hledat nové dobrovolní
 
 Velké poděkování všem zúčastněným i spolupořádajícím organizacím. 
 
-[\> Chceš taky diskutovat digitální bezpečnost? Přidej se na Slacku do #sdileni-nezisk_digital](https://cesko-digital.slack.com/archives/C046R2MTD8F)
+[\> **Chceš taky diskutovat digitální bezpečnost? Přidej se na Slacku do #sdileni-nezisk_digital**](https://cesko-digital.slack.com/archives/C046R2MTD8F)
 
 <center>
 
@@ -138,7 +138,7 @@ Velké poděkování všem zúčastněným i spolupořádajícím organizacím.�
 
 📝 **15. 10. proběhl v Brně náš první Copy Day** – celodenní intenzivní workshop pro dobrovolnické copywritery pod vedením naší Content Lead Terky Palaščákové, idea makerky a copywriterky Báry Truksové a marketingové kouzelnice Jany Kneschke. Zázemí nám poskytlo [Kiwi.com](https://www.kiwi.com/). Zpětná vazba je velmi pozitivní, takže brzy plánujeme podobnou akci i v Praze. 
 
-[\> Chceš se také těchto eventů zúčastnit? Sleduj náš Portál dobrovolníka, ať neprošvihneš termíny!](https://cesko.digital/dashboard)
+[\> **Chceš se také těchto eventů zúčastnit? Sleduj náš Portál dobrovolníka, ať neprošvihneš termíny!**](https://cesko.digital/dashboard)
 
 <center>
 
@@ -152,9 +152,9 @@ Velké poděkování všem zúčastněným i spolupořádajícím organizacím.�
 
 💻 Tento rok nás čekají ještě **3 webináře**, které určitě stojí za to:
 
-* [Novinky ze světa sociálních sítí & influencer marketingu](https://cesko.digital/events/marketing-na-socialnich-sitich-2) – 22. 11. v 18:00
-* [Copy & SEO: Aneb když jde obsah ruku v ruce s daty](https://cesko.digital/events/copy-seo) – 29. 11. v 18:00
-* [Jak přemýšlejí UX designeři aneb design pro reálný svět](https://cesko.digital/events/ux-design) – 12. 12. v 18:00
+* **[Novinky ze světa sociálních sítí & influencer marketingu](https://cesko.digital/events/marketing-na-socialnich-sitich-2)** – 22. 11. v 18:00
+* **[Copy & SEO: Aneb když jde obsah ruku v ruce s daty](https://cesko.digital/events/copy-seo)** – 29. 11. v 18:00
+* **[Jak přemýšlejí UX designeři aneb design pro reálný svět](https://cesko.digital/events/ux-design)** – 12. 12. v 18:00
 
 Uvidíme se?
 
@@ -162,7 +162,7 @@ Uvidíme se?
 
 👩‍💻 Jak zvládáš práci z domova? Je to pro tebe stále tak trochu výzva, nebo jsi naopak mnohem výkonnější než s kolegy za zády? Pro nás v Česko.Digital je home office denní chleba. Na našem blogu jsme se proto v článku naší dobrovolnice [Kamily Hráchové](https://www.linkedin.com/in/kakamila-hr%C3%A1chov%C3%A1/), který napsala v rámci projektu [Tvořit může každý](https://cesko-digital.atlassian.net/wiki/spaces/RED/pages/816677293/Projekt+Tvo+it+m+e+ka+d), podívali na to, **jak můžeš být při práci z domova efektivnější**. Dozvíš se také, co za nástroje používáme my v č.d a svoje vlastní **zaručené tipy** nám odhalili i naši dobrovolníci.
 
-\> [Přečti si článek s tipy na blogu!](https://blog.cesko.digital/2022/09/dobrovolnici-radi-jak-na-home-office)
+\> **[Přečti si článek s tipy na blogu!](https://blog.cesko.digital/2022/09/dobrovolnici-radi-jak-na-home-office)**
 
 ## Jak psát na LinkedIn: Potřebuješ umouněnou Popelku svojí prezentace proměnit v královnu plesu pracovních příležitostí?
 
@@ -178,7 +178,7 @@ Rozlouskne pro tebe:
 
 Chceš napsat svou vlastní LinkedIn pohádku se šťastným koncem? 
 
-\> [Louskej na našem blogu!](https://blog.cesko.digital/2022/11/jak-psat-texty-na-linkedin)
+\> **[Louskej na našem blogu!](https://blog.cesko.digital/2022/11/jak-psat-texty-na-linkedin)**
 
 <center>
 
@@ -201,6 +201,8 @@ Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digita
 **Jak se ti líbí náš newsletter?** Budeme rádi, když nám [necháš zpětnou vazbu](https://airtable.com/shrLH9CrSztEXGnKa), která nám ho pomůže vylepšit. A jestli se na tvorbě tohoto newsletteru chceš také podílet, ozvi se v kanálu [\#ceskodigital-obsah](https://cesko-digital.slack.com/archives/C01FQBDMDGQ) ve Slacku nebo napiš na [terezia@cesko.digital](mailto:terezia@cesko.digital). 🤗
 
 Digitálu zdar!
+
+<br>
 
 **Za obsahový tým Česko.Digital**
 
