@@ -20,9 +20,9 @@ lang: cs
 
 ## Už i Google podporuje naši komunitu a aktivity
 
-🥳 Tak tohle je pecka. [Nadaci Google.org](https://www.google.org/) naše aktivity tak zaujaly, že se rozhodla podpořit nás na 2 roky částkou 7 300 000 korun.
+🥳 Tak tohle je pecka. [Nadaci Google.org](https://www.google.org/) naše aktivity tak zaujaly, že se rozhodla podpořit nás na 2 roky částkou **7 300 000 korun**.
 
-My budeme díky tomu mít víc prostoru věnovat se také těm, kterým chybí zkušenosti s technologiemi. Využijeme pro to v komunitě již prověřený koncept learning by doing. Chystáme se rozjet aktivity, které pomohou snížit dopady digitální nerovnosti (digital divide). Plánujeme ukazovat příklady použití technologií na běžných životních situacích, jako např. návštěva lékaře nebo komunikace s rodinou. 
+My budeme díky tomu mít víc prostoru věnovat se také těm, kterým chybí zkušenosti s technologiemi. Využijeme pro to v komunitě již prověřený koncept learning by doing. Chystáme se rozjet **aktivity, které pomohou snížit dopady digitální nerovnosti** (digital divide). Plánujeme ukazovat příklady použití technologií na běžných životních situacích, jako např. návštěva lékaře nebo komunikace s rodinou. 
 
 Naše cíle rozhodně nejsou malé. Věříme, že se nám podaří překonat existující bariéry, vytvořit rovné příležitosti pro všechny a zapojit tyto skupiny do veřejného dění. Tak nám drž palce.
 
@@ -30,9 +30,11 @@ Sleduj nás, pokud tě toto téma zajímá. Brzy budeme hledat nové dobrovolní
 
 ## Nejen nové zkušenosti, ale hlavně hřejivý pocit z dobře odvedené práce
 
-💙 Právě o tom je projekt Volební kalkulačky. Michal Škop se svou organizací [KohoVolit.eu](https://kohovolit.eu/) vytvořil už přes 30 volebních kalkulaček pro všechny druhy voleb. Loni Michal oslovil Česko.Digital a společně s dalšími nadšenci z různých oborů dali dohromady své know-how. Co vlastně Volební kalkulačka umí a jak ti pomůže usnadnit rozhodování u voleb? A co si z vývoje její současné verze odnášejí dobrovolníci, kteří na redesignu pracovali?
+💙 Právě o tom je projekt Volební kalkulačky. Michal Škop se svou organizací [KohoVolit.eu](https://kohovolit.eu/) **vytvořil už přes 30 volebních kalkulaček** pro všechny druhy voleb. Loni Michal oslovil Česko.Digital a společně s dalšími nadšenci z různých oborů dali dohromady své know-how. Co vlastně Volební kalkulačka umí a jak ti pomůže usnadnit rozhodování u voleb? A co si z vývoje její současné verze odnášejí dobrovolníci, kteří na redesignu pracovali?
 
 \> [Přečti si nový blogový článek od Terezy Kubíčkové!](https://blog.cesko.digital/2022/10/dokoncili-jsme-evoluci-volebni-kalkulacky-2022)
+
+\> [A nebo si poslechni podcast s týmem Volební kalkulačky!](https://spotifyanchor-web.app.link/e/QwCmQpvMRub)
 
 ## Jaké dobrovolnické role se podílejí na vývoji aplikace?
 
@@ -40,13 +42,15 @@ Sleduj nás, pokud tě toto téma zajímá. Brzy budeme hledat nové dobrovolní
 
 \> [Výběr projektových rolí, které stojí za úspěšným vývojem aplikace Preventivka: Co obnášely a jak je vidí dobrovolníci?](https://blog.cesko.digital/2022/11/vyber-projektovych-roli-preventivka-loono)
 
+![](https://data.cesko.digital/img/dad68fa0.png)
+
 # To nejlepší z našich projektů
 
 ## Jehlomat
 
 *Bezpečná a rychlá likvidace injekčního odpadu odhozeného na veřejných prostranstvích*
 
-💉 V týmu běží jako o život náš poslední projektový sprint. A je to celkem maraton, protože v něm máme 15 různých tasků. Také průběžně testujeme demo verzi naší webové aplikace, která svým uživatelům ušetří čas i spoustu zbytečných papírů. A protože práce máme pořád až nad hlavu, sháníme posily na frontend (React). Máme místo i [pro juniory](https://cesko.digital/opportunities/recOzq8wzGu8Z8DAm). Jsi to ty nebo znáš někoho, kdo by chtěl přidat jedničku k nule?
+💉 V týmu běží jako o život náš **poslední projektový sprint**. A je to celkem maraton, protože v něm máme 15 různých tasků. Také průběžně **testujeme demo verzi** naší webové aplikace, která svým uživatelům ušetří čas i spoustu zbytečných papírů. A protože práce máme pořád až nad hlavu, sháníme **posily na frontend (React)**. Máme místo i [pro juniory](https://cesko.digital/opportunities/recOzq8wzGu8Z8DAm). Jsi to ty nebo znáš někoho, kdo by chtěl přidat jedničku k nule?
 
 \> [Dej nám vědět do kanálu na Slacku #run-jehlomat!](https://cesko-digital.slack.com/archives/C017VKLRRC0)
 
@@ -54,19 +58,21 @@ Sleduj nás, pokud tě toto téma zajímá. Brzy budeme hledat nové dobrovolní
 
 *Připravili jsme místo pro prevenci a pomoc při duševní nepohodě dětí a dospívajících*
 
-🤝 Usilovně pracujeme na předání Safezóny. Žezlo přebírá tým Marie Froulíkové z organizace [Kudykampus](https://kudykampus.cz/), se kterým jsme se v uplynulém měsíci potkali offline. Ve spolupráci s Helenou Pravdovou proběhl 6. října [webinář na téma „Náročné chování dětí (nejen) ve škole a jak s ním pracovat“](https://www.youtube.com/watch?v=WhdZN5cX8eQ). Dále děkujeme partnerské organizaci [Řešení dohodou](https://resenidohodou.cz/) za zastřešení nového online tématu [Rozvod a rozchod rodičů](https://www.safezona.cz/rozvod-a-rozchod-rodicu). A ve spolupráci s organizací [Nejsem Psychopat](https://nejsempsychopat.weebly.com/) finišujeme téma Sebepoškozování.
+🤝 Usilovně pracujeme na **předání Safezóny**. Žezlo přebírá tým Marie Froulíkové z organizace [Kudykampus](https://kudykampus.cz/), se kterým jsme se v uplynulém měsíci potkali offline. Ve spolupráci s Helenou Pravdovou proběhl 6. října **[webinář na téma „Náročné chování dětí (nejen) ve škole a jak s ním pracovat“](https://www.youtube.com/watch?v=WhdZN5cX8eQ)**. Dále děkujeme partnerské organizaci [Řešení dohodou](https://resenidohodou.cz/) za zastřešení **nového online tématu [Rozvod a rozchod rodičů](https://www.safezona.cz/rozvod-a-rozchod-rodicu)**. A ve spolupráci s organizací [Nejsem Psychopat](https://nejsempsychopat.weebly.com/) **finišujeme téma Sebepoškozování**.
 
 ## Movapp
 
 *Naučte se základy češtiny a ukrajinštiny pro běžné životní situace*
 
-📄 Movapp nově můžeš mít nejen v mobilu, ale i vytištěný na papíře. 📄Usnadní to učení. Více než 250 stránek, které si v několika desítkách PDF dokumentů můžeš stáhnout a vytisknout.
+📄 Movapp nově můžeš mít nejen v mobilu, ale i **vytištěný na papíře**. 📄Usnadní to učení. Více než 250 stránek, které si v několika desítkách PDF dokumentů můžeš stáhnout a vytisknout.
 
-🎄 I Movapp se připravuje na Vánoce. Chystáme zimní a vánoční slovníček, sadu nových obrázků, učebních hříček a také tematickou pohádku. Jakou? Vydrž, bude to překvapení.
+🎄 I Movapp se připravuje na Vánoce. Chystáme zimní a vánoční slovníček, sadu nových obrázků, učebních hříček a také tematickou pohádku. Jakou? Vydrž, bude to **překvapení**.
 
-🖌️ Ministerstvo zahraničí pozvalo několik novinářek z Ukrajiny, kterým ukazovalo, jak stát pomáhá Ukrajincům. Movapp byl přizván na večerní program, kde prezentoval, jak funguje naše dobrovolnická pomoc. Všechny novinářky si jako dárek odvezly na Ukrajinu omalovánky s Movappem.
+🖌️ Ministerstvo zahraničí pozvalo několik novinářek z Ukrajiny, kterým ukazovalo, jak stát pomáhá Ukrajincům. Movapp byl přizván na večerní program, kde prezentoval, **jak funguje naše dobrovolnická pomoc**. Všechny novinářky si jako dárek odvezly na Ukrajinu omalovánky s Movappem.
 
 \> [Stáhni si omalovánku s Movappem](https://drive.google.com/file/d/1f1SvKlp3iXW4fQFs8T8bT7Jh14NUOPvr/view?usp=sharing)
+
+![](https://data.cesko.digital/newsletter/40/movapp.png)
 
 ## Darování hotových pokrmů
 
@@ -96,6 +102,8 @@ Sleduj nás, pokud tě toto téma zajímá. Brzy budeme hledat nové dobrovolní
 
 Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).
 
+![](https://data.cesko.digital/img/dad68fa0.png)
+
 # Události
 
 🎃 V říjnu jsme v rámci Česko.Digital zkoušeli nové formáty akcí a věříme, že úspěšně.
@@ -113,6 +121,8 @@ Velké poděkování všem zúčastněným i spolupořádajícím organizacím.�
 [\> Chceš se také těchto eventů zúčastnit? Sleduj náš Portál dobrovolníka, ať neprošvihneš termíny!](https://cesko.digital/dashboard)
 
 ![](https://data.cesko.digital/newsletter/40/copy-day.jpg)
+
+![](https://data.cesko.digital/img/dad68fa0.png)
 
 # edu.digital
 
@@ -145,6 +155,8 @@ Rozlouskne pro tebe:
 Chceš napsat svou vlastní LinkedIn pohádku se šťastným koncem? 
 
 \> [Louskej na našem blogu!](https://blog.cesko.digital/2022/11/jak-psat-texty-na-linkedin)
+
+![](https://data.cesko.digital/img/dad68fa0.png)
 
 # Koho aktuálně hledáme
 
