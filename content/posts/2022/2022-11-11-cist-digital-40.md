@@ -16,6 +16,8 @@ description: Ahoj Česko.Digital! 👋 Přinášíme ti říjnové novinky naše
   zvládat home office nebo psát na LinkedIn. Tak jen do toho! 💪
 lang: cs
 ---
+**🎧 Audio verze newsletteru k poslechu 👉 [ZDE.](https://spotifyanchor-web.app.link/e/Xslvzpw7Wub)**
+
 # Žhavé novinky měsíce
 
 ## Už i Google.org podporuje naši komunitu a aktivity
