@@ -114,6 +114,12 @@ O tom, s koľkými nástrojmi som sa naučila pracovať, ani nehovorím. Osvojil
 
 <br>
 
+<center>
+
+![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
+
 # Když se plní sny… 
 
 Tery a Luky tvrdě dřeli, aby se vypracovali do manažerských pozic. Je úžasné pozorovat, jak si Česko.Digital všímá takových lidí a umí je náležitě ocenit. **Oba o přechodu na placenou spolupráci hovoří jako o splněném snu, kterému zpočátku nemohli ani uvěřit**. Oba si pokládali otázky typu: „Proč právě já? Zasloužím si to? Mám na to?“. Oba si říkali, že je to náhoda, že to nemůže být snad ani pravda, tolik štěstí.
