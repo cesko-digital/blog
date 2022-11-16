@@ -50,7 +50,7 @@ Po nejakých mesiacoch som si povedala, že ma to vlastne baví, že to môže b
 
 A někdy na začátku léta 2021 jsem hledal práci. Dobrovolničení v Česko.Digital mě naplňovalo, ale nejdřív jsem si říkal, že šance dostat se do kmenového týmu je mizivá. Ale kéž bych měl to štěstí. A co si budeme povídat. Síla myšlenky. Komunitě jsem dával hodně svého času, lidé se na mě mohli spolehnout. Když jsem dostal nabídku být součástí kmenového týmu, byl jsem strašně nadšený. A když to klaplo, říkal jsem si, že to snad ani není možný. Byl to pro mě splněný sen.
 
-A tak jsem se ocitl v roli koordinátora produkčního týmu. Posun to je znatelný. Navíc neustále se každý den učím něčemu novému. Věnuji se produkci, jsem ale také součástí marketingového týmu, zastávám také roli Product Ownera projektu edu.digital. A například loni v létě se mě Terka zeptala, co bych chtěl v komunitě rozjet, co je můj sen. A já jsem tehdy odpověděl, že by bylo fajn dělat podcasty. Tak na jaře tohoto roku jsme rozjeli také podcast poslouchat.digital.
+A tak jsem se ocitl v roli koordinátora produkčního týmu. Posun to je znatelný. Navíc neustále se každý den učím něčemu novému. Věnuji se produkci, jsem ale také součástí marketingového týmu, zastávám také roli Product Ownera projektu edu.digital. A například loni v létě se mě Terka zeptala, co bych chtěl v komunitě rozjet, co je můj sen. A já jsem tehdy odpověděl, že by bylo fajn dělat podcasty. Tak na jaře tohoto roku jsme rozjeli také podcast [poslouchat.digital](poslouchat.digital).
 
 # Naplnila placená spolupráce vaše původní představy? Bylo tam něco, co vás překvapilo?
 
@@ -67,6 +67,8 @@ Aj preto si veľmi vážim Česko.Digital a ľudí v ňom, pretože mi dali šan
 *3. narozeniny Česko.Digital*
 
 </center>
+
+<br>
 
 # Během působení v Česko.Digital, co tedy bylo nebo je pro vás největší výzvou?
 
@@ -102,6 +104,8 @@ O tom, s koľkými nástrojmi som sa naučila pracovať, ani nehovorím. Osvojil
 
 </center>
 
+<br>
+
 # Takže se člověk nesmí bát. A co podle vás dělá Česko.Digital s těmi, kteří se nebojí?
 
 **Terézia Palaščáková**: To je dobrá otázka. Keď sa vieš ozvať a si naozaj motivovaný/á, zapojíš sa bez ohľadu na to, v akej oblasti máš alebo nemáš skúsenosti. Je tu nespočetné množstvo príležitostí. Tiež máš ten pocit, že niekam patríš. Myslím, že v dnešnej dobe, vzhľadom na to, čo sa deje vonku v tom našom šialenom svete, je ten pocit, že nezištne pomáhaš, úplne super!
@@ -120,4 +124,4 @@ Pokud by někdo snad měl pocit, že to, co se tu říká a píše, nemůže bý
 
 Takhle totiž vnímáme tuto neustále se rozrůstající komunitu, která bojuje, co jí síly stačí, za lepší budoucnost pro Česko!
 
-Korektorka: Anita Kopecká
+*Korektorka: Anita Kopecká*
