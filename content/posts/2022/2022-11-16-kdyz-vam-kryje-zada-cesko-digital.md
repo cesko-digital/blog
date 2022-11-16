@@ -32,25 +32,25 @@ V rámci spolupráce s Česko.Digital jsem měla příležitost vyzpovídat Tery
 
 Na Česko.Digital som narazila cez newsletter Holky z Marketingu. Komunita hľadala niekoho na copywriting a obsah. A zrazu som do Česko.Digital a projektov dávala X hodín denne. Samozrejme, že som za tým hľadala hlavne tie referencie. Chcela som si rozšíriť obzory, získať nové kontakty, nájsť nové príležitosti, posunúť sa v copywritingu. Ale bola v tom aj zvedavosť, čo vlastne Česko.Digital robí. Chcela som niečím prispieť, pomôcť. A musím povedať, že aj keď som už predtým mala nejaké skúsenosti s copywritingom, tie najlepšie referencie som získala až v Česko.Digital. A vďaka nim sa potom všetko rozbehlo.
 
-**Lukáš Návesník**: Impulsem byla reference od člověka, kterému věřím. Na přelomu října/listopadu roku 2020 narazil můj přítel na Česko.Digital a projekt Učíme online. On byl ten, kdo mě přivedl do komunity.
+**Lukáš Návesník**: Impulsem byla reference od člověka, kterému věřím. Na přelomu října/listopadu roku 2020 narazil můj přítel na Česko.Digital a projekt *Učíme online*. On byl ten, kdo mě přivedl do komunity.
 
 # Jakou roli máte dnes v Česko.Digital?
 
 **Terézia Palaščáková**: Začínala som ako dobrovoľnícka copywriTerka a koordinátorka. A dnes je zo mňa Content Lead.
 
-**Lukáš Návesník**: Začínal jsem jako střihač (jelikož mám vystudovanou mediální produkci) v rámci projektu Učíme online, který byl dlouhou dobu mou srdcovou záležitostí. A postupně jsem se přesunul z role střihače do role koordinátora. Dnes mám na starosti produkční tým jako Digital & Production Lead.
+**Lukáš Návesník**: Začínal jsem jako střihač (jelikož mám vystudovanou mediální produkci) v rámci projektu *Učíme online*, který byl dlouhou dobu mou srdcovou záležitostí. A postupně jsem se přesunul z role střihače do role koordinátora. Dnes mám na starosti produkční tým jako Digital & Production Lead.
 
 # Jaká byla vaše cesta k těmto rolím? Kdy jste si poprvé řekli, že by se z dobrovolnické práce mohlo stát něco víc?
 
-**Terézia Palaščáková**: Dlhú dobu som bola súčasťou projektov ako Nedlužím státu alebo Učíme online, pomohla som aj s textami pre Dáme roušky alebo Začni učit!. V komunite ma bolo vidieť. Bola som v každom kanáli. Všetko som sledovala. Všetko som komentovala. Tak sa to dostalo k vetám ako: „Tery je všade. Nedá sa ju prehliadnuť. Nie je snáď projekt, kde by nebola.“ Potom som dostala príležitosť byť dobrovoľníckou koordinátorkou dnes už newsletteru číst.digital a neskôr novovzniknutého obsahového tímu.
+**Terézia Palaščáková**: Dlhú dobu som bola súčasťou projektov ako Nedlužím státu alebo Učíme online, pomohla som aj s textami pre *Dáme roušky* alebo *Začni učit!*. V komunite ma bolo vidieť. Bola som v každom kanáli. Všetko som sledovala. Všetko som komentovala. Tak sa to dostalo k vetám ako: „Tery je všade. Nedá sa ju prehliadnuť. Nie je snáď projekt, kde by nebola.“ Potom som dostala príležitosť byť dobrovoľníckou koordinátorkou dnes už newsletteru *[číst.digital](cist.digital)* a neskôr novovzniknutého obsahového tímu.
 
 Po nejakých mesiacoch som si povedala, že ma to vlastne baví, že to môže byť nová etapa môjho pracovného zamerania. Kontaktovala som vtedajšiu manažérku komunity (ahoj, Luci!) a jednoducho som jej povedala, že som sa našla v koordinačnej roli a že ak by bola možnosť prejsť na platenú pozíciu, budem veľmi rada. Slovo dalo slovo, akurát sa podobné miesto uvoľnilo a zrazu bum – a bola som obsahová manažérka. Vtedy som si hovorila, že to snáď ani nemôže byť pravda. Toľko šťastia za takú krátku dobu. Mohla by som povedať, že to bola úplná náhoda, ale myslím si, že keby som sa vo vnútri pevne nerozhodla a nevyskúšala osloviť Lucku, nebola by som dnes Content Lead v Česko.Digital.
 
-**Lukáš Návesník**: Jako střihač v rámci projektu Učíme online jsem se do té práce opravdu ponořil. Ke střihu webinářů se následně přidala grafika, administrativní úpravy ve Wordpressu. Dále jsem zpracovával návrhy UI/UX do webové verze, vytvořil jsem novou titulní stránku projektového webu. Neskutečně mě to bavilo. Byly to nové zkušenosti.
+**Lukáš Návesník**: Jako střihač v rámci projektu *Učíme online* jsem se do té práce opravdu ponořil. Ke střihu webinářů se následně přidala grafika, administrativní úpravy ve Wordpressu. Dále jsem zpracovával návrhy UI/UX do webové verze, vytvořil jsem novou titulní stránku projektového webu. Neskutečně mě to bavilo. Byly to nové zkušenosti.
 
 A někdy na začátku léta 2021 jsem hledal práci. Dobrovolničení v Česko.Digital mě naplňovalo, ale nejdřív jsem si říkal, že šance dostat se do kmenového týmu je mizivá. Ale kéž bych měl to štěstí. A co si budeme povídat. Síla myšlenky. Komunitě jsem dával hodně svého času, lidé se na mě mohli spolehnout. Když jsem dostal nabídku být součástí kmenového týmu, byl jsem strašně nadšený. A když to klaplo, říkal jsem si, že to snad ani není možný. Byl to pro mě splněný sen.
 
-A tak jsem se ocitl v roli koordinátora produkčního týmu. Posun to je znatelný. Navíc neustále se každý den učím něčemu novému. Věnuji se produkci, jsem ale také součástí marketingového týmu, zastávám také roli Product Ownera projektu edu.digital. A například loni v létě se mě Terka zeptala, co bych chtěl v komunitě rozjet, co je můj sen. A já jsem tehdy odpověděl, že by bylo fajn dělat podcasty. Tak na jaře tohoto roku jsme rozjeli také podcast [poslouchat.digital](poslouchat.digital).
+A tak jsem se ocitl v roli koordinátora produkčního týmu. Posun to je znatelný. Navíc neustále se každý den učím něčemu novému. Věnuji se produkci, jsem ale také součástí marketingového týmu, zastávám také roli Product Ownera projektu *edu.digital*. A například loni v létě se mě Terka zeptala, co bych chtěl v komunitě rozjet, co je můj sen. A já jsem tehdy odpověděl, že by bylo fajn dělat podcasty. Tak na jaře tohoto roku jsme rozjeli také podcast *[poslouchat.digital](poslouchat.digital)*.
 
 # Naplnila placená spolupráce vaše původní představy? Bylo tam něco, co vás překvapilo?
 
