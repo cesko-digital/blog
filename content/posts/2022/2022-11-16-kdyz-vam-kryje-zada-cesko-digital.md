@@ -14,9 +14,13 @@ lang: cs
 ---
 V rámci spolupráce s Česko.Digital jsem měla příležitost vyzpovídat Tery a Lukyho ohledně jejich začátků v komunitě a jejich cesty při **hledání toho správného směru profesního života**. Protože pro komunitu píšu jako dobrovolník od léta tohoto roku, opravdu mě zajímalo, jak Česko.Digital vnímají, co pro ně toto prostředí znamená, jak se v rámci této komunity vyvíjejí. Díky jejich otevřenému přístupu a upřímnosti v kombinaci se srdcem na dlani jsem se dozvěděla víc, než jsem očekávala. Tak se nechme na malou chvíli přenést do **světa plného nezastavitelné houževnatosti a nekonečného entuziasmu**. Nechme se unést jejich příběhy, protože mají rozhodně o čem vyprávět.
 
-![](https://lh5.googleusercontent.com/oMwNiMmRvyaLBg1kGrHw4dHgmsLXhNqGIudqnfq6WOv36bOA0P5GjJ6S-dNBz0eTFbxXUpPCfa25XHz4dpO4TMXRcPTauhy86GEd3GjH8vu7TqBIkbybdgmY1F4SSxlLTTB5vhfRXyCUEwbh-o4Gss3ZhKtWV-PxHOBgeQ0hVQfje5Qk8HqLgipzYx61zQ)
+<center>
+
+![](https://data.cesko.digital/img/clanek-teryii-luke/1.png)
 
 *Luke a Teryii ve svém přirozeném prostředí na hovoru ve Slacku*
+
+</center>
 
 <br>
 
@@ -54,9 +58,13 @@ Aj preto si veľmi vážim Česko.Digital a ľudí v ňom, pretože mi dali šan
 
 Lukáš Návesník: Velkým překvapením bylo už to, že jsem se vůbec stal součástí kmenového týmu.
 
-![](https://lh4.googleusercontent.com/EoOaaRZ8mkxtpXsgDd-lVhohB6pmL8wxlACETwdw82IgtFryY2PjtmY9aKvCSX5ClgvMs_kvM9-fo0hts_o48ZQCn9aKraVvajN3E-30sG8K0eFgOgjfxnf0DLpKbVSfC20cdtRuarSRWdGBX1C2px2fXCurFo8m5wQ3OSHksFR4kyAS-xaMz-lG07s5Qw)
+<center>
+
+![](https://data.cesko.digital/img/clanek-teryii-luke/2.png)
 
 *3. narozeniny Česko.Digital*
+
+</center>
 
 # Během působení v Česko.Digital, co tedy bylo nebo je pro vás největší výzvou?
 
@@ -84,9 +92,13 @@ Terézia Palaščáková: Je dôležité si uvedomiť, že Česko.Digital ti dá
 
 Lukáš Návesník: Nebát se toho! Nebát se dát o sobě v komunitě vědět! Všechno je to o komunikaci. Nebát se představit v kanále #introductions ve Slacku, nebát se požádat o zapojení do projektu, ale taky se nebát říct, že něco nezvládám ve stanoveném termínu nebo že mi něco nejde. Komunikace je klíč ke všemu. Nikdo z nás nekouše! Jsme tým a komunikovat spolu je to nejzásadnější.
 
-![](https://lh6.googleusercontent.com/zyzl1fVLALWlsmOM_aAp6wF39eQT4are5aEQtVNaq1MnzTdwSBkp7Oof43rXjBSs31u5ZkN0BCwQ_0iTS7dWAmA5o6k5GLpQSinK1ClqMmC0FJ87siDB_ZfjfKDn_C6u3s3x2JigOhFZx2ZeOCTM8EAtZr222llhJWp-S_jo1kwQHFb5uO2WenC8WfIkiQ)
+<center>
 
-3. narozeniny Česko.Digital
+![](https://data.cesko.digital/img/clanek-teryii-luke/3.png)
+
+*3. narozeniny Česko.Digital*
+
+</center>
 
 # Takže se člověk nesmí bát. A co podle vás dělá Česko.Digital s těmi, kteří se nebojí?
 
@@ -104,4 +116,4 @@ Pokud by někdo snad měl pocit, že to, co se tu říká a píše, nemůže bý
 
 Takhle totiž vnímáme tuto neustále se rozrůstající komunitu, která bojuje, co jí síly stačí, za lepší budoucnost pro Česko!
 
-##### Korektorka: Anita Kopecká
+Korektorka: Anita Kopecká
