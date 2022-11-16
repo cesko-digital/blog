@@ -16,7 +16,9 @@ V rámci spolupráce s Česko.Digital jsem měla příležitost vyzpovídat Tery
 
 <center>
 
-![](https://data.cesko.digital/img/clanek-teryii-luke/1.png)
+<br>
+
+![](https://data.cesko.digital/img/clanek-teryii-luke/1.png "Luke a Teryii ve svém přirozeném prostředí na hovoru ve Slacku")
 
 *Luke a Teryii ve svém přirozeném prostředí na hovoru ve Slacku*
 
