@@ -25,4 +25,6 @@ Den druhý se nesl v duchu příkladů dobré praxe – 6 úředníků sdílelo 
 
 Třetí den programu byl nabitý workshopy k diskutovaným tématům. Zapojily se například organizace Govlab, Česko.Digital, think tank České priority či poradkyně Úřadu vlády. Festival se konal pod záštitou ministra vnitra Víta Rakušana a byl realizován s finanční podporou hl.m. Prahy. Mezi další partnery patřily společnosti Deloitte a BankID, která prezentovala úspěšný příklad zahraniční inovace přenesené do ČR. Fotogalerie z celého Festivalu je dostupná pod [tímto odkazem](https://romanacervenkova.pixieset.com/festivalkreativnbyrokracie/).
 
+T﻿iskovou zprávu napsala dobrovolnice Kateřina Krestová.
+
 <!--EndFragment-->
