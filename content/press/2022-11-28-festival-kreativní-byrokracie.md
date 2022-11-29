@@ -3,7 +3,7 @@ title: Stát jsi ty! Proběhl další ročník Festivalu kreativní byrokracie
 author: zoul
 cover: https://data.cesko.digital/web/RC105320.jpg
 date: 2022-11-29-02-53
-slug: Festival kreativní byrokracie
+slug: Festival-kreativni-byrokracie
 description: Praha, 29. listopadu 2022 - Nad otázkami inovací a příležitostí se
   ve dnech 7.–9. listopadu setkalo přes 200 úředníků společně s experty z Česka
   i zahraničí. Cílem festivalu je propojovat a podporovat tvůrčí lidi ve veřejné
