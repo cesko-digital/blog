@@ -19,7 +19,7 @@ lang: cs
 
 *„Bezpečnost není v malých firmách, neziskovkách ani u soukromých uživatelů moc často skloňována,“* říká **Martin Ladecký**, který se stará o systémy v bance. „*V médiích se občas objeví větší kauzy, které zahrnují ztrátu peněz na bankovních účtech nebo kybernetické útoky na nemocnice, ale o prevenci se nemluví nikdy. Většina organizací, které se Nezisk.Digital v Brně nebo Praze účastní, tuší, že v ochraně dat a systémů nemají zrovna pořádek, většinou ale neví, jak začít. A od toho jsme dneska tady.“* Martin Ladecký usedá spolu s kolegy ke stolkům u diskuzních skupin a začíná první kolo debat na téma kyberbezpečnosti. Zástupci neziskovek si mohli předem vybrat okruhy, které je zajímají, a kterých se chtějí během našeho kyberbezpečnostního dopoledne účastnit. 
 
-FOTKA
+![](https://data.cesko.digital/img/clanek-jak-na-bezpecnost-dat-v-neziskovkach/1.jpg)
 
 Program jsme rozdělili do dvou bloků a čtyř témat: **bezpečná komunikace digitálními nástroji, možnosti Google Workspace a Microsoft 365, bezpečný design služeb a základní právní otázky v oblasti digitální bezpečnosti**. U všech stolů v obou městech je plno, hovor hučí i během přestávky na kafe a na lektory se sypou desítky otázek.
 
@@ -29,7 +29,7 @@ Kromě Česko.Digital se za akci postavil také český bezpečnostní gigant Ge
 
 Právě expertní partnerství je motorem podobných akcí, které jsou prospěšné pro všechny strany. Pro lidi z nezisku je to **způsob, jak se zorientovat v důležitých tématech, na která nezbývá v běžném provozu čas**, pro expertní partnery i lektory zase **způsob, jak pochopit a objevit neziskový sektor**, který se věnuje nebyznysovým tématům s velkým přesahem.
 
-FOTKA
+![](https://data.cesko.digital/img/clanek-jak-na-bezpecnost-dat-v-neziskovkach/2.jpg)
 
 *„Lidé chápou bezpečnost jako zvláštní segment, bývá to takový strašák, o kterém se organizace bojí přemýšlet,“* připomíná bývalý CTO Česko.Digital **Karel Minařík**. *„V dnešních diskuzích jsem se je ale snažil přimět, aby své myšlení otočili a udělali si z nastavování bezpečnostních pravidel hru. Stačí si představit, že někdo z organizace zapomene notebook v taxíku. Co se stane? Co uděláte jako první? Nebo když neobratně prozradíte své heslo k mailové schránce? K jakým datům se útočník dostane? Není možné nastavit nějakou proceduru, která by takové problémy odstranila? Myslím, že přistupovat k zabezpečení podobným způsobem je mnohem jednodušší, zajímavější a pro většinu lidí méně děsivé.“*
 
@@ -39,11 +39,13 @@ Mezi účastníky se objevili lidé, kteří se starají o handicapované a seni
 
 *„Naše organizace v posledních měsících organicky a velmi rychle roste,“* říká **Ilnara Dudash** z Ukrajinské iniciativy jižní Moravy. *„Ještě před osmi měsíci jsme měli 1 a půl zaměstnance, dnes máme na různé úvazky 26 lidí, chodí k nám 180 kurzistů na lekce češtiny, zajišťujeme poradenství a spoustu dalších věcí pro Ukrajince, kterých Českem prošlo přes 400 tisíc. Věděli jsme, že je potřeba nastavit pořádně interní komunikaci i bezpečnost, ale nevěděli jsme jak. Po dnešku uvažujeme, že se obrátíme i na profíky z velkých organizací, kteří by nám mohli pomoct s nastavováním pravidel. Jako první se pustíme do bezpečnostního checklistu, se kterým nám lektoři na Nezisk.Digital pomohli, určitě si budeme body prioritizovat a postupně je začneme zavádět do praxe.“*
 
-FOTKA
+![](https://data.cesko.digital/img/clanek-jak-na-bezpecnost-dat-v-neziskovkach/3.jpg)
 
 *„Zpracováváme data klientů a klientek, kteří s námi řeší velmi osobní a ožehavá témata,“* představuje **Lucie Šídová** organizaci Freya, která se zabývá poradenstvím v oblasti sexuality a vztahů u lidí se zdravotním znevýhodněním. *„Chtěla jsem se proto ujistit, jestli s daty nakládáme dobře. Uvědomila jsem si, že naše zabezpečení musíme znovu prověřit a potřebovala jsem vědět, jak na to. Chystáme se dělat průzkumy u lidí do 15 let, takže mi hodně pomohlo ujasnit si, jak nakládat s GDPR v tomhle konkrétním případě. Bylo taky fajn potkat se ve skupinách s lidmi, kteří řeší podobná témata a vědí, jak to v nezisku chodí.“*
 
 Polední slunce už se dávno přehouplo přes střechu Gen (bývalého Avastu), diskuzní skupiny skončily, ale lidé se ještě nerozchází. V malých hloučcích to šumí dotazy a návrhy, lidé z nezisku si v hlavách sumírují první bezpečnostní audit, který ve svých organizacích udělají. V našich hlavách se pak pomalu rýsují plány, jak na Nezisk.Digital navázat. 
+
+![](https://data.cesko.digital/img/clanek-jak-na-bezpecnost-dat-v-neziskovkach/4.jpg)
 
 <br>
 
