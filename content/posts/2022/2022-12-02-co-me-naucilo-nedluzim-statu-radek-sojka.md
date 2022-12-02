@@ -3,7 +3,7 @@ title: "Co mě naučilo Nedlužím státu: Radek Sojka a jeho tipy a fuckupy z p
   projektového koordinátora"
 author: lukas.n
 cover: https://data.cesko.digital/img/clanek-co-me-naucilo-nedluzim-statu/co-me-naucilo-nedluzim-statu.png
-date: 2022-12-02-10-46
+date: 2022-12-02-12-15
 slug: co-me-naucilo-nedluzim-statu-radek-sojka
 description: V první půlce roku 2021 jsem pracoval na pozici dobrovolnického
   projektového koordinátora pro projekt Nedlužím státu. Během období leden–září
