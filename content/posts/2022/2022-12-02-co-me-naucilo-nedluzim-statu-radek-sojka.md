@@ -26,7 +26,7 @@ V některých případech však delší komunikace ve Slackovém vlákně mohla 
 
 Trello jsme měli organizováno jako **Kanban** (vizuální systém správy úkolů, slovo Kanban pochází z japonštiny v doslovném překladu znamená něco jako „karty, které jsou vidět“, pozn. red.), můžete ho vidět na obrázku. Každých 14 dní jsme se pak potkávali na **pravidelné týmové schůzce, během které se úkoly revidovaly a aktualizovaly**.
 
-![](https://lh5.googleusercontent.com/poNgt_-oD2Jep83-12lAO7NvfczinbPfNy0eEK-KLeJiuYzuL59rp9GHaiiFPtT1g4-mt2u2JewnUJHsX_PDP_ueaJFULEn2v26FpcGHS69ReM6qCQDFMEwxsLNTWrcOSyaMStYULplgn6u-IxikxJmyMMFPxNMACzyI65TWccBvhY-b7aut1laN7fDXtA)
+![](https://data.cesko.digital/img/clanek-co-me-naucilo-nedluzim-statu/1.png)
 
 # Projektový tým a zastupitelnost
 
@@ -42,7 +42,7 @@ Spuštění projektu je zásadním okamžikem, kdy jednak spatří světlo svět
 
 Doporučil bych si do detailu **pohlídat, co launch pro všechny zúčastněné strany (Česko.Digital, projektový tým, spřátelené třetí stany a média/veřejnost) znamená**. Za Nedlužím státu měla [výborně připravenou časovou osu](https://cesko-digital.atlassian.net/l/cp/GR5GK15Z) naše marketingová koordinátorka Jana Kneschke, popřípadě [na této stránce](https://cesko-digital.atlassian.net/wiki/spaces/NS/pages/189925307/F+ze+projektu) se dají vidět vypracované fáze projektu.
 
-![](https://lh4.googleusercontent.com/T_Ax7NtMm9nO_Ang4RZJOF1vJa9znxtPA8RjoFl9LPdf1yESrOFUlif_Dasxe5PT9LfTrf3YagBoObQ-5StKn03OaLzenHfuIwm18bXhq_Ea2ImfTzE-VOjBxUWRxWBDh3l9K1SMAEEyawBNwcTSYR6UiEqKlUQwRtBB0EGx8Pdckx-SpCuUtv-zXFPn0Q)
+![](https://data.cesko.digital/img/clanek-co-me-naucilo-nedluzim-statu/2.png)
 
 Před samotným launchem je dobré mít **aplikaci/stránku již nějakou dobu v provozu** a vyhradit si čas na testing, ideálně uživatelské testování. My jsme si na tuto „generálku“  udělali čas až den předem, což přineslo zbytečný stres.
 
@@ -52,7 +52,7 @@ Před samotným launchem je dobré mít **aplikaci/stránku již nějakou dobu v
 
 Důležitým nástrojem pro vývoj a design se stala **Figma**, ve které jsme připravili kompletní grafický návrh a odladili styly jednotlivých webových elementů.
 
-![](https://lh4.googleusercontent.com/zjWkdMsnIuO583fNcQNIJRoczh7gnATaGVGvlEIPztAb3U95S3oD1Uk9oguvpLepEto-LkL9OXDw-LJb1QZ5yCBCAl14-2Ji9GBE_C8AzkrsRBjcWDrAFicQ3CZdaAqFerNdA-EbW-8nni7MEOWybtH7ymVR8RTyHQ6YsE0vO0Crs4t04UJo6ErfMdMwvQ)
+![](https://data.cesko.digital/img/clanek-co-me-naucilo-nedluzim-statu/3.png)
 
 V rámci služeb (backend vývoje) jsem však udělal chybu z hlediska rozložení práce. Měli jsme připravené jasné zadání pro design, na které navazoval vývoj statických a dynamických částí frontendu. Dále jsme věděli, jaké služby na backend budeme potřebovat. Jejich design a vývoj mohl začít paralelně, následně jsme je mohli otestovat na simulovaných datech a mít tak vše připraveno.
 
