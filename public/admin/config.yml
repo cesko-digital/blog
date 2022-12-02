@@ -79,6 +79,7 @@ collections:
             "anezka.muller",
             "kamila.hrachova",
             "jan.kalab",
+            "radek.sojka",
           ]
         required: true
       - label: "Tags"
@@ -206,6 +207,7 @@ collections:
             "anezka.muller",
             "kamila.hrachova",
             "jan.kalab",
+            "radek.sojka",
           ]
         required: true
       - label: "Cover"
