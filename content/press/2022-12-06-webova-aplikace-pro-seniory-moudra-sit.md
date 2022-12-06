@@ -6,7 +6,7 @@ date: 2022-12-06-11-07
 slug: webova-aplikace-pro-seniory-moudra-sit
 description: "Praha, 6. prosince 2022: V posledních letech se senioři dostávají
   do izolace. Z důvodu zdravotních potíží nebo epidemiologické situace se při
-  své neschopnost elektronicky komunikovat s okolím často dostávají do
+  své neschopnosti elektronicky komunikovat s okolím často dostávají do
   neřešitelné situace, která mnohdy vede až k osobní tragédii. Stoupá počet
   osamělých seniorů, seniorů, kteří z různých důvodů nejsou schopni požádat o
   pomoc. Pilotní verze webové aplikace Moudrá Síť je v plánu na jaře roku 2023 a
@@ -17,7 +17,7 @@ lang: cs
 ---
 <!--StartFragment-->
 
-V roce 2022 začala [Moudrá Síť](http://www.moudrasit.cz) realizovat webovou aplikace ve spolupráci se spolkem Moudrá Sovička. Ta už od roku 2015 vzdělává seniory v oblasti digitálních a komunikačních technologií a je garantem a mentorem Moudré Sítě. Zakladatel Moudré Sovičky Tomáš Hubálek oslovil ke spolupráci komunitu expertních dobrovolníků Česko.Digital. 
+V roce 2022 začala [Moudrá Síť](http://www.moudrasit.cz) realizovat webovou aplikaci ve spolupráci se spolkem Moudrá Sovička. Ta už od roku 2015 vzdělává seniory v oblasti digitálních a komunikačních technologií a je garantem a mentorem Moudré Sítě. Zakladatel Moudré Sovičky Tomáš Hubálek oslovil ke spolupráci komunitu expertních dobrovolníků Česko.Digital. 
 
 „V Česko.Digital jsme projekt vyhodnotili jako vysoce přínosný. Pandemie COVID-19 zdůraznila potřebu podpory seniorů ve vztahu k moderním technologiím, právě na ty se totiž v té době často omezily jejich možnosti komunikace. I proto jsme neváhali tento nápad v komunitě podpořit,“ vysvětuje Anežka Müller, support koordinátor projektu v komunitě Česko.Digital.
 
