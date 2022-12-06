@@ -45,6 +45,12 @@ const Head: React.FC<PageProps> = (props) => {
       <meta property="og:title" content={title} />
       <meta property="og:image" content={coverUrl} />
       <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+      <link
+        rel="alternate"
+        type="application/rss+xml"
+        title="RSS"
+        href="https://blog.cesko.digital/rss.xml"
+      ></link>
     </NextHead>
   );
 };
