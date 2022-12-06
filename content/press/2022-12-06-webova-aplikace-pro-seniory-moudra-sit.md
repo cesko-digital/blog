@@ -1,6 +1,6 @@
 ---
 title: Webová aplikace Moudrá Síť bude zdarma pomáhat seniorům používat technologie
-author: zoul
+author: tereza.kubickova
 cover: https://data.cesko.digital/web/projects/TZ-moudra-sit.png
 date: 2022-12-06-11-07
 slug: webova-aplikace-pro-seniory-moudra-sit
@@ -32,5 +32,7 @@ Kontakt pro média:Tomáš Hubálek, Moudrá Síť, tel.č.: 730 141 072,  info
 O Česko.Digital: Česko.Digital je komunita expertních dobrovolníků z mnoha oborů od IT přes projektové řízení až po marketing, kteří ve svém volném čase pomáhají státu a nestátním organizacím, a mění tak Česko k lepšímu. Komunitu Česko.Digital založili v roce 2019 Jakub Nešetřil, Radka Horáková a Eva Pavlíková. Aktuálně je v komunitě přes 5 500 dobrovolníků a je tak největší civic-tech organizací v Evropě. Cílem Česko.Digital je budoucnost, ve které technologie slouží lidem, bez ohledu na čas, místo nebo sociální podmínky. Více informací najdete na [www.cesko.digital](https://cesko.digital). 
 
 Kontakt pro média: Martina Habová, martina@cesko.digital
+
+T﻿iskovou zprávu napsaly dobrovolnice Lilly Ahou Král a Tereza Kubíčková.
 
 <!--EndFragment-->
