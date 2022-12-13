@@ -80,6 +80,7 @@ collections:
             "kamila.hrachova",
             "jan.kalab",
             "radek.sojka",
+            "jakub.sekyra",
           ]
         required: true
       - label: "Tags"
@@ -208,6 +209,7 @@ collections:
             "kamila.hrachova",
             "jan.kalab",
             "radek.sojka",
+            "jakub.sekyra",
           ]
         required: true
       - label: "Cover"
