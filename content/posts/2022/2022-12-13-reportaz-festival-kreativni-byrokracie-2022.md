@@ -1,7 +1,7 @@
 ---
 title: Česko potřebuje otevřenou a důvěryhodnou státní správu, jak na ni řešil
   Festival kreativní byrokracie
-author: jakub.sekyra
+author: lenkab
 cover: https://data.cesko.digital/img/clanek-reportaz-z-CBF/cbf-cover.png
 date: 2022-12-13-11-16
 slug: reportaz-festival-kreativni-byrokracie-2022
