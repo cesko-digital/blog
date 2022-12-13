@@ -157,6 +157,8 @@ V >č.d věříme, že aplikovat principy otevřené komunikace, participace a d
 
 *Zdroj fotografií: [Romana Červenková](https://romanacervenkova.pixieset.com/festivalkreativnbyrokracie/)*
 
+*Další autor obsahu: Jakub Sekyra*
+
 *Editorka: Kateřina Sikorová*
 
 *Korektorka: Aneta Martykánová*
