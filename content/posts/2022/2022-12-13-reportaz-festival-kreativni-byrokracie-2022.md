@@ -59,7 +59,7 @@ Změnit to ale chce také Česko.Digital. *„Naším cílem je, aby Česko.Digi
 
 # Byrokracie nemusí být sprosté slovo
 
-Hovoříme-li o státní správě, jen málokoho napadne použít k jejímu popisu slova jako strategická, kreativní nebo efektivní. Na tom se shodli i účastníci panelové diskuze festivalu na téma „**[SUPERÚŘEDNÍK MEZI LOAJALITOU A NESTRANNOSTÍ: Jak má vypadat budoucnost české veřejné správy?](https://youtu.be/lc6py1Pp4Ps)**“. 
+Hovoříme-li o státní správě, jen málokoho napadne použít k jejímu popisu slova jako strategická, kreativní nebo efektivní. Na tom se shodli i účastníci panelové diskuze festivalu na téma „[SUPERÚŘEDNÍK MEZI LOAJALITOU A NESTRANNOSTÍ: Jak má vypadat budoucnost české veřejné správy?](https://youtu.be/lc6py1Pp4Ps)“.
 
 **Vladimír Špidla, Jan Mušuta, Eva Pavlíková a Edvard Kožušník** společně diskutovali o tom, že česká státní správa je založena především na operativě a je velmi robustní, především ve svých nejnižších úrovních. Strategická role úředníků je mizivá, chybí prestiž i motivace ptát se, proč se věci dělají tak, jak se dělají. Existuje však řešení? Podle všech zúčastněných ano, ale vyžaduje především chuť vpustit do státní správy kreativitu a ochotu procesy zjednodušovat.
 
@@ -159,4 +159,4 @@ V >č.d věříme, že aplikovat principy otevřené komunikace, participace a d
 
 *Editorka: Kateřina Sikorová*
 
-*Korektor: Aneta Martykánová*
+*Korektorka: Aneta Martykánová*
