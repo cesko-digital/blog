@@ -35,6 +35,8 @@ Proč jsou vlastně ve veřejné správě potřebné? Slovy **[civic-tech expert
 
 </center>
 
+<br>
+
 Pomoci může například [open-source software Decidim](https://decidim.org/), na jehož přípravě se Valentin podílí v Open Source Politics. V otevřeném softwaru, na kterém se může podílet každý, je možné najít nástroje, které pomáhají naplňovat principy otevřené veřejné správy. Příklad? V Barceloně pomocí Decidim **zapojují občany od roku 2016 do participativní tvorby Městského plánu**. Jeho součástí je díky tomu přes **7 000 občanských návrhů**, u kterých můžete sledovat, jestli se je daří naplňovat. I tak totiž mohou fungovat civic-tech v moderní veřejné správě. Otevřeně, transparentně a participativně. 
 
 K tomu je však nezbytná jak důvěra občanů ve veřejnou správu a naopak, tak sebedůvěra úředníků, kteří si mohou být jistí, že to, co dělají, dělají správně a podle svých nejlepších možností. Důležitým tématem, které na Festivalu kreativní byrokracie rezonovalo, proto bylo vzdělávání a motivace lidí, kteří ve státní správě pracují.
@@ -53,6 +55,8 @@ Změnit to ale chce také Česko.Digital. *„Naším cílem je, aby Česko.Digi
 
 </center>
 
+<br>
+
 # Byrokracie nemusí být sprosté slovo
 
 Hovoříme-li o státní správě, jen málokoho napadne použít k jejímu popisu slova jako strategická, kreativní nebo efektivní. Na tom se shodli i účastníci panelové diskuze festivalu na téma „**SUPERÚŘEDNÍK MEZI LOAJALITOU A NESTRANNOSTÍ: Jak má vypadat budoucnost české veřejné správy?**“. 
@@ -66,6 +70,8 @@ Hovoříme-li o státní správě, jen málokoho napadne použít k jejímu popi
 *Budoucnost české veřejné správy vyžaduje především chuť vpustit do státní správy kreativitu a ochotu procesy zjednodušovat.*
 
 </center>
+
+<br>
 
 *„Máme 76 000 státních úředníků, kteří mají na starost potřeby 10,5 milionové české populace. Z toho je necelých 12 000 úředníků na centrální úrovni, kteří skutečně řeší konkrétní analýzy a podklady,“* pozastavuje se nad nepoměrem **Jan Mušuta z [MŠMT](https://www.msmt.cz/)**. *„Twitter se 7 500 zaměstnanci řeší jedinou aplikaci.“*
 
@@ -97,6 +103,8 @@ Festival kreativní byrokracie je výjimečný také díky **expertnímu partner
 
 </center>
 
+<br>
+
 *„Ve státní správě je spousta lidí, kteří se snaží, aby byla kreativní a otevřená,“* říká **Pavel Šiška, Leader Tech Consultingu v Deloitte**. *„My chceme tyhle lidi podporovat, pomáhat jim a zajistit prostředí, které k nim bude přátelské a které jim ukáže, že si jich vážíme. Česko za sebou má spoustu kroků, které ho v digitalizaci posunuly o velký kus dál. Ještě větší kus ale leží před námi a já věřím, že máme experty, kteří mohou být příkladem mnoha dalším zemím, ve státní správě i mimo ni. Proto taky podporujeme Festival kreativní byrokracie, který pomáhá směřování Česka k digitalizaci urychlovat.“* 
 
 *„Vzdělávání a rozvoj kompetencí úředníků, ať už na úrovni státní správy či samospráv, je klíčové pro zlepšování kvality veřejných služeb, urychlení procesu digitalizace a zvyšování spokojenosti občanů i samotných úředníků. Jsem proto velmi rád, že Praha jako hlavní partner pomohla letos v listopadu uspořádat už druhý ročník festivalu kreativní byrokracie, který si klade za cíl propojovat motivované lidi z úřadů, ukazovat nové přístupy a šířit dobrou praxi. Inspiraci jsme čerpali jak od domácích expertů, tak i od odborníků ze zahraničí – ostatně myšlenku na založení festivalu přinesl z Německa kolega z magistrátu Matěj Chytil. Velmi se těším na třetí ročník, který nás čeká již za pár měsíců, v červnu 2023,“* dodává **Jaromír Beránek, zastupitel hl. m. Prahy**.
@@ -115,6 +123,8 @@ Festival kreativní byrokracie je výjimečný také díky **expertnímu partner
 *Jde to a nejsme na to sami: Myšlenka kreativní byrokracie a otevřené státní správy už dávno není ničím revolučním.*
 
 </center>
+
+<br>
 
 # Chcete měnit Česko k lepšímu? Přidejte se k Česko.Digital
 
