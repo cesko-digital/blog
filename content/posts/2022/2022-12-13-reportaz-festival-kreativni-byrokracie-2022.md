@@ -1,7 +1,7 @@
 ---
 title: Česko potřebuje otevřenou a důvěryhodnou státní správu, jak na ni řešil
   Festival kreativní byrokracie
-author: lukas.n
+author: jakub.sekyra
 cover: https://data.cesko.digital/img/clanek-reportaz-z-CBF/cbf-cover.png
 date: 2022-12-13-11-16
 slug: reportaz-festival-kreativni-byrokracie-2022
@@ -19,55 +19,53 @@ Druhý ročník Festivalu kreativní byrokracie pod hlavičkou Česko.Digital na
 
 # Hlavní témata? Důvěra, inovace a civic-tech 
 
-Začněme možná termínem, který u nás v Česku zatím ještě moc nezdomácněl, a tím je civic-tech. Jde o technologie a nástroje, které mají občanům a institucím pomoci zapojit se do rozhodování státní správy (víc o tom také v našem článku [5 mýtů o civic-tech](https://blog.cesko.digital/2022/08/5-mytu-o-civic-tech)). 
+Začněme možná termínem, který u nás v Česku zatím ještě moc nezdomácněl, a tím je **civic-tech**. Jde o **technologie a nástroje, které mají občanům a institucím pomoci zapojit se do rozhodování státní správy** (víc o tom také v našem článku [5 mýtů o civic-tech](https://blog.cesko.digital/2022/08/5-mytu-o-civic-tech)). 
 
-Proč jsou vlastně ve veřejné správě potřebné? Slovy [civic-tech experta Valentina Chaputa](https://www.linkedin.com/in/valentinchaput/?originalSubdomain=fr) je to proto, že „jsme občané 21. století, kteří se snaží řídit stát institucemi navrženými v 19. století pomocí technologií, které pochází z 15. století“. Není tedy už na čase pustit se do změny?
+Proč jsou vlastně ve veřejné správě potřebné? Slovy **[civic-tech experta Valentina Chaputa](https://www.linkedin.com/in/valentinchaput/?originalSubdomain=fr)** je to proto, že „*jsme občané 21. století, kteří se snaží řídit stát institucemi navrženými v 19. století pomocí technologií, které pochází z 15. století“.* Není tedy už na čase pustit se do změny?
 
 ![](https://lh6.googleusercontent.com/m890xRb5HdBgKyxE4PtZuVPLYQ_ECUusjSvuufDFno6xhSwmpbY5FwyxH6azZBrGJ5l6ZlvKNxHNbuOSVaV9lXW_DI6sKx_eaoY-YUrKTkOS0hlDxlpu7B6PJQh0FcScypPuCR9V8XRzkbQNST88rU3igt2jXgaLeigVz-8-H104-Qc6CQ1kW8XPd8W2Tg)
 
 *2 dny Festivalu kreativní byrokracie a více než 200 účastníků v pražském Centru plánování a městské architektury CAMP*
 
-Pomoci může například [open-source software Decidim](https://decidim.org/), na jehož přípravě se Valentin podílí v Open Source Politics. V otevřeném softwaru, na kterém se může podílet každý, je možné najít nástroje, které pomáhají naplňovat principy otevřené veřejné správy. Příklad? V Barceloně pomocí Decidim zapojují občany od roku 2016 do participativní tvorby Městského plánu. Jeho součástí je díky tomu přes 7 000 občanských návrhů, u kterých můžete sledovat, jestli se je daří naplňovat. I tak totiž mohou fungovat civic-tech v moderní veřejné správě. Otevřeně, transparentně a participativně. 
+Pomoci může například [open-source software Decidim](https://decidim.org/), na jehož přípravě se Valentin podílí v Open Source Politics. V otevřeném softwaru, na kterém se může podílet každý, je možné najít nástroje, které pomáhají naplňovat principy otevřené veřejné správy. Příklad? V Barceloně pomocí Decidim **zapojují občany od roku 2016 do participativní tvorby Městského plánu**. Jeho součástí je díky tomu přes **7 000 občanských návrhů**, u kterých můžete sledovat, jestli se je daří naplňovat. I tak totiž mohou fungovat civic-tech v moderní veřejné správě. Otevřeně, transparentně a participativně. 
 
 K tomu je však nezbytná jak důvěra občanů ve veřejnou správu a naopak, tak sebedůvěra úředníků, kteří si mohou být jistí, že to, co dělají, dělají správně a podle svých nejlepších možností. Důležitým tématem, které na Festivalu kreativní byrokracie rezonovalo, proto bylo vzdělávání a motivace lidí, kteří ve státní správě pracují.
 
-V panelové diskuzi Jak vzdělávat veřejné služebníky pro Česko v době globálních výzev tak zaznělo nejen to, že je nezbytné podpořit vzdělávání v oblasti měkkých dovedností i u nižších úředníků, ale také to, že existuje řada programů a aktivit, které pomáhají zaměstnancům státní správy nahlédnout podrobně do procesu designování služeb. Mezi nimi také nově akreditovaný obor [Design informačních služeb na KISK MUNI](https://kisk.phil.muni.cz/profilace/design-informacnich-sluzeb). „Otázkou pak zůstává, jestli dokážeme ve státní správě předložit kvalifikovaným odborníkům ty správné výzvy, kterých se mohou ujmout jako analytici, designéři nebo stratégové,“ upozorňuje na další nedostatek ve veřejné správě analytik [Univerzity Mateja Bela](https://www.umb.sk/) Peter Hronček.
+V panelové diskuzi **Jak vzdělávat veřejné služebníky pro Česko v době globálních výzev** tak zaznělo nejen to, že je nezbytné podpořit vzdělávání v oblasti měkkých dovedností i u nižších úředníků, ale také to, že existuje řada programů a aktivit, které pomáhají zaměstnancům státní správy nahlédnout podrobně do procesu designování služeb. Mezi nimi také nově akreditovaný obor [Design informačních služeb na KISK MUNI](https://kisk.phil.muni.cz/profilace/design-informacnich-sluzeb). *„Otázkou pak zůstává, jestli dokážeme ve státní správě předložit kvalifikovaným odborníkům ty správné výzvy, kterých se mohou ujmout jako analytici, designéři nebo stratégové,“* upozorňuje na další nedostatek ve veřejné správě **analytik [Univerzity Mateja Bela](https://www.umb.sk/) Peter Hronček**.
 
 Instituce, ve které pracují sebevědomí, dostatečně kvalifikovaní, kompetentní a empatičtí lidé, pak musí zákonitě ve stejném duchu komunikovat i navenek. V Česku se nám tohle zatím nedaří. Když už v některé instituci odborníci jsou, věnují se své odbornosti, informační toky zůstávají ucpané, a pokud se v některých institucích objevuje oboustranná transparentní komunikace, jde o velmi ojedinělé případy. 
 
-Změnit to ale chce také Česko.Digital. „Naším cílem je, aby Česko.Digital nemuselo jednou vůbec existovat,“ říká Eva Pavlíková, CEO Česko.Digital. „Znamenalo by to, že naše principy transparentnosti, spolupráce a digitalizace stát přijal a vhodně použil tak, aby mohla vzniknout veřejná správa, na které se podílejí občané, firmy, neziskovky i sami zaměstnanci státní správy.“ Jednou z cest, jak toho dosáhnout, je i setkání těch, kterým není stav veřejné správy lhostejný, právě na Festivalu kreativní byrokracie.
+Změnit to ale chce také Česko.Digital. *„Naším cílem je, aby Česko.Digital nemuselo jednou vůbec existovat,“* říká **Eva Pavlíková, CEO Česko.Digital**. *„Znamenalo by to, že naše principy transparentnosti, spolupráce a digitalizace stát přijal a vhodně použil tak, aby mohla vzniknout veřejná správa, na které se podílejí občané, firmy, neziskovky i sami zaměstnanci státní správy.“* Jednou z cest, jak toho dosáhnout, je i setkání těch, kterým není stav veřejné správy lhostejný, právě na Festivalu kreativní byrokracie.
 
 ![](https://lh6.googleusercontent.com/_bJg5q9VTOceX8HUvVd8tRGsuupHbMuTaFhcVKPLNVA6u81XwcEltvGgRAE1EZ3KgubjWV_N1HSM_1Is22OcV0bjOtJgnsm6EI1fpjsCvreHdr88DqPx-iLW9Q7cqMznIt4m5J9hTGDEiVoQMogbeuMlruL1BlGf1wmPs9PTpBe4AbIdm1nhM5eHrou6vQ)
 
 *Eva Pavlíková, CEO Česko.Digital:  „Ptát se, proč tu konkrétní věc dělám, když dostanu úkol, a možná se i zamyslet, jestli by ji nešlo dělat efektivněji.“*
 
-
-
 # Byrokracie nemusí být sprosté slovo
 
-Hovoříme-li o státní správě, jen málokoho napadne použít k jejímu popisu slova jako strategická, kreativní nebo efektivní. Na tom se shodli i účastníci panelové diskuze festivalu na téma „SUPERÚŘEDNÍK MEZI LOAJALITOU A NESTRANNOSTÍ: Jak má vypadat budoucnost české veřejné správy?“. 
+Hovoříme-li o státní správě, jen málokoho napadne použít k jejímu popisu slova jako strategická, kreativní nebo efektivní. Na tom se shodli i účastníci panelové diskuze festivalu na téma „**SUPERÚŘEDNÍK MEZI LOAJALITOU A NESTRANNOSTÍ: Jak má vypadat budoucnost české veřejné správy?**“. 
 
-Vladimír Špidla, Jan Mušuta, Eva Pavlíková a Edvard Kožušník společně diskutovali o tom, že česká státní správa je založena především na operativě a je velmi robustní, především ve svých nejnižších úrovních. Strategická role úředníků je mizivá, chybí prestiž i motivace ptát se, proč se věci dělají tak, jak se dělají. Existuje však řešení? Podle všech zúčastněných ano, ale vyžaduje především chuť vpustit do státní správy kreativitu a ochotu procesy zjednodušovat.
+**Vladimír Špidla, Jan Mušuta, Eva Pavlíková a Edvard Kožušník** společně diskutovali o tom, že česká státní správa je založena především na operativě a je velmi robustní, především ve svých nejnižších úrovních. Strategická role úředníků je mizivá, chybí prestiž i motivace ptát se, proč se věci dělají tak, jak se dělají. Existuje však řešení? Podle všech zúčastněných ano, ale vyžaduje především chuť vpustit do státní správy kreativitu a ochotu procesy zjednodušovat.
 
 ![](https://lh5.googleusercontent.com/ddR5fYbeVCVbwVFPCDQG7WdpDil3a5gyix9C95JsutXwTsYBkcMsrpMzxYu_jik4q5mPIPF4aLFJo4N-2vWFivpqngA39hRvkbKdrGWgQtbZZgdAvuDWNd6WZ9yKE8uhsdwEq950aJLV7CpueJ9mHPI4DFFxT8dpiOjaXFS-obtcib8AjwYeKScZpI3hsA)
 
-Budoucnost české veřejné správy vyžaduje především chuť vpustit do státní správy kreativitu a ochotu procesy zjednodušovat.
+*Budoucnost české veřejné správy vyžaduje především chuť vpustit do státní správy kreativitu a ochotu procesy zjednodušovat.*
 
-„Máme 76 000 státních úředníků, kteří mají na starost potřeby 10,5 milionové české populace. Z toho je necelých 12 000 úředníků na centrální úrovni, kteří skutečně řeší konkrétní analýzy a podklady,“ pozastavuje se nad nepoměrem Jan Mušuta z [MŠMT](https://www.msmt.cz/). „Twitter se 7 500 zaměstnanci řeší jedinou aplikaci.“
+*„Máme 76 000 státních úředníků, kteří mají na starost potřeby 10,5 milionové české populace. Z toho je necelých 12 000 úředníků na centrální úrovni, kteří skutečně řeší konkrétní analýzy a podklady,“* pozastavuje se nad nepoměrem **Jan Mušuta z [MŠMT](https://www.msmt.cz/)**. *„Twitter se 7 500 zaměstnanci řeší jedinou aplikaci.“*
 
-Bez byrokratických postupů se neobejde žádná veřejná instituce, obec, kraj nebo stát. I postupy, které mají zajistit správné fungování právního státu však mohou být založeny na kreativitě, efektivitě a důvěře. Proč potřebujeme právě kreativní byrokracii? Podle [Charlese Landryho](https://charleslandry.com/), který je mezinárodní autoritou na téma kreativní byrokracie, je nezbytné hledat, motivovat a vzdělávat úředníky tak, aby byli otevření novým myšlenkám, prozíraví s ohledem na budoucí dopad svých činností, emočně inteligentní a naklonění spolupráci napříč úřady i odvětvími. Jen tak se můžeme posunout od „dělám svou práci“ k „pracuji na budoucnosti společnosti“.
+Bez byrokratických postupů se neobejde žádná veřejná instituce, obec, kraj nebo stát. I postupy, které mají zajistit správné fungování právního státu však mohou být založeny na kreativitě, efektivitě a důvěře. Proč potřebujeme právě kreativní byrokracii? Podle **[Charlese Landryho](https://charleslandry.com/)**, který je mezinárodní autoritou na téma kreativní byrokracie, je nezbytné hledat, **motivovat a vzdělávat úředníky tak, aby byli otevření novým myšlenkám**, prozíraví s ohledem na budoucí dopad svých činností, emočně inteligentní **a naklonění spolupráci napříč úřady i odvětvími**. Jen tak se můžeme posunout od „dělám svou práci“ k „pracuji na budoucnosti společnosti“.
 
-„I úředníci by měli používat princip Five Whys (5 Proč),“ dodává Eva Pavlíková, CEO Česko.Digital. „Ptát se, proč tu konkrétní věc dělám, když dostanu úkol, a možná se i zamyslet, jestli by ji nešlo dělat efektivněji.“
+*„I úředníci by měli používat princip Five Whys (5 Proč),“* dodává Eva Pavlíková, CEO Česko.Digital. *„Ptát se, proč tu konkrétní věc dělám, když dostanu úkol, a možná se i zamyslet, jestli by ji nešlo dělat efektivněji.“*
 
 # Civic-tech v Česku není fikce
 
 Možná jste jako pozorní čtenáři mohli pojmout podezření, že do Česka pojem civic-tech zatím nedorazil. Druhý den Festivalu kreativní byrokracie ale ukázal, že tomu tak není a že existuje řada projektů, které jeho principy aplikovaly v praxi. 
 
-Zatímco v úvodu druhého dne zahraniční řečníci představili úspěšné civic-tech projekty ve [Francii, Argentině nebo na Slovensku](https://www.youtube.com/watch?v=aYql2o9zfwE&list=PLOX5xelTsEv9mistpejv_quSESgvV6Dyz&index=8&ab_channel=%C4%8Cesko.Digital) (víc o nich v úvodní části článku), druhá půlka dopoledne patřila zajímavému formátu dvojpřednášek. U mikrofonu se prostřídali zástupci veřejné správy s lidmi z nezisku a soukromé sféry, kteří společně pracovali na projektech, které pomáhaly Česko digitalizovat.
+Zatímco v úvodu druhého dne zahraniční řečníci představili úspěšné civic-tech projekty ve [Francii, Argentině nebo na Slovensku](https://www.youtube.com/watch?v=aYql2o9zfwE&list=PLOX5xelTsEv9mistpejv_quSESgvV6Dyz&index=8&ab_channel=%C4%8Cesko.Digital) (víc o nich v úvodní části článku), druhá půlka dopoledne patřila zajímavému formátu dvojpřednášek. U mikrofonu se prostřídali **zástupci veřejné správy s lidmi z nezisku a soukromé sféry, kteří společně pracovali na projektech, které pomáhaly Česko digitalizovat**.
 
 Eva Pavlíková z Česko.Digital představila spolu s Lenkou Melounovou a Michaelou Černou z [NAKIT](https://nakit.cz/) bleskový vznik [Covid Portálu](https://covid.gov.cz/), který pomáhá zpřehlednit všechny životní situace, kterých se dotkla pandemie.
 
-Lucie Smolka z [Otevřených měst](https://www.otevrenamesta.cz/) a Ondřej Profant, poradce vicepremiéra za digitalizaci, zase mluvili o společné tvorbě [Open Source Program Office](https://blog.cesko.digital/2022/09/open-source-usnadni-digitalizaci-statni-spravy-i-akademickeho-sektoru) – platformy, která sdružuje ty, kdo se zajímají o využití open source efektivně i ve státní správě.
+**Lucie Smolka z [Otevřených měst](https://www.otevrenamesta.cz/)** a **Ondřej Profant, poradce vicepremiéra za digitalizaci**, zase mluvili o společné tvorbě **[Open Source Program Office](https://blog.cesko.digital/2022/09/open-source-usnadni-digitalizaci-statni-spravy-i-akademickeho-sektoru)** – platformy, která sdružuje ty, kdo se zajímají o využití open source efektivně i ve státní správě.
 
 A na závěr bloku civic-tech projekt jako z učebnice. Honza Blažek z [BankID](https://www.bankid.cz/) a Karolína Sieglová z Ministerstva vnitra podrobně popsali způsob, jakým se zaváděl přístup k elektronickým službám státu pomocí bankovní identity. Celý tenhle blok vřele doporučujeme slyšet na vlastní uši na [záznamu z přednášky na YouTube Česko.Digital](https://www.youtube.com/watch?v=HL8T3kIB_jk&list=PLOX5xelTsEv9mistpejv_quSESgvV6Dyz&index=9&ab_channel=%C4%8Cesko.Digital). 
 
@@ -118,8 +116,6 @@ V >č.d věříme, že aplikovat principy otevřené komunikace, participace a d
 
 * [Decidim](https://decidim.org/): nástroje k praktické aplikaci demokratických principů v samosprávě. 
 * [Public Leadership Academy](https://www.publicacademy.sk/): slovenský program pro vzdělávání nové generace státní správy.
-
-
 
 *Zdroj fotografií: [Romana Červenková](https://romanacervenkova.pixieset.com/festivalkreativnbyrokracie/)*
 
