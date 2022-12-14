@@ -81,6 +81,8 @@ collections:
             "jan.kalab",
             "radek.sojka",
             "jakub.sekyra",
+            "klara.scholleova",
+            "stefan.prokop",
           ]
         required: true
       - label: "Tags"
@@ -210,6 +212,8 @@ collections:
             "jan.kalab",
             "radek.sojka",
             "jakub.sekyra",
+            "klara.scholleova",
+            "stefan.prokop",
           ]
         required: true
       - label: "Cover"
