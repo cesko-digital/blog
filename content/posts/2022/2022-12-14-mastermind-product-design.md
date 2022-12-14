@@ -1,7 +1,7 @@
 ---
 title: Ego nechte za dveřmi, jděte do projektu s otevřeným srdcem. Šestý
   Mastermind se zabýval designem dopadových projektů
-author: lukas.n
+author: klara.scholleova
 cover: https://data.cesko.digital/img/clanek-mastermind-product-design/cover.png
 date: 2022-12-14-07-03
 slug: mastermind-product-design
@@ -13,9 +13,9 @@ description: Jak se rozhodovat, kudy kam během projektů, které mají mít
   z něj odnášíme?
 lang: cs
 ---
-Kdyby tě zajímalo, kdo byli účastníci tohoto Mastermindu a koho to v článku citujeme, na konci článku najdeš jejich seznam a čím se zabývají.
+*Kdyby tě zajímalo, kdo byli účastníci tohoto Mastermindu a koho to v článku citujeme, na konci článku najdeš jejich seznam a čím se zabývají.*
 
-## Kdo je to vlastně product designer?
+# Kdo je to vlastně product designer?
 
 — zeptal se na úvod facilitátor Mastermindu Marek Mencl. Zdá se vám zvláštní chodit na akci o product designu a nebýt si jistý, co to je? Tak to samozřejmě nebylo. Skupina se s Jirkou shodla, že produktový design v sobě nezahrnuje pouze „designerské hard skills“, tedy samotný návrh či výrobu prototypů k testování, ale je pro něj podstatný i návrh strategie a abstraktního dopadu celého projektu. Jak jsme si ale ověřili, v každé organizaci je rozdělení produktových a designérských rolí trochu odlišné.
 
@@ -23,7 +23,7 @@ V některých velkých společnostech roli product designera ani typicky nenajde
 
 V jiných společnostech zase působí scrumoví product owneři, kteří reprezentují zájmy stakeholderů, udávají produktu směr a prioritizují práce na něm. Často si k ruce berou externí designery a přijímají jejich nápady pro nové procesy a prototypy, zatímco oni sami přispívají svojí expertízou a znalostí prostředí, jak podotkla Martina.
 
-## Poznejte metodiky, ale nebuďte dogmatičtí
+# Poznejte metodiky, ale nebuďte dogmatičtí
 
 Klára ostatním položila dotaz o tom, co je minimalistický design proces, když máte typicky menší časové, finanční i personální prostředky než v komerčním prostředí – které aktivity a výstupy jsou „must-have“, a které jdou naopak oželet. Zažila totiž jak „úplný punk“ a neustálé hledání kompromisů, tak velmi maximalistický, poctivý design proces, který měl ale možná trochu velké oči a rozsah projektu musel těsně před prvním spuštěním projít velkým ořezáním.
 
@@ -31,7 +31,7 @@ Markovi Malíkovi se i na dopadových projektech osvědčilo začít workshopem 
 
 ![](https://lh4.googleusercontent.com/Oglxxc6XsBgBI9q1dhCHO22Vm9yVhcx21PBLIZ7GnagHlrKw847LcI3QltdGTEW7FQMqzxNfT6IkGckNpcys_N0TjHmuHxBbakgSnjv9jQbv3-D7bfIqYztBnnrrvIdFTWPbtZ8gcy-aKY_CzMW9TrANIYRMoTf__Ziabhf77eic7anmprxcnCVOJB2C_Q)
 
-Zdroj: [Digi-ark](https://en.wikipedia.org/wiki/Double_Diamond_%28design_process_model%29)
+*Zdroj: [Digi-ark](https://en.wikipedia.org/wiki/Double_Diamond_%28design_process_model%29)*
 
 Jirka by byl ale obecně s frameworky opatrný. Sám má radši zjednodušený popis Double Diamondu „1) Doing the right thing, 2) doing the thing right“ – aktivity v procesu je zkrátka potřeba navrhnout tak, aby bylo napřed jasné, co je správné dělat, a pak to udělat správně.
 
@@ -39,19 +39,15 @@ Za Lukáše, Kláru a Lilly je u dopadových projektů klíčová právě destil
 
 Co je pak minimal viable product (MVP)? Veskrze jsme se shodli, že tím myslíme minimální výstup, který přinese nějakou hodnotu, první krok k řešení definovaného problému či zadání (jak upozornil Jirka, design nemusí vždy nutně řešit „problém“, ale rozvíjí nápad či záměr). Radek přispěl i termínem minimal testable product (MTP) – minimální výstup, na kterém se dá ověřit smysluplnost směru řešení. Zároveň jsme se ale bavili o tom, že vedle MVP musíme mít i vizi, jak má jednou vypadat „perfektní produkt“, aby MVP nebylo šlápnutím vedle a zavřením některých cest (tato vize se někdy označuje termínem „north star“ neboli severka).
 
-
-
 💡Co je to Mastermind? Je to setkání malé skupinky (7–8) expertů, kteří se vyjadřují k předem daným otázkám, zatímco další zájemci mohou poslouchat. Není cílem ucelit teoretické postupy, ale společně si nasdílet tipy z praxe. Více si o tomto formátu můžeš přečíst v článku „[Nudným panelovým diskuzím odzvonilo, přivítejte Mastermind](https://blog.cesko.digital/2022/08/mastermind)“.
 
-
-
-## Čím dřív vyřešíte finance, tím lépe
+# Čím dřív vyřešíte finance, tím lépe
 
 Radka zajímalo, jak ostatní na svých projektech řešili v rámci designového procesu finanční stránku. Na Moudré Síti se peníze řešily hned při startu projektu, aby se vědělo, zda bude projekt v budoucnu vůbec udržitelný. I podle Lukáše je to neopomenutelná otázka, na Preventivce se například od začátku snažili myslet na to, jak bude provoz financovaný a udržitelný po skončení inkubace.
 
 Podle Martiny tato otázka ale není vždy na začátku řešitelná – business model můžete v některých případech vyvinout i časem, například tak, že objevíte nové komerční aktivity, které pak ty neziskové pokryjí.
 
-## Social Lean Canvas pro product design? Ne bez procesu
+# Social Lean Canvas pro product design? Ne bez procesu
 
 Romča se zeptala na názor ostatních ohledně [Social Lean Canvasu](https://socialleancanvas.com/), formátu přehledu projektu, který Česko.Digital běžně vyplňuje na začátku každého nově příchozího projektu. Marek Malík ho ve velké oblibě nemá kvůli tomu, že někdy svádí k zaměření se na konkrétní řešení bez poctivého procesu vedoucího k jeho výběru. 
 
@@ -59,9 +55,9 @@ Samotný formát ale špatný není, zvlášť, předchází-li mu právě proce
 
 ![](https://lh5.googleusercontent.com/zAfmycCUnmeTWQ_70E5dXXRCnp50T8qS0CkdkegeiXMW322G3YJ-MBluX39Wqu3939NHNlfbtn9Zd3aCIw1_siEIvClGFHhMSwm8rkYGMr52lWy5OWjvxormeRq5deGXY_HR-yB7ivz8nHUxILJPq86zZ-4gUS3wKqbgUiIvQ3ez--DRPUvHZUl05fexkA)
 
-Ukázka Lean Canvasu pro aplikaci Preventivka
+*Ukázka Lean Canvasu pro aplikaci Preventivka*
 
-## Další doporučené tipy pro product design
+# Další doporučené tipy pro product design
 
 🧠 Marek Mencl v této souvislosti připomněl i framework [Design Value](https://www.designcouncil.org.uk/our-work/skills-learning/tools-frameworks/the-design-value-framework/) britského Design Council, ze kterého pochází i výše zmíněný Double Diamond.
 
@@ -69,7 +65,7 @@ Ukázka Lean Canvasu pro aplikaci Preventivka
 
 📖 Klára doporučila knihu [Think First](https://givegoodux.com/books/) od Joea Natoliho, která podle jejího názoru hezky zobecňuje hlavní otázky design procesu na úplný základ.
 
-## Motivace k dobrodesignu a jedna rada na závěr
+# Motivace k dobrodesignu a jedna rada na závěr
 
 Na závěr jsme se na popud Jirky bavili o samotném smyslu toho, proč dělat dopadové projekty. Petr zmínil jednoduchost toho někomu pomoci – malé, jednorázové výpomoci tolik nestojí, ale ostatním můžou pomoci hodně. Lilly se ve své práci setkává s odlišnými kulturami a při cestování si uvědomuje, že komunita a vracení zpátky má zkrátka smysl, protože dobro se vrací. Podobně to vidí i Milli, které dělá radost vidět výsledky své pomoci. Otakar připomněl i skvělou komunitu v Česko.Digital, která člověka podrží. 
 
@@ -97,8 +93,6 @@ A jakou jednu radu by účastníci šestého Mastermindu dali budoucím product 
 
 👫 A podle Lucie je nejlepší se soustředit se na dopad projektu a nechat se inspirovat a nabíjet komunitou.
 
-
-
 Díky Romče Pokorné z Česko.Digital a Julii Heleně Losekoot Szymanské z Gen (ex. Avast) za organizaci akce, Marku Menclovi z [Pábení](https://www.pabeni.cz/) za skvělou facilitaci a všem účastníkům za skvělé postřehy!
 
 Účastníci:
@@ -116,14 +110,10 @@ Díky Romče Pokorné z Česko.Digital a Julii Heleně Losekoot Szymanské z Gen
 * Petr Bechyně (web analytik & UX konzultant na volné noze)
 * Klára Scholleová (UX/UI designerka, v č.d Volební kalkulačka a Místo ve škole) 
 
-## Jak se do Mastermindu zapojit?
+# Jak se do Mastermindu zapojit?
 
 Setkání se uskutečňuje jenom v rámci komunity a není veřejně přístupné. Jestli chceš absolvovat nějaký Mastermind, napiš naší Delivery Lead Romaně Pokorné na romana@cesko.digital důvod, proč se chceš zapojit. 
 
-
-
 Podmínka je, že jsi teď nebo v budoucnu z neziskové či státní sféry nebo jsi zkušeným seniorem jako Product Owner, Product Designer, Scrum Master a Tech Lead. Taktéž chceš své zkušenosti sdílet s veřejnou sférou a č.d dobrovolníky. Těšíme se na tebe!
 
-
-
-##### Korektorka: Eliška Pituchová
+*Korektorka: Eliška Pituchová*
