@@ -23,15 +23,23 @@ I když je stále spousta interních systémů a databází volně přístupná 
 
 Co ale ještě zaběhnuté není, je **psaní bezpečného kódu**. K čemu je databáze schovaná za VPN, když je API endpoint náchylný na SQL injection? K čemu je dobře nastavená granularita oprávnění Google Cloud Platform, když aplikace špatně řídí přístup k datům jednotlivých uživatelů (špatné ACL)?
 
-![](https://lh4.googleusercontent.com/4BASEaWoAQM7GNKUPkPcm01IJlViUm6JXrC_H-yJphYGk8aLltbg8wA1Kof_zMUSACxA0NO9Q_2sVPSQGSEiprVkhb1kiuZtnU7H-qx-qPhoMGmd-cCw4H74AOtFSMiMa-_CEhb4IapekFCpKNghtvQVNRILzik_f1bw7dX6sGs6Y7Ryv02J9eQa3Bng3Q)
+<center>
+
+![](https://data.cesko.digital/img/clanek-8-tipu-pred-kyberutoky/1.jpg)
 
 *Zdroj: [Dan Nelson](https://unsplash.com/@danny144?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), Unsplash*
+
+</center>
+
+<br>
 
 **Většina programátorů bohužel nemá příliš velké znalosti v oblasti bezpečného vývoje**. Není to jejich chyba, bezpečnost je obor sám pro sebe a je potřeba se problematice aktivně věnovat. **Každý vývojář by však měl znát projekt** [**OWASP** a jeho Top 10 zranitelností](https://owasp.org/www-project-top-ten/).
 
 Seznam zranitelností je pravidelně aktualizován a je dobrým výchozím bodem, na co se v aplikacích zaměřit. **Nejčastější problémy souvisejí s autorizací a autentizací uživatelů**. Mimo samotný seznam je také důležitá komunikace programátora a projekťáka. Programátor by se měl nad každým zadáním zamyslet a identifikovat možné bezpečnostní hrozby, společně je s projekťákem vyhodnotit a navýšit rozpočet nebo podniknout jiné vhodné kroky.
 
 Spousta programátorů si ale i tak říká: „*Mně se to přece nemůže stát…*“. Pojďme se podívat na to, co už se stalo a může se stát i vám.
+
+<br>
 
 # Jak vypadají bezpečnostní zranitelnosti v praxi?
 
@@ -57,6 +65,8 @@ Většina aut v dnešní době umožňuje uživatelům a také třetím stranám
 * AWS [přes Cloudformation](https://orca.security/resources/blog/aws-cloudformation-vulnerability/) umožňovalo přístup například k /etc/passwd souboru některého z AWS serverů (2022).
 
 A to je jen drobný výčet. **S přibývajícím počtem API, single-page aplikací a mobilních aplikací bude takových případů nejspíš přibývat**. Co se s tím dá dělat?
+
+<br>
 
 # Jak s bezpečností začít?
 
