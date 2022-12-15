@@ -3,7 +3,7 @@ title: Ego nechte za dveřmi, jděte do projektu s otevřeným srdcem. Šestý
   Mastermind se zabýval designem dopadových projektů
 author: klara.scholleova
 cover: https://data.cesko.digital/img/clanek-mastermind-product-design/cover.png
-date: 2022-12-14-07-03
+date: 2022-12-16-03-24
 slug: mastermind-product-design
 description: Jak se rozhodovat, kudy kam během projektů, které mají mít
   pozitivní dopad? Patří k takovým projektům i přemýšlení o penězích? To, ale i
