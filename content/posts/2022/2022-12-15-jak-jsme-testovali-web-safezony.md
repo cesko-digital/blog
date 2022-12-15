@@ -4,7 +4,7 @@ author: marketa.horakova
 tags:
   - strecha-dusevniho-zdravi
 cover: https://data.cesko.digital/img/clanek-testovani-safezona/cover.png
-date: 2022-12-15-07-52
+date: 2022-12-19-03-52
 slug: jak-jsme-testovali-web-safezony
 description: Náš tým Safezóny staví web, kde děti a mladí lidé najdou informace
   týkající se duševního zdraví s odkazy na příslušné organizace. Je ale obsah
