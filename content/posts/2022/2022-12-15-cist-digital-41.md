@@ -32,9 +32,13 @@ VIANOČNÁ GRAFIKA
 
 **\> Udělej si radost, [řekni si o promo kód na 500 Kč](https://airtable.com/shr5MJsHQVKac17LE) a pošli si domů [produkty](https://shop.czechdesign.cz/ceskodigital/), se kterými budeš hrdě hlásit, že i ty jsi Česko.Digital!**
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/41/porid_si_merch.png)
 
 *Fotil: Filip Řezníček; dobrovolníci na fotografii: nahoře Kristýna Turner a Adam Koukola, dole Michaela Jelínková a Jan Složil*
+
+</center>
 
 ## Stojíme za Ukrajinou získalo Křišťálovou lupu
 
@@ -42,7 +46,11 @@ VIANOČNÁ GRAFIKA
 
 Přesto jsme se rozhodli tento emergency **projekt dále nerozvíjet**. Svůj cíl splnil už v prvních měsících a neziskovky a stát si v mezičase připravily svoje řešení – projekty [Naši Ukrajinci](https://www.nasiukrajinci.cz/cs) či [Pomáhej Ukrajině](https://www.pomahejukrajine.cz/). Brzy ale vznikne vzpomínkový web se shrnutím výsledků naší práce.
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/41/kristalovalupa.png)
+
+</center>
 
 ## Z dobrovolníků členy kmenového týmu: Příběhy Terky a Lukáše 
 
@@ -57,6 +65,12 @@ Přesto jsme se rozhodli tento emergency **projekt dále nerozvíjet**. Svůj c�
 **\> [Poslechni si to v novém díle našeho podcastu](https://anchor.fm/poslouchatdigital/episodes/Jak-dlat-dobe-IT-projekty-ve-sttn-sprv--Eva-Pavlkov-o-Pruce-zen-sttnch-IT-projekt-e1pilhk?%24web_only=true&_branch_match_id=1062270237545677173&utm_source=web&utm_campaign=web-share&utm_medium=sharing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy7IL8lMq0zMS87IL9ItT03SSywo0MvJzMvWT9UPLgzNNsrxN88qSwIAj1i4HjAAAAA%3D)**
 
 **\> [Stáhni si příručku na webu Česko.Digital](https://blog.cesko.digital/2020/01/prirucka)**
+
+<center>
+
+![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
 
 # To nejlepší z našich projektů
 
@@ -88,7 +102,11 @@ Přesto jsme se rozhodli tento emergency **projekt dále nerozvíjet**. Svůj c�
 
 **\> [Přidej se k nám a zaujmi čestné místo na fotce!](https://cesko.digital/projects/movapp)**
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/41/movapp-meet.png)
+
+</center>
 
 ## Darování hotových pokrmů
 
@@ -98,7 +116,11 @@ Přesto jsme se rozhodli tento emergency **projekt dále nerozvíjet**. Svůj c�
 
 **\> [Jen 300 Kč nasytí 15 lidí v nouzi. Udělej dobrý skutek a zlepši někomu den](https://www.darujme.cz/projekt/1206071)**
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/41/zachran-jidlo.jpg)
+
+</center>
 
 ## Moudrá Síť
 
@@ -122,6 +144,12 @@ Co je nového v aplikaci, která pomáhá seniorům používat moderní technolo
 
 **Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).**
 
+<center>
+
+![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
+
 # Události
 
 📣 Příští rok chystáme v rámci eventů spoustu novinek! Jednou z nich jsou **pravidelné meetupy** věnované dění v Česko.Digital – už teď si zapiš do diáře, že se **1. 2. 2023 večer potkáme naživo v Praze v coworku Opero**!
@@ -132,7 +160,11 @@ Co je nového v aplikaci, která pomáhá seniorům používat moderní technolo
 
 **\> [Jak na bezpečnost dat v neziskovkách? Odborníci radili na naší nové akci Nezisk.Digital](https://blog.cesko.digital/2022/12/jak-na-bezpecnost-dat-v-neziskovkach)**
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/41/nezisk-digital.jpg)
+
+</center>
 
 ## Cestou k lepší státní správě je kreativní byrokracie
 
@@ -140,7 +172,11 @@ Co je nového v aplikaci, která pomáhá seniorům používat moderní technolo
 
 **\> [Přečti si další shrnující článek od přímé účastnice](https://www.podporujemeinovace.cz/co-nas-zaujalo-na-festivalu-kreativni-byrokracie-2022/)**
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/41/cbf2022.jpg)
+
+</center>
 
 ## Copywriterský workshop v pražském Operu
 
@@ -148,7 +184,13 @@ Co je nového v aplikaci, která pomáhá seniorům používat moderní technolo
 
 **[\> Sleduj náš Portál dobrovolníka, aby ti neutekl další copy day a další skvělé události!](https://cesko.digital/dashboard)**
 
+<center>
+
 ![](https://data.cesko.digital/newsletter/41/copy-day-praha.jpg)
+
+![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
 
 # edu.digital
 
@@ -167,6 +209,12 @@ Zajímá tě UI design, agilní řízení nebo zvládání vzteku? To vše přin
 🎓 V rámci naší vzdělávací platformy **edu.digital** si náš expertní dobrovolník Tomáš Walek připravil užitečný webinář. Probrali jsme na něm skvělý projektový nástroj Jira, který v Česko.Digital využíváme k řízení našich projektů. Nyní už víme, jak koordinovat všechny úkoly a deadliny, a ty se to můžeš dozvědět taky!
 
 \> [Mrkni na záznam](https://www.youtube.com/playlist?list=PLOX5xelTsEv8tH8w0VWzp7JAfQi1rruH2)
+
+<center>
+
+![](https://data.cesko.digital/img/dad68fa0.png)
+
+</center>
 
 # Koho aktuálně hledáme
 
