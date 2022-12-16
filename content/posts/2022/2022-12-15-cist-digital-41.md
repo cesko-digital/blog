@@ -4,7 +4,7 @@ title: "číst.digital/41: Veselé Vánoce a šťastný nový merch! | Získali 
   týmu?"
 author: hana.buresova
 cover: https://data.cesko.digital/newsletter/41/cover41.png
-date: 2022-12-15-07-53
+date: 2022-12-16-12-47
 slug: cist-digital-41
 description: "Ahoj Česko.Digital! 👋 Je tu další nabitý newsletter ze světa
   číst.digital. Největší událostí uplynulých týdnů byla určitě ocenění, která
