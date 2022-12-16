@@ -44,9 +44,9 @@ Přejeme ti **krásné a pohodové prožití vánočních svátků a úspěšný
 
 </center>
 
-## Stojíme za Ukrajinou získalo Křišťálovou lupu
+## Stojíme za Ukrajinou získalo Křišťálovou Lupu
 
-🏆 Slavíme! [Stojíme za Ukrajinou](http://stojimezaukrajinou.cz/) a Pomáhej Ukrajině se umístili na **1. místě** v ocenění **Křišťálová lupa** v kategorii Veřejně prospěšná služba. [Movapp](https://www.movapp.cz/cs/) ve stejné kategorii získal sdílené 9. místo. Tohoto ocenění si velice vážíme.
+🏆 Slavíme! [Stojíme za Ukrajinou](http://stojimezaukrajinou.cz/) a Pomáhej Ukrajině se umístili na **1. místě** v ocenění **Křišťálová Lupa** v kategorii Veřejně prospěšná služba. [Movapp](https://www.movapp.cz/cs/) ve stejné kategorii získal sdílené 9. místo. Tohoto ocenění si velice vážíme.
 
 Přesto jsme se rozhodli tento emergency **projekt dále nerozvíjet**. Svůj cíl splnil už v prvních měsících a neziskovky a stát si v mezičase připravily svoje řešení – projekty [Naši Ukrajinci](https://www.nasiukrajinci.cz/cs) či [Pomáhej Ukrajině](https://www.pomahejukrajine.cz/). Brzy ale vznikne vzpomínkový web se shrnutím výsledků naší práce.
 
@@ -214,7 +214,7 @@ Zajímá tě UI design, agilní řízení nebo zvládání vzteku? To vše přin
 
 🎓 V rámci naší vzdělávací platformy **edu.digital** si náš expertní dobrovolník Tomáš Walek připravil užitečný webinář. Probrali jsme na něm skvělý projektový nástroj Jira, který v Česko.Digital využíváme k řízení našich projektů. Nyní už víme, jak koordinovat všechny úkoly a deadliny, a ty se to můžeš dozvědět taky!
 
-\> [Mrkni na záznam](https://www.youtube.com/playlist?list=PLOX5xelTsEv8tH8w0VWzp7JAfQi1rruH2)
+**\> [Mrkni na záznam](https://www.youtube.com/playlist?list=PLOX5xelTsEv8tH8w0VWzp7JAfQi1rruH2)**
 
 <center>
 
@@ -241,5 +241,7 @@ Digitálu zdar!
 *Korektura: Romana Přibylová*
 
 *Grafika & rozesílka: Lukáš Návesník*
+
+*Vánoční grafika: Adam Koukola*
 
 *Podcast: Lukáš Návesník, Jiří Ryszawy*
