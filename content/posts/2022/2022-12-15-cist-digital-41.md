@@ -14,7 +14,7 @@ description: "Ahoj Česko.Digital! 👋 Je tu další nabitý newsletter ze svě
   stromečkem ten svůj! 🎁 Stačí se bedlivě začíst…"
 lang: cs
 ---
-Chceš si poslechnout podcastovou verzi newsletteru? Najdeš ji **[ZDE](https://spotifyanchor-web.app.link/e/ImLNUnvKNvb).**
+🎧 Chceš si poslechnout podcastovou verzi newsletteru? Najdeš ji **[ZDE](https://spotifyanchor-web.app.link/e/ImLNUnvKNvb).**
 
 ## Máme pouze jedno vánoční přání
 
