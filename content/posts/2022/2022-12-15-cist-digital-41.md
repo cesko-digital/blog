@@ -188,7 +188,7 @@ Co je nového v aplikaci, která pomáhá seniorům používat moderní technolo
 
 📝 Po úspěšném prvním Copy day v Brně jsme akci 26. 11. zopakovali v hlavním městě. Pro jeho konání jsme vybrali [Opero](https://opero.cz/cs), které sídlí v krásných zrekonstruovaných prostorách Štencova domu. Workshop vedla naše Content Lead Terézia Palaščáková, která plánuje v roce 2023 uspořádat další 4 copy days (2 v Praze a 2 v Brně), tentokrát i pro veřejnost.
 
-**[\> Sleduj náš Portál dobrovolníka, aby ti neutekl další copy day a další skvělé události!](https://cesko.digital/dashboard)**
+**\> [Sleduj náš Portál dobrovolníka, aby ti neutekl další copy day a další skvělé události!](https://cesko.digital/dashboard)**
 
 <center>
 
