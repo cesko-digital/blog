@@ -40,7 +40,7 @@ Přejeme ti **krásné a pohodové prožití vánočních svátků a úspěšný
 
 ![](https://data.cesko.digital/newsletter/41/porid_si_merch.png)
 
-*Fotil: Filip Řezníček; dobrovolníci na fotografii: nahoře Kristýna Turner a Adam Koukola, dole Michaela Jelínková a Jan Složil*
+*Fotil: Filip Řezníček v prostorech [Opero](https://opero.cz); dobrovolníci na fotografii: nahoře Kristýna Turner a Adam Koukola, dole Michaela Jelínková a Jan Složil*
 
 </center>
 
@@ -156,7 +156,7 @@ Co je nového v aplikaci, která pomáhá seniorům používat moderní technolo
 
 # Události
 
-📣 Příští rok chystáme v rámci eventů spoustu novinek! Jednou z nich jsou **pravidelné meetupy** věnované dění v Česko.Digital – už teď si zapiš do diáře, že se **1. 2. 2023 večer potkáme naživo v Praze v coworku Opero**!
+📣 Příští rok chystáme v rámci eventů spoustu novinek! Jednou z nich jsou **pravidelné meetupy** věnované dění v Česko.Digital – už teď si zapiš do diáře, že se **1. 2. 2023 večer potkáme naživo v Praze v business hubu Opero**!
 
 ## Digitální bezpečnost: strašák neziskovek? Po Nezisk.Digital už ne!
 
@@ -173,6 +173,8 @@ Co je nového v aplikaci, která pomáhá seniorům používat moderní technolo
 ## Cestou k lepší státní správě je kreativní byrokracie
 
 📝 Byrokracie je pro většinu z nás stále sprostým slovem, ale to se může změnit. Jak do ní můžeme dostat více kreativity a přijít s novými procesy, které povedou k důvěryhodnější a otevřenější státní správě? Přesně tím se zabýval druhý ročník Festivalu kreativní byrokracie. Česko.Digital si festival tento rok vzalo organizačně pod křídla společně s Matějem Chytilem, který koncept přinesl do ČR v loňském roce. Na půl dne s námi letos spojila síly i iniciativa New European Bauhaus. O nejzajímavějších postřezích z celé akce se dozvíš v reportáži [Lenky Vaculínové](https://cz.linkedin.com/in/lenka-vacul%C3%ADnov%C3%A1-29762857).
+
+**\> [Česko potřebuje otevřenou a důvěryhodnou státní správu, jak na ni řešil Festival kreativní byrokracie](https://blog.cesko.digital/2022/12/reportaz-festival-kreativni-byrokracie-2022)**
 
 **\> [Přečti si další shrnující článek od přímé účastnice](https://www.podporujemeinovace.cz/co-nas-zaujalo-na-festivalu-kreativni-byrokracie-2022/)**
 
@@ -206,7 +208,7 @@ Zajímá tě UI design, agilní řízení nebo zvládání vzteku? To vše přin
 
 **\> [Scrum v remote a part-time prostředí](https://airtable.com/shraOAXcGOcc84zZR) (17.1.2023 v 18:00)**
 
-**\> [Jak se naučit pracovat s emocí, kterou většina z nás nechce, se vztekem (6.2.2023 v 18:15h)](https://airtable.com/shrGiT5TYcUFeKhlq)**
+**\> [Jak se naučit pracovat s emocí, kterou většina z nás nechce, se vztekem](https://airtable.com/shrGiT5TYcUFeKhlq) (6.2.2023 v 18:15h)** 
 
 ## Staň se profíkem v plánování v Jiře!
 
