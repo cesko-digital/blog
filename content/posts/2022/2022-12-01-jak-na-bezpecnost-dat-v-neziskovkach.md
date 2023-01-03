@@ -51,9 +51,9 @@ Polední slunce už se dávno přehouplo přes střechu Gen (bývalého Avastu),
 
 # Nenechte si ujít ani řádek toho, co v Česko.Digital chystáme pro neziskovky
 
-[Zaregistrujte se do newsletteru](https://ceskodigital.ecomailapp.cz/public/form/4-f67e22c6c3dacfc9b77b6b40399abc16), který pro lidi v nezisku pravidelně připravujeme. Budete vědět o akcích, které chystáme, řekneme vám o všech novinkách a nabídkách, které by pro neziskovky mohly být zajímavé.
+[Zaregistrujte se do newsletteru](https://ceskodigital.ecomailapp.cz/public/form/5-ed07fd6b07ff0199fabc8509f995f058), který pro lidi v nezisku pravidelně připravujeme. Budete vědět o akcích, které chystáme, řekneme vám o všech novinkách a nabídkách, které by pro neziskovky mohly být zajímavé.
 
-Co dalšího dělá Česko.Digital pro neziskovky? [Mrkněte do naší Wiki](https://cesko-digital.atlassian.net/wiki/spaces/CD/pages/816742685/Neziskov+organizace+a+st+t+Co+o+ek+vat+od+spolupr+ce+s+.d), kde je stručný přehled toho, jak vypadá naše spolupráce s neziskem.
+Co dalšího dělá Česko.Digital pro neziskovky? [Mrkněte do naší Wiki](https://cesko-digital.atlassian.net/l/cp/j7TFozR6), kde je stručný přehled toho, jak vypadá naše spolupráce s neziskem.
 
 \
 *Další autor článku: Jakub Sekyra*
