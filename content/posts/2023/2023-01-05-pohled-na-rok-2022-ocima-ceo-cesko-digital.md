@@ -28,22 +28,12 @@ Po prázdninách jsme prožili v kmenovém týmu ještě dvě výrazné změny. 
 
 Během druhé poloviny roku jsme ve spolupráci s [Ashoka](https://www.ashoka.org/cs-cz/ashoka-ve-sv%C4%9Bt%C4%9B) věnovali hodně času tomu, jak může Česko.Digital ještě systematičtěji pomoct k lepšímu Česku, kde technologie jsou pokrokem, nikoliv překážkou. Hodně času jsme věnovali hledání systémové změny a kolektivního dopadu, podařilo se nám také definovat klíčový problém, na který se chceme v následujících měsících a letech ještě výrazněji zaměřit:
 
-> Veřejná sféra neumí efektivně využívat potenciál technologií k řešení celospolečenských problémů a v důsledku tak zhoršuje život lidí v České republice. 
+> **Veřejná sféra neumí efektivně využívat potenciál technologií k řešení celospolečenských problémů a v důsledku tak zhoršuje život lidí v České republice.** 
 
 Co se nám z mého pohledu nepovedlo je oslovit ke spolupráci hlavní partnery pro Česko.Digital. Jsme technologická komunita, takže nás přeci chtějí podporovat české technologické firmy, které chtějí lepší Česko.Digital společně s námi (jedná se o podporu ve výši dvou platů programátorů na rok). Ano, takhle jednoduše jsme si to představovali, realita je jiná a je to jedno z témat, které je pro mě prioritou k řešení.
 
 Začínala jsem citátem a citátem zase končím. „Zkušenost není to, co se vám stane. Zkušenost je to, jak naložíte s tím, co se vám stalo,“ řekl Aldous Huxley.
 
 Přeji vám i nám, ať se ze zkušenosti roku 2022 poučíme pro naši budoucnost co nejlépe a jsme připraveni čelit všem výzvám budoucnosti s pokorou k sobě i druhým kolem nás. 
-
- 
-
-Díky za vaši podporu,  
-
-Eva Pavlíková
-
-ředitelka Česko.Digital
-
-
 
 <!--EndFragment-->
