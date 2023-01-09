@@ -5,6 +5,7 @@ title: "číst.digital/40: Už i Google.org podporuje naše aktivity | Moudrá S
 author: hana.buresova
 tags:
   - newsletter
+  - partners
 cover: https://data.cesko.digital/newsletter/40/cover40.png
 date: 2022-11-11-11-31
 slug: cist-digital-40
