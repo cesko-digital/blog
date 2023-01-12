@@ -52,17 +52,13 @@ Nevěděl jsem, jak tento bod nazvat, ale myslím, že to tak nějak pochopí v�
 
 Jediný aktivní společník byl super a někdy dřel více než já. Aktivně objížděl dotační programy, tvořil kontakty a zjišťoval, kde bychom mohli najít partnera nebo získat finance na MVP. A na jednom z workshopů se stalo něco, co jsem znal jen z filmů. Když se o pauze kolega bavil s dalšími účastníky, na co chtějí dotaci použít, tak řekli, že ještě neví, že projekt si ještě vymyslí. Aha. Takže tito lidé objížděli cecíky a koukali, kde jsou jednoduché podmínky získání dotace, a až kdyby jim to přišlo fajn, tak vymyslí nějaký webový portál, ERP nebo cokoliv, nejčastěji pro nějakou neziskovku.
 
-<﻿center>
-
-*Na co dotaci použijeme ještě nevíme. Nějaký portál se dá vymyslet vždy.*
-
-</﻿center>
+**Na co dotaci použijeme ještě nevíme. Nějaký portál se dá vymyslet vždy.**
 
 Jak to dopadlo s dotací pro nás, zřejmě již psát nemusím.
 
 Poté, co jsme nedostali dotaci na rozvoj, nepřesvědčili podílníky, aby dodrželi sliby, a nedokázali prodat samotný nápad, jsme projekt v roce 2017 ukončili.
 
-<﻿br>
+![](https://data.cesko.digital/img/dad68fa0.png)
 
 # Tiskni.Space
 
@@ -86,11 +82,7 @@ Jenže, světe div se, **na těchto lidech, kteří mi ověřili podnikatelský 
 
 Když byl tedy portál hotový a počítal ceny, které jsem jim doloval z webů, stačilo je přesvědčit, aby se stali tzv. partnery a za topování jejich nabídek před ostatní si platili. Zároveň jsem jim tím chtěl posílat faktury za prokliky. Tento model není nic zvláštního a je ve světě celkem rozšířený. Základní členství máte zadarmo nebo vám někdo vydoluje web, ale chcete-li si upravit detail svojí firmy a dostat se v nějakém seznamu výše, tak plaťte.
 
-<﻿center>
-
-*Prosím, staň se partnerem, abych ti mohl posílat faktury.*
-
-<﻿/center>
+**Prosím, staň se partnerem, abych ti mohl posílat faktury.**
 
 Doplním, že tak to fungovalo i tady. Tím, že jste se stali partnery, jste se automaticky zobrazovali mezi top tři výsledky a pořadí jste mohli ovlivnit tím, že jste nabídli vyšší cenu za proklik. Zároveň jste neměli generický vzhled detailu tiskárny a mohli jste si udělat krásnou stránku, kde jste mohli vyzdvihnout své přednosti, nabízet speciální akce či expresní dopravu.
 
