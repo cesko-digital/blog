@@ -54,7 +54,7 @@ Jediný aktivní společník byl super a někdy dřel více než já. Aktivně o
 
 <﻿center>
 
-### *Na co dotaci použijeme ještě nevíme. Nějaký portál se dá vymyslet vždy.*
+*Na co dotaci použijeme ještě nevíme. Nějaký portál se dá vymyslet vždy.*
 
 </﻿center>
 
@@ -88,7 +88,7 @@ Když byl tedy portál hotový a počítal ceny, které jsem jim doloval z webů
 
 <﻿center>
 
-### *Prosím, staň se partnerem, abych ti mohl posílat faktury.*
+*Prosím, staň se partnerem, abych ti mohl posílat faktury.*
 
 <﻿/center>
 
