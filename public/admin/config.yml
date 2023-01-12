@@ -83,6 +83,7 @@ collections:
             "jakub.sekyra",
             "klara.scholleova",
             "stefan.prokop",
+            "jakub.cigl",
           ]
         required: true
       - label: "Tags"
@@ -214,6 +215,7 @@ collections:
             "jakub.sekyra",
             "klara.scholleova",
             "stefan.prokop",
+            "jakub.cigl",
           ]
         required: true
       - label: "Cover"
