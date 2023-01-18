@@ -21,7 +21,7 @@ lang: cs
 
 🎙️ Protože pomáhá růst nejen lidem, ale rovnou celé firmě. **V novém díle podcastu poslouchat.digital** se o tom bavila **[Martina Habová](https://www.linkedin.com/in/kdo-je-martina-habov%C3%A1/)** s **[Julií Losekoot Szymańskou](https://www.linkedin.com/in/juliaszymanska/)**, která má v Avast Foundation (nyní Gen Digital) expertní dobrovolnictví na starost.
 
-V 45 minutách se toho dozvíš spoustu o tom, jak v Avastu nastavili **systém expertního dobrovolnictví** a co jim to přináší.  Tento díl nabízí spoustu inspirace pro všechny HR a CSR manažery, kteří o zavedení expertního dobrovolnictví ve firmě uvažují. Znáš někoho takového? ❤️‍🔥
+V 45 minutách se toho dozvíš o tom, jak v Avastu nastavili **systém expertního dobrovolnictví** a co jim to přináší.  Tento díl nabízí spoustu inspirace pro všechny HR a CSR manažery, kteří o zavedení expertního dobrovolnictví ve firmě uvažují. Znáš někoho takového? ❤️‍🔥
 
 **\> [Nasdílej mu tento díl nebo si ho rovnou poslechni!](https://spotifyanchor-web.app.link/e/o0Uyexsjgwb)**
 
