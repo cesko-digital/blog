@@ -50,7 +50,7 @@ V 45 minutách se toho dozvíš o tom, jak v Avastu nastavili **systém expertn�
 
 🎉 Oslav s námi předání i pokračování Safezóny! 20. 1. se v [Magenta Experience Centru](https://magentaexperience.cz/) setkáme s partnery, proběhne retrospektiva projektu, představení nového týmu a jejich plánů se Safezónou. Akce bude probíhat offline i online od 17 do 21 hodin. 
 
-**\> [Svoje místo na akci si zajistíš tady](https://docs.google.com/forms/d/1fFXFMZQ1lwPI6P7c7NSl0cOwbN-Iv2uHJ7XfEnuTUW4/edit)**
+**\> [Svoje místo na akci si zajistíš tady](https://forms.gle/ym4vyngr7UgwjLK4A)**
 
 ## „New year, new me!“ – Nepanikař, 2023
 
