@@ -60,7 +60,7 @@ Tak letos hlavně nepanikař a měj bezplatnou pomoc vždycky po ruce. 💪
 
 **\> [Stáhni si aplikaci](https://nepanikar.eu/)**
 
-<﻿br>
+
 
 # To nejlepší z našich projektů
 
@@ -86,7 +86,7 @@ Zajímá tě víc? **\> [Přečti si o projektu na naší stránce](https://cesk
 
 **Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP)**
 
-<﻿br>
+
 
 # Nachytři se s námi
 
@@ -108,7 +108,7 @@ Zajímá tě víc? **\> [Přečti si o projektu na naší stránce](https://cesk
 
 **\> [Kolik životů má vaše aplikace? Přinášíme 8 tipů, jak ji zabezpečit před kyberútoky](https://blog.cesko.digital/2022/12/8-tipu-zabezpeceni-aplikace-pred-kyberutoky)**
 
-<﻿br>
+
 
 # Koho aktuálně hledáme
 
