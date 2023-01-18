@@ -60,6 +60,8 @@ Tak letos hlavně nepanikař a měj bezplatnou pomoc vždycky po ruce. 💪
 
 **\> [Stáhni si aplikaci](https://nepanikar.eu/)**
 
+<﻿br>
+
 # To nejlepší z našich projektů
 
 ## Movapp
@@ -84,6 +86,8 @@ Zajímá tě víc? **\> [Přečti si o projektu na naší stránce](https://cesk
 
 **Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP)**
 
+<﻿br>
+
 # Nachytři se s námi
 
 ## Jak se naučit pracovat s emocí, kterou většina z nás nechce – se vztekem
@@ -104,13 +108,7 @@ Zajímá tě víc? **\> [Přečti si o projektu na naší stránce](https://cesk
 
 **\> [Kolik životů má vaše aplikace? Přinášíme 8 tipů, jak ji zabezpečit před kyberútoky](https://blog.cesko.digital/2022/12/8-tipu-zabezpeceni-aplikace-pred-kyberutoky)**
 
-
-
-# Dobro.tip od Jany Uvízlové
-
-🫤 Copywritingem se živím přes 7 let. Z toho 5 let jako volnonožec. Jsem pečlivka a mám na sebe **vysoké nároky**. To se výrazně promítá do toho, jak nahlížím na výsledky své práce. Při odevzdávání textů mě sužovaly **nejistoty** o tom, zda text skutečně splňuje zadání, nejsou v něm chyby a má správnou tonalitu nebo nezklamu klienta.
-
-👍 Co ti budu povídat. Byly to nervy. Náhodou jsem se dozvěděla, že se tomu říká imposter syndrom. Uf, **nikdo nechce mít syndrom**! Máš ho i ty? Neboj, **časem se to zlepší** jako u mě. Nevymizí, ale naučíš se s ním žít. Jak se to povedlo mně? Při odevzdávání práce si řeknu, že jsem pro text **udělala maximum**, připomínky ze strany klienta můžou text ještě vylepšit a že jsme jenom lidi. Ani ty se nenech sežrat pochybami a pracuj tak, abys měl/a z práce dobrý pocit!
+<﻿br>
 
 # Koho aktuálně hledáme
 
