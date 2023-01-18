@@ -19,7 +19,7 @@ lang: cs
 
 ## Proč Avast (nyní Gen) podporuje expertní dobrovolnictví vlastní nadací?
 
-🎙️ Protože pomáhá růst nejen lidem, ale rovnou celé firmě. V novém díle podcastu poslouchat.digital se o tom bavila Martina Habová s Julií Szymańskou, která má v Avast Foundation (nyní Gen Digital) expertní dobrovolnictví na starost. 
+🎙️ Protože pomáhá růst nejen lidem, ale rovnou celé firmě. V novém díle podcastu poslouchat.digital se o tom bavila Martina Habová s Julií Losekoot Szymańskou, která má v Avast Foundation (nyní Gen Digital) expertní dobrovolnictví na starost.
 
 V 45 minutách se toho dozvíš spoustu o tom, jak v Avastu nastavili systém expertního dobrovolnictví a co jim to přináší.  Tento díl nabízí spoustu inspirace pro všechny HR a CSR manažery, kteří o zavedení expertního dobrovolnictví ve firmě uvažují. Znáš někoho takového? Nasdílej mu tento díl.❤️‍🔥
 
