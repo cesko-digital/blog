@@ -104,7 +104,7 @@ Zajímá tě víc? **\> [Přečti si o projektu na naší stránce](https://cesk
 
 **\> [Kolik životů má vaše aplikace? Přinášíme 8 tipů, jak ji zabezpečit před kyberútoky](https://blog.cesko.digital/2022/12/8-tipu-zabezpeceni-aplikace-pred-kyberutoky)**
 
-![](https://data.cesko.digital/newsletter/42/strip_1a-momo.png "Ilustrace od @momo.animate")
+
 
 # Dobro.tip od Jany Uvízlové
 
