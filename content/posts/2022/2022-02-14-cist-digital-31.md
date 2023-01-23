@@ -1,7 +1,7 @@
 ---
 title: "číst.digital/31: Představujeme 2 nové projekty v inkubaci | Měříme
   spokojenost v komunitě"
-author: hana.buresova
+author: content.team
 tags:
   - newsletter
 cover: https://data.cesko.digital/newsletter/31/cover.png
