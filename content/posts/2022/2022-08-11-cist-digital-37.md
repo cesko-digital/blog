@@ -1,7 +1,7 @@
 ---
 title: "číst.digital/37: Najde Stojíme za Ukrajinou nový domov? | Když se
   navzájem propojí 2 naše projekty | Využiješ šance změnit Česko.Digital? "
-author: hana.buresova
+author: content.team
 tags:
   - newsletter
 cover: http://data.cesko.digital/newsletter/37/cover37.png
