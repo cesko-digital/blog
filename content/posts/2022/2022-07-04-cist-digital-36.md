@@ -1,7 +1,7 @@
 ---
 title: "číst.digital/36: Kde ještě mají volno ve škole nebo školce? | Co jsme
   kromě dopadového reportu na narozkách pokřtili?"
-author: hana.buresova
+author: content.team
 tags:
   - newsletter
 cover: https://data.cesko.digital/newsletter/36/cover36.png
