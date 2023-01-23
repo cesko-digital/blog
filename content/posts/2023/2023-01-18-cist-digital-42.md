@@ -2,7 +2,7 @@
 title: "číst.digital/42: Společnost Avast si dává záležet na dobrovolnictví |
   Ohlédnutí naší CEO za uplynulým rokem | Spustili jsme Volební kalkulačku k
   prezidentským volbám"
-author: hana.buresova
+author: content.team
 cover: https://data.cesko.digital/newsletter/42/cover42.png
 date: 2023-01-18-10-21
 slug: cist-digital-42
