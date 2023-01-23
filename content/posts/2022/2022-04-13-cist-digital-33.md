@@ -1,7 +1,7 @@
 ---
 title: "číst.digital/33: Safezóna se dětem líbí | Naše CEO poradkyní vlády |
   Rozhodni o budoucnosti newsletterů č.d"
-author: hana.buresova
+author: content.team
 tags:
   - newsletter
 cover: https://data.cesko.digital/newsletter/33/cover33.png
