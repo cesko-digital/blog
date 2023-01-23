@@ -1,7 +1,9 @@
 ---
 title: "číst.digital/35: Dobrovolnictví jako lék na syndrom vyhoření? |
   Poslechni si Perníkovou chaloupku v ukrajinštině | Slavíme narozky!"
-author: hana.buresova
+author: content.team
+tags:
+  - newsletter
 cover: https://data.cesko.digital/newsletter/35/cover35.png
 date: 2022-06-10-12-28
 slug: cist-digital-35
