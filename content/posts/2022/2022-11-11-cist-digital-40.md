@@ -2,7 +2,7 @@
 title: "číst.digital/40: Už i Google.org podporuje naše aktivity | Moudrá Síť má
   za sebou první testování prototypu | Movapp je taky na papíře | Kdo na home
   office je, nepracuje?"
-author: hana.buresova
+author: content.team
 tags:
   - newsletter
   - partners
