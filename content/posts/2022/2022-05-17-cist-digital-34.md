@@ -1,7 +1,7 @@
 ---
 title: "číst.digital/34: Kdy naposledy jsi byl/a na preventivní prohlídce? | 4
   dobrovolnice, které č.d posunulo v kariéře"
-author: hana.buresova
+author: content.team
 tags:
   - newsletter
 cover: http://data.cesko.digital/newsletter/34/cover34.png
