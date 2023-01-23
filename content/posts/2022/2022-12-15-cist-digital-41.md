@@ -2,7 +2,7 @@
 title: "číst.digital/41: Veselé Vánoce a šťastný nový merch! | Získali jsme
   křišťálovou medaili | Komu z dobrovolníků se podařilo dostat do kmenového
   týmu?"
-author: hana.buresova
+author: content.team
 cover: https://data.cesko.digital/newsletter/41/cover41.png
 date: 2022-12-16-12-47
 slug: cist-digital-41
