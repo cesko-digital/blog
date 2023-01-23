@@ -2,7 +2,7 @@
 title: "číst.digital/39: Losnu nebo Mažňáka? Volební kalkulačka ti pomůže |
   Expertní dobrovolnictví do každé firmy! | Událost měsíce? Jednoznačně spuštění
   Preventivky"
-author: hana.buresova
+author: content.team
 tags:
   - newsletter
 cover: https://data.cesko.digital/newsletter/39/cover39.png
