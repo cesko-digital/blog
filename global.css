@@ -1,3 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;0,600;1,400&display=swap");
+
+@font-face {
+  font-family: "Cesko Digital";
+  src: url(https://data.cesko.digital/font/regular.woff2) format("woff2"),
+    url(https://data.cesko.digital/font/regular.woff) format("woff"),
+    url(https://data.cesko.digital/font/regular.eot) format("eot");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Cesko Digital";
+  src: url(https://data.cesko.digital/font/bold.woff2) format("woff2"),
+    url(https://data.cesko.digital/font/bold.woff) format("woff"),
+    url(https://data.cesko.digital/font/bold.eot) format("eot");
+  font-weight: 700;
+  font-style: normal;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -12,42 +32,6 @@ body {
   -webkit-font-smoothing: antialiased;
   background: #ffffff;
   color: #21262c;
-}
-
-@font-face {
-  font-family: "Cesko Digital";
-  src: url(https://data.cesko.digital/font/regular.woff2) format("woff2"),
-    url(https://data.cesko.digital/font/regular.woff) format("woff"),
-    url(https://data.cesko.digital/font/regular.eot) format("eot");
-  font-weight: 400;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Cesko Digital";
-  src: url(https://data.cesko.digital/font/medium.woff2) format("woff2"),
-    url(https://data.cesko.digital/font/medium.woff) format("woff"),
-    url(https://data.cesko.digital/font/medium.eot) format("eot");
-  font-weight: 500;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Cesko Digital";
-  src: url(https://data.cesko.digital/font/semibold.woff2) format("woff2"),
-    url(https://data.cesko.digital/font/semibold.woff) format("woff"),
-    url(https://data.cesko.digital/font/semibold.eot) format("eot");
-  font-weight: 600;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Cesko Digital";
-  src: url(https://data.cesko.digital/font/bold.woff2) format("woff2"),
-    url(https://data.cesko.digital/font/bold.woff) format("woff"),
-    url(https://data.cesko.digital/font/bold.eot) format("eot");
-  font-weight: 700;
-  font-style: normal;
 }
 
 /* Layout */
@@ -247,7 +231,6 @@ body {
 }
 
 .press-release-title {
-  font-family: Cesko Digital, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 24px;
@@ -312,7 +295,6 @@ body {
 }
 
 .post-card-author {
-  font-family: Cesko Digital, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -325,7 +307,6 @@ body {
 }
 
 .post-card h2 {
-  font-family: Cesko Digital, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 24px;
@@ -335,7 +316,6 @@ body {
 }
 
 .post-card-description {
-  font-family: Cesko Digital, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -366,7 +346,6 @@ body {
 }
 
 .post-metadata {
-  font-family: Cesko Digital, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -384,7 +363,6 @@ body {
 }
 
 .post-title {
-  font-family: Cesko Digital, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 36px;
@@ -395,7 +373,6 @@ body {
 }
 
 .post-perex {
-  font-family: Cesko Digital, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 23px;
@@ -415,7 +392,6 @@ body {
   background: #ffffff;
   box-sizing: border-box;
   border-radius: 8px;
-  font-family: Cesko Digital, sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
@@ -444,10 +420,16 @@ body {
 /* Post Content */
 
 .post-content {
-  font-family: Cesko Digital, sans-serif;
+  font-family: "Fira Sans", sans-serif;
   font-style: normal;
   /* or 26px */
   color: #000000;
+}
+
+.post-content h1,
+.post-content h2,
+.post-content h3 {
+  font-family: "Cesko Digital", sans-serif;
 }
 
 .post-content p {
