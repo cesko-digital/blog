@@ -1,7 +1,7 @@
 ---
 title: "číst.digital/38: Kolik obědů se podařilo zachránit? | Koho budeš volit?
   | Představujeme Mastermind | Jak se stát InstaMágem"
-author: hana.buresova
+author: content.team
 tags:
   - newsletter
 cover: https://data.cesko.digital/newsletter/38/cover38.png
