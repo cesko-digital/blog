@@ -17,6 +17,8 @@ description: Ahoj Česko.Digital! 👋 Vítáme tě v novém roce a přináším
   know-how z komunity. Tak směle do čtení! 📰
 lang: cs
 ---
+**P﻿odcastovou verzi newsletteru si můžeš poslechnout  👉 [zde](https://anchor.fm/poslouchatdigital/episodes/poslouchat-st-digital9-Spolenost-Avast-si-dv-zleet-na-dobrovolnictv--Ohldnut-na-CEO-za-uplynulm-rokem--Spustili-jsme-Volebn-kalkulaku-k-prezidentskm-volbm-e1u37bn)**
+
 # Žhavé novinky měsíce
 
 ## Proč Avast (nyní Gen) podporuje expertní dobrovolnictví vlastní nadací?
@@ -62,8 +64,6 @@ Tak letos hlavně nepanikař a měj bezplatnou pomoc vždycky po ruce. 💪
 
 **\> [Stáhni si aplikaci](https://nepanikar.eu/)**
 
-
-
 # To nejlepší z našich projektů
 
 ## Movapp
@@ -88,8 +88,6 @@ Zajímá tě víc? **\> [Přečti si o projektu na naší stránce](https://cesk
 
 **Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP)**
 
-
-
 # Nachytři se s námi
 
 ## Jak se naučit pracovat s emocí, kterou většina z nás nechce – se vztekem
@@ -109,8 +107,6 @@ Zajímá tě víc? **\> [Přečti si o projektu na naší stránce](https://cesk
 🔐 Někteří podceňují **zranitelnost aplikací** a online prostředí. Nebuď jako Clubhouse nebo Nissan a podívej se na ty **nejdůležitější tipy**, na co se při zabezpečení aplikací zaměřit. Začti se do nového článku od [Štefana Prokopa](https://cz.linkedin.com/in/stefan-prokop-cz?trk=public_profile_browsemap). Na téma kyberbezpečnosti se bude dále zaměřovat, tak blog bedlivě sleduj!
 
 **\> [Kolik životů má vaše aplikace? Přinášíme 8 tipů, jak ji zabezpečit před kyberútoky](https://blog.cesko.digital/2022/12/8-tipu-zabezpeceni-aplikace-pred-kyberutoky)**
-
-
 
 # Koho aktuálně hledáme
 
