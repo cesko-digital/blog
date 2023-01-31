@@ -14,19 +14,19 @@ lang: cs
 ---
 ➡️ V dalším díle, který zveřejníme už brzy, pak pokračujeme s příklady využívání datovky i tipy, jak si zjednodušit fungování neziskovky s její pomocí.
 
-## Koho se povinné používání datové schránky týká
+# Koho se povinné používání datové schránky týká
 
 Stát začne datové schránky zřizovat automaticky od ledna. Povinnost nově platí pro všechny právnické osoby, včetně neziskových organizací – spolky, pobočné spolky, ústavy, nadace, nadační fondy, církevní organizace, obecně prospěšné společnosti a další. 
 
 Datové schránky se týkají i podnikajících fyzických osob (včetně živnostníků s pozastavenou živností). Zjednodušeně řečeno, povinnost platí pro všechny, kdo mají IČO. 
 
-### Ověřte si, zda se datová schránka týká i vás
+## Ověřte si, zda se datová schránka týká i vás
 
 Zadejte své IČO do [vyhledávače datových schránek](https://www.mojedatovaschranka.cz/sds/). Pokud se pod vaším identifikačním číslem objeví to stejné, jako na obrázku níže, povinnost se vás týká a schránka vám bude zřízena.
 
 ![](https://lh3.googleusercontent.com/SXusL2OBh0vFffGxnVhShhaBvl-6CI0q-lOY8VWkycQRFIkkJn8mltwL3wqM26q8po5_qB72g9OYtkWuwcrvmRtUvMwggeK_ZiIeFU9B2ZvCgu77ncn5e8cVnzg_MpTMQg5vqJb_yAMr_FagnGZwh3c)
 
-## Datovka funguje podobně jako e-mail
+# Datovka funguje podobně jako e-mail
 
 Datová schránka představuje virtuální elektronickou schránku – podobně jako váš e-mail. Její vedení je bezplatné, můžete z ní odepisovat a dostávat do ní zprávy. Vše, co z ní odešlete, ihned odejde. 
 
@@ -34,7 +34,7 @@ Datová schránka představuje virtuální elektronickou schránku – podobně 
 
 Zdroj: <https://info.mojedatovaschranka.cz/info/cs/>
 
-### Proč je datová schránka lepší než e-mail
+## Proč je datová schránka lepší než e-mail
 
 Oproti e-mailu jsou datovky vázané na fyzickou/právnickou osobu, která může vlastnit jedinou adresu. Při komunikaci s úřady je vaše identita ověřena – vše co z datovky odešlete má hodnotu doporučeného dopisu, který jste vlastnoručně podepsali.  Ale pouze v případě, že píšete orgánům veřejné moci. 
 
@@ -44,17 +44,17 @@ U všech zpráv si můžete zobrazit doručenku. V datové schránce je uvedeno,
 
 💡 Podívejte se na [video](https://info.mojedatovaschranka.cz/info/video/169_02_vyhody%20datove%20schranky_FINAL_streda.mp4) o výhodách datovek od Ministerstva vnitra. 
 
-### K čemu budete datovou schránku používat 
+## K čemu budete datovou schránku používat 
 
 Největší využití datové schránky je pro komunikaci s orgány veřejné moci (úřady), kterým můžete posílat elektronické zprávy zcela bezplatně, zatímco za papírové dopisy byste platili poštovné.
 
-### Dejte si pozor na mazání zpráv
+## Dejte si pozor na mazání zpráv
 
 Narozdíl od e-mailu se zpráva po 90 dnech od přečtení smaže. Důležité zprávy si raději stahujte s přílohou a informacemi o doručení ve formátu ZFO. 
 
 💡 Přečtěte si, [jak ukládat zprávy](https://info.mojedatovaschranka.cz/info/cs/help/3.9.text.html).
 
-## Jak zpřístupnit datovou schránku pro neziskovou organizaci
+# Jak zpřístupnit datovou schránku pro neziskovou organizaci
 
 V případě, že datovku ještě nepoužíváte, můžete v období leden až březen 2023 očekávat dopis do vlastních rukou –⁠ obálka se žlutým pruhem. 
 
@@ -67,7 +67,7 @@ I přes to, že přijde více sad přihlašovacích údajů, všichni se přihla
 
 Pokud bude agendu a práci s datovkou vaší organizace řešit někdo jiný než statutární orgán, např. asistentka, musíte pro něj zajistit vlastní přihlašovací údaje. Níže v článku se dozvíte, jak na to.
 
-### Ověřte si, komu přístupové údaje přijdou
+## Ověřte si, komu přístupové údaje přijdou
 
 Příjemce údajů zjistíte ve [Veřejném rejstříku](https://or.justice.cz). Do vyhledávacího pole zadejte název/IČO organizace. Po vyhledání klikněte na úplný výpis a níže najdete část statutární orgán. Lidé zapsaní v této části obdrží přihlašovací údaje. 
 
@@ -75,29 +75,29 @@ Příjemce údajů zjistíte ve [Veřejném rejstříku](https://or.justice.cz).
 
 Zdroj: <https://or.justice.cz/ias/ui/rejstrik>
 
-### Doručovací údaje na vás počkají 10 dní na poště
+## Doručovací údaje na vás počkají 10 dní na poště
 
 Pokud vás pošťačka nezastihne, dopis uloží na poště. Máte 10 dní na vyzvednutí. Jestliže převzetí nestihnete, dopis se vrátí a vy se neseznámíte s jeho obsahem. 
 
-### Nestihli jste vyzvednout přístupové údaje?
+## Nestihli jste vyzvednout přístupové údaje?
 
 Dodatečně můžete získat [přístupové údaje](https://info.mojedatovaschranka.cz/info/cs/1002.html) na kterémkoliv CzechPOINTu, podobně jako při zapomenutí údajů. Další možností je Identita občana. Tento způsob přihlášení funguje pouze na webu – v aplikacích třetích stran nepochodíte. O tom, jak používat schránku jinde, než na webu Ministerstva vnitra, se znova dozvíte v navazujícím článku už brzy na našem blogu.
 
-### Datovka vám bude založena za jakýchkoliv okolností
+## Datovka vám bude založena za jakýchkoliv okolností
 
 Pozor! I když si dopis s přístupovými údaji nevyzvednete, postupuje se podle zásad „fikce doručení“.  Přístupové údaje budou desátým dnem považovány za doručené. 
 
 Od okamžiku doručení do ruky, vyzvednutí na poště nebo po uplynutí 10denní lhůty fikce doručení běží 15 dní na první přihlášení. Po 15 dnech je datová schránka automaticky aktivována bez ohledu na to, zda jste se do ní přihlásili – a úřady začnou doručovat výhradně do vaší datové schránky! Už nebudete dostávat papírovou poštou.
 
-## Aktivujte si datovku 
+# Aktivujte si datovku 
 
 Z obsahu zásilky se dozvíte identifikátor datové schránky (každá datovka je označená kombinací 7 znaků písmen a čísel), uživatelské jméno a heslo pro první přihlášení.
 
-### Rozlišujte identifikátor a uživatelské jméno
+## Rozlišujte identifikátor a uživatelské jméno
 
 Nespleťte si uživatelské jméno a identifikátor. Vypadají podobně, ale liší se délkou. Uživatelské jméno je běžně 6 písmen. Patří vám jako konkrétnímu uživateli (uživatelů může být víc), narozdíl od identifikátoru, který je pro celou schránku.
 
-### Jděte na web datové schránky
+## Jděte na web datové schránky
 
 Přihlašovací údaje zadáte na webu [www.mojedatovaschranka.cz](https://www.mojedatovaschranka.cz) – na úvodní obrazovce zvolte přihlášení jménem a heslem.
 
@@ -111,7 +111,7 @@ Pokud tuto změnu neprovedete a později si ji rozmyslíte, můžete platnost he
 
 ![](https://lh6.googleusercontent.com/2TfbbcrAhS-qxkW2lO96tfFDlyQ2C9WpT2VdKDzE4eqGpVtmce0HhN1RrIcPq87R9UfSLYd4ujrdEiQc89wWaDyuX7tMKKBJSmNfrs80D7oEz4PqT04Xlga1v_UxinqaO0fA2gRf9zPPq5R8VXq90bw)
 
-## Nastavte si e-mailové upozornění
+# Nastavte si e-mailové upozornění
 
 Bez nastavených notifikací musíte datovku kontrolovat ručně a nevíte, co se v ní děje. Nastavte si e-mailové notifikace. V nastavení zadáte svůj e-mail a následně opíšete ověřovací kód (číslo), který vám na uvedený e-mail přijde.
 
@@ -121,7 +121,7 @@ Ve chvíli, kdy do schránky přijde zpráva, vám na e-mail přijde upozorněn�
 
 Později můžete notifikace měnit v Nastavení > Notifikace > Notifikace e-mailem. Případně si zde můžete nastavit upozornění [SMS zprávou](https://info.mojedatovaschranka.cz/info/cs/101.html). Služba je ale zpoplatněná jako Premium SMS – za každou zprávu zaplatíte operátorovi 3 Kč.
 
-## Začněte používat datovou schránku
+# Začněte používat datovou schránku
 
 Tím je úvodní nastavení datové schránky dokončeno. Po nastavení se vám objeví standardní prostředí, ve kterém na vás čeká první zpráva se základními informacemi.
 
@@ -131,7 +131,7 @@ Od této chvíle je datová schránka plně aktivní. Nyní do ní můžete zpr�
 
 ❗ Nezapomeňte na to, že úřady vám od teď budou úřední dokumenty zasílat jen do datové schránky!
 
-## Zřiďte přístupy do schránky pro více uživatelů
+# Zřiďte přístupy do schránky pro více uživatelů
 
 Do každé datové schránky může mít přístup několik osob. Tak jako v reálném světě můžete zplnomocnit asistentku, účetní nebo advokáta, aby vás zastupoval, můžete u datové schránky označit pověřenou osobu.
 
@@ -141,7 +141,7 @@ Vybraným osobám můžete ve schránce spolku vytvořit přístupový účet s 
 
 💡 Zajímá vás, jak datovku používat napříč organizací, ale nevíte, jak do ní přidat uživatele? Přečtěte si, [jak na to](https://info.mojedatovaschranka.cz/info/cs/96.html). 
 
-### Používá datovku více uživatelů? Neuplatníte fikci podpisu
+## Používá datovku více uživatelů? Neuplatníte fikci podpisu
 
 V případě, kdy za právnickou osobu musí podle stanov jednat více osob zároveň, se nemůže uplatnit fikce podpisu –  jeden dokument nemůže poslat datovou schránkou zároveň více osob (např.  předseda spolku a místopředseda). 
 
@@ -151,7 +151,7 @@ V případě, kdy za právnickou osobu musí podle stanov jednat více osob zár
 * [eIdentity, a. s.](http://www.eidentity.cz/app)
 * [PostSignum QCA](http://www.postsignum.cz/) 
 
-## Nenechte si ujít ani řádek toho, co v Česko.Digital chystáme pro neziskovky
+# Nenechte si ujít ani řádek toho, co v Česko.Digital chystáme pro neziskovky
 
 [Zaregistrujte se do newsletteru](https://ceskodigital.ecomailapp.cz/public/form/5-ed07fd6b07ff0199fabc8509f995f058), který pro lidi v nezisku pravidelně připravujeme. Budete vědět o akcích, které chystáme, řekneme vám o všech novinkách a nabídkách, které by pro neziskovky mohly být zajímavé.
 
