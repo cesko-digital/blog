@@ -3,7 +3,7 @@ title: "Datové schránky (nejen) pro neziskové organizace #1 – jak je aktivo
   zprovoznit pro komunikaci se státem"
 author: jan.kalab
 cover: https://data.cesko.digital/img/clanek-datove-schranky-nejen-pro-nno/datove-schranky-pro-nno.png
-date: 2023-01-31-01-56
+date: 2023-01-31-02-16
 slug: datove-schranky-nejen-pro-neziskove-organizace-1
 description: "Povinné využívání datové schránky se od nového roku týká dvou
   milionů uživatelů. Do datové schránky vám nově přijde většina úřední pošty bez
