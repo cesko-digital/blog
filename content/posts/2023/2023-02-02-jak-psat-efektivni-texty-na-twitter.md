@@ -18,9 +18,13 @@ Každá sociální síť má své přírodní zákony. Twitter mívá nálepku z
 * **Zahájit dialog** a vytvořit spojnici **mezi osobním a profesním světem**.
 * Budovat loajalitu ke značce pomocí lidského kontaktu.
 
+<﻿center>
+
 ![](https://data.cesko.digital/img/clanek-jak-psat-na-twitter/1.png)
 
 **Zdroj**: *Twitter značky Kofola*
+
+<﻿/center>
 
 Pokud se chcete odlišit od zbytku hejna, 
 
