@@ -12,71 +12,71 @@ lang: cs
 ---
 **💡 Anebo ještě nemáte schránku aktivovanou? [Vraťte se k prvnímu článku z minisérie](https://blog.cesko.digital/2023/01/datove-schranky-nejen-pro-neziskove-organizace-jak-je-zprovoznit).**
 
-## Využívejte datovku a ušetříte si práci a čas
+# Využívejte datovku a ušetříte si práci a čas
 
-Jakákoliv **komunikace ze strany státu, samosprávy** i úřadů bude probíhat téměř výhradně digitálně. Úřady vám musí veškeré zprávy posílat datovkou, vy takovou povinnost nemáte (výjimkou je podání daňového přiznání, o které píšeme níže). I přesto je používání datovky znatelně příjemnější, než zasílání tištěných dopisů. 
+Jakákoliv **komunikace ze strany státu, samosprávy** i úřadů bude probíhat téměř výhradně **digitálně**. Úřady vám musí veškeré zprávy posílat datovkou, vy takovou povinnost nemáte (výjimkou je podání daňového přiznání, o které píšeme níže). I přesto je používání datovky znatelně příjemnější, než zasílání tištěných dopisů. 
 
-Všechny zprávy, které donedávna chodily fyzicky, vám přijdou do datovky, kde si je přečtete kdykoliv a kdekoliv. Obdobných výhod je celá řada – začněte je využívat i vy.
+Všechny zprávy, které donedávna chodily fyzicky, vám přijdou do datovky, kde si je **přečtete kdykoliv a kdekoliv**. Obdobných výhod je celá řada – začněte je využívat i vy.
 
-### Přes datovku zažádáte o dotace
+## 1. Přes datovku zažádáte o dotace
 
-Krajské úřady či ministerstva budou s příchodem datových schránek častěji a častěji požadovat zaslání žádosti do dotačního programu datovou schránkou. Případně se přihlašovacími údaji do datové schránky přihlásíte do systému úřadu, kde probíhá sběr žádostí.
+Krajské úřady či ministerstva budou s příchodem datových schránek častěji a častěji **požadovat zaslání žádosti do dotačního programu datovou schránkou**. Případně se přihlašovacími údaji do datové schránky přihlásíte do systému úřadu, kde probíhá sběr žádostí.
 
 ![](https://lh6.googleusercontent.com/bYCM1a-DtujEGP4ri8qR2wcvMXXU6U22cRU80BKqv2TcXnraHQTmplbAx_xFMqOU74eM_dsG1KSRkprVYOtoIMWkA3vNVtwVmdBrqK63pN65K04Cd9Gude4XNNMLNbOUGf5K_SRnGau6aSJdgO1shec)
 
-### Podávejte návrhy na změny ve spolkovém rejstříku jednoduše
+## 2. Podávejte návrhy na změny ve spolkovém rejstříku jednoduše
 
-Změna sídla, obsazení orgánů, vkládání dokumentů každoročních účetních závěrek či výročních zpráv – to vše rejstříkovému soudu snadno zašlete elektronickou cestou. 
+Změna sídla, obsazení orgánů, vkládání dokumentů každoročních účetních závěrek či výročních zpráv – to **vše rejstříkovému soudu snadno zašlete elektronickou cestou**. 
 
-Potřebný návrh na zápis údajů vyplníte na webu [justice.cz](http://www.justice.cz) v tzv. [inteligentním formuláři](https://or.justice.cz/ias/ui/podani). Z něho vygenerované PDF s návrhem pošlete na příslušný soud datovou schránkou. Soud vás odpovědí do vaší datovky uvědomí o vyhovění zápisu změny či vyzve k doplnění.
+Potřebný návrh na zápis údajů vyplníte na webu [justice.cz](http://www.justice.cz) v tzv. [inteligentním formuláři](https://or.justice.cz/ias/ui/podani). Z něho vygenerované PDF s návrhem pošlete na příslušný soud datovou schránkou. **Soud vás odpovědí do vaší datovky uvědomí** o vyhovění zápisu změny či vyzve k doplnění.
 
 Vše je velmi rychlé a snadné. Veškeré dokumenty, které musíte doložit, jednoduše přiložíte v elektronické podobě v PDF, včetně ověřeného podpisu. Dokument [konvertujete na CzechPOINTu](https://www.ceskaposta.cz/sluzby/egovernment/czechpoint/autorizovana-konverze-dokumentu) z papírové do elektronické podoby.
 
-### Daňové přiznání musíte podat elektronicky
+## 3. Daňové přiznání musíte podat elektronicky
 
-Daňové přiznání za rok 2022 a případné další roky (k dani z příjmu a případná jiná) budete podávat vždy elektronicky – buď na portálu [Moje daně](https://adisspr.mfcr.cz/pmd/home), kde se můžete přihlásit skrze datovou schránku, nebo přímo v datové schránce.
+Daňové přiznání za rok 2022 a případné další roky (k dani z příjmu a případná jiná) budete podávat **vždy elektronicky** – buď na portálu [Moje daně](https://adisspr.mfcr.cz/pmd/home), kde se můžete přihlásit skrze datovou schránku, nebo přímo v datové schránce.
 
 ![](https://lh5.googleusercontent.com/pFrgtgvP4dcjAARy2LBrbmGck8QuAhyKlrBNGJssOgTK9YNbUPE6XsyZsktBDNazy_j8PChuzHUc3ZVgE2frW51qenbj2Ybu8NMbF-wp_c_WgGy-AnaXck9gsMo3Wpl65xdfhh4eEF6yKfze1X-KaYM)
 
-Ve svém účetním software vygenerujete daňové přiznání v XML formátu, který jednoduše přiložíte do zprávy finančnímu úřadu a odešlete datovkou. Tím je přiznání ihned považováno za podané.
+Ve svém účetním software vygenerujete **daňové přiznání v XML formátu**, který jednoduše přiložíte do zprávy finančnímu úřadu a odešlete datovkou. Tím je přiznání ihned považováno za podané.
 
 Např. vývojáři Stormware Pohoda mají program [Tax](https://www.stormware.cz/podpora/faq/tax/146/Mohu-z-programu-TAX-odeslat-spolu-s-danovym-priznanim-i-vykazy-Rozvaha-Vykaz-zisku-a-ztraty-a-Prilohu-v-ucetni-zaverce/?id=2766). Slouží na daňová přiznání, je napojený do účetního softwaru a dokáže vaše přiznání odeslat přes datovou schránku.
 
-❗ Prakticky to znamená, že nemůžete vyplnit papírový formulář a přinést ho na finanční úřad. Stejně tak nemůžete na papíře vyplněné přiznání pouze naskenovat a poslat ho. Jediná možná cesta je elektronický formulář odevzdaný přes daňový portál nebo poslaný datovou schránkou.
+❗ Prakticky to znamená, že **nemůžete vyplnit papírový formulář** a přinést ho na finanční úřad. Stejně tak nemůžete na papíře vyplněné přiznání pouze naskenovat a poslat ho. Jediná možná cesta je elektronický formulář odevzdaný přes daňový portál nebo poslaný datovou schránkou.
 
-💡 Drobnou výhodou může být, že takto elektronicky podané daňové přiznání se může odevzdat až na konci dubna.
+💡 Drobnou výhodou může být, že takto **elektronicky podané daňové přiznání se může odevzdat až na konci dubna**.
 
-### Zaměstnaneckou agendu vyřešíte v datové schránce
+## 4. Zaměstnaneckou agendu vyřešíte v datové schránce
 
-Máte v organizaci více zaměstnanců? Veškerá komunikace se správou sociálního zabezpečení, lékařem či zdravotní pojišťovnou (neschopenky, hlášení...) bude probíhat elektronickou cestou v datové schránce. 
+Máte v organizaci více zaměstnanců? Veškerá **komunikace se správou sociálního zabezpečení**, lékařem či zdravotní pojišťovnou (neschopenky, hlášení...) bude probíhat elektronickou cestou v datové schránce. 
 
-### Podílejte se na řízení na úřadech 
+## 5. Podílejte se na řízení na úřadech 
 
-Spolky, které se zabývají ochranou přírody a současně mají ve stanovách jako hlavní poslání ochranu přírody a krajin, se můžou s pomocí datovky aktivně podílet na dění ve městě či regionu.
+Spolky, které se zabývají ochranou přírody a současně mají ve stanovách jako hlavní poslání ochranu přírody a krajin, se můžou **s pomocí datovky aktivně podílet na dění ve městě či regionu**.
 
-Přes datovku pošlete na úřad žádost (např. zajímá mě kácení stromů na Praze 9), aby vás příslušný orgán informoval o zahajovaných správních řízeních. 
+**Přes datovku pošlete na úřad žádost** (např. zajímá mě kácení stromů na Praze 9), aby vás příslušný orgán informoval o zahajovaných správních řízeních. 
 
-Žádost platí rok a po roce se musí obnovit – opět zaslanou žádostí do datové schránky úřadu.
+**Žádost platí rok a po roce se musí obnovit** – opět zaslanou žádostí do datové schránky úřadu.
 
 Podle věcné a místní specifikace úřad zasílá spolku datovou schránkou informace o zahájení správního řízení. Spolky následně mohou posílat námitky apod., k čemuž využívají datovku.
 
-Dále se přes datovku můžete jednoduše přihlásit do připomínkování např. v rámci stavebního řízení a souvisejících agend.
+Dále se **přes datovku můžete jednoduše přihlásit do připomínkování** např. v rámci stavebního řízení a souvisejících agend.
 
-### Komunikujte s obcí rychlostí blesku
+## 6. Komunikujte s obcí rychlostí blesku
 
-Pokud nezisková organizace provozuje pronájmy k přespávání za úplatu, může díky datovce snadno navázat společnou řeč s obcí a posílat hlášení dle požadavků místní vyhlášky apod.
+Pokud nezisková organizace provozuje pronájmy k přespávání za úplatu, může **díky datovce snadno navázat společnou řeč s obcí** a posílat hlášení dle požadavků místní vyhlášky apod.
 
-### Stáhněte si úplný výpis ESM (evidence skutečných majitelů)
+## 7. Stáhněte si úplný výpis ESM (evidence skutečných majitelů)
 
-Je po vaší organizaci požadováno ESM např. při žádosti o dotace od státu (ministerstev) nebo samosprávy? 
+Je po vaší organizaci požadováno **ESM např. při žádosti o dotace** od státu (ministerstev) nebo samosprávy? 
 
-ESM je obecně neveřejná evidence – veřejně jsou dostupné jen úplně základní údaje. U žádosti o dotace po vás může být požadováno doložení úplného výpisu (i s běžně neveřejnými údaji z ESP).
+**ESM je obecně neveřejná evidence** – veřejně jsou dostupné jen úplně základní údaje. U žádosti o dotace po vás může být požadováno doložení úplného výpisu (i s běžně neveřejnými údaji z ESP).
 
-Díky datové schránce se přihlásíte na webu [esm.justice.cz](https://esm.justice.cz/ias/issm/rejstrik) a stáhnete si úplný výpis v PDF, který můžete zaslat jako kompletní výpis údajů o spolku (organizaci).
+Díky datové schránce se přihlásíte na webu [esm.justice.cz](https://esm.justice.cz/ias/issm/rejstrik) a **stáhnete si úplný výpis v PDF**, který můžete zaslat jako kompletní výpis údajů o spolku (organizaci).
 
-## Používejte datovou schránku v aplikacích třetí strany
+# Používejte datovou schránku v aplikacích třetí strany
 
-Nevyhovuje vám základní webové rozhraní datové schránky od Ministerstva vnitra? K používání datové schránky můžete používat aplikace třetích stran. Třeba [Datovka](https://www.datovka.cz/cs/) od CZ.NIC. Aplikace Datovka se vám nejen může lépe ovládat, ale dokonce skrze ní můžete ukládat zprávy přímo do počítače.
+Nevyhovuje vám základní webové rozhraní datové schránky od Ministerstva vnitra? **K používání datové schránky můžete používat aplikace třetích stran.** Třeba [Datovka](https://www.datovka.cz/cs/) od CZ.NIC. Aplikace Datovka se vám nejen může lépe ovládat, ale dokonce skrze ní můžete ukládat zprávy přímo do počítače.
 
 Bez aplikace jste pro dlouhodobou archivaci zpráv odkázání na placený [Datový trezor](https://info.mojedatovaschranka.cz/info/cs/84.html) od České pošty, díky kterému se zprávy ukládají přímo v datové schránce.
 
