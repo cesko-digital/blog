@@ -22,7 +22,7 @@ Všechny zprávy, které donedávna chodily fyzicky, vám přijdou do datovky, k
 
 Krajské úřady či ministerstva budou s příchodem datových schránek častěji a častěji **požadovat zaslání žádosti do dotačního programu datovou schránkou**. Případně se přihlašovacími údaji do datové schránky přihlásíte do systému úřadu, kde probíhá sběr žádostí.
 
-![](https://lh6.googleusercontent.com/bYCM1a-DtujEGP4ri8qR2wcvMXXU6U22cRU80BKqv2TcXnraHQTmplbAx_xFMqOU74eM_dsG1KSRkprVYOtoIMWkA3vNVtwVmdBrqK63pN65K04Cd9Gude4XNNMLNbOUGf5K_SRnGau6aSJdgO1shec)
+![](https://data.cesko.digital/img/clanek-datove-schranky-nejen-pro-nno-2/1.png)
 
 ## 2. Podávejte návrhy na změny ve spolkovém rejstříku jednoduše
 
@@ -36,7 +36,7 @@ Vše je velmi rychlé a snadné. Veškeré dokumenty, které musíte doložit, j
 
 Daňové přiznání za rok 2022 a případné další roky (k dani z příjmu a případná jiná) budete podávat **vždy elektronicky** – buď na portálu [Moje daně](https://adisspr.mfcr.cz/pmd/home), kde se můžete přihlásit skrze datovou schránku, nebo přímo v datové schránce.
 
-![](https://lh5.googleusercontent.com/pFrgtgvP4dcjAARy2LBrbmGck8QuAhyKlrBNGJssOgTK9YNbUPE6XsyZsktBDNazy_j8PChuzHUc3ZVgE2frW51qenbj2Ybu8NMbF-wp_c_WgGy-AnaXck9gsMo3Wpl65xdfhh4eEF6yKfze1X-KaYM)
+![](https://data.cesko.digital/img/clanek-datove-schranky-nejen-pro-nno-2/2.png)
 
 Ve svém účetním software vygenerujete **daňové přiznání v XML formátu**, který jednoduše přiložíte do zprávy finančnímu úřadu a odešlete datovkou. Tím je přiznání ihned považováno za podané.
 
@@ -80,51 +80,51 @@ Nevyhovuje vám základní webové rozhraní datové schránky od Ministerstva v
 
 Bez aplikace jste pro dlouhodobou archivaci zpráv odkázání na placený [Datový trezor](https://info.mojedatovaschranka.cz/info/cs/84.html) od České pošty, díky kterému se zprávy ukládají přímo v datové schránce.
 
-Vedle Datovky můžete využívat méně známé klienty. I přesto Datovku doporučujeme jako hlavní a nejlepší alternativu k oficiálnímu webovému prostředí od Ministerstva vnitra.
+Vedle Datovky můžete využívat méně známé klienty. I přesto **Datovku doporučujeme jako hlavní a nejlepší alternativu** k oficiálnímu webovému prostředí od Ministerstva vnitra.
 
-## Bezplatně komunikujete pouze s úřady
+# Bezplatně komunikujete pouze s úřady
 
-Od prvního přihlášení můžete schránku používat k odesílání a příjmu zpráv. Veškeré zprávy přijímáte zdarma. Veškeré zprávy odeslané orgánům veřejné moci (úřady, soudy, finanční správa, policie apod.) jsou také zdarma.
+Od prvního přihlášení můžete schránku používat k odesílání a příjmu zpráv. **Veškeré zprávy přijímáte zdarma.** Veškeré zprávy odeslané orgánům veřejné moci (úřady, soudy, finanční správa, policie apod.) jsou také zdarma.
 
 ❗ Zprávy odeslané do datovek adresátů jiného druhu – fyzickým nebo právnickým osobám – jsou považovány za tzv. [poštovní datovou zprávu](https://info.mojedatovaschranka.cz/info/cs/82.html) a jsou zpoplatněny 10 Kč za každou. 
 
-![](https://lh4.googleusercontent.com/a9xure_DoBRhDhdUluq14huOlpilCD-fz-PBvI8ld1gL_7glDsrg6_BhUuzEfqLatmoQvxhpTYQ9iS5AsRPxrdDcPU9qblyuLFET6s1O0z-hCg5s7G2-UheDF3JFkASHiYyjDPYxlqdc5US3U5CKNEY)
+![](https://data.cesko.digital/img/clanek-datove-schranky-nejen-pro-nno-2/3.png)
 
 ### Jak poznáte zpoplatněné zprávy
 
-Při vyhledávání schránky se u datovek jiných orgánů než veřejné moci objeví symbol zlatých dukátů, který značí placenou službu.
+Při vyhledávání schránky se u datovek jiných orgánů než veřejné moci objeví **symbol zlatých dukátů**, který značí placenou službu.
 
-Poštovní datovou zprávu nepošlete, pokud si dopředu nepředplatíte kredit. Ten můžete dobít na kreditním portálu v částkách od 30 do 10 000 Kč.
+**Poštovní datovou zprávu nepošlete, pokud si dopředu nepředplatíte kredit.** Ten můžete dobít na kreditním portálu v částkách od 30 do 10 000 Kč.
 
 💡 Podívejte se na [video](https://www.youtube.com/watch?v=ecCfJsHwRrU&t=140s), které práci v datovce shrnuje a popisuje i jak dobít kredit.
 
-![](https://lh5.googleusercontent.com/5KjP1cqx_XczFM4Djp_ADiNpfA4XCoW6hky23DByjrm1RWo45FRm91po7259ZGtA4cgvyoPswR_AGujGcEm_7082jDWxCTnA4GWJKS2cIpQh_29Ghm_QaeEe8aVGP4OI0jrU9A-x4i7iO05bH3jlBSo)
+![](https://data.cesko.digital/img/clanek-datove-schranky-nejen-pro-nno-2/4.png)
 
-## Nezapomínejte na fikci doručení
+# Nezapomínejte na fikci doručení
 
-U běžného dopisu vám od doručení běží 10 dní, během kterých máte možnost si vyzvednout psaní na poště. Desátým dnem nastává [fikce doručení](https://dostupnyadvokat.cz/blog/fikce-doruceni), kdy se na zásilku hledí jako na doručenou. 
+U běžného dopisu vám od doručení běží **10 dní**, během kterých máte možnost si vyzvednout psaní na poště. Desátým dnem nastává [fikce doručení](https://dostupnyadvokat.cz/blog/fikce-doruceni), kdy se na zásilku hledí jako na doručenou. 
 
 Fikce doručení, kdy se zpráva považuje za doručenou, funguje stejně i u datové schránky, v identické délce – 10 dnů. Lhůta končí o půlnoci.
 
-Pokud datovkou posíláte zprávu orgánu veřejné moci, platí, že je doručeno okamžikem, kdy zpráva dorazí do schránky. Takže prakticky po vašem odeslání. Je úplně jedno, jestli je všední den nebo svátek. 
+Pokud datovkou posíláte zprávu orgánu veřejné moci, platí, že **je doručeno okamžikem, kdy zpráva dorazí do schránky.** Takže prakticky po vašem odeslání. Je úplně jedno, jestli je všední den nebo svátek. 
 
-❗ Ovšem tady pozor! Připadne-li poslední den lhůty fikce doručení (10 dnů) na sobotu, neděli nebo svátek, posouvá se konec lhůty do půlnoci následujícího pracovního dne.
+❗ Ovšem tady pozor! Připadne-li **poslední den lhůty fikce doručení** (10 dnů) na sobotu, neděli nebo svátek, posouvá se konec lhůty do půlnoci následujícího pracovního dne.
 
-## Brzy po zřízení datovky vám přijde výpis z ROSu
+# Brzy po zřízení datovky vám přijde výpis z ROSu
 
-ROS neboli Registr osob vám několik dní po aktivování zašle oznámení o tom, že do ROSu byla přidána datová schránka (odesílatelem zprávy je – Automat ZR Správa základních registrů). 
+ROS neboli **Registr osob** vám několik dní po aktivování zašle oznámení o tom, že **do ROSu byla přidána datová schránka** (odesílatelem zprávy je – Automat ZR Správa základních registrů). 
 
-Úřady se od té chvíle přímo z registru dozví o vaší datové schránce a nemusí ji hledat např. dle IČO. Nenechte se zprávou překvapit. Nikdo po vás nic nechce, jde pouze o informační oznámení.
+Úřady se od té chvíle **přímo z registru dozví o vaší datové schránce** a nemusí ji hledat např. dle IČO. Nenechte se zprávou překvapit. Nikdo po vás nic nechce, jde pouze o informační oznámení.
 
-## Nikdy nezapomínejte na bezpečné zacházení s přihlašovacími údaji
+# Nikdy nezapomínejte na bezpečné zacházení s přihlašovacími údaji
 
-A poslední rada na konec. S přístupovými údaji k datové schránce zacházejte obezřetně, stejně jako by šlo o údaje k bankovnímu účtu. Každý, kdo má vaše přihlašovací údaje, může jménem vaší právnické osoby jednat se státem.
+A poslední rada na konec. **S přístupovými údaji k datové schránce zacházejte obezřetně**, stejně jako by šlo o údaje k bankovnímu účtu. Každý, kdo má vaše přihlašovací údaje, může jménem vaší právnické osoby jednat se státem.
 
-Přístupové údaje zadávejte výhradně na webové adrese [www.mojedatovaschranka.cz](https://www.mojedatovaschranka.cz). Pokud se budete přihlašovat údaji k datovce např. do dotační aplikace krajského úřadu, i přesto budete zadávat přihlašovací údaje na této adrese – dotační web vás na tuto adresu přesměruje.
+Přístupové **údaje zadávejte výhradně na webové adrese** [www.mojedatovaschranka.cz](https://www.mojedatovaschranka.cz). Pokud se budete přihlašovat údaji k datovce např. do dotační aplikace krajského úřadu, i přesto budete zadávat přihlašovací údaje na této adrese – dotační web vás na tuto adresu přesměruje.
 
-❗ Vždy před zadáním přístupových údajů si zkontrolujte adresu v adresním řádku prohlížeče.
+❗ Vždy před zadáním přístupových údajů si **zkontrolujte adresu v adresním řádku** prohlížeče.
 
-![](https://lh4.googleusercontent.com/eRXBaqvUaNdlPWXohne3uMBqNn8S8y4UerMa_6ELoiOmpnsZVZoX0jmotdNrDzPUj_3mSj_B_2b1SY78vjTL5btIWxz8l_4J3JR-9W_yodK5r88n4vqHdiaLkUOJupU-wIKLUy0I7eUjXmACL0BCG5k)
+![](https://data.cesko.digital/img/clanek-datove-schranky-nejen-pro-nno-2/5.png)
 
 Mimo webový prohlížeč zadávejte přístupové údaje pouze do aplikací, kterým důvěřujete – například aplikaci [Datovka](https://www.datovka.cz/cs/) od CZ.NIC.
 
