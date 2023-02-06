@@ -90,7 +90,7 @@ Od prvního přihlášení můžete schránku používat k odesílání a příj
 
 ![](https://data.cesko.digital/img/clanek-datove-schranky-nejen-pro-nno-2/3.png)
 
-### Jak poznáte zpoplatněné zprávy
+## Jak poznáte zpoplatněné zprávy
 
 Při vyhledávání schránky se u datovek jiných orgánů než veřejné moci objeví **symbol zlatých dukátů**, který značí placenou službu.
 
