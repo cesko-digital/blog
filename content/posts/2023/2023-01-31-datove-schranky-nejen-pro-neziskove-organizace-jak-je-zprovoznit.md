@@ -12,7 +12,7 @@ description: "Povinné využívání datové schránky se od nového roku týká
   neziskové organizace. "
 lang: cs
 ---
-**➡️ V dalším díle, který zveřejníme už brzy, pak pokračujeme s příklady využívání datovky i tipy, jak si zjednodušit fungování neziskovky s její pomocí.**
+**➡️ [V dalším díle](https://blog.cesko.digital/2023/02/datove-schranky-nejen-pro-neziskove-organizace-2) pak pokračujeme s příklady využívání datovky i tipy, jak si zjednodušit fungování neziskovky s její pomocí.**
 
 # Koho se povinné používání datové schránky týká
 
@@ -38,7 +38,7 @@ Zdroj: <https://info.mojedatovaschranka.cz/info/cs/>
 
 Oproti e-mailu jsou datovky vázané na fyzickou/právnickou osobu, která může vlastnit jedinou adresu. **Při komunikaci s úřady je vaše identita ověřena** – vše co z datovky odešlete má hodnotu doporučeného dopisu, který jste vlastnoručně podepsali.  Ale pouze v případě, že píšete orgánům veřejné moci. 
 
-Při komunikaci se soukromoprávními subjekty se fikce podpisu neuplatňuje a za zprávu musíte zaplatit. (Více se už brzy dozvíte v druhém pokračování této série na našem blogu.)
+Při komunikaci se soukromoprávními subjekty se fikce podpisu neuplatňuje a za zprávu musíte zaplatit. (Více se dozvíte [v druhém pokračování této série](https://blog.cesko.digital/2023/02/datove-schranky-nejen-pro-neziskove-organizace-2) na našem blogu.)
 
 U všech zpráv si můžete zobrazit **doručenku**. V datové schránce je uvedeno, kdy byla zpráva odeslána i doručena a kdy konkrétně se bude považovat za doručenou. 
 
@@ -81,7 +81,7 @@ Pokud vás pošťačka nezastihne, dopis uloží na poště. **Máte 10 dní na 
 
 ## Nestihli jste vyzvednout přístupové údaje?
 
-Dodatečně můžete získat [přístupové údaje](https://info.mojedatovaschranka.cz/info/cs/1002.html) na kterémkoliv **CzechPOINTu**, podobně jako při zapomenutí údajů. Další možností je Identita občana. Tento způsob přihlášení funguje pouze na webu – **v aplikacích třetích stran nepochodíte**. O tom, jak používat schránku jinde, než na webu Ministerstva vnitra, se znova dozvíte v navazujícím článku už brzy na našem blogu.
+Dodatečně můžete získat [přístupové údaje](https://info.mojedatovaschranka.cz/info/cs/1002.html) na kterémkoliv **CzechPOINTu**, podobně jako při zapomenutí údajů. Další možností je Identita občana. Tento způsob přihlášení funguje pouze na webu – **v aplikacích třetích stran nepochodíte**. O tom, jak používat schránku jinde, než na webu Ministerstva vnitra, se znova dozvíte v navazujícím článku na našem blogu.
 
 ## Datovka vám bude založena za jakýchkoliv okolností
 
@@ -149,7 +149,11 @@ V případě, kdy za právnickou osobu musí podle stanov jednat více osob zár
 
 * [První certifikační autorita, a. s.](http://www.ica.cz/)
 * [eIdentity, a. s.](http://www.eidentity.cz/app)
-* [PostSignum QCA](http://www.postsignum.cz/) 
+* [PostSignum QCA](http://www.postsignum.cz/)
+
+# Jak datovku používat v neziskové organizaci
+
+👉 [Přečtěte si druhý článek z mini série používání datové schránky v neziskových organizacích.](https://blog.cesko.digital/2023/02/datove-schranky-nejen-pro-neziskove-organizace-2) Dozvíte se, jak podat daňové přiznání, návrh na změnu ve spolkovém rejstříku nebo žádost o dotaci z datovky.
 
 # Nenechte si ujít ani řádek toho, co v Česko.Digital chystáme pro neziskovky
 
