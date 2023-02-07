@@ -128,7 +128,11 @@ Přístupové **údaje zadávejte výhradně na webové adrese** [www.mojedatova
 
 Mimo webový prohlížeč zadávejte přístupové údaje pouze do aplikací, kterým důvěřujete – například aplikaci [Datovka](https://www.datovka.cz/cs/) od CZ.NIC.
 
-## Nenechte si ujít ani řádek toho, co v Česko.Digital chystáme pro neziskovky
+# Zjistěte, jak aktivovat a zprovoznit datovou schránku
+
+**👉 [Přečtěte si první článek z mini série.](https://blog.cesko.digital/2023/01/datove-schranky-nejen-pro-neziskove-organizace-jak-je-zprovoznit)** Dozvíte se, koho se povinné používání datové schránky týká, jaké to má výhody a jak si ji aktivovat.
+
+# Nenechte si ujít ani řádek toho, co v Česko.Digital chystáme pro neziskovky
 
 [Zaregistrujte se do newsletteru](https://ceskodigital.ecomailapp.cz/public/form/5-ed07fd6b07ff0199fabc8509f995f058), který pro lidi v nezisku pravidelně připravujeme. Budete vědět o akcích, které chystáme, řekneme vám o všech novinkách a nabídkách, které by pro neziskovky mohly být zajímavé.
 
