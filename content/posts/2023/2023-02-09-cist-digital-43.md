@@ -55,7 +55,7 @@ lang: cs
 
 Rok 2023 začal pro Safezónu úspěšně. Projekt jsme předali do rukou nového mladého týmu z Kudykampus pod vedením Marie Froulíkové. Loučí se tak s námi Product Ownerka Vladimíra Osadníková a celý původní tým dobrovolníků.\
 \
-🥳 Předávku jsme si užili spolu s partnerskými organizacemi na **společném eventu** v Magenta Experience Centru. Každý z hostů obdržel vizitku Safezóna, na kterou napsal větu, kterou by řekl kamarádovi, když se necítí dobře a mohl si ji vložit do peněženky jako vzpomínku. Na eventu byla taky možnost se zapojit do kvízu o situaci duševního zdraví skrz interaktivní tabule **Ámos Vision** nebo si prohlédnout výstavu Krajina dětství, pustina v srdci od autorky Magdaléna Fiala. 
+🥳 Předávku jsme si užili spolu s partnerskými organizacemi na **společném eventu** v Magenta Experience Centru. Každý z hostů obdržel vizitku Safezóna, na kterou napsal větu, kterou by řekl kamarádovi, když se necítí dobře a mohl si ji vložit do peněženky jako vzpomínku. Na eventu byla taky možnost se zapojit do kvízu o situaci duševního zdraví skrz interaktivní tabule **Ámos Vision** nebo si prohlédnout výstavu *Krajina dětství, pustina v srdci* od autorky Magdaléna Fiala. 
 
 \> **[Pusť si záznam z celého eventu](https://youtu.be/yWW_2Ih-1Tg)**
 
