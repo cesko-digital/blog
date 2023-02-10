@@ -5,7 +5,7 @@ author: content.team
 tags:
   - newsletter
 cover: https://data.cesko.digital/newsletter/43/cover.png
-date: 2023-02-09-01-05
+date: 2023-02-10-10-50
 slug: cist-digital-43
 description: "Ahoj Česko.Digital! 👋 Nový newsletter je na světě. Jaké výhody
   přináší datové schránky? Čemu čelí dětská psychika v digitálním věku? Máš už
