@@ -81,7 +81,7 @@ Rok 2023 začal pro Safezónu úspěšně. Projekt jsme předali do rukou novéh
 
 ## Nepanikař
 
-*První pomoc při psychických potížích. Za dva a půl roku aplikace pomohla půl milionu lidí. Nyní je cílem zlepšit UX a doplnit nové funkcionality.*
+*První pomoc při psychických potížích. Za dva a půl roku aplikace pomohla půl milionu lidí. Nyní je cílem zlepšit UX a doplnit nové funkcionality*
 
 📲 **Finišujeme v překódování aplikace**. Proto se náš dobrovolnický tým potkal osobně a to rovnou na vlastním hack dayi. Děkujeme našemu hlavnímu finančnímu partnerovi společnosti Livesport za poskytnutí prostor a občerstvení. Mohli jsme tak věnovat čas aplikaci, která zdarma poskytuje první pomoc při psychických potížích lidem s depresemi, úzkostmi, panikou apod. A vše včas stihnout.
 
