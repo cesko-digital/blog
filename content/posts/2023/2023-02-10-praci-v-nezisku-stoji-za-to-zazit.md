@@ -20,7 +20,7 @@ lang: cs
 
 **Martin Wenisch**: Já jsem v Česko.Digital skoro od začátku. Přidal jsem se hned, jak Jakub Nešetřil oznámil, že něco takového zakládá a proč. Ta myšlenka se mi strašně líbila, protože jsem předtím dlouhodobě pracoval na lokálních neziskových projektech s velkými neziskovkami různě po světě. Jedním z projektů byl například ten  v Keni. Dobrovolničit část času na různých projektech je mi hodně blízké. Takže jsem se přidal hned v době, kdy jsme měli první projekty, jako bylo [Nedlužím státu](http://nedluzimstatu.cz), [Cityvizor](http://cityvizor.cz) a pro Transparency International projekt [Naši politici](http://nasipolitici.cz). Také jsme měli meetupy a první hack day, který jsem spolu se Zoulem (Tomášem Znamenáčkem), technicky připravoval.
 
-![](https://lh4.googleusercontent.com/qmXld7Dx8lIiBrT0TAyYLYaQwhqH5xAB0FJg5dSTdZs1OQ6_yaXKPIYljojDA-b8Qwht0Vy8ncGlDoTWUzABVozrmb2JyW2olgxlWMzxVeDROW7kHlv97lWgcUBX1zdhqsL_arbrPcuuM90z50DF8Hc)
+![](https://data.cesko.digital/img/clanek-cesta-do-kmenoveho-tymu/1.jpg)
 
 *Martin na Hack day #1*
 
@@ -36,7 +36,7 @@ Ale na full time jsem byl skoro rok jako CTO. To se k tomu přidal ještě strat
 
 **Tom**: Nastupoval jsem vlastně do „marketingového týmu“, měl jsem se starat o obsah. Věci se ale v č.d hodně přelévají, takže teď se starám nejvíce o technické věci – programuju web a různé interní nástroje, které je potřeba. Pracuju jako technická podpora nebo technický konzultant projektů, když něco potřebují. A starám se o to, aby se v č.d „svítilo a topilo“. Zkrátka, aby technické věci, které mají běžet, běžely, pokud možno co nejčastěji.
 
-![](https://lh4.googleusercontent.com/lTrdn2qBuCNlg93aYv90Of6NBtPkl_gEOg68fpFgwXz09E6Cz3dT6k1HawGZqIJIZi0IylNVmRuil3L_6GWTFAgQwQm7tx4i4cfirvSu951jUrzHWeafVVgWtm8aVoL-62h0RhH-NdQmPwwIIzbqdjw)
+![](https://data.cesko.digital/img/clanek-cesta-do-kmenoveho-tymu/2.jpg)
 
 *Tom na akci Nezisk.Digital, kde jsme radili neziskovkám, jak na bezpečnost jejich dat*
 
@@ -50,7 +50,7 @@ Ale na full time jsem byl skoro rok jako CTO. To se k tomu přidal ještě strat
 
 **Tom**: Po prázdninách (2019) jsem postupně utlumil svoje normální pracovní aktivity a říkal jsem si, že se rád budu věnovat č.d nějakou dobu naplno a buď z toho časem vypadne nějaká placená práce, což by byl ideál, nebo že alespoň můžu posunout něco dopředu a užiju si to, a pak si zase najdu placenou práci. Ke konci roku 2019 už jsem to musel rozseknout. Už jsem organizaci nemohl věnovat čas zadarmo, a tak jsem oslovil Jakuba Nešetřila a řekl jsem mu, že toto je moje vysněná práce, toto chci dělat, a co kdyby mi za to platili. A on řekl: „Tak dobře Tomáši, tak to tak udělejme.“ :) I když ten proces byl samozřejmě o fous složitější. Jako placený člověk jsem myslím od února nebo března 2020.
 
-![](https://lh4.googleusercontent.com/RVDo4U9-v4a6EfqmmbkgOZO2oKn-v4LwpmYQW6P6ZAx7utNBCR05hh3j-gAf2FudOQFyylP3YMU4G_NT4-i20ddPcGKrc33BcnlRRXDdc-EnUSAFTU0o6La_7TQ2RZTlN5DE7oG8kpdcVl9uEf-JxYY)
+![](https://data.cesko.digital/img/clanek-cesta-do-kmenoveho-tymu/3.jpg)
 
 *Tom na Hack day #1*
 
@@ -74,7 +74,7 @@ Bylo to zároveň hodně průtokové a do dneška je. Je to v něčem hrozně n�
 
 Na začátku to úplně nešlo, učící křivka nebyla úplně hladká, ale za rok mě to hodně posunulo. I lidé, se kterými jsem pracoval předtím a spolupracuji s nimi dál, říkají, že ten necelý rok pro č.d znamenal obrovskou změnu v tom, jak jsem schopný pracovat v týmu, efektivně pracovat s lidmi a vést je.
 
-![](https://lh5.googleusercontent.com/yiPDhdj3ty2Jt7DqGqrVy29vSkiNPEUupdmr0lp7-OcrT4p6fsZ86NJ026lowNF6zU0jmWB2GcfwffoV7LXLQyAX5STUN4-ZWNFSSjYF8NjikNR8jz4dIaDB7_YkS5k68l31vYvvzMoFdpbywpTyzf4)
+![](https://data.cesko.digital/img/clanek-cesta-do-kmenoveho-tymu/4.jpeg)
 
 *Martin na Hack day pro projekt Jehlomat*
 
@@ -106,7 +106,7 @@ Permanentní rozkročenost a divergence je ale hrozně vyčerpávající, hlavn�
 
 **Martin**: Třeba co se týče role CTO, tak aby ho nepřekvapilo, co všechno role obnáší. Je to člověk, který řeší úplně všechno. Zároveň je tam strategická linka, kterou musí posouvat č.d dál. Nejde se zaseknout jenom na operativě. Taky je potřeba škálovat projekty, aby jich mohlo být víc. Škálovat operations, škálovat i to, co děláme s Portálem dobrovolníka, přicházet pořád s nějakými novými vylepšeními. Protože to svádí k tomu být jenom člověk, který sedí a čeká, kdo k němu s čím přijde.
 
-![](https://lh4.googleusercontent.com/OSVP4T5E0nTQQ8llKgoD5Ew5dUsGJuQD3RHzoOHwohXkSDyCxraNeQGzUEvAeexUhAMsWS99YA5vPS0fiRx9VTT4YQD73mAOqSCGOwMniA9o1zWPjv-uibdzZbEMYD9MLYwz7pprWIYNaF2vIvMcnYM)
+![](https://data.cesko.digital/img/clanek-cesta-do-kmenoveho-tymu/5.jpeg)
 
 *Martin při plánování obsahu na Portál dobrovolníka*
 
@@ -120,7 +120,7 @@ Protože kolem práce máme spoustu příběhů. Třeba s Volební kalkulačkou 
 
 Chtěl bych motivovat lidi, aby se nebáli pracovat pro neziskovky. Protože ten rozdíl je proti běžné komerční práci velký. A opravdu stojí za to to zažít. I třeba jen na rok.
 
-![](https://lh5.googleusercontent.com/QGbd-ImX4m5onvnChQrDqMJXpgmeVh-p-MCL9pxIlkmd_OUXYuTJMJpM-FAIG4782DmrtvwgmEI0lwVBq5plw3zdnSyfJKmAGZpLPb_SJ7ky7TJOeQ3D7Cu3XDv_P6iHzXtmAdSOh-oN5jCH79EdJnA)
+![](https://data.cesko.digital/img/clanek-cesta-do-kmenoveho-tymu/6.jpeg)
 
 *Martin na Hack day pro aplikaci Preventivka*
 
