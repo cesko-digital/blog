@@ -18,7 +18,7 @@ lang: cs
 ---
 ## Proč jste si vybrali Česko.Digital? Co bylo tím počátečním impulzem, proč jste se rozhodli zapojit do této komunity?
 
-**Martin Wenisch**: Já jsem v Česko.Digital skoro od začátku. Přidal jsem se hned, jak Jakub Nešetřil oznámil, že něco takového zakládá a proč. Ta myšlenka se mi strašně líbila, protože jsem předtím dlouhodobě pracoval na lokálních neziskových projektech s velkými neziskovkami různě po světě. Jedním z projektů byl například ten v Keni. Dobrovolničit část času na různých projektech je mi hodně blízké. Takže jsem se přidal hned v době, kdy jsme měli první projekty, jako bylo [Nedlužím státu](http://nedluzimstatu.cz), [Cityvizor](http://cityvizor.cz) a pro Transparency International projekt [Naši politici](http://nasipolitici.cz). Také jsme měli meetupy a první hack day, který jsem spolu se Zoulem (Tomášem Znamenáčkem), technicky připravoval.
+**Martin Wenisch**: Já jsem v Česko.Digital skoro od začátku. Přidal jsem se hned, jak Jakub Nešetřil oznámil, že něco takového zakládá a proč. Ta myšlenka se mi strašně líbila, protože jsem předtím dlouhodobě pracoval na lokálních neziskových projektech s velkými neziskovkami různě po světě. Jedním z projektů byl například ten v Keni. Dobrovolničit část času na různých projektech je mi hodně blízké. Takže jsem se přidal hned v době, kdy jsme měli první projekty, jako bylo [Nedlužím státu](http://nedluzimstatu.cz), [Cityvizor](http://cityvizor.cz) a pro Transparency International projekt [Naši politici](http://nasipolitici.cz). Také jsme měli meetupy a první hack day, který jsem spolu se Zoulem (Tomášem Znamenáčkem) technicky připravoval.
 
 ![](https://data.cesko.digital/img/clanek-cesta-do-kmenoveho-tymu/1.jpg)
 
