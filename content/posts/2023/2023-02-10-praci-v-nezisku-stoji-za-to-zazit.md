@@ -18,21 +18,21 @@ lang: cs
 ---
 ## Proč jste si vybrali Česko.Digital? Co bylo tím počátečním impulzem, proč jste se rozhodli zapojit do této komunity?
 
-**Martin Wenisch**: Já jsem v Česko.Digital skoro od začátku. Přidal jsem se hned, jak Jakub Nešetřil oznámil, že něco takového zakládá a proč. Ta myšlenka se mi strašně líbila, protože jsem předtím dlouhodobě pracoval na lokálních neziskových projektech s velkými neziskovkami různě po světě. Jedním z projektů byl například ten  v Keni. Dobrovolničit část času na různých projektech je mi hodně blízké. Takže jsem se přidal hned v době, kdy jsme měli první projekty, jako bylo [Nedlužím státu](http://nedluzimstatu.cz), [Cityvizor](http://cityvizor.cz) a pro Transparency International projekt [Naši politici](http://nasipolitici.cz). Také jsme měli meetupy a první hack day, který jsem spolu se Zoulem (Tomášem Znamenáčkem), technicky připravoval.
+**Martin Wenisch**: Já jsem v Česko.Digital skoro od začátku. Přidal jsem se hned, jak Jakub Nešetřil oznámil, že něco takového zakládá a proč. Ta myšlenka se mi strašně líbila, protože jsem předtím dlouhodobě pracoval na lokálních neziskových projektech s velkými neziskovkami různě po světě. Jedním z projektů byl například ten v Keni. Dobrovolničit část času na různých projektech je mi hodně blízké. Takže jsem se přidal hned v době, kdy jsme měli první projekty, jako bylo [Nedlužím státu](http://nedluzimstatu.cz), [Cityvizor](http://cityvizor.cz) a pro Transparency International projekt [Naši politici](http://nasipolitici.cz). Také jsme měli meetupy a první hack day, který jsem spolu se Zoulem (Tomášem Znamenáčkem), technicky připravoval.
 
 ![](https://data.cesko.digital/img/clanek-cesta-do-kmenoveho-tymu/1.jpg)
 
 *Martin na Hack day #1*
 
-**Tomáš Znamenáček**: Jsem v č.d. od jeho založení, čili od května 2019. Něco podobného jsem chtěl dělat už hrozně dlouho. Chtěl jsem pracovat v tom průniku technologií a občanské společnosti. Už někdy na podzim v 2018 jsem porůznu psal nějakým lidem z Open Society Fund, jestli by nechtěli něco podobného dělat. Říkali, že něco takového zrovna domlouvají. A to, o čem tehdy mluvili, byly zárodky č.d. 
+**Tomáš Znamenáček**: Jsem v č.d od jeho založení, čili od května 2019. Něco podobného jsem chtěl dělat už hrozně dlouho. Chtěl jsem pracovat v tom průniku technologií a občanské společnosti. Už někdy na podzim v 2018 jsem porůznu psal nějakým lidem z Open Society Fund, jestli by nechtěli něco podobného dělat. Říkali, že něco takového zrovna domlouvají. A to, o čem tehdy mluvili, byly zárodky č.d. 
 
-Tenkrát z toho nic nevzešlo, ale když se na jaře objevilo č.d., tak jsem po tom hned skočil, přidal jsem se do Slacku a začal jsem se zapojovat, kde to šlo.
+Tenkrát z toho nic nevzešlo, ale když se na jaře objevilo č.d, tak jsem po tom hned skočil, přidal jsem se do Slacku a začal jsem se zapojovat, kde to šlo.
 
-## Jakou funkci dnes v č.d. zastáváte?
+## Jakou funkci dnes v č.d zastáváte?
 
 **Martin**: Jsem víceméně pořád dobrovolník, dělám technickou podporu. Jakékoliv problémy s infrastrukturou, s administrací nástrojů, když někdo potřebuje založit e-maily. Sleduju support channel a když někdo něco napíše, snažím se odpovídat. A teď jsem konzultoval jako mentor u dvou projektů – [Volební kalkulačka](http://volebnikalkulacka.cz) a [Darování hotových pokrmů](https://zachranjidlo.cz/).
 
-Ale na full time jsem byl skoro rok jako CTO. To se k tomu přidal ještě strategický rozvoj č.d., což bylo super. Výsledky byly pomalé, ale podařilo se nám toho dost. Rozjeli jsme Portál dobrovolníka, dělali jsme obsah, Show & Tell, Tech talky…
+Ale na full time jsem byl skoro rok jako CTO. To se k tomu přidal ještě strategický rozvoj č.d, což bylo super. Výsledky byly pomalé, ale podařilo se nám toho dost. Rozjeli jsme Portál dobrovolníka, dělali jsme obsah, Show & Tell, Tech talky…
 
 **Tom**: Nastupoval jsem vlastně do „marketingového týmu“, měl jsem se starat o obsah. Věci se ale v č.d hodně přelévají, takže teď se starám nejvíce o technické věci – programuju web a různé interní nástroje, které je potřeba. Pracuju jako technická podpora nebo technický konzultant projektů, když něco potřebují. A starám se o to, aby se v č.d „svítilo a topilo“. Zkrátka, aby technické věci, které mají běžet, běžely, pokud možno co nejčastěji.
 
@@ -42,7 +42,7 @@ Ale na full time jsem byl skoro rok jako CTO. To se k tomu přidal ještě strat
 
 ## Jak k téhle změně došlo?
 
-**Tom**: Dalo by se říct, že jsme si uvědomili, že poměrně striktní rozdělení na marketingový nebo projektový tým nedává moc smysl. Spíš je dobré si uvědomit, kdo má jaké kompetence, a pak ty lidi míchat ad hoc podle kompetencí. Tím pádem zmizelo to pevné dělení rolí. Dlouhodobě se ale ukázalo, že je potřeba víc můj technický úhel než  obsahový nebo marketingový.
+**Tom**: Dalo by se říct, že jsme si uvědomili, že poměrně striktní rozdělení na marketingový nebo projektový tým nedává moc smysl. Spíš je dobré si uvědomit, kdo má jaké kompetence, a pak ty lidi míchat ad hoc podle kompetencí. Tím pádem zmizelo to pevné dělení rolí. Dlouhodobě se ale ukázalo, že je potřeba víc můj technický úhel než obsahový nebo marketingový.
 
 ## Kdy vás poprvé napadlo, že by se z dobrovolnické práce mohlo stát něco víc?
 
