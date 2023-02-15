@@ -7,6 +7,7 @@ interface PageProps {
   title: string;
   description: string;
   coverUrl?: string;
+  children?: React.ReactNode;
 }
 
 /** Main page layout with head, navigation and footer */
