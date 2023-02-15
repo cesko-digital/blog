@@ -14,8 +14,8 @@ const NavigationBar: React.FC<Props> = (props) => (
       <div>
         <div className="toolbar-links">
           {props.router.asPath !== "/" && (
-            <Link href="/">
-              <a className="toolbar-link">← Zpět na všechny články</a>
+            <Link href="/" className="toolbar-link">
+              ← Zpět na všechny články
             </Link>
           )}
         </div>
