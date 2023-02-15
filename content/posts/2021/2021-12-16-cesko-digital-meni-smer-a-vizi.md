@@ -43,7 +43,7 @@ Co se týče plnění organizačních cílů, vytvořili jsme v rámci Česko.Di
 2. Tým **Dobro on board** se zaměřuje na krátkodobě zapojené dobrovolníky a pravidelně zapojené dobrovolníky – specialisty.
 3. Poslední tým **Masters** se zaměřuje na cílovou skupinu, která by se mohla stát ambasadory Česko.Digital, tj. mentory, kouče, agilní a kompetenční leadery a zadavatele projektů z řad neziskových organizací.
 
-![](volunteer-engagement.png)
+![](https://data.cesko.digital/img/volunteer-engagement.png)
 
 Všechny 3 týmy jsou složeny z členů kmenového týmu Česko.Digital a vybraných dobrovolníků – zástupců konkrétních cílových skupin. Věříme, že vytvořením tří týmů dle různých cílových skupin **dokážeme lépe a přesněji reagovat na požadavky a nároky těchto cílových skupin**, které se od sebe významně odlišují, a že tak významně přispějeme k naplnění nové vize organizace.
 
@@ -69,7 +69,7 @@ Přestože máte skvělého facilitátora, **je potřeba být v rámci designu w
 
 Někdy je také třeba témata odlehčit a mít i stmelující aktivity jako společný oběd, kávu či drink po dlouhém dni, abyste odcházeli s pozitivními emocemi.
 
-![](workshop-nova-vize-cd.jpg)
+![](https://data.cesko.digital/img/workshop-nova-vize-cd.jpg)
 
 # Jaké jsou klíčové myšlenky nové vize?
 
@@ -89,7 +89,7 @@ Do budoucna proto **chystáme rozšířit plán příležitostí a sdílení kno
 
 Vnímala jsem Česko.Digital hlavně jako „spoludoručovatele“ projektů. Při představení dobrovolnické pyramidy jsem si uvědomila, že většinu energie jsme zaměřovali na její špičku – tedy právě dlouhodobě aktivní dobrovolníky a dodávání aktivit na projektech.
 
-![](martina-citace.png)
+![](https://data.cesko.digital/newsletter/29/martina-citace.png)
 
 S tím souvisí i to, že chceme posunout vnímání Česko.Digital od dodavatele projektů na akcelerátor lidí a projektů.
 
