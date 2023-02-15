@@ -15,15 +15,6 @@ const Layout: React.FC<PageProps> = (props) => {
   return (
     <>
       <Head {...props} />
-      <Script src="https://www.googletagmanager.com/gtag/js?id=UA-140227366-2" />
-      <Script id="google-analytcs">
-        {`
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'UA-140227366-2', { client_storage: 'none', anonymize_ip: true });
-        `}
-      </Script>
       <Script
         data-domain="blog.cesko.digital"
         src="https://plausible.io/js/plausible.js"
