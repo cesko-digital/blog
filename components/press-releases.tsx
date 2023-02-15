@@ -1,5 +1,6 @@
 import { PostMetadata } from "lib/post";
 import Link from "next/link";
+import ClientRender from "./client-render";
 
 interface Props {
   posts: readonly PostMetadata[];
@@ -23,7 +24,8 @@ const PressReleaseListing: React.FC<Props> = ({ posts }) => {
           <div className="press-release-divider" />
           <Link href={post.path} className="press-release-link">
             <span className="press-release-text">
-              {formatDate(post.date)} • {post.title}
+              <ClientRender>{formatDate(post.date)}</ClientRender> •{" "}
+              {post.title}
             </span>
           </Link>
         </div>

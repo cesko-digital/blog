@@ -1,3 +1,4 @@
+import ClientRender from "components/client-render";
 import Layout from "components/layout";
 import PostCard from "components/post-card";
 import PressReleaseListing from "components/press-releases";
@@ -64,7 +65,7 @@ const PostBody: React.FC<Props> = ({ post, author }) => {
 
       <div className="post-wrapper">
         <div className="post-metadata">
-          {formatDate(post.date)}
+          <ClientRender>{formatDate(post.date)}</ClientRender>
           {" • "}
           <a className="post-author" href={`mailto:${author.email}`}>
             {author.name}
