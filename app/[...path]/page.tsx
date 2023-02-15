@@ -1,4 +1,3 @@
-import ClientRender from "components/client-render";
 import Layout from "components/layout";
 import PostCard from "components/post-card";
 import PressReleaseListing from "components/press-releases";
@@ -6,25 +5,24 @@ import { Author } from "lib/author";
 import { BlogPost, PostMetadata, stripBlogPostBody } from "lib/post";
 import { siteData } from "lib/site-data";
 import { markdownToHTML } from "lib/utils";
-import { NextPage, GetStaticProps, GetStaticPaths } from "next";
-import { ParsedUrlQuery } from "querystring";
 
-interface Props {
-  post: BlogPost;
-  otherPosts: PostMetadata[];
-  pressReleases: PostMetadata[];
-  authors: readonly Author[];
-  author: Author;
-}
-
-interface QueryParams extends ParsedUrlQuery {
-  path: string[];
-}
-
-const Post: NextPage<Props> = (props) => {
-  const { post, otherPosts, pressReleases, authors } = props;
+const Post = ({ params }: any) => {
+  const { path } = params;
+  const mergedPath = "/" + path.join("/");
+  const allPosts = [...siteData.posts, ...siteData.pressReleases];
+  const post = allPosts.find((post) => post.path === mergedPath)!;
+  const author = siteData.authors.find((a) => a.id === post.authorId)!;
+  const authors = siteData.authors;
+  const otherPosts = siteData.posts
+    .filter((p) => p.path !== post.path)
+    .map(stripBlogPostBody)
+    .slice(0, 3);
+  const pressReleases = siteData.pressReleases
+    .map(stripBlogPostBody)
+    .slice(0, 6);
   const authorOf = (post: PostMetadata) =>
     authors.find((a) => a.id === post.authorId)!;
+
   return (
     <Layout
       title={post.title}
@@ -33,7 +31,7 @@ const Post: NextPage<Props> = (props) => {
     >
       <div className="post-listing-row">
         <div className="main-post">
-          <PostBody {...props} />
+          <PostBody post={post} author={author} />
         </div>
 
         <div className="press-release-box">
@@ -50,7 +48,7 @@ const Post: NextPage<Props> = (props) => {
   );
 };
 
-const PostBody: React.FC<Props> = ({ post, author }) => {
+const PostBody = ({ post, author }: { post: BlogPost; author: Author }) => {
   const formatDate = (stamp: string) =>
     new Date(stamp).toLocaleDateString("cs-CZ", { dateStyle: "medium" });
   return (
@@ -65,7 +63,7 @@ const PostBody: React.FC<Props> = ({ post, author }) => {
 
       <div className="post-wrapper">
         <div className="post-metadata">
-          <ClientRender>{formatDate(post.date)}</ClientRender>
+          {formatDate(post.date)}
           {" • "}
           <a className="post-author" href={`mailto:${author.email}`}>
             {author.name}
@@ -90,42 +88,11 @@ const PostBody: React.FC<Props> = ({ post, author }) => {
   );
 };
 
-export const getStaticProps: GetStaticProps<Props, QueryParams> = async (
-  context
-) => {
-  const { path } = context.params!;
-  const mergedPath = "/" + path.join("/");
+export async function generateStaticParams() {
   const allPosts = [...siteData.posts, ...siteData.pressReleases];
-  const post = allPosts.find((post) => post.path === mergedPath)!;
-  const author = siteData.authors.find((a) => a.id === post.authorId)!;
-  const authors = siteData.authors;
-  const otherPosts = siteData.posts
-    .filter((p) => p.path !== post.path)
-    .map(stripBlogPostBody)
-    .slice(0, 3);
-  const pressReleases = siteData.pressReleases
-    .map(stripBlogPostBody)
-    .slice(0, 6);
-  return {
-    props: {
-      post,
-      author,
-      authors,
-      otherPosts,
-      pressReleases,
-    },
-  };
-};
-
-export const getStaticPaths: GetStaticPaths<QueryParams> = async () => {
-  const allPosts = [...siteData.posts, ...siteData.pressReleases];
-  const paths = allPosts.map((post) => ({
-    params: { path: post.path.split("/").slice(1) },
+  return allPosts.map((post) => ({
+    path: post.path.split("/").slice(1),
   }));
-  return {
-    paths,
-    fallback: false,
-  };
-};
+}
 
 export default Post;
