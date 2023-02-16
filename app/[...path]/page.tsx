@@ -4,8 +4,17 @@ import { Author } from "lib/author";
 import { BlogPost, PostMetadata, stripBlogPostBody } from "lib/post";
 import { siteData } from "lib/site-data";
 import { markdownToHTML } from "lib/utils";
+import { Metadata } from "next";
 
-const Post = ({ params }: any) => {
+type Params = {
+  path: string[];
+};
+
+type Props = {
+  params: Params;
+};
+
+const Post = ({ params }: Props) => {
   const post = postForPath(params.path);
   const author = siteData.authors.find((a) => a.id === post.authorId)!;
   const authors = siteData.authors;
@@ -85,14 +94,14 @@ const postForPath = (path: string[]) => {
   return allPosts.find((post) => post.path === mergedPath)!;
 };
 
-export async function generateStaticParams() {
+export async function generateStaticParams(): Promise<Params[]> {
   const allPosts = [...siteData.posts, ...siteData.pressReleases];
   return allPosts.map((post) => ({
     path: post.path.split("/").slice(1),
   }));
 }
 
-export async function generateMetadata({ params }: any) {
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const post = postForPath(params.path);
   return {
     title: post.title,

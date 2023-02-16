@@ -2,6 +2,7 @@ import { PostMetadata } from "lib/post";
 import { siteData } from "lib/site-data";
 import PostCard from "components/post-card";
 import PressReleaseListing from "components/press-releases";
+import { Metadata } from "next";
 
 const Home = () => {
   const authors = siteData.authors;
@@ -31,7 +32,7 @@ const Home = () => {
   );
 };
 
-export const metadata = {
+export const metadata: Metadata = {
   title: "Blog Česko.Digital",
   openGraph: {
     title: "Blog Česko.Digital",
