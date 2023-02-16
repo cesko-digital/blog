@@ -9,6 +9,7 @@ import {
 } from "shared/site-data";
 import { markdownToHTML } from "shared/utils";
 import { Metadata } from "next";
+import { notFound } from "next/navigation";
 
 type Params = {
   path: string[];
@@ -19,7 +20,7 @@ type Props = {
 };
 
 const Post = ({ params }: Props) => {
-  const post = postForPath(params.path);
+  const post = postForPath(params.path) || notFound();
   const authors = getAllAuthors();
   const author = authors.find((a) => a.id === post.authorId)!;
   const otherPosts = getAllBlogPosts()
@@ -95,7 +96,7 @@ const PostBody = ({ post, author }: { post: BlogPost; author: Author }) => {
 const postForPath = (path: string[]) => {
   const mergedPath = "/" + path.join("/");
   const allPosts = [...getAllBlogPosts(), ...getAllPressReleases()];
-  return allPosts.find((post) => post.path === mergedPath)!;
+  return allPosts.find((post) => post.path === mergedPath);
 };
 
 export async function generateStaticParams(): Promise<Params[]> {
@@ -106,7 +107,7 @@ export async function generateStaticParams(): Promise<Params[]> {
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const post = postForPath(params.path);
+  const post = postForPath(params.path) || notFound();
   return {
     title: post.title,
     openGraph: {
