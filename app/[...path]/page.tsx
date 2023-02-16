@@ -1,4 +1,3 @@
-import Layout from "components/layout";
 import PostCard from "components/post-card";
 import PressReleaseListing from "components/press-releases";
 import { Author } from "lib/author";
@@ -21,23 +20,21 @@ const Post = ({ params }: any) => {
     authors.find((a) => a.id === post.authorId)!;
 
   return (
-    <Layout>
-      <div className="post-listing-row">
-        <div className="main-post">
-          <PostBody post={post} author={author} />
-        </div>
-
-        <div className="press-release-box">
-          <PressReleaseListing posts={pressReleases} />
-        </div>
-
-        {otherPosts.map((post) => (
-          <div className="post-listing-post" key={post.path}>
-            <PostCard post={post} author={authorOf(post)} />
-          </div>
-        ))}
+    <div className="post-listing-row">
+      <div className="main-post">
+        <PostBody post={post} author={author} />
       </div>
-    </Layout>
+
+      <div className="press-release-box">
+        <PressReleaseListing posts={pressReleases} />
+      </div>
+
+      {otherPosts.map((post) => (
+        <div className="post-listing-post" key={post.path}>
+          <PostCard post={post} author={authorOf(post)} />
+        </div>
+      ))}
+    </div>
   );
 };
 

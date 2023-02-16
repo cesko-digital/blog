@@ -1,10 +1,12 @@
+import Footer from "components/footer";
+import NavigationBar from "components/navigation-bar";
 import "../global.css";
 
-export default function RootLayout({
-  children,
-}: {
+type Props = {
   children: React.ReactNode;
-}) {
+};
+
+export default function RootLayout({ children }: Props) {
   return (
     <html>
       <head>
@@ -21,7 +23,13 @@ export default function RootLayout({
           defer
         />
       </head>
-      <body>{children}</body>
+      <body>
+        <div className="main-wrapper">
+          <NavigationBar />
+          <div className="content-wrapper">{children}</div>
+          <Footer />
+        </div>
+      </body>
     </html>
   );
 }
