@@ -19,14 +19,11 @@ function loadSiteData(): SiteData {
   console.log(
     `Loaded ${posts.length} posts, ${pressReleases.length} press releases, ${authors.length} authors.`
   );
-  return filterUndefines({
+  return {
     posts,
     pressReleases,
     authors,
-  });
+  };
 }
-
-// This is a hack, see https://github.com/vercel/next.js/issues/11993
-const filterUndefines = <T>(data: T): T => JSON.parse(JSON.stringify(data));
 
 export const siteData = loadSiteData();
