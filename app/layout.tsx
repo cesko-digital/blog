@@ -1,5 +1,5 @@
-import Footer from "components/footer";
-import NavigationBar from "components/navigation-bar";
+import Footer from "app/footer";
+import NavigationBar from "app/navigation-bar";
 import "../global.css";
 
 type Props = {
