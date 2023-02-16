@@ -19,17 +19,10 @@ export const metadata = {
 
 const Home = () => {
   const { authors } = siteData;
-  const pressReleases = siteData.pressReleases
-    .map(stripBlogPostBody)
-    .slice(0, 6);
   const posts = siteData.posts.map(stripBlogPostBody);
   return (
     <div>
-      <PostListing
-        posts={posts}
-        pressReleases={pressReleases}
-        authors={authors}
-      />
+      <PostListing posts={posts} authors={authors} />
     </div>
   );
 };

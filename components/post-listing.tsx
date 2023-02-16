@@ -5,11 +5,10 @@ import PressReleaseListing from "./press-releases";
 
 interface Props {
   posts: readonly PostMetadata[];
-  pressReleases: readonly PostMetadata[];
   authors: readonly Author[];
 }
 
-const PostListing: React.FC<Props> = ({ posts, pressReleases, authors }) => {
+const PostListing: React.FC<Props> = ({ posts, authors }) => {
   const firstPost = posts[0];
   const otherPosts = [...posts.slice(1, posts.length)];
   const authorOf = (post: PostMetadata) =>
@@ -25,7 +24,7 @@ const PostListing: React.FC<Props> = ({ posts, pressReleases, authors }) => {
       </div>
 
       <div className="press-release-box">
-        <PressReleaseListing posts={pressReleases} />
+        <PressReleaseListing />
       </div>
 
       {otherPosts.map((post) => (

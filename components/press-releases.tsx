@@ -1,11 +1,8 @@
-import { PostMetadata } from "lib/post";
+import { siteData } from "lib/site-data";
 import Link from "next/link";
 
-interface Props {
-  posts: readonly PostMetadata[];
-}
-
-const PressReleaseListing: React.FC<Props> = ({ posts }) => {
+const PressReleaseListing = () => {
+  const posts = siteData.pressReleases.slice(0, 6);
   const formatDate = (stamp: string) =>
     new Date(stamp).toLocaleDateString("cs-CZ", { dateStyle: "medium" });
   return (

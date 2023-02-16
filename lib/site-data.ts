@@ -2,7 +2,6 @@ import { Author, getAllAuthors } from "./author";
 import { BlogPost, compareBlogPostsByDate } from "./post";
 import { getAllPosts } from "./post-loading";
 import { join, resolve } from "path";
-import fs from "fs";
 
 export interface SiteData {
   posts: readonly BlogPost[];

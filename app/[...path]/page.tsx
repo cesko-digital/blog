@@ -13,9 +13,6 @@ const Post = ({ params }: any) => {
     .filter((p) => p.path !== post.path)
     .map(stripBlogPostBody)
     .slice(0, 3);
-  const pressReleases = siteData.pressReleases
-    .map(stripBlogPostBody)
-    .slice(0, 6);
   const authorOf = (post: PostMetadata) =>
     authors.find((a) => a.id === post.authorId)!;
 
@@ -26,7 +23,7 @@ const Post = ({ params }: any) => {
       </div>
 
       <div className="press-release-box">
-        <PressReleaseListing posts={pressReleases} />
+        <PressReleaseListing />
       </div>
 
       {otherPosts.map((post) => (
