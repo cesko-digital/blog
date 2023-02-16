@@ -1,9 +1,9 @@
-import PostCard from "components/post-card";
-import PressReleaseListing from "components/press-releases";
-import { Author } from "lib/author";
-import { BlogPost, PostMetadata, stripBlogPostBody } from "lib/post";
-import { siteData } from "lib/site-data";
-import { markdownToHTML } from "lib/utils";
+import PostCard from "shared/post-card";
+import PressReleaseListing from "shared/press-releases";
+import { Author } from "shared/author";
+import { BlogPost, PostMetadata, stripBlogPostBody } from "shared/post";
+import { siteData } from "shared/site-data";
+import { markdownToHTML } from "shared/utils";
 import { Metadata } from "next";
 
 type Params = {

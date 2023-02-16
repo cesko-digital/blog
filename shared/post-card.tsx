@@ -1,5 +1,5 @@
-import { Author } from "lib/author";
-import { PostMetadata } from "lib/post";
+import { Author } from "shared/author";
+import { PostMetadata } from "shared/post";
 import Link from "next/link";
 
 interface Props {

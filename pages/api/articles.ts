@@ -1,6 +1,6 @@
 import type { NextApiRequest, NextApiResponse } from "next";
-import { BlogPost } from "lib/post";
-import { siteData } from "lib/site-data";
+import { BlogPost } from "shared/post";
+import { siteData } from "shared/site-data";
 
 interface PublicParams {
   url: string;

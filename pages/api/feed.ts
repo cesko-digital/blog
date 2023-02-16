@@ -1,7 +1,7 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import { Feed } from "feed";
-import { siteData } from "lib/site-data";
-import { feedItemFromBlogPost } from "lib/utils";
+import { siteData } from "shared/site-data";
+import { feedItemFromBlogPost } from "shared/utils";
 
 export default async function handler(
   request: NextApiRequest,

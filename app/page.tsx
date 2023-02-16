@@ -1,7 +1,7 @@
-import { PostMetadata } from "lib/post";
-import { siteData } from "lib/site-data";
-import PostCard from "components/post-card";
-import PressReleaseListing from "components/press-releases";
+import { PostMetadata } from "shared/post";
+import { siteData } from "shared/site-data";
+import PostCard from "shared/post-card";
+import PressReleaseListing from "shared/press-releases";
 import { Metadata } from "next";
 
 const Home = () => {

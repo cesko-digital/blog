@@ -1,4 +1,4 @@
-import { siteData } from "lib/site-data";
+import { siteData } from "shared/site-data";
 import Link from "next/link";
 
 const PressReleaseListing = () => {
