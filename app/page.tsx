@@ -1,12 +1,12 @@
 import { PostMetadata } from "shared/post";
-import { siteData } from "shared/site-data";
+import { getAllAuthors, getAllBlogPosts } from "shared/site-data";
 import PostCard from "shared/post-card";
 import PressReleaseListing from "shared/press-releases";
 import { Metadata } from "next";
 
 const Home = () => {
-  const authors = siteData.authors;
-  const [firstPost, ...otherPosts] = siteData.posts;
+  const authors = getAllAuthors();
+  const [firstPost, ...otherPosts] = getAllBlogPosts();
   const authorOf = (post: PostMetadata) =>
     authors.find((a) => a.id === post.authorId)!;
   return (

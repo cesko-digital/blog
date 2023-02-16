@@ -1,8 +1,8 @@
-import { siteData } from "shared/site-data";
+import { getAllPressReleases } from "shared/site-data";
 import Link from "next/link";
 
 const PressReleaseListing = () => {
-  const posts = siteData.pressReleases.slice(0, 6);
+  const posts = getAllPressReleases().slice(0, 6);
   const formatDate = (stamp: string) =>
     new Date(stamp).toLocaleDateString("cs-CZ", { dateStyle: "medium" });
   return (

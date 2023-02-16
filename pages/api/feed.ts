@@ -1,6 +1,6 @@
-import type { NextApiRequest, NextApiResponse } from "next";
+import { NextApiRequest, NextApiResponse } from "next";
 import { Feed } from "feed";
-import { siteData } from "shared/site-data";
+import { getAllBlogPosts } from "shared/site-data";
 import { feedItemFromBlogPost } from "shared/utils";
 
 export default async function handler(
@@ -16,7 +16,7 @@ export default async function handler(
     image: "https://data.cesko.digital/img/172a1526.png",
     copyright: "Česko.Digital a přispěvatelé",
   });
-  siteData.posts.map(feedItemFromBlogPost).forEach(feed.addItem);
+  getAllBlogPosts().map(feedItemFromBlogPost).forEach(feed.addItem);
   response.setHeader(
     "Content-Type",
     request.query.plain ? "text/plain" : "application/rss+xml"

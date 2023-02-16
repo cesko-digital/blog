@@ -2,7 +2,11 @@ import PostCard from "shared/post-card";
 import PressReleaseListing from "shared/press-releases";
 import { Author } from "shared/author";
 import { BlogPost, PostMetadata, stripBlogPostBody } from "shared/post";
-import { siteData } from "shared/site-data";
+import {
+  getAllAuthors,
+  getAllBlogPosts,
+  getAllPressReleases,
+} from "shared/site-data";
 import { markdownToHTML } from "shared/utils";
 import { Metadata } from "next";
 
@@ -16,9 +20,9 @@ type Props = {
 
 const Post = ({ params }: Props) => {
   const post = postForPath(params.path);
-  const author = siteData.authors.find((a) => a.id === post.authorId)!;
-  const authors = siteData.authors;
-  const otherPosts = siteData.posts
+  const authors = getAllAuthors();
+  const author = authors.find((a) => a.id === post.authorId)!;
+  const otherPosts = getAllBlogPosts()
     .filter((p) => p.path !== post.path)
     .map(stripBlogPostBody)
     .slice(0, 3);
@@ -90,12 +94,12 @@ const PostBody = ({ post, author }: { post: BlogPost; author: Author }) => {
 
 const postForPath = (path: string[]) => {
   const mergedPath = "/" + path.join("/");
-  const allPosts = [...siteData.posts, ...siteData.pressReleases];
+  const allPosts = [...getAllBlogPosts(), ...getAllPressReleases()];
   return allPosts.find((post) => post.path === mergedPath)!;
 };
 
 export async function generateStaticParams(): Promise<Params[]> {
-  const allPosts = [...siteData.posts, ...siteData.pressReleases];
+  const allPosts = [...getAllBlogPosts(), ...getAllPressReleases()];
   return allPosts.map((post) => ({
     path: post.path.split("/").slice(1),
   }));
