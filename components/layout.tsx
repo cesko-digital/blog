@@ -4,9 +4,6 @@ import { default as NextHead } from "next/head";
 import Script from "next/script";
 
 interface PageProps {
-  title: string;
-  description: string;
-  coverUrl?: string;
   children?: React.ReactNode;
 }
 
@@ -29,13 +26,8 @@ const Layout: React.FC<PageProps> = (props) => {
 };
 
 const Head: React.FC<PageProps> = (props) => {
-  const { title, description, coverUrl } = props;
   return (
     <NextHead>
-      <title>{title}</title>
-      <meta name="description" content={description} />
-      <meta property="og:title" content={title} />
-      <meta property="og:image" content={coverUrl} />
       <link rel="shortcut icon" type="image/png" href="/favicon.png" />
       <link
         rel="alternate"

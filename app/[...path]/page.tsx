@@ -7,10 +7,7 @@ import { siteData } from "lib/site-data";
 import { markdownToHTML } from "lib/utils";
 
 const Post = ({ params }: any) => {
-  const { path } = params;
-  const mergedPath = "/" + path.join("/");
-  const allPosts = [...siteData.posts, ...siteData.pressReleases];
-  const post = allPosts.find((post) => post.path === mergedPath)!;
+  const post = postForPath(params.path);
   const author = siteData.authors.find((a) => a.id === post.authorId)!;
   const authors = siteData.authors;
   const otherPosts = siteData.posts
@@ -24,11 +21,7 @@ const Post = ({ params }: any) => {
     authors.find((a) => a.id === post.authorId)!;
 
   return (
-    <Layout
-      title={post.title}
-      description={post.description}
-      coverUrl={post.coverImageUrl}
-    >
+    <Layout>
       <div className="post-listing-row">
         <div className="main-post">
           <PostBody post={post} author={author} />
@@ -88,11 +81,37 @@ const PostBody = ({ post, author }: { post: BlogPost; author: Author }) => {
   );
 };
 
+//
+// Support
+//
+
+const postForPath = (path: string[]) => {
+  const mergedPath = "/" + path.join("/");
+  const allPosts = [...siteData.posts, ...siteData.pressReleases];
+  return allPosts.find((post) => post.path === mergedPath)!;
+};
+
 export async function generateStaticParams() {
   const allPosts = [...siteData.posts, ...siteData.pressReleases];
   return allPosts.map((post) => ({
     path: post.path.split("/").slice(1),
   }));
+}
+
+export async function generateMetadata({ params }: any) {
+  const post = postForPath(params.path);
+  return {
+    title: post.title,
+    openGraph: {
+      title: post.title,
+      description: post.description,
+      images: [
+        {
+          url: post.coverImageUrl,
+        },
+      ],
+    },
+  };
 }
 
 export default Post;
