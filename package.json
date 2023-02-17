@@ -5,6 +5,7 @@
     "build": "next build",
     "start": "next start",
     "test": "jest",
+    "playwright": "playwright test",
     "typecheck": "tsc --noemit",
     "lint": "next lint"
   },

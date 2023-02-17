@@ -7,6 +7,6 @@ test("Article endpoint works", async ({ page }) => {
 });
 
 test("RSS feed endpoint works", async ({ page }) => {
-  const response = await page.request.get("/api/feed");
+  const response = await page.request.get("/rss.xml");
   await expect(response).toBeOK();
 });
