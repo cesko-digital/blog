@@ -1,7 +1,6 @@
-import { Author } from "lib/author";
-import { PostMetadata } from "lib/post";
+import { Author } from "shared/author";
+import { PostMetadata } from "shared/post";
 import Link from "next/link";
-import ClientRender from "./client-render";
 
 interface Props {
   post: PostMetadata;
@@ -26,7 +25,7 @@ const PostCard: React.FC<Props> = ({ post, author, showCover = false }) => {
         )}
         <div className="post-card-meta">
           <div className="post-card-author">
-            <ClientRender>{formatDate(post.date)}</ClientRender>
+            {formatDate(post.date)}
             {" • "}
             {author.name}
           </div>

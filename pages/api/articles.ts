@@ -1,6 +1,6 @@
-import type { NextApiRequest, NextApiResponse } from "next";
-import { BlogPost } from "lib/post";
-import { siteData } from "lib/site-data";
+import { NextApiRequest, NextApiResponse } from "next";
+import { BlogPost } from "shared/post";
+import { getAllBlogPosts } from "shared/site-data";
 
 interface PublicParams {
   url: string;
@@ -30,7 +30,7 @@ export default async function handler(
   request: NextApiRequest,
   response: NextApiResponse
 ) {
-  const posts = siteData.posts.map(getPublicParamsForPost);
+  const posts = getAllBlogPosts().map(getPublicParamsForPost);
   response.setHeader("Content-Type", "application/json");
   response.status(200).send(JSON.stringify(posts, null, 2));
 }

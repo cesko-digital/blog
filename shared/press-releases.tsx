@@ -1,12 +1,8 @@
-import { PostMetadata } from "lib/post";
+import { getAllPressReleases } from "shared/site-data";
 import Link from "next/link";
-import ClientRender from "./client-render";
 
-interface Props {
-  posts: readonly PostMetadata[];
-}
-
-const PressReleaseListing: React.FC<Props> = ({ posts }) => {
+const PressReleaseListing = () => {
+  const posts = getAllPressReleases().slice(0, 6);
   const formatDate = (stamp: string) =>
     new Date(stamp).toLocaleDateString("cs-CZ", { dateStyle: "medium" });
   return (
@@ -24,8 +20,7 @@ const PressReleaseListing: React.FC<Props> = ({ posts }) => {
           <div className="press-release-divider" />
           <Link href={post.path} className="press-release-link">
             <span className="press-release-text">
-              <ClientRender>{formatDate(post.date)}</ClientRender> •{" "}
-              {post.title}
+              {formatDate(post.date)} • {post.title}
             </span>
           </Link>
         </div>

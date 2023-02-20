@@ -3,7 +3,7 @@ title: Volební kalkulačka pomůže s výběrem prezidenta
 author: zoul
 cover: https://data.cesko.digital/web/sections/gallery/Prezidentskavolebnikalkulacka2023_.png
 date: 2023-01-04-11-55
-slug: volebni-kalkulacka-pro prezidentske-volby-2023
+slug: volebni-kalkulacka-pro-prezidentske-volby-2023
 description: Praha, 2.ledna 2023 - V lednu 2023 čeká Českou republiku volba
   prezidenta. Volební kalkulačka jako již tradičně nabídne možnost porovnat
   postoje kandidátů, tentokrát pro hlavu státu. Nezávislý přehledný online test
