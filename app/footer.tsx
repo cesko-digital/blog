@@ -12,6 +12,22 @@ const socialLinks = [
     name: "LinkedIn",
   },
   {
+    url: "https://www.instagram.com/cesko.digital/",
+    name: "Instagram",
+  },
+  {
+    url: "https://www.youtube.com/c/ČeskoDigital",
+    name: "YouTube",
+  },
+  {
+    url: "https://anchor.fm/poslouchatdigital",
+    name: "Podcast",
+  },
+  {
+    url: "https://www.cocuma.cz/company/cesko-digital/jobs/",
+    name: "Cocuma",
+  },
+  {
     url: "http://github.com/cesko-digital",
     name: "GitHub",
   },
