@@ -13,6 +13,8 @@ description: "Ahoj Česko.Digital! 👋 Nový newsletter je na světě. Jaké v�
   vejce. A poučení z neúspěchů v podnikání sdílí Jakub Cígl. Užij si čtení! "
 lang: cs
 ---
+**P﻿odcastovou verzi newsletteru si můžeš poslechnout  👉 [zde](https://anchor.fm/poslouchatdigital/episodes/poslouchat-st-digital10-Jak-zprovoznit-a-vyuvat-datovku--Tvome-mapu-dobrovolnk--Mme-za-sebou-prvn-hack-day-v-Livesportu-e1v0r5t)**
+
 # Horké novin(k)y měsíce
 
 ## Změny v komunikaci s úřady pro neziskové organizace jsou tady 
