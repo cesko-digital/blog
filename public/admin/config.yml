@@ -85,6 +85,7 @@ collections:
             "stefan.prokop",
             "jakub.cigl",
             "content.team",
+            "katerina.mullerova",
           ]
         required: true
       - label: "Tags"
@@ -218,6 +219,7 @@ collections:
             "stefan.prokop",
             "jakub.cigl",
             "content.team",
+            "katerina.mullerova",
           ]
         required: true
       - label: "Cover"
