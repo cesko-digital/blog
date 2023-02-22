@@ -1,7 +1,7 @@
 ---
 title: Nepanikař, nejsi na to sám. Aplikace, která pomáhá při duševních
   obtížích, má díky dobrovolníkům nový design
-author: lukas.n
+author: katerina.mullerova
 tags: null
 cover: https://data.cesko.digital/img/clanek-nepanikar-ocima-dobrovolniku/nepanikar-ocima-dobrovolniku.png
 date: 2023-02-22-11-57
