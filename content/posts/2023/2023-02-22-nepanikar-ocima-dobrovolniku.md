@@ -23,7 +23,7 @@ Začátky aplikace Nepanikař sahají do roku 2019. Dnes v aplikaci najdete **ch
 
 O tom, že je **aplikace úspěšná** a daří se jí pomáhat, svědčí i **řada ocenění**. Za tři roky fungování získala Cenu SDGs, Cenu Gratias Tibi a v neposlední řadě 4. místo v Křišťálové lupě 2022. Aplikaci chválí psychologové i psychiatři. Třeba MUDr. Zuzana Špačková z Psychiatrické kliniky FN Brno: *„Podobná aplikace u nás dosud chyběla a kromě praktického a jednoduchého používání vidím další benefit v tom, že její existence přibližuje úzkostné potíže jako něco, co k životu mnoha lidí patří, za co není třeba se stydět a co se dá úspěšně řešit.“*
 
-![](https://lh5.googleusercontent.com/ygYaswDRKWBcpDxYtFeyeWM--oOURDVdSn5zWwBmpsKSTrVT9w2HbLsgxPaKEZ_XinQQECd7yjTDn2wXUCaWphOCSOCefzwWSfYqpnXWo_v3uiA5gT2MGpAl7IgZh-PxPU2oxRnLffU2K_y5fXXA7A0)
+![](https://data.cesko.digital/img/clanek-nepanikar-ocima-dobrovolniku/1.png)
 
 # Do nového roku s novým designem
 
@@ -33,7 +33,7 @@ Výsledkem vzájemné spolupráce mezi dobrovolníky Česko.Digital a týmem Nep
 
 Nový design se však drží původního rozvržení, a proto nepřináší stávajícím uživatelům nepříjemný šok. Jak říká Veronika: *„Je důležité zachovat kontinuitu aplikace, aby pro nové i stávající uživatele byla přehledná. Člověk, který má paniku, se potřebuje rychle zorientovat a vědět, kam kliknout.“* 
 
-![](https://lh4.googleusercontent.com/UuzRXWatU7sRDHV5GIocrv14Y8c6QUHtGUupsHtAQOQpYHp0Cfhrw2R4TGeRU2312cFuPwFTxpLEbSGE-y5Vrqlqx75PwTBusrndyaWiJH_QmkAeYLROdTa4FYXHH0yBH-xp66ayAoU9t0VM1VFpIDk)
+![](https://data.cesko.digital/img/clanek-nepanikar-ocima-dobrovolniku/2.png)
 
 V aplikaci si můžete každý den zaznamenat, jak se cítíte, a vést si záznamy třeba o spánku nebo náladě. Čeká na vás hned několik modulů („deprese“, „úzkost a panika“, „chci si ublížit“, „myšlenky na sebevraždu“, „poruchy příjmu potravy“ a „mé záznamy“) v celkem **11 jazycích**.
 
@@ -41,7 +41,7 @@ V aplikaci si můžete každý den zaznamenat, jak se cítíte, a vést si zázn
 
 Do redesignu se pustil tým dobrovolníků Česko.Digital z řad dobro.vývojářů, UI designerů a dalších nadšenců. Za 10 měsíců vznikl **jednoduchý, uživatelsky přívětivý a vizuálně trendy vzhled**. Co na to říká Jiří Flachs, jeden z expertních dobrovolníků v UI? „*Původní design aplikace Nepanikař jsme výrazně posunuli. Myslím, že nyní působí mnohem pozitivněji.“*
 
-![](https://lh5.googleusercontent.com/uYZsC8vSMpyzUdPqiNS3Edom1G28ynKBl7VV2QiKba-MG2FVx8NKu-DtzsrQPWdcGUiLiPPM8L5l3pTBkMof1_aKJXdzInz94VApQmMuWbC-1MGQe8LBilYUJnPxsAeWexBxjp9ykTOGniZAOELqWC0)
+![](https://data.cesko.digital/img/clanek-nepanikar-ocima-dobrovolniku/3.png)
 
 Lilly Ahou Král má na starosti mentoring v marketingu a o aplikaci říká: *„Nepanikař je projekt velkého dobra. Aplikace pomáhá při veřejné osvětě týkající se deprese, pocitů úzkosti, ale i jiných psychických potíží.“*
 
