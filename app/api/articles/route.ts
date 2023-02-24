@@ -1,4 +1,3 @@
-import { NextApiRequest, NextApiResponse } from "next";
 import { BlogPost } from "shared/post";
 import { getAllBlogPosts } from "shared/site-data";
 
@@ -26,11 +25,10 @@ function getPublicParamsForPost(post: BlogPost): PublicParams {
   };
 }
 
-export default async function handler(
-  request: NextApiRequest,
-  response: NextApiResponse
-) {
+export async function GET() {
   const posts = getAllBlogPosts().map(getPublicParamsForPost);
-  response.setHeader("Content-Type", "application/json");
-  response.status(200).send(JSON.stringify(posts, null, 2));
+  return new Response(JSON.stringify(posts, null, 2), {
+    headers: { "Content-Type": "application/json" },
+    status: 200,
+  });
 }
