@@ -2,7 +2,7 @@ import { Feed } from "feed";
 import { getAllBlogPosts } from "shared/site-data";
 import { feedItemFromBlogPost } from "shared/utils";
 
-export async function GET(request: Request) {
+export async function GET() {
   const feed = new Feed({
     title: "Česko.Digital",
     description: "Skrz jedničky a nuly měníme Česko k lepšímu",
@@ -13,13 +13,10 @@ export async function GET(request: Request) {
     copyright: "Česko.Digital a přispěvatelé",
   });
   getAllBlogPosts().map(feedItemFromBlogPost).forEach(feed.addItem);
-  const { searchParams } = new URL(request.url);
   return new Response(feed.rss2(), {
     status: 200,
     headers: {
-      "Content-Type": searchParams.get("plain")
-        ? "text/plain"
-        : "application/rss+xml",
+      "Content-Type": "application/rss+xml",
     },
   });
 }
