@@ -4,6 +4,7 @@ title: "číst.digital/43: Jak zprovoznit a využívat datovku | Tvoříme mapu
 author: content.team
 tags:
   - newsletter
+  - cesko-digital-obsah
 cover: https://data.cesko.digital/newsletter/43/cover.png
 date: 2023-02-09-01-05
 slug: cist-digital-43
