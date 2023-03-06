@@ -4,6 +4,7 @@ title: "číst.digital/33: Safezóna se dětem líbí | Naše CEO poradkyní vl�
 author: content.team
 tags:
   - newsletter
+  - cesko-digital-obsah
 cover: https://data.cesko.digital/newsletter/33/cover33.png
 date: 2022-04-14-09-58
 slug: cist-digital-33
