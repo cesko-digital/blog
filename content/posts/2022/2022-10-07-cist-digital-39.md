@@ -5,6 +5,7 @@ title: "číst.digital/39: Losnu nebo Mažňáka? Volební kalkulačka ti pomů�
 author: content.team
 tags:
   - newsletter
+  - cesko-digital-obsah
 cover: https://data.cesko.digital/newsletter/39/cover39.png
 date: 2022-10-07-10-27
 slug: cist-digital-39
