@@ -4,6 +4,7 @@ title: "číst.digital/36: Kde ještě mají volno ve škole nebo školce? | Co 
 author: content.team
 tags:
   - newsletter
+  - cesko-digital-obsah
 cover: https://data.cesko.digital/newsletter/36/cover36.png
 date: 2022-07-04-04-13
 slug: cist-digital-36
