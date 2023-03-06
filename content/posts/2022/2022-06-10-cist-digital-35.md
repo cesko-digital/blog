@@ -4,6 +4,7 @@ title: "číst.digital/35: Dobrovolnictví jako lék na syndrom vyhoření? |
 author: content.team
 tags:
   - newsletter
+  - cesko-digital-obsah
 cover: https://data.cesko.digital/newsletter/35/cover35.png
 date: 2022-06-10-12-28
 slug: cist-digital-35
