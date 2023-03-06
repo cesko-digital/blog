@@ -4,6 +4,7 @@ title: "číst.digital/38: Kolik obědů se podařilo zachránit? | Koho budeš 
 author: content.team
 tags:
   - newsletter
+  - cesko-digital-obsah
 cover: https://data.cesko.digital/newsletter/38/cover38.png
 date: 2022-09-11-02-08
 slug: cist-digital-38
