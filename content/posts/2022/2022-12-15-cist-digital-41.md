@@ -5,6 +5,7 @@ title: "číst.digital/41: Veselé Vánoce a šťastný nový merch! | Získali 
 author: content.team
 tags:
   - newsletter
+  - cesko-digital-obsah
 cover: https://data.cesko.digital/newsletter/41/cover41.png
 date: 2022-12-16-12-47
 slug: cist-digital-41
