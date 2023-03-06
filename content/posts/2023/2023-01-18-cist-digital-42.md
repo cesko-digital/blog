@@ -5,6 +5,7 @@ title: "číst.digital/42: Společnost Avast si dává záležet na dobrovolnict
 author: content.team
 tags:
   - newsletter
+  - cesko-digital-obsah
 cover: https://data.cesko.digital/newsletter/42/cover42.png
 date: 2023-01-18-10-21
 slug: cist-digital-42
