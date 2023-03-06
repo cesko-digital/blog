@@ -4,6 +4,7 @@ title: "číst.digital/31: Představujeme 2 nové projekty v inkubaci | Měřím
 author: content.team
 tags:
   - newsletter
+  - cesko-digital-obsah
 cover: https://data.cesko.digital/newsletter/31/cover.png
 date: 2022-02-16-12-04
 slug: cist-digital-31
