@@ -4,6 +4,7 @@ title: "číst.digital/32: Jaké projekty pro pomoc Ukrajině v č.d vznikají? 
 author: hana.buresova
 tags:
   - newsletter
+  - cesko-digital-obsah
 cover: http://data.cesko.digital/newsletter/32/cover32.png
 date: 2022-03-17-12-32
 slug: cist-digital-32
