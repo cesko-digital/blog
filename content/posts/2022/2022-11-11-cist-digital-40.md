@@ -6,6 +6,7 @@ author: content.team
 tags:
   - newsletter
   - partners
+  - cesko-digital-obsah
 cover: https://data.cesko.digital/newsletter/40/cover40.png
 date: 2022-11-11-11-31
 slug: cist-digital-40
