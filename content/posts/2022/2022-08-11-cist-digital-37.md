@@ -4,6 +4,7 @@ title: "číst.digital/37: Najde Stojíme za Ukrajinou nový domov? | Když se
 author: content.team
 tags:
   - newsletter
+  - cesko-digital-obsah
 cover: http://data.cesko.digital/newsletter/37/cover37.png
 date: 2022-08-11-05-07
 slug: cist-digital-37
