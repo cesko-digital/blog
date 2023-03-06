@@ -2,6 +2,9 @@
 title: "číst.digital/29: Máme nového partnera | Jak se stát učitelem radí
   interaktivní průvodce"
 author: kristyna.buzkova
+tags:
+  - newsletter
+  - cesko-digital-obsah
 cover: http://data.cesko.digital/newsletter/29/cover29.png
 date: 2021-12-17-10-58
 slug: cist-digital-29
