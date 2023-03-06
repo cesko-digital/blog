@@ -4,6 +4,7 @@ title: "číst.digital/34: Kdy naposledy jsi byl/a na preventivní prohlídce? |
 author: content.team
 tags:
   - newsletter
+  - cesko-digital-obsah
 cover: http://data.cesko.digital/newsletter/34/cover34.png
 date: 2022-05-17-09-23
 slug: cist-digital-34
