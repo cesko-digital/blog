@@ -8,6 +8,7 @@ tags:
   - pomahej-ukrajine
   - movapp
   - mapa-ukrajinskych-hranicnich-prechodu
+  - misto-ve-skole
 cover: xxx
 date: 2023-03-08-03-54
 slug: 6-digitalnich-projektu-ktere-pomohly-ukrajincum-v-cesku
