@@ -123,6 +123,7 @@ collections:
             "pomahej-ukrajine",
             "nepanikar",
             "cesko-digital-obsah",
+            "misto-ve-skole",
           ]
       - label: "Cover"
         name: "cover"
