@@ -1,7 +1,13 @@
 ---
 title: "Rok od ruské invaze: 6 digitálních projektů komunity Česko.Digital,
   které pomohly Ukrajincům v Česku"
-author: lukas.n
+author: lucie.porazilova
+tags:
+  - stojime-za-ukrajinou
+  - umapa
+  - pomahej-ukrajine
+  - movapp
+  - mapa-ukrajinskych-hranicnich-prechodu
 cover: xxx
 date: 2023-03-08-03-54
 slug: 6-digitalnich-projektu-ktere-pomohly-ukrajincum-v-cesku
