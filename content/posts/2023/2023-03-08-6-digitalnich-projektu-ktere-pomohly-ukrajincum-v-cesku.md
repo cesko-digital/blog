@@ -9,8 +9,8 @@ tags:
   - movapp
   - mapa-ukrajinskych-hranicnich-prechodu
   - misto-ve-skole
-cover: xxx
-date: 2023-03-08-03-54
+cover: https://data.cesko.digital/img/clanek-rok-od-ruske-invaze/cover.png
+date: 2023-03-09-06-06
 slug: 6-digitalnich-projektu-ktere-pomohly-ukrajincum-v-cesku
 description: Kdo by chtěl utíkat před válkou? Překonávat jazykové bariéry a
   tápat, jak najít práci, byt a školku pro dítě? To nechce prožít nikdo.
@@ -50,13 +50,13 @@ Krátce po uvedení rozcestníku Stojíme za Ukrajinou a mapy hraničních přec
 
 Nezávislý informační rozcestník pokrývá všechny zdroje pomoci. Vznikl už 3 dny od vypuknutí války a jen během prvního týdne od spuštění pomohl 156 000 lidem najít potřebnou formu pomoci. Přes 83 000 návštěvníků pomoc vyhledalo přímo z Ukrajiny. Web s denní návštěvností **1 500 návštěvníků** vznikl ve spolupráci platformy Stojíme za Ukrajinou, Česko.Digital a [Solidpixels](https://www.solidpixels.com/cs) a získal **Křišťálovou Lupu 2022** v kategorii Veřejně prospěšná služba. Za podporu děkujeme zejména [FIT](https://www.cvut.cz) [ČVUT](https://www.cvut.cz), [Solidpixels](https://www.solidpixels.com/cs), [Asociaci komunikačních agentur](https://aka.cz/) a [Czech Video Center](https://www.linkedin.com/company/czech-video-center/). Web, na kterém pomoc našlo celkem 370 000 lidí a 217 000 lidí pomoc nabídlo, svůj účel splnil a jeho vývoj jsme už ukončili. Brzy na něm vznikne vzpomínková onepage, kde se budete moci podívat na celý příběh projektu.
 
-![](https://lh4.googleusercontent.com/72CpBgOvgutFTUiAwvlEeu0g_P8AIn7wTDcwmc6dhgpQC756kJD6HUi76qcK46Ix3wKNGQMAuUriwa4nbCk0vLvP55FmqJGdQIoy6-GZY-uVb4IeqvXXdSlilA4omr0HG80gVIhltPAAuEVp_DS-LyI)
+![](https://data.cesko.digital/img/clanek-rok-od-ruske-invaze/1.png)
 
 ## [Umapa](http://umapa.eu)
 
 **40 000 návštěvníků** webových stránek a skoro 10 000 důležitých bodů na mapě pro uprchlíky z Ukrajiny. Takové výsledky má Umapa, kterou dnes rozvíjí na platformě [Mapotic](https://www.mapotic.com/) 18 expertních dobrovolníků. Celkem máme **25 000 uživatelů** v České republice, Ukrajině, Polsku nebo i v Německu, Slovensku a USA. Mapa má přehlednou aplikaci pro iOS i Android, její embedded verzi využívá několik portálů. Aktuálně hledáme parťáka mezi neziskovými organizacemi. Máte tip nebo nabídku spolupráce? Pište přímo na [umapa@cesko.digital](mailto:umapa@cesko.digital)!
 
-![](https://lh6.googleusercontent.com/IpoFb9042sXsSvScUN_-wb5AuZWl7rnAoOg5WeIjjir4sb2Trg-SvXT07qdxfpjZYTppMlpdUQC55CyG2Wwuw23WyF00jihYuTMRh0p5eukeJK4nwmn20xuqW2_lPaL_rWZcY4u8dZqPKNU6qQWFGrs)
+![](https://data.cesko.digital/img/clanek-rok-od-ruske-invaze/2.png)
 
 ## Mapa ukrajinských hraničních přechodů
 
@@ -66,19 +66,19 @@ Jak dlouho budu na hraničním přechodu čekat? Kde jsou kolony a kde projedu s
 
 Tržiště pomoci, na které přímo odkazuje web Stojíme za Ukrajinou, obsahuje přes **37 000 nabídek** pomoci. Vznik webu iniciovali a koordinovali Daniel Kolský, Honza Böhm a Honza Sládek z [Contember](https://www.contember.com/) a je tvořen ve spolupráci s [Konsorciem nevládních organizací pracujících s migranty v ČR](https://migracnikonsorcium.cz/cs/). Projekt také získal **Křišťálovou Lupu 2022** v kategorii Veřejně prospěšná služba.
 
-![](https://lh6.googleusercontent.com/IRGCxfcCtCKLvDmFeIpVzcro_iOj7u9iCflvgXL7mMkej5FdaTlgIpP-nM33rIsCgexOUDZ70rKevARcGeM6Fsb3bmIlMT3Iqarcnos9R1_Xr4t1kwcRSQbpidDKCKgJowGydoEVi_UdZNObHT1O_Y8)
+![](https://data.cesko.digital/img/clanek-rok-od-ruske-invaze/3.png)
 
 ## [Movapp](https://www.movapp.cz/cs/)
 
 Aplikace Movapp vytváří jazykový most mezi lidmi z Ukrajiny a z České republiky. Skvělou aplikaci doplňují tištěné materiály ke stažení nebo třeba [Učebnice pro Ukrajinu](http://ucebniceproukrajinu.cz/), kterou připravila [Nadace PPF](https://nadaceppf.cz/) ve spolupráci s [The Kellner Family Foundation](https://www.kellnerfoundation.cz/) a [MŠMT ČR](https://www.msmt.cz/). Movapp dávno přerostl hranice naší republiky. Od léta má polskou a slovenskou verzi. Web během roku navštívilo **100 000 návštěvníků**, kteří si zobrazili čtvrt milionu stránek. Radost týmu udělalo i sdílené 9. místo v Křišťálové lupě. Nyní má 20 dobrovolníků a navazuje těsnější spolupráci s ukrajinskými centry a neziskovkami pro uprchlíky.
 
-![](https://lh4.googleusercontent.com/Lv9S3WzNU6u65EfnTHbkHXPP3vtHRgFj4y2Fk266PVp5H-_Mj_BPbNXQhgjN1qr6Llb0hX1LiEbf1XSPzuPITfCMOtMOmoIZFLYb9Z9U9VG0sFUajgPoFQza-vM4jd0IqIsgxKDZhBY0F0kqJVMToVw)
+![](https://data.cesko.digital/img/clanek-rok-od-ruske-invaze/4.png)
 
 ## [Místo ve škole](http://www.mistoveskole.cz)
 
 Web Místo ve škole vznikl z iniciativy [Pedagogické fakulty Univerzity Karlovy](https://pedf.cuni.cz/PEDF-1.html) ve spolupráci s námi. Data o kapacitách škol poskytuje [MŠMT](https://www.msmt.cz). Řešení integrovalo komunitní Umapu a díky tomu ukazuje volná místa přehledně na jednom místě. Vize projektu byla pomáhat nejen ukrajinským, ale i českým rodinám najít vhodnou školu pro své děti. Bohužel se nepodařilo najít partnery mezi veřejnou správou, která by chtěla projekt dále spolurozvíjet.
 
-![](https://lh5.googleusercontent.com/Q0Fx3o4fHAF0cIknzjNHw8chTEFyYKeznsGqn0RLcveXxDv3ftu6aBfGWyCltwiDna-USQ2hMUw16GXCcMYOuLh7VeysQoX0Apmty76k5eOedrC0m_baJInP6Y7swkqyk-lH56FD61C2PyTi0RKFkYY)
+![](https://data.cesko.digital/img/clanek-rok-od-ruske-invaze/5.png)
 
 # Nekončí válka a ani naše zapojení
 
