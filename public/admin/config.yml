@@ -86,6 +86,7 @@ collections:
             "jakub.cigl",
             "content.team",
             "katerina.mullerova",
+            "lucie.porazilova",
           ]
         required: true
       - label: "Tags"
@@ -222,6 +223,7 @@ collections:
             "jakub.cigl",
             "content.team",
             "katerina.mullerova",
+            "lucie.porazilova",
           ]
         required: true
       - label: "Cover"
