@@ -3,7 +3,7 @@ title: "Devět nových projektů, nespočet nových příležitostí: Prozkoumej
   organizace navazují spolupráci s Česko.Digital a koho aktuálně hledáme"
 author: jan.hobler
 cover: https://data.cesko.digital/img/clanek-nove-projekty-v-cd/nove-projekty-v-cd.png
-date: 2023-03-10-01-46
+date: 2023-03-09-12-46
 slug: nove-projekty-v-cesko-digital
 description: Expertní dobrovolníci z komunity Česko.Digital pomáhají rozvíjet
   stále více projektů. Některé rostou z interní iniciativy, jiné v rámci
