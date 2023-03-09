@@ -10,7 +10,7 @@ tags:
   - mapa-ukrajinskych-hranicnich-prechodu
   - misto-ve-skole
 cover: https://data.cesko.digital/img/clanek-rok-od-ruske-invaze/cover.png
-date: 2023-03-09-06-06
+date: 2023-03-09-10-09
 slug: 6-digitalnich-projektu-ktere-pomohly-ukrajincum-v-cesku
 description: Kdo by chtěl utíkat před válkou? Překonávat jazykové bariéry a
   tápat, jak najít práci, byt a školku pro dítě? To nechce prožít nikdo.
