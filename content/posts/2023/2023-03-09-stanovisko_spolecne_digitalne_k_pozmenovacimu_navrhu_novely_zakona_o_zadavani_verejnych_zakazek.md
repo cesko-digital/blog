@@ -3,7 +3,7 @@ title: Stanovisko Společně & Digitálně  k pozměňovacímu návrhu novely z�
   zadávání veřejných zakázek
 author: eva
 cover: https://data.cesko.digital/spolecneadigitalnelogo.png
-date: 2023-03-09-09-41
+date: 2023-03-08-09-41
 slug: Stanovisko_Spolecne_Digitalne_k_pozmenovacimu_navrhu_novely_zakona_o_zadavani_verejnych_zakazek
 description: Záměr navržené novely vnímáme jako přínosný a žádoucí. Za
   současného stavu je sdílení kapacit a zdrojů mezi státními úřady komplikované
