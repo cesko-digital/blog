@@ -145,6 +145,8 @@ Naše Program Lead Romana Pokorná vyzpovídala Veroniku Kamenskou z organizace�
 
 **\> [Přečti si článek](https://blog.cesko.digital/2023/02/praci-v-nezisku-stoji-za-to-zazit)**
 
+![](https://data.cesko.digital/img/dad68fa0.png)
+
 📝 V dotazníku zkoumáme, jak probíhá **zapojení dobrovolníků** do projektů. Chceme pochopit, co funguje a co ne, abychom mohli zlepšit naše služby vůči tobě i zadavatelům projektů (typicky neziskovkám). Tvoje zpětná vazba je pro nás v tomto ohledu zásadní. Výsledky dotazníku s tebou pak nasdílíme. Děkujeme! 
 
 **[\> Vyplnit dotazník](https://forms.gle/mNkvdq8o16QdKpBB9)**
@@ -157,9 +159,9 @@ Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digita
 
 ❓ Víš, že na Portálu najdeš pod názvem Marketplace i příležitosti od neziskovek mimo Česko.Digital?
 
+![](https://data.cesko.digital/img/dad68fa0.png)
 
-
-### Zmapujme společně s Techsoup a Nadací OSF stav IT v neziskovkách
+**📝 Zmapujme společně s Techsoup a Nadací OSF stav IT v neziskovkách**
 
 Je tady druhý ročník velkého průzkumu Stav IT v českém nezisku. Pokud pracuješ v IT oddělení neziskové organizace, vedeš vaši organizaci, jsi projektovým manažerem nebo manažerkou nebo prostě máš IT agendu vaší organizace na starosti, zajímáš se o současný stav IT a chceš aktivně přispět k jeho zlepšení, zapoj se vyplněním dotazníku! Průzkum probíhá od 1. do 31. března. 
 
