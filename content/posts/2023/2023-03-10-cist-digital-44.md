@@ -157,8 +157,6 @@ Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digita
 
 ❓ Víš, že na Portálu najdeš pod názvem Marketplace i příležitosti od neziskovek mimo Česko.Digital?
 
-
-
 ## Děkujeme, že tě baví číst.digital!
 
 **Tým newsletteru**
