@@ -21,7 +21,7 @@ lang: cs
 
 ## V komunitě proběhla online diskuse o systémové změně
 
-✨ V posledních cca 8 měsících jsme ve Slacku pravidelně sdíleli informace o tom, že část kmenového týmu prochází **workshopy o systémové změně** pod vedením [Ashoky](https://www.ashoka.org/en-cz) a Rada Pittnera. Možná jsi naše příspěvky zaznamenal/a také. Všechny výstupy z workshopů jsme si nejdříve v týmu potřebovali poskládat do jednoho srozumitelného celku a naplánovat další kroky. Máme hotovo a celkový "obrázek" jsme s vámi sdíleli na neformální online diskusi o systémově změně.
+✨ V posledních cca 8 měsících jsme ve Slacku pravidelně sdíleli informace o tom, že část kmenového týmu prochází **workshopy o systémové změně** pro Českou republiku pod vedením [Ashoky](https://www.ashoka.org/en-cz) a Rada Pittnera. Možná jsi naše příspěvky zaznamenal/a také. Všechny výstupy z workshopů jsme si nejdříve v týmu potřebovali poskládat do jednoho srozumitelného celku a naplánovat další kroky. Máme hotovo a celkový "obrázek" jsme s vámi sdíleli na neformální online diskusi o systémově změně pro Českou republiku.
 
 **[\> Zkoukni záznam z diskuse](https://youtu.be/zA7MCcfDLxI)**
 
