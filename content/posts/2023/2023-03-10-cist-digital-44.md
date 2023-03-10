@@ -167,8 +167,6 @@ Je tady druhý ročník velkého průzkumu Stav IT v českém nezisku. Pokud p
 
 **[\>﻿ Vyplň dotazník](https://forms.office.com/Pages/ResponsePage.aspx?id=IUGcSfO6Vk6Ui_nvUs5F6fBuRMiumXpOh0sYcQ7a24JURFROOE5SWTBEUjM0QkhXVVRQUDBaVFUyOSQlQCN0PWcu)**
 
-
-
 ## Děkujeme, že tě baví číst.digital!
 
 **Tým newsletteru**
