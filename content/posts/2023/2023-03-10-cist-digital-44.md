@@ -157,6 +157,16 @@ Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digita
 
 ❓ Víš, že na Portálu najdeš pod názvem Marketplace i příležitosti od neziskovek mimo Česko.Digital?
 
+
+
+### Zmapujme společně s Techsoup a Nadací OSF stav IT v neziskovkách
+
+Je tady druhý ročník velkého průzkumu Stav IT v českém nezisku. Pokud pracuješ v IT oddělení neziskové organizace, vedeš vaši organizaci, jsi projektovým manažerem nebo manažerkou nebo prostě máš IT agendu vaší organizace na starosti, zajímáš se o současný stav IT a chceš aktivně přispět k jeho zlepšení, zapoj se vyplněním dotazníku! Průzkum probíhá od 1. do 31. března. 
+
+**[\>﻿ Vyplň dotazník](https://forms.office.com/Pages/ResponsePage.aspx?id=IUGcSfO6Vk6Ui_nvUs5F6fBuRMiumXpOh0sYcQ7a24JURFROOE5SWTBEUjM0QkhXVVRQUDBaVFUyOSQlQCN0PWcu)**
+
+
+
 ## Děkujeme, že tě baví číst.digital!
 
 **Tým newsletteru**
