@@ -1,7 +1,7 @@
 ---
 title: "Architektura webových aplikací v Česko.Digital: Jak k ní přistupujeme?"
 author: zoul
-cover: xxx
+cover: https://data.cesko.digital/img/clanek-architektura-aplikaci-cd/architektura-webovych-aplikaci-cd.png
 date: 2023-03-13-05-24
 slug: architektura-webovych-aplikaci-cesko-digital
 description: Technické řešení aplikací bývá lepší řešit v konkrétní rovině, na
@@ -40,7 +40,7 @@ Podklady statického webu mohou být uložené přímo v repozitáři nebo se na
 
 **Pro správu obsahu můžete použít některý z nespočtu takzvaných headless content management systémů (CMS)**, od nejjednodušších typu [Netlify CMS](https://www.netlifycms.org/) až po složitější typu [Strapi](https://strapi.io/). Některé z nich spravují obsah ve vlastní databázi zpřístupněné přes API, jiné umějí obsah spravovat přímo v repozitáři. Velmi obecně řečeno je správa obsahu přímo v repozitáři obvykle technicky jednodušší a robustnější, ale je méně pohodlná při editaci obsahu. Pro volbu vhodného CMS je ovšem především potřeba dobře rozumět byznysovým potřebám projektu, například vědět, které části obsahu se budou měnit a jak často. Těžko zde dávat jasná doporučení čistě z technického úhlu.
 
-![](https://lh6.googleusercontent.com/cd19M-NnT2A0VH_JJJSvcVuZNM7wyKwimHO1q_dw86PjlmUtm8RGyXbZ6Xkrbe3NBTtL4cfHuNz2EvC6VhRNli4IFrm3Qtrwm3jfotMalhTY2b3hctEYy_iWv02yPqN-KG3MFQU7Q9r6Mi7vxuDTaq4)
+![](https://data.cesko.digital/img/clanek-architektura-aplikaci-cd/netlify-cms.png)
 
 *Netlify CMS, jednoduché prostředí pro úpravu obsahu statického webu přímo v repozitáři.*
 
@@ -64,7 +64,7 @@ Některé požadavky se pochopitelně nedají vyřešit statickým webem ani int
 
 **Serverless funkce** (například [Vercel Serverless Functions](https://vercel.com/docs/concepts/functions/serverless-functions) nebo [Netlify Functions](https://www.netlify.com/products/functions/), obojí je abstrakce nad [AWS Lambda](https://aws.amazon.com/lambda/)) **nabízejí možnost spouštět dynamický kód na serveru, aniž by se programátor musel zabývat jeho provozem**. Programátor pouze napíše funkci, která přebere HTTP požadavek a vrátí HTTP odpověď; funkce jsou uložené v repozitáři vedle ostatních zdrojových kódů a podkladů aplikace a během nasazení vygenerovaného webu se „nějak“ dostanou na web, kde je může volat například klientská aplikace nebo služby třetích stran.
 
-![](https://lh3.googleusercontent.com/tBMzKTogoorGfLtu2Psojr3V1zMSJHRkvYwCgk6vFHNHl6fZ11fm5hb7lkuvgCpr94TirtEzQZTWrjikkfXsdJ-UNlJK-DsLkp_EXUXaHR8sUQaqW6Dr4A7YsD02C70fXX9PxiwG8FIMIN_J_1JOulQ)
+![](https://data.cesko.digital/img/clanek-architektura-aplikaci-cd/serverless.png)
 
 *Serverless funkce se dají použít pro integraci s jinými systémy, zde například se Slackem.*
 
@@ -80,7 +80,7 @@ Výsledná aplikace tedy může mít podobu statického webu, ke kterému kód n
 
 **Ještě před mergem u každého pull requestu proběhne sada automatických testů** – podle potřeby projektu to mohou být unit testy, integrační testy, nebo i end-to-end testy – a dotyčná verze kódu se samostatně nasadí na jedinečné testovací URL, abyste si mohli změny před mergem prohlédnout v praxi (viz například [Vercel Previews](https://vercel.com/features/previews)).
 
-![](https://lh5.googleusercontent.com/928snNU7IORGIqodFl7f7ljBgTIAyL9uH_mvLuGM6lvDfQ7xjJcFKtyfLN7BTT_IbRgQjazs2yKCC9kR2UM3tJL_WwYE0-zABsi0eYIMr_UlTNIeVyeFN9Y2cP-JS2BQFJvHHhC0zcpSbPvXy-iONnY)
+![](https://data.cesko.digital/img/clanek-architektura-aplikaci-cd/github.png)
 
 *Nasazování náhledových verzí webu a automatické testy, GitHub*
 
@@ -96,7 +96,7 @@ Pro **správu kódu** používáme [GitHub](https://github.com/) (+ [GitHub Issu
 
 Pro **hosting webů** používáme [Vercel](https://vercel.com/) (+ [Axiom](https://www.axiom.co/) pro logování a sledování metrik). Vercel jsme používali v začátcích Česko.Digital a zůstali jsme u něj zejména kvůli velkému vývojářskému komfortu a jasným, předvídatelným cenám (s [občasnými výjimkami](https://cesko-digital.slack.com/archives/CS7RPPVUL/p1676879267424139)). Axiom se nám líbí pro svou jednoduchost a bezpracnou integraci s Vercelem. Obojí je uzavřený software s rizikem vendor lock-inu, které zatím akceptujeme, protože výhody pro nás ve výsledku převažují. [Přehled architektury Vercelu](https://vercel.com/blog/behind-the-scenes-of-vercels-infrastructure) je mimochodem dobrá ilustrace principů, které popisujeme v celém tomto textu.
 
-![](https://lh5.googleusercontent.com/JI7zSV8N-3rRHI4yHX5vb3G9m3Coy-LI_J2aSOs5zgR4k5e2nV2uemCDJGEErml4ehHOXexiCzt8v19QD9mBPAy4t_9gMCj16zmJCo7ik_yBtMWVA-vDBJ5jvSlzmIPe9FxZiZkT3qAGA_HhxqS4yw0)
+![](https://data.cesko.digital/img/clanek-architektura-aplikaci-cd/axiom.png)
 
 *Monitoring systému v aplikaci Axiom*
 
@@ -106,7 +106,7 @@ Pro **rendering HTML** můžeme doporučit [React](https://reactjs.org), protož
 
 Pro **webovou analytiku** doporučujeme [Plausible Analytics](https://plausible.io/), protože nevyžadují cookies, jsou pro běžné použití srozumitelnější než Google Analytics, nabízejí možnost [sdílet statistiky veřejně](https://plausible.io/volebnikalkulacka.cz) a ukládají data v Evropské unii (případně si je můžete hostovat sami).
 
-![](https://lh6.googleusercontent.com/ZVppEHBbd5z4x5E6OSc7NrfQbeQsZVM5RWQVflk6gRRuo16evAZgmxBgou_YYP4sT8Vltjj9-fceXcChnl_YGwcXB1VbvkUAX2pZ9jPUD1Yj5gj7BwY7wggC-46-GJssK85vCEESgjqaWx33Bvgxyeo)
+![](https://data.cesko.digital/img/clanek-architektura-aplikaci-cd/plausible.png)
 
 *Statistiky návštěvnosti v Plausible Analytics*
 
@@ -123,8 +123,6 @@ U **content-management systémů a databází** nemáme jednu jasnou volbu a zř
 # Pojďme si o tom popovídat
 
 Pokud máte otázky nebo byste s tímto textem chtěli divoce nesouhlasit :), [přidejte se k Česko.Digital](https://join.cesko.digital/) a zastavte se na našem Slacku v kanálu [\#ceskodigital-tech](https://cesko-digital.slack.com/archives/CS7RPPVUL), rádi si s vámi popovídáme. **Můžeme se také potkat osobně na některém z našich Hack Days**, které pořádáme pravidelně každou poslední sobotu v měsíci – sledujte [přehled událostí](https://cesko.digital/events) na našem (statickém) webu.
-
-
 
 *K psaní textu přispěli svými poznámkami: František Pomkla, Martin Venyš, Milli Boskova, Eva Pavlíková, Petr Illek a Kryštof Korb. Díky!*
 
