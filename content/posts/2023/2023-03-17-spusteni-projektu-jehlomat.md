@@ -1,11 +1,11 @@
 ---
 title: Bezpečné ulice bez jehel a minimální administrativa. Česko.Digital
-  předává projekt Jehlomat do rukou Magdalény
+  předává projekt Jehlomat do rukou organizace Magdaléna
 author: katka
 tags:
   - jehlomat
-cover: xxx
-date: 2023-03-17-10-49
+cover: https://data.cesko.digital/img/jehlomat-launch.png
+date: 2023-03-17-02-15
 slug: "spusteni-projektu-jehlomat "
 description: "Komunita akcelerovala další technologický produkt: webovou
   aplikaci pro sběr a mapování injekčních stříkaček Jehlomat. Jeden z historicky
@@ -53,6 +53,6 @@ Expertním dobrovolníkům se během práce na projektu Jehlomat podařilo:
 
 Plánem je, aby terénní pracovníci, městská policie nebo veřejnost mohli **jednoduše zadat nález injekční stříkačky přímo do mobilní aplikace** pomocí interaktivní mapy. Součinností těchto tří složek by se měl zefektivnit proces sběru a likvidace infikovaného materiálu z ulic měst a obcí České republiky.
 
-👉 Práce na Jehlomatu rozhodně nekončí, pokud chceš Magdaléně pomoci s dotažením aplikace do konce, [ozvi se jí](https://www.magdalena-ops.cz/cs/kontakt/)!
+👉 Práce na Jehlomatu rozhodně nekončí, pokud chceš organizaci Magdaléna pomoci s dotažením aplikace do konce, [ozvi se jí](https://www.magdalena-ops.cz/cs/kontakt/)!
 
 *Korektorka: Olga Zörnerová*
