@@ -2,7 +2,7 @@
 title: 94 % aplikací trpí nedostatečnou autorizací – přinášíme 10 tipů, jak je
   zabezpečit
 author: stefan.prokop
-cover: xxx
+cover: https://data.cesko.digital/img/clanek-bezpecnost-aplikaci/bezpecnost-aplikaci.png
 date: 2023-03-20-12-01
 slug: nedostatecna-autorizace-aplikaci
 description: Jak může jedna chybějící podmínka způsobit pád letadla nebo únik 2
@@ -18,7 +18,7 @@ Autorizace je proces, při kterém se ověřuje, zda má „dotyčný“ **dosta
 
 Typickým příkladem autorizace na webu je administrátorské rozhraní, správa osobního profilu nebo editace článku. Do administrace máte přístup pouze s uživatelskou rolí admin, osobní profil můžete upravit, jen pokud jste vlastníkem profilu, a článek můžete změnit, pokud jste jeho autorem nebo šéfredaktorem.
 
-![](https://lh6.googleusercontent.com/xWoxdh1jkgXK04sAbnTQH5IR7Rb1CrmPVcNzXflvQ6llDMUqmR71heyG7B0ymWDny2A-kglHoPr6AV5b4Wl-bqU7SIaXWB9mytLFK6gB_cJ4UIgFs-3rnOCR29y_AoB-n29d2hEbUTjcFASx_hzvizg)
+![](https://data.cesko.digital/img/clanek-bezpecnost-aplikaci/1.jpg)
 
 *Zdroj: [Kelly Sikkema](https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), Unsplash*
 
@@ -32,7 +32,7 @@ Abyste zranitelnosti dokázali předejít, **začněte s tím už ve fázi návr
 
 [V předchozím článku](https://blog.cesko.digital/2022/12/8-tipu-zabezpeceni-aplikace-pred-kyberutoky) jsem psal o [zranitelnosti v autech Nissan](https://www.securityweek.com/api-flaw-exposes-nissan-leaf-cars-remote-attacks), kde jste mohli ovládat cizí auto, pokud jste znali jeho VIN kód, nebo že [na palubních počítačích pilotů letadel Boeing](https://www.reuters.com/business/aerospace-defense/potential-hack-some-boeing-planes-fixed-researchers-2022-08-13/) bylo možné měnit různé údaje. Oba příklady souvisí s nedostatečnou autorizací. Zranitelnost Boeingu naštěstí nikdo nezneužil. Tým Boeingu na ni přišel sám a opravil ji, ale vidíte, že následky mohou být opravdu katastrofální. Nejen že můžete porušit právní regulace jako je GDPR, nakládání se zdravotními nebo finančními záznamy, ale v některých případech můžete mít na svědomí lidské životy.
 
-![](https://lh6.googleusercontent.com/LvjwbuGWVb9MUtw3j3lOLjOJsIWi-bhd7t8ue12Kw6KJpia2PEEqzh0Guf4uI0UKeqg1HAQhOp0rFnZw9zLpK6I--o3DkK1cZ_VBOX92y3xEXAzEx3Nf1UMDgp_h80fSxwmHVCBkrkNOVkmY1c0tjYI)
+![](https://data.cesko.digital/img/clanek-bezpecnost-aplikaci/2.png)
 
 *Zdroj: [FLY:D](https://unsplash.com/photos/mT7lXZPjk7U), Unsplash*
 
