@@ -32,7 +32,7 @@ Míru zapojení digitálních technologií do fungování státu měří v EU tz
 
 *Graf odpovědí respondentů na otázku, zda v ČR existuje sdílená vize užití digitálních technologií.*
 
-Zde je odkaz **[celý průzkum v pdf](https://drive.google.com/file/d/1L-7s77DegxRe_poSl8ZL-Q_2Y_HPJ-Q_/)**
+Zde je odkaz **[celý průzkum v pdf](https://drive.google.com/file/d/1BLLChViCvNAS0Q9Kptz6Fi5pdUyJCUOM/)**
 
 **I na této zprávě pracovali dobrovolnice, kterým moc děkujeme:**
 
