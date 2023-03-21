@@ -28,9 +28,11 @@ Míru zapojení digitálních technologií do fungování státu měří v EU tz
 
 **Česko.Digital funguje jako komunita expertních dobrovolníků**, kteří ve volném čase pomáhají státnímu a neziskovému sektoru s využitím technologií. Během prvních tří let oslovily projekty [komunity 4 000 000 lidí](https://drive.google.com/file/d/1uwqL3xsfaSbje-dPK8wyfAAKFrWL_dc2/view). Česko.Digital sehrálo klíčovou roli během pandemie, kdy se zapojilo do projektů Dáme roušky a Covid portál, a po vypuknutí války na Ukrajině se účastnilo projektu Stojíme za Ukrajinou. Více o komunitě najdete na [](https://cesko.digital/) [www.cesko.digital](https://cesko.digital/).
 
-![](graf-tz.png "Graf odpovědí respondentů na otázku, zda v ČR existuje sdílená vize užití digitálních technologií")
+![](https://data.cesko.digital/img/graftz.png "Graf odpovědí respondentů na otázku, zda v ČR existuje sdílená vize užití digitálních technologií")
 
-Zde je odkaz **[celý průzkum v pdf](https://drive.google.com/file/d/1L-7s77DegxRe_poSl8ZL-Q_2Y_HPJ-Q_/)**
+*Graf odpovědí respondentů na otázku, zda v ČR existuje sdílená vize užití digitálních technologií.*
+
+Zde je odkaz **[celý průzkum v pdf](https://drive.google.com/file/d/1ESVkrjjakKsZrOQC7t5nk_vCFXLnuq4Y/view?usp=sharing)**
 
 **I na této zprávě pracovali dobrovolnice, kterým moc děkujeme:**
 
