@@ -18,7 +18,7 @@ Kmenový tým komunity Česko.Digital zrealizoval několikaměsíční kvalitati
 
 Naprostá většina z 41 dotázaných uvádí, že **sdílená vize spíše chybí**. V odpovědích se například objevilo, že existující dokumenty, které upravují využití digitálních technologií na úrovni státu, jsou **nesrozumitelné, nepřehledné, nekvalitní nebo se špatně implementují**. Zaznělo také, že státní zakázky, které se týkají technologií, jsou **předražené** a **málo myslí na koncového uživatele**, tedy občana.
 
-Na otázku, co bychom mohli považovat za dobrý příklad zavedení technologie, respondenti opakovaně uvedli BankID (8×), Portál občana (8×), datové schránky (7×, ač s výhradami a někdy ve spojení s BankID), eRecept (5×)  a Lítačku (5×).
+Na otázku, co bychom mohli považovat za dobrý příklad zavedení technologie, respondenti opakovaně uvedli BankID (8×), Portál občana (8×), datové schránky (7×, ač s výhradami a někdy ve spojení s BankID), eRecept (5×) a Lítačku (5×). 
 
  „Po třech letech fungování Česko.Digital jsme si uvědomili, že bychom rádi nejen pomáhali s konkrétními projekty jako doposud, ale celkově ještě více přispěli k pozitivní změně v oblasti využívání digitálních technologií. Proto jsme prošli školením tzv. systémové změny, na základě kterého jsme měli potřebu zmapovat, jak k technologiím přistupují klíčoví aktéři české společnosti,“ vysvětluje ředitelka Česko.Digital Eva Pavlíková.
 
