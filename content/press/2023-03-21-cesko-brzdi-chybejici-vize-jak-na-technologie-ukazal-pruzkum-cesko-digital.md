@@ -9,7 +9,7 @@ slug: Cesko-brzdi-chybejici-vize-jak-na-technologie-ukazal-pruzkum-Cesko-Digital
 description: "Komunita Česko.Digital provedla průzkum mezi klíčovými aktéry
   české společnosti v otázce digitálních technologií. Jedná se o vůbec první
   takový průzkum, který přináší detailní pohled na jejich postoje. Výsledky
-  naznačují, že i když česká společnost ví, jak využít technologie ve prospěch
+  naznačují, že i když vybraní aktéři ví, jak využít technologie ve prospěch
   občanů, brzdí ji absence jednotné vize. Snahy o využití technologií pro
   jednodušší život a styk občanů se státem jsou roztříštěné a nekoordinované. "
 lang: cs
