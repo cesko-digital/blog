@@ -14,7 +14,7 @@ description: "Praha, 27. 3. 2023: Osamělost je problém, který se dotýká st�
   hlouběji."
 lang: cs
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -55,9 +55,9 @@ lang: cs
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="267">
@@ -313,9 +313,9 @@ lang: cs
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -334,35 +334,23 @@ lang: cs
 	font-family:"Arial","sans-serif";
 	mso-ansi-language:#0005;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
 Spolek Moudrá Sovička z.s. vznikl v roce 2015 s cílem pomáhat seniorům správně a bezpečně ovládat nové technologie a služby. Na začátku byla myšlenka „hodinových ajťáků“ – digitálních asistentů z řad dobrovolníků, převážně studentek a studentů, kteří seniorům pomohou s nastavením počítače nebo mobilního telefonu v jejich domácím prostředí.
 
- 
-
 V roce 2022 se zrodil projekt Moudrá Síť jako výsledek spolupráce expertních dobrovolníků z komunity Česko.Digital a týmu lidí z organizace Moudrá Sovička.
 
 *„Téma projektu mezi dobrovolníky hodně zarezonovalo, protože řada z nás se už někdy ocitla v situaci, kdy jsme byli takovým ‚digitálním asistentem‘ pro někoho z rodiny.  Dobrovolnický tým i proto vznikl rychle, pomohl nastavit směr a priority projektu, zpracovat základní design pro všechny cílové skupiny Moudré Sítě, vybrat technologie a rozjet samotný vývoj,“* říká Anežka Müller, project support z kmenového týmu Česko.Digital.
 
- 
-
 Hlavním posláním webové aplikace Moudrá Síť je usnadnit mezigenerační spojení, snížit míru pocitu osamocení seniorů a ukázat jim, jak využít moderních technologií pro komunikaci, zábavu i vzdělávání. *„Projektem Moudrá Síť vzniká jedinečné mezigenerační propojení mladých a starších lidí skrze nové technologie a služby. Kromě pomoci seniorům očekáváme i velký sociální dopad projektu. Jsem vděčný za přijetí Moudré Sítě do Česko.Digital a zapojení dobrovolníků i členů týmu Moudré Sovičky do společné úspěšné realizace projektu od konceptu po pilotní verzi,“* doplňuje zakladatel spolku Moudrá Sovička Tomáš Hubálek.
-
- 
 
 Moudrá Síť má za cíl do konce roku 2030 proškolit až 6000 „digitálních asistentů“ z řad dobrovolníků a propojit je s kterýmkoli z 2,5 milionu seniorek a seniorů v ČR, ať už budou jejich služby potřebovat k on-line komunikaci s rodinou a kamarády, s ošetřujícím lékařem, s úřady nebo klidně k objednávce nákupu potravin.
 
- 
-
 Digitálním asistentem se může stát kdokoli, kdo umí bezpečně a hravě ovládat chytrá zařízení a dokáže tuto dovednost trpělivě a lidsky předávat druhým. Základem služby bude mapa dostupných digitálních asistentů s historií osobních referencí od seniorů a s informacemi o jejich vytížení, včetně možnosti rezervace termínu. „*Domnívám se, že tento projekt má ambici řešit mnohem víc, než se na první pohled zdá. Umožnit a usnadnit komunikaci seniorům znamená snižovat počet osamělých lidí, znamená to zlepšení zázemí, větší radost ze života, znamená to i dostupnost vzdělávání, dostupnost pracovních příležitostí, soběstačnost a tak dál a tak dále. Znamená to dobrou kvalitu života i ve vysokém věku,“* uzavírá dobrovolnice Lilly Ahou Král.
 
- 
-
 **O Moudré Sovičce:** Nezisková organizace Moudrá Sovička vznikla proto, aby zpřístupňovala seniorům moderní technologie a podpořila je v komunikaci s okolím i v zapojení do společenského života. Daří se jí efektivně propojovat generace, snižovat izolaci seniorů a řešit jejich pocit osamění. Dbá na individuální přístup, pořádá rozmanitá školení, kurzy, poskytuje soukromé konzultace s „hodinovými ajťáky“ (digitálními asistenty). Více informací najdete na [www.moudrasovicka.cz](http://www.moudrasovicka.cz/)
-
- 
 
 Kontakty: Ing. Tomáš Hubálek
 
@@ -372,12 +360,10 @@ E-mail: tomas.hubalek@moudrasit.cz
 
 Web: [www.moudrasit.cz](http://www.moudrasit.cz)
 
- 
-
 **O Česko.Digital:** Česko.Digital funguje jako komunita expertních dobrovolníků, kteří ve volném čase pomáhají státnímu a neziskovému sektoru s využitím technologií. Během prvních tří let oslovily projekty [](https://drive.google.com/file/d/1uwqL3xsfaSbje-dPK8wyfAAKFrWL_dc2/view) [komunity 4 000 000 lidí](https://drive.google.com/file/d/1uwqL3xsfaSbje-dPK8wyfAAKFrWL_dc2/view). Česko.Digital sehrálo klíčovou roli během pandemie, kdy se zapojilo do projektů Dáme roušky a Covid portál, a po vypuknutí války na Ukrajině se účastnilo projektu Stojíme za Ukrajinou. Více o komunitě najdete na [](https://cesko.digital/) [www.cesko.digital](http://www.cesko.digital).
 
 Kontakt pro média: Martina Habová, martina@cesko.digital, 720 363 481
 
-T﻿iskovou zprávu napsala dobrovolnici Lilly Ahou Král.
+T﻿iskovou zprávu napsala dobrovolnice Lilly Ahou Král.
 
 <!--EndFragment-->
