@@ -87,6 +87,7 @@ collections:
             "content.team",
             "katerina.mullerova",
             "lucie.porazilova",
+            "aneta.pisarikova",
           ]
         required: true
       - label: "Tags"
@@ -225,6 +226,7 @@ collections:
             "content.team",
             "katerina.mullerova",
             "lucie.porazilova",
+            "aneta.pisarikova",
           ]
         required: true
       - label: "Cover"
