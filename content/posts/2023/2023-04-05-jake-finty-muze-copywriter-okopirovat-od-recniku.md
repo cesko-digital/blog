@@ -34,7 +34,7 @@ AIDA funguje na principu exklamace, ale myšlenku rozšiřuje. U metody AIDA ka�
 
 ![](https://data.cesko.digital/img/clanek-finty-pro-copywritery/1.png)
 
-<https://growthmarketer.co/wp-content/uploads/2021/09/AIDA-formula-for-marketers.png>
+*<https://growthmarketer.co/wp-content/uploads/2021/09/AIDA-formula-for-marketers.png>*
 
 ## Řečnická otázka
 
