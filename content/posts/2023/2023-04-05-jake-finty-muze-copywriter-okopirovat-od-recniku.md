@@ -3,7 +3,7 @@ title: Jaké finty může copywriter okopírovat od řečníků a proč se vypla
   texty nahlas
 author: jan.kalab
 cover: https://data.cesko.digital/img/clanek-finty-pro-copywritery/cover.png
-date: 2023-04-05-05-10
+date: 2023-04-06-10-55
 slug: jake-finty-muze-copywriter-okopirovat-od-recniku
 description: "Chcete posunout texty na novou úroveň, ale základy copy už znáte a
   nevíte kam dál? Nechte se inspirovat u řečníků. Vypůjčte si jejich metody i
