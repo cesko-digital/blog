@@ -19,15 +19,15 @@ lang: cs
 
 📱👵 Deset měsíců a přes 30 dobrovolníků\*dobrovolnic z Česko.Digital. Ti\*ty společně s organizací Moudrá Sovička právě dokončují web Moudré Sítě. Seniorky\*senioři zde mohou zadat svůj dotaz ohledně moderních technologií a tzv. digitální asistenti\*asistentky ho s nimi osobně vyřeší. Takových asistentek a asistentů by mělo být v plné verzi projektu až 6 tisíc. Teď už žádnou babičku a dědečka nerozhází chybějící ikonka, nečekaná aktualizace nebo nefunkční tiskárna!
 
-\> Stále je čas se přidat! Zaujal tě tento projekt? Do týmu hledáme šikovné ruce na [TypeScript Dev](https://cesko.digital/opportunities/receWVm4xaGEAeEOE).\
+**\> Stále je čas se přidat!** Zaujal tě tento projekt? Do týmu hledáme šikovné ruce na [TypeScript Dev](https://cesko.digital/opportunities/receWVm4xaGEAeEOE).
 
-> [Víc o službě a tvářích, které za ní stojí, najdeš na www.moudrasit.cz](http://www.moudrasit.cz)
+**\>﻿ [Víc o službě a tvářích, které za ní stojí, najdeš na www.moudrasit.cz](http://www.moudrasit.cz)**
 
 ## Příběh Jehlomatu pokračuje v rukou Magdalény
 
-💉 Myšlenka ušetřit stovky hodin administrativy díky jednoduché aplikaci nadchla několik desítek dobrovolnic a dobrovolníků. Ty\*ti v posledních dvou letech pracovaly\*pracovali na projektu Jehlomat, který nyní předáváme do rukou zkušené odborné organizace Magdaléna. O co v projektu šlo a co se povedlo, se dozvíš v článku na našem blogu. Všem dobrovolníkům a dobrovolnicím, kteří na tomto projektu pracovali, moc děkujeme za jejich nasazení! 💙
+💉 **Myšlenka ušetřit stovky hodin administrativy díky jednoduché aplikaci** nadchla několik desítek dobrovolnic a dobrovolníků. Ty\*ti v posledních dvou letech pracovaly\*pracovali na projektu Jehlomat, který nyní předáváme do rukou zkušené odborné organizace Magdaléna. O co v projektu šlo a co se povedlo, se dozvíš v článku na našem blogu. Všem dobrovolníkům a dobrovolnicím, kteří na tomto projektu pracovali, moc děkujeme za jejich nasazení! 💙
 
-\> [Přečti si článek](https://blog.cesko.digital/2023/03/predani-projektu-jehlomat)
+**\> [Přečti si článek](https://blog.cesko.digital/2023/03/predani-projektu-jehlomat)**
 
 ![](https://data.cesko.digital/newsletter/45/1.png)
 
@@ -35,47 +35,49 @@ lang: cs
 
 👉 Výsledky přibližují postoje 41 zástupců a zástupkyň 6 skupin české společnosti (od politiků*političek, státní správy, samosprávy, médií, vědy až po firmy a nezisk). Potvrdili jsme si hypotézu, že i přes různé snahy, dílčí vize a strategické dokumenty, chybí v Česku jedna sdílená vize, jak využít potenciál technologií naplno. Jako komunita [takovou vizi předkládáme](https://miro.com/app/board/uXjVPH89YsM=/). Je to další dokument k práci na systémové změně, o které jsme [nedávno diskutovali](https://youtu.be/zA7MCcfDLxI).
 
-📖 Co, jak, proč se zkoumalo a jaké jsou výsledky se dočteš [detailně v .pdf](https://drive.google.com/drive/u/0/folders/1tdVAenOcs_nwm228-q4JFf6AlrISmtXh) na 19 stránkách, stručněji v [prezentaci](https://docs.google.com/presentation/d/1VsQt8CBkAK5q4Mr__xEpPEzYzWjiqL_5pJeL3vu7Uzw/edit?usp=sharing) nebo jako shrnutí toho nejdůležitějšího v [tiskové zprávě](https://docs.google.com/document/d/1gP9N9pc4KKku2amDzJevSxwKSY9fqdV3Fc3QQ41qdBY/edit?usp=sharing).
+**📖 Co, jak, proč se zkoumalo a jaké jsou výsledky se dočteš [detailně v .pdf](https://drive.google.com/drive/u/0/folders/1tdVAenOcs_nwm228-q4JFf6AlrISmtXh) na 19 stránkách, stručněji v [prezentaci](https://docs.google.com/presentation/d/1VsQt8CBkAK5q4Mr__xEpPEzYzWjiqL_5pJeL3vu7Uzw/edit?usp=sharing) nebo jako shrnutí toho nejdůležitějšího v [tiskové zprávě](https://docs.google.com/document/d/1gP9N9pc4KKku2amDzJevSxwKSY9fqdV3Fc3QQ41qdBY/edit?usp=sharing).**
 
-Čest všem, kteří pomohli! Pokud chceš pomoci i nyní, neváhej sdílet materiály na svých sítích.✌️
+*Čest všem, kteří pomohli! Pokud chceš pomoci i nyní, neváhej sdílet materiály na svých sítích.✌️*
 
 ![](https://data.cesko.digital/newsletter/45/2.png)
 
 ## Česko.Digital a DOBROBOT podporuje aktivity pro rozvoj neziskových organizací
 
-🌱 V Česko.Digital dlouhodobě podporujeme rozvoj neziskových organizací. Proto máme radost, že se Martin Hájek, filantrop a zakladatel společnosti Livesport, která je naším hlavním finančním partnerem, rozhodl pro založení dalšího dobročinného projektu ve spolupráci s Davidem Procházkou. Nadační fond DOBROBOT, který stojí za stejnojmennou dobročinnou aukční platformou DOBROBOT, pomáhá neziskovým organizacím financovat náklady na jejich provoz a rozvoj.
+🌱 V Česko.Digital dlouhodobě podporujeme rozvoj neziskových organizací. Proto máme radost, že se Martin Hájek, filantrop a zakladatel společnosti Livesport, která je naším hlavním finančním partnerem, rozhodl pro založení dalšího dobročinného projektu ve spolupráci s Davidem Procházkou. Nadační fond DOBROBOT, který stojí za stejnojmennou dobročinnou aukční platformou DOBROBOT, **pomáhá neziskovým organizacím financovat náklady na jejich provoz a rozvoj**.
 
 💙 Naši komunitu podpoří DOBROBOT výtěžkem z aukce, kterou nám věnoval podnikatel a zakladatel ShipMonku Jan Bednář. Pokud máš ve svém okolí firmu či organizaci, které takováto podpora dává smysl, nasdílej s nimi DOBROBOT.
 
-\> [Podívej se na aukci s Janem Bednářem a sdílej ji dále](https://dobrobot.cz/auctions/poznej-jana-bednare-a-jeho-shipmonk)
+**\> [Podívej se na aukci s Janem Bednářem a sdílej ji dále](https://dobrobot.cz/auctions/poznej-jana-bednare-a-jeho-shipmonk)**
 
-\> [Omrkni další aukce: www.dobrobot.cz](http://www.dobrobot.cz)
+**\> [Omrkni další aukce: www.dobrobot.cz](http://www.dobrobot.cz)**
 
 ![](https://data.cesko.digital/newsletter/45/dobrobot.png)
 
 ## Česko digitalizuje! Jaké úkoly má nová Digitální a informační agentura? 
 
-🎙️ Nový úřad má Česko nastartovat k digitalizaci. V dalším díle našeho podcastu poslouchat.digital si Eva Pavlíková povídá s novým ředitelem DIA Martinem Mesršmídem. Chceš zjistit, co nás tedy v digitalizaci čeká?
+🎙️ **Nový úřad má Česko nastartovat k digitalizaci.** V dalším díle našeho podcastu poslouchat.digital si Eva Pavlíková povídá s novým ředitelem DIA Martinem Mesršmídem. Chceš zjistit, co nás tedy v digitalizaci čeká?
 
-\> [Pusť si podcast a dozvíš se to](https://podcasters.spotify.com/pod/show/poslouchatdigital/episodes/Martin-Mesrmd-Digitalizaci-eska-m-pomoci-nov-Digitln-a-informan-agentura--Jak-koly-ped-n-stoj-a-kdo-ji-vede-e20r8vo)
+**\> [Pusť si podcast a dozvíš se to](https://podcasters.spotify.com/pod/show/poslouchatdigital/episodes/Martin-Mesrmd-Digitalizaci-eska-m-pomoci-nov-Digitln-a-informan-agentura--Jak-koly-ped-n-stoj-a-kdo-ji-vede-e20r8vo)**
 
 ## Měsíc očima CEO #3
 
-📄 Tentokrát se v přehledu od naší CEO vše točí kolem vylepšování veřejné správy. O čem byl Civil Service Talent Hackday 2023 a proč je zapojení státních institucí důležité pro digitalizaci? A co odhalil náš průzkum ohledně využívání potenciálu digitálních technologií v ČR?
+📄 Tentokrát se v přehledu od naší CEO **vše točí kolem vylepšování veřejné správy**. O čem byl Civil Service Talent Hackday 2023 a proč je zapojení státních institucí důležité pro digitalizaci? A co odhalil náš průzkum ohledně využívání potenciálu digitálních technologií v ČR?
 
-\> [Přečti si více na blogu](https://blog.cesko.digital/2023/04/mesic-ocima-ceo-3)
+**\> [Přečti si více na blogu](https://blog.cesko.digital/2023/04/mesic-ocima-ceo-3)**
 
 ## Jak jsme spokojení v komunitě č.d?
 
-🫶 Proběhlo další měření spokojenosti v Česko.Digital, kterého se zúčastnilo 76 členů komunity. Odpovědi jsme pečlivě vyhodnotili a v následujících týdnech se jim budeme věnovat. Děkujeme všem, kteří dotazníku věnovali svůj čas! Výsledky pro nás zpracovala Petra Skácelová. 
+🫶 Proběhlo další **měření spokojenosti** v Česko.Digital, kterého se zúčastnilo **76 členů komunity**. Odpovědi jsme pečlivě vyhodnotili a v následujících týdnech se jim budeme věnovat. **Děkujeme** všem, kteří dotazníku věnovali svůj čas! **Výsledky** pro nás zpracovala Petra Skácelová. 
 
-\> [Prohlédni si je](https://drive.google.com/file/d/13aCsU_KHvWkOL3G2I5uBGjUDvgfLbrrO/view)
+**\> [Prohlédni si je](https://drive.google.com/file/d/13aCsU_KHvWkOL3G2I5uBGjUDvgfLbrrO/view)**
 
 # Eko Taška.Digital z odpadního materiálu
 
 Tam se toho vejde! Praktická a univerzální taška se snadno složí a pojme toho opravdu hodně. Oceníš nejen v boji proti igelitkám, ale i když budeš nosit post-ity a fixy na další workshop nejen v komunitě.
 
 \> [Kup si ji!](https://shop.czechdesign.cz/ceskodigital/eko-taska-digital-z-odpadniho-materialu/)
+
+<iframe src="https://drive.google.com/file/d/1-K9P0nmks6P2yW3UBW4JzXihvgxBbDA6/preview" width="640" height="480" allow="autoplay"></iframe>
 
 # To nejlepší z našich projektů
 
