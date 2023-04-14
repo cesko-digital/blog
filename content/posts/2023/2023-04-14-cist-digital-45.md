@@ -29,7 +29,7 @@ lang: cs
 
 \> [Přečti si článek](https://blog.cesko.digital/2023/03/predani-projektu-jehlomat)
 
-![](https://lh4.googleusercontent.com/AhRzynEmWuDwsLtR-HtBDE54C-YiekpJaMMOpHV-LQiF278RWOqpLpG0ZN0hTXW40r7zzY2NguSLfPaCJN_226GfweoUQcUFY_Q_drkhYoFw_FjfKMppUWmie2R7WT6Ol_grgqTV8Xa2iADGRTDurTw)
+![](https://data.cesko.digital/newsletter/45/1.png)
 
 ## České republice chybí vize, jak na technologie, ukázal průzkum Česko.Digital
 
@@ -39,7 +39,7 @@ lang: cs
 
 Čest všem, kteří pomohli! Pokud chceš pomoci i nyní, neváhej sdílet materiály na svých sítích.✌️
 
-![](https://lh6.googleusercontent.com/wUg5Zs_4ZtlfPYupsCFKhMHFfCbgee89z8_YjNLw8scp9DcL2swb9Oo4RVPCxLmPG0CHMpjGxvnb801Yx_KbLFGs6qY8EdXUnLoMFFOki0Ppa47fuwmkHV2KzFwz56MVT2-I6v3WB18BM5zhaSLzxfE)
+![](https://data.cesko.digital/newsletter/45/2.png)
 
 ## Česko.Digital a DOBROBOT podporuje aktivity pro rozvoj neziskových organizací
 
@@ -51,7 +51,7 @@ lang: cs
 
 \> [Omrkni další aukce: www.dobrobot.cz](http://www.dobrobot.cz)
 
-![](https://lh4.googleusercontent.com/cS1wMg1Ejjz712NuWGehDjK-Kwe1XKRtM94RVO6IcN_Eqy2hvA5UDOh4t-NHYfI87pMWAiCqdBcQxLsJ4pmXGy1fLx1I_ZyRIKy2T98MjK3QJOAtLCBwJHEONizmitFG2j329OjKHaL31-T2bThl5OE)
+![](https://data.cesko.digital/newsletter/45/dobrobot.png)
 
 ## Česko digitalizuje! Jaké úkoly má nová Digitální a informační agentura? 
 
@@ -131,7 +131,7 @@ Tam se toho vejde! Praktická a univerzální taška se snadno složí a pojme t
 
 \> [Tak mrkni na naši projektovou stránku!](https://cesko.digital/projects/cvicte-s-revmatem)
 
-![](https://lh4.googleusercontent.com/-h1oBPFt8K4q_65gNAJOwFMrVjVhHlTkv055V6N_8vRmNkBwDsIGMCyt2MqXdwKsmRSAvuThHbyXHhEE2xALXxYq8DzFFHKAJwrlYKiyQimabEQnm2yT4TZCOx1OFzJFhmBaXQquGM24TmAQTjGHux4)
+![](https://data.cesko.digital/newsletter/45/revma-liga-logo.png)
 
 Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).
 
