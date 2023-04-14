@@ -87,91 +87,89 @@ Tam se toho vejde! Praktická a univerzální taška se snadno složí a pojme t
 
 🏗️ Letos jsme se ucházeli a úspěšně prošli výběrem grantového řízení [Operačního programu Zaměstnanost Plus](https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/inkubacni-faze-sireni-1-?inheritRedirect=false) (financováno Evropskou unií), který vyhlašuje odbor realizace ESF programů pod [Ministerstvem práce a sociálních věcí](https://www.mpsv.cz/).
 
-💻 V březnu jsme tak spustili nový projekt, přípravná fáze potrvá do srpna 2023.
+💻 V březnu jsme tak spustili **nový projekt**, přípravná fáze potrvá do srpna 2023.
 
-🎯 Jeho cílem je pomoci neziskovým organizacím identifikovat a překonat překážky, které jim brání v poskytování efektivních služeb klientům a klientkám s využitím technologií, a poskytnout první praktické kroky jak na to.
+🎯 Jeho cílem je pomoci neziskovým organizacím **identifikovat a překonat překážky**, které jim brání v poskytování efektivních služeb klientům a klientkám s využitím technologií, a poskytnout první praktické kroky jak na to.
 
-🗣️ Nyní probíhají hloubkové rozhovory se zapojenými neziskovými organizacemi. Průzkum nám lépe pomůže s tvorbou plánu a návrhem konkrétní spolupráce.
+🗣️ Nyní probíhají **hloubkové rozhovory** se zapojenými neziskovými organizacemi. Průzkum nám lépe pomůže s tvorbou plánu a návrhem konkrétní spolupráce.
 
-🤩 Zajímá tě to? Aktuálně zjišťujeme zájem kolegů*kolegyň v komunitě ohledně konzultací, mentoringu a coachingu neziskových organizací. 
+🤩 **Zajímá tě to?** Aktuálně zjišťujeme zájem kolegů*kolegyň v komunitě ohledně konzultací, mentoringu a coachingu neziskových organizací. 
 
 \> [Vyplň nám na sebe kontakt](https://airtable.com/shrAuq9tVRMtiksIJ)
 
-## Digitální inkluze 
+## Digitální inkluze
 
 *Nová platforma na podporu využívání digitálních technologií u seniorů, dětí a minorit*
 
-📢 V právě začínajícím projektu [Digitální inkluze](https://cesko.digital/projects/digitalni-inkluze), který podpořil Google.org, nyní probíhá výzkum ohledně digitální inkluze seniorů*seniorek, dětí z vyloučených lokalit a lidí trpících sociální vyloučeností (spadají sem např. romské minority, lidé se zhoršeným socio-ekonomickým zázemím, nezaměstnaní apod.). 
+📢 V právě začínajícím projektu [Digitální inkluze](https://cesko.digital/projects/digitalni-inkluze), který podpořil Google.org, nyní probíhá výzkum ohledně **digitální inkluze seniorů*seniorek, dětí z vyloučených lokalit a lidí trpících sociální vyloučeností** (spadají sem např. romské minority, lidé se zhoršeným socio-ekonomickým zázemím, nezaměstnaní apod.). 
 
 👉 Pokud máš k tématu blízko nebo pracuješ s těmito cílovkami, chceme s tebou mluvit! Hledáme jak partnerské organizace, tak data, která nás mohou posunout, a stále nabíráme i [dobrovolníky*dobrovolnice do projektu.](https://cesko-digital.slack.com/archives/C04RE052XA) 
 
-\> Ozvi se přímo dobrovolnici Petře Krištof na e-mail: petra.kristof@cesko.digital
+**\> Ozvi se přímo dobrovolnici Petře Krištof na e-mail: [petra.kristof@cesko.digital](mailto:petra.kristof@cesko.digital)**
 
 ## Tvoje láska
 
 *Vytvořme největší online komunitní platformu pro navazování vztahů (nejen) pro lidi s handicapem*
 
-💘 Láska je pro každého, ale jak ji mohou najít i nevidomí lidé? Přece s TvojíLáskou! Projekt jsme představili na Hack Day Česko.Digital a odnesli si cenné tipy.
+💘 Láska je pro každého, ale jak ji mohou najít i nevidomí lidé? Přece s TvojíLáskou! Projekt jsme **představili na Hack Day** Česko.Digital a odnesli si cenné tipy.
 
-🏗️ Pokračovat s projektem na WordPress nebo ho postavit na zelené louce? To je výzva, kterou teď řešíme.
+🏗️ Pokračovat s projektem na **WordPress** nebo ho postavit na zelené louce? To je výzva, kterou teď řešíme.
 
-🛑 Sexuální a domácí násilí je ještě větší problém a tabu u lidí s handicapem. O řešeních jsme debatovali u kulatého stolu Senátu na téma Dopady sexualizovaného a domácího násilí na jednotlivce a společnost. Bezpečné seznamování je pro nás zásadní.
+🛑 Sexuální a domácí **násilí** je ještě větší problém a tabu u lidí s handicapem. O řešeních jsme debatovali u kulatého stolu Senátu na téma *Dopady sexualizovaného a domácího násilí na jednotlivce a společnost*. **Bezpečné** seznamování je pro nás zásadní.
 
 ## Revma v klidu
 
 *Motivačně edukační cvičební e-kurz nejen pro pacienty s revmatem*
 
-🤩 Máme nové logo! Velké díky patří všem, kteří se na něm podíleli.
+🤩 **Máme nové logo!** Velké díky patří všem, kteří se na něm podíleli.
 
-🤝 Náš technický tým se spojil s UX design týmem a vybral finální řešení pro náš web, který bude co nevidět.
+🤝 Náš technický tým se spojil s UX design týmem a vybral **finální řešení** pro náš web, který bude co nevidět.
 
-✍️ Marketingový tým už má úkoly na 3 měsíce dopředu a připravuje strategii.
+✍️ Marketingový tým už má úkoly na 3 měsíce dopředu a připravuje **strategii**.
 
-🎥 Natočili jsme 12 videí se cvičením, které budou základem celého projektu.
+🎥 Natočili jsme **12 videí se cvičením**, které budou základem celého projektu.
 
 🙋‍♂️ Chceš se zapojit nebo se dozvědět více informací?
 
-\> [Tak mrkni na naši projektovou stránku!](https://cesko.digital/projects/cvicte-s-revmatem)
+**\> [Tak mrkni na naši projektovou stránku!](https://cesko.digital/projects/cvicte-s-revmatem)**
 
 ![](https://data.cesko.digital/newsletter/45/revma-liga-logo.png)
 
-Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).
+**Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).**
 
 # Události
 
 ## Přijdeš na další Hack Day?
 
-🧑‍🤝‍🧑 Na konci března proběhl v pořadí 3. Hack Day, kde se v rámci tech talků probralo téma Github Actions a proč využívat automatizace, představení Codemagic a také přístupnost pohledem nevidomých. Pokud nechceš o takové setkání příště přijít, další Hack Day proběhne v sobotu 29. 4. v prostorech Pracovny. Budeme pokračovat s tématem přístupnosti a pobavíme se také o designu. 
+🧑‍🤝‍🧑 Na konci března proběhl v pořadí 3. Hack Day, kde se v rámci tech talků probralo téma Github Actions a proč využívat automatizace, představení Codemagic a také přístupnost pohledem nevidomých. Pokud nechceš o takové setkání příště přijít, **další Hack Day proběhne v sobotu 29. 4.** v prostorech Pracovny. Budeme pokračovat s tématem přístupnosti a pobavíme se také o designu. 
 
-\> [Registruj se](https://cesko.digital/events/hack-day-4)
+**\> [Registruj se](https://cesko.digital/events/hack-day-4)**
 
 # Nachytři se s námi
 
 ## Zatoč s neustálým scrolováním 
 
-📴 Denně si přečteš desítky cizích příběhů a ve chvíli, kdy se potřebuješ soustředit na práci, ti to nejde. Mít svět na dosah ruky (v mobilu) má i své vedlejší účinky. Co s tím? Přijď 20. 4. v 18:30 na webinář DIGITÁLNÍ HYGIENA – NASTAV ONLINE SVĚTU ZDRAVÉ HRANICE. Spisovatelka a zakladatelka Digitální hyggieny Jitka Holasová ti ukáže, jak se z nutkavého návyku kontrolovat mobil vymanit.
+📴 Denně si přečteš desítky cizích příběhů a ve chvíli, kdy se potřebuješ soustředit na práci, ti to nejde. Mít svět na dosah ruky (v mobilu) má i své vedlejší účinky. Co s tím? **Přijď 20. 4. v 18:30** na webinář **DIGITÁLNÍ HYGIENA – NASTAV ONLINE SVĚTU ZDRAVÉ HRANICE**. Spisovatelka a zakladatelka Digitální hyggieny Jitka Holasová ti ukáže, jak se z nutkavého návyku kontrolovat mobil vymanit.
 
-\> [Přihlas se](https://cesko.digital/events/digitalni-hygiena)
+**\> [Přihlas se](https://cesko.digital/events/digitalni-hygiena)**
 
 ## Jak reflektovat značku Česko.Digital v obsahu a komunikaci
 
-📢 Chceš vědět, jak se prezentuje a komunikuje značka Česko.Digital a co to znamená pro naše komunikační výstupy? Tak to si nenech ujít webinář [Jindřicha Oukropce](https://www.linkedin.com/in/jindrichoukropec/) v úterý 25. 4. od 18 hodin – naučí tě psát Česko.Digitálně!
+📢 Chceš vědět, **jak se prezentuje a komunikuje značka Česko.Digital** a co to znamená pro naše komunikační výstupy? Tak to si nenech ujít webinář [Jindřicha Oukropce](https://www.linkedin.com/in/jindrichoukropec/) v úterý 25. 4. od 18 hodin – naučí tě psát Česko.Digitálně!
 
-\> [Přihlas se](https://airtable.com/shrjtFSEnd3nqFKgL)
+**\> [Přihlas se](https://airtable.com/shrjtFSEnd3nqFKgL)**
 
 ## Ohlédnutí za projektem Nedlužím státu: Tipy a fuckupy z pozice projektového koordinátora
 
-🎯 Dobrovolnický projektový koordinátor [Radek Sojka](https://cz.linkedin.com/in/radek-sojka) strávil 9 měsíců řízením projektu [Nedlužím státu](https://www.nedluzimstatu.cz/). Společně s dalšími dobrovolníky a dobrovolnicemi z Česko.Digital vylepšil design i funkce webu a navrch si odnesl spoustu zkušeností, o které se rozhodl podělit s celou komunitou. Zajímá tě, jak na bezproblémový launch a efektivní komunikaci v rámci týmu nebo proč si průběžně připomínat celkovou vizi projektu? Článek je plný inspirace, tak na nic nečekej!
+🎯 Dobrovolnický projektový koordinátor [Radek Sojka](https://cz.linkedin.com/in/radek-sojka) strávil 9 měsíců řízením projektu [Nedlužím státu](https://www.nedluzimstatu.cz/). Společně s dalšími dobrovolníky a dobrovolnicemi z Česko.Digital vylepšil design i funkce webu a navrch si odnesl spoustu zkušeností, o které se rozhodl podělit s celou komunitou. Zajímá tě, **jak na bezproblémový launch a efektivní komunikaci** v rámci týmu nebo proč si průběžně připomínat celkovou vizi projektu? Článek je plný inspirace, tak na nic nečekej!
 
-\> [Přečti si článek](https://blog.cesko.digital/2022/12/co-me-naucilo-nedluzim-statu-radek-sojka)
+**\> [Přečti si článek](https://blog.cesko.digital/2022/12/co-me-naucilo-nedluzim-statu-radek-sojka)**
 
 # Koho aktuálně hledáme
 
 Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digitalizuj s námi Česko. Všechny pozice najdeš přehledně na Portálu dobrovolníka!
 
-[\> Nakouknout do Portálu](https://cesko.digital/dashboard)
-
-
+**[\> Nakouknout do Portálu](https://cesko.digital/dashboard)**
 
 ## Děkujeme, že tě baví číst.digital!
 
