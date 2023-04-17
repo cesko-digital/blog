@@ -23,7 +23,7 @@ Můžete si vzít na pomoc například osvědčený vzorec **4U**. Ten radí, ja
 * **Ultra-specific** = specifický – Tedy NE obecný nadpis. Buďte konkrétní. Nechte jasně zaznít, čemu se v článku věnujete. 
 * **Useful** = užitečný – Kdo bude ztrácet čas čtením něčeho, co pro něj nezní užitečně? Co vás spíš naláká k přečtení: „Můj výlet s dětmi“ nebo „3 tipy, jak bez nervů zvládnout cestování s předškoláky“?
 
-![](https://lh3.googleusercontent.com/yzoxPqJ2cij-pKHP0Aes6GwU_1pTXibTtXS9fO28S1TKz15KnREoCaoKbIvsWf7tPs-mD5hQq2F_b46F15SP2L3FEMgAZLs8CwPfPdFScu56tjgzHZLQibmTd26BNEW1rcnyuHLiwgy0WlrDvTyuWtBurBzYtRL_omIgAxCGU4aTaetEuir6MIf8VBk7bQ)
+![](https://data.cesko.digital/img/clanek-jak-na-blogovy-clanek/1.png)
 
 *Reklama, která se zapsala do historie, s titulkem od Davida Ogilvyho*
 
@@ -43,7 +43,7 @@ Aby váš článek chutnal i vyhledávačům, zkuste do nadpisu zapracovat také
 
 Informace v článku servírujte v podobě **obrácené pyramidy**. Začněte tím nejdůležitějším a nejlákavějším. Nastolte téma, a to postupně rozdrobte do detailů.
 
-![](https://lh3.googleusercontent.com/qOS8JnkN9wP5JjZlG80qj6Zqs1bTqPJcw34mVNv14KdmRepr_P8pCiDr0AE6yW2zW5NhnjEknUOTXcVCKi9Hzf3qx6TyeAc5IUK1lCBb8_PYcr5BqMgv2hhNaA4VdHQ5AOFhqgWtrTEHO7vkdC__IWzutM9V7639NX1QEtlU1Wf1AnkEPCivnkfF3QpT7A)
+![](https://data.cesko.digital/img/clanek-jak-na-blogovy-clanek/2.png)
 
 *Zdroj: [13 Copywriting Tips To Write The Perfect Blog Post](https://seopressor.com/blog/copywriting-tips-for-perfect-blog-post/)*
 
@@ -69,7 +69,7 @@ Proto:
 
 Jak čtenáři texty procházejí a na čem spočívají očima nejdéle, pomáhají odhalit tzv. heatmapy:
 
-![](https://lh5.googleusercontent.com/l7NNOoK4anOzFeMutgxt2nYWgh5b4Jtg2E97AUPrHc6Id5rudNoNlhAz9lIZjZAeb6K2OG-7YJDM5x6VnrPadxLM2g8jfwi-p3CUiHiSkedV3U9c8qBlnHJl-yWUJOUTbxbKhi9BvERFU-hL6rkoywOZUgFE8WVPNcrovJ2s8EOEHu0lv22L0AJmkCAjxA)
+![](https://data.cesko.digital/img/clanek-jak-na-blogovy-clanek/3.png)
 
 Zdroj: [How to Use Heatmaps to Fire Up Your UX](https://www.uservoice.com/blog/fire-up-your-ux-insight-with-heatmaps)
 
