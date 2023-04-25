@@ -126,6 +126,7 @@ collections:
             "nepanikar",
             "cesko-digital-obsah",
             "misto-ve-skole",
+            "moudra-sit",
           ]
       - label: "Cover"
         name: "cover"
