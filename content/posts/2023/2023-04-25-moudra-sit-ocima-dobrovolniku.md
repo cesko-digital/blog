@@ -2,7 +2,8 @@
 title: Dělat něco užitečného je můj hnací motor – co přineslo dobrovolníkům
   zapojení do projektu Moudrá Síť?
 author: lenkab
-tags: null
+tags:
+  - moudra-sit
 cover: https://data.cesko.digital/img/clanek-moudra-sit-dobrovolnici/moudra-sit-ocima-dobrovolniku.png
 date: 2023-04-25-09-53
 slug: moudra-sit-ocima-dobrovolniku
