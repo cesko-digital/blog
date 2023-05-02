@@ -127,6 +127,13 @@ collections:
             "cesko-digital-obsah",
             "misto-ve-skole",
             "moudra-sit",
+            "nezisk-digital",
+            "digitalni-inkluze",
+            "tvojelaska",
+            "redesign-komunity",
+            "kogito",
+            "it-fitness-test",
+            "festival-kreativni-byrokracie",
           ]
       - label: "Cover"
         name: "cover"
