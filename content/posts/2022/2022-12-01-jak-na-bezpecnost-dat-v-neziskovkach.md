@@ -2,7 +2,8 @@
 title: Jak na bezpečnost dat v neziskovkách? Odborníci radili na naší nové akci
   Nezisk.Digital
 author: lenkab
-tags: null
+tags:
+  - nezisk-digital
 cover: https://data.cesko.digital/img/clanek-jak-na-bezpecnost-dat-v-neziskovkach/jak-na-bezpecnost-dat-v-neziskovkach.png
 date: 2022-12-01-06-52
 slug: jak-na-bezpecnost-dat-v-neziskovkach
