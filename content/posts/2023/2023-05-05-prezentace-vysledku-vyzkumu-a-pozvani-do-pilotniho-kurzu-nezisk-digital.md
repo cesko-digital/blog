@@ -3,7 +3,7 @@ title: Prezentace výsledků výzkumu a pozvání do pilotního kurzu Nezisk.Dig
 author: zoul
 tags:
   - nezisk-digital
-cover: https://data.cesko.digital/spolecneadigitalnelogo.png
+cover: https://data.cesko.digital/img/showcase1_blog.png
 date: 2023-05-05-10-26
 slug: prezentace-vysledku-vyzkumu-a-pozvani-do-pilotniho-kurzu-Nezisk-Digital
 description: "Děkujeme vám za účast na našem výzkumu a za zájem o naši práci.
