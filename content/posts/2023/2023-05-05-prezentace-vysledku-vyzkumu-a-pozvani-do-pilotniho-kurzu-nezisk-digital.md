@@ -18,19 +18,15 @@ lang: cs
 ---
 <!--StartFragment-->
 
-
-
 <!--StartFragment-->
 
-V Česko.Digital jsme si pro sebe pojmenovali problém, který ultimátně řešíme: 
+
+
+V Česko.Digital jsme si v posledních měsících loňského roku a v prvních měsících letošního roku pro sebe pojmenovali problém, který ultimátně řešíme: 
 
 <!--StartFragment-->
 
 > **Veřejná sféra neumí efektivně využívat potenciál technologií k řešení celospolečenských problémů a zhoršuje tak kvalitu života lidí v Česku.**
-
-
-
-
 
 <!--EndFragment-->
 
@@ -38,30 +34,28 @@ V Česko.Digital jsme si pro sebe pojmenovali problém, který ultimátně řeš
 
 Prostřednictvím projektu Nezisk.Digital chceme podpořit veřejnou sféru v efektivním využívání digitálních technologií, aby mohla řešit celospolečenské problémy a tím zlepšovala podmínky pro život lidí v České Republice. 
 
-> *Cílemprojektu je pomáhat neziskovým organizacím identifikovat a překonat překážky, které jim brání v poskytování efektivních služeb klientům s využitím technologií, **a poskytnout první praktické kroky jak na to.*** 
+> \*Cílem projektu je pomáhat neziskovým organizacím identifikovat a překonat překážky, které jim brání v poskytování efektivních služeb klientům s využitím technologií, **a poskytnout první praktické kroky jak na to.*** 
 
 <!--StartFragment-->
 
 P﻿rvní částí projektu byl výzkum. <!--StartFragment--> 
 
-Celkem na **33 pohovorech s neziskovými organizacemi, státními zaměstnanci, grantovými zadavateli, nadacemi, experty v okruhu technologií, mentory a organizacemi, které se zabývají digitalizací NNO sektoru** jsme chtěli otestovat svoje hypotézy o tom, co brání organizacím efektivně využívat potenciál technologií.
+Celkem na **33 pohovorech s neziskovými organizacemi, státními zaměstnanci, grantovými zadavateli, nadacemi, experty v okruhu technologií, mentory a organizacemi, které se zabývají digitalizací NNO sektoru** jsme otestovali své hypotézy o tom, co brání organizacím efektivně využívat potenciál technologií.
 
 <!--EndFragment-->
 
 <!--StartFragment-->
 
-
-
 V následujících řádcích shrnujeme, co jsme v našem výzkumu zjistili. Neziskovým organizacím brání při efektivním využívání potenciálu technologií:
 
-* **Absence peněz** \
+* **absence peněz** \
   (granty, donoři, sebeudržitelnost a spolupráce s jinými organizacemi)
 
   * Nevládní organizace spoléhající na granty, často zanedbávají jiné zdroje financování, v turbulentních časech čelí nestabilitě a vytvářejí konkurenční prostředí.
 
 <!--EndFragment--><!--StartFragment-->
 
-* **Absence času**
+* **absence času**
 
   * Nedostatek technických znalostí nutí NNO zanedbávat svůj potenciál kvůli časovým prioritám.
   * Naléhavé úkoly převažují nad těmi důležitými a brání strategickému rozvoji.
@@ -69,7 +63,7 @@ V následujících řádcích shrnujeme, co jsme v našem výzkumu zjistili. Nez
 
 <!--EndFragment--><!--StartFragment-->
 
-* **Absence kompetencí**
+* **absence kompetencí**
 
   * Dostupné vzdělávací materiály nejsou přínosné, nejsou aplikovatelné
   * Chybějí měkké dovednosti (strategické myšlení, procesní smýšlení, digitální představivost, atd.)
@@ -78,13 +72,15 @@ V následujících řádcích shrnujeme, co jsme v našem výzkumu zjistili. Nez
 
 <!--EndFragment--><!--StartFragment-->
 
-* **Průběžný problém čtyř světů** \
-  (komerce, NNO, technologie, státní sféra)
 
-  * Čtyři různé světy jsou vnímané jako nespolupracující a antagonistické
-  * Negativní stereotypy vytvářejí nedůvěru a odpor ke spolupráci
-  * Prolomení bariér vyžaduje ochotu učit se jeden od druhého a uznání hodnoty
-  * Spolupráce odemyká potenciál technologie 
+
+**Průběžný problém čtyř světů** \
+(komerce, NNO, technologie, státní sféra)
+
+* Čtyři různé světy jsou vnímané jako nespolupracující a antagonistické
+* Negativní stereotypy vytvářejí nedůvěru a odpor ke spolupráci
+* Prolomení bariér vyžaduje ochotu učit se jeden od druhého a uznání hodnoty
+* Spolupráce odemyká potenciál technologie 
 
 <!--EndFragment--><!--StartFragment-->
 
@@ -98,21 +94,21 @@ Problém je opravdu komplikovaný a neskutečně provázaný. Nestačí odstrani
 
 <!--EndFragment--><!--StartFragment-->
 
-
-
 N﻿a základě výsledků výzkumu jsme poupravili cíl projektu Nezisk.Digital: <!--StartFragment-->
 
 > *Cílem projektu je pomáhat neziskovým organizacím zvyšovat kompetence skrz aktivní vzdělávání, a tak jim umožnit efektivně využívat potenciál technologii.*
 
 <!--EndFragment-->
 
-T﻿aké jsme na základě zjištění z výzkumu vytvořili jsme **pilotní kurz**, který vyhodnotí situaci v NNO a naučí její zaměstnance používat správné digitální nástroje. Kurz budou v létě realizovat expertní mentoři z naší komunity rovnou v 10 neziskovkách. 
+Také jsme vytvořili **pilotní kurz**, který vyhodnotí situaci v NNO a naučí její zaměstnance používat správné digitální nástroje. Kurz budou v létě realizovat expertní mentoři z naší komunity rovnou v 10 neziskových organizacích.
 
 B﻿ližší informace o pilotním kurzu najdeš v našem dalším blogovém článku (již brzy online).
 
 <!--EndFragment-->
 
-Zajímá tě to? Doraz na třetí **[showcase - středa 31.5.2023 od 9:00 hod](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MjVibjZtZW8xcjFocm5sM[…]Wggcm9tYW5hQGNlc2tvLmRpZ2l0YWw&tmsrc=romana%40cesko.digital)**Účastníci kurzu na něm budou prezentovat svůj digitalni audit a plán realizace. 
+Zajímá tě to? Doraz na třetí **[showcase - středa 31.5.2023 od 9:00 hod](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MjVibjZtZW8xcjFocm5sM[…]Wggcm9tYW5hQGNlc2tvLmRpZ2l0YWw&tmsrc=romana%40cesko.digital)**
+
+Účastníci kurzu na něm budou prezentovat svůj digitální audit a plán realizace. 
 
 <!--EndFragment--><!--StartFragment-->
 
