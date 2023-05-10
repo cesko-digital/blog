@@ -89,6 +89,9 @@ collections:
             "lucie.porazilova",
             "aneta.pisarikova",
             "michaela.madlova",
+            "martina.habova",
+            "lujza.kotryova".
+            "veronika.quek",
           ]
         required: true
       - label: "Tags"
@@ -237,6 +240,9 @@ collections:
             "lucie.porazilova",
             "aneta.pisarikova",
             "michaela.madlova",
+            "martina.habova",
+            "lujza.kotryova".
+            "veronika.quek",
           ]
         required: true
       - label: "Cover"
