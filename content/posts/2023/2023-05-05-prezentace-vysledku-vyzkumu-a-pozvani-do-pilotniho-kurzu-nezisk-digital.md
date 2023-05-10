@@ -5,7 +5,7 @@ author: zoul
 tags:
   - nezisk-digital
 cover: https://data.cesko.digital/img/showcase1_blog.png
-date: 2023-05-05-10-26
+date: 2023-05-10-10-26
 slug: co-brani-neziskovym-organizacim-v-efektivnim-vyuzivani-technologii-prinasime-vysledky-vyzkumu
 description: V letošním roce jsme se ucházeli a úspěšně prošli výběrem
   grantového řízení operačního programu Zaměstnanost plus (financováno Evropskou
