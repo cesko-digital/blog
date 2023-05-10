@@ -18,6 +18,24 @@ lang: cs
 ---
 <!--StartFragment-->
 
+
+
+<!--StartFragment-->
+
+V Česko.Digital jsme si pro sebe pojmenovali problém, který ultimátně řešíme: 
+
+<!--StartFragment-->
+
+> **Veřejná sféra neumí efektivně využívat potenciál technologií k řešení celospolečenských problémů a zhoršuje tak kvalitu života lidí v Česku.**
+
+
+
+
+
+<!--EndFragment-->
+
+<!--EndFragment-->
+
 Prostřednictvím projektu Nezisk.Digital chceme podpořit veřejnou sféru v efektivním využívání digitálních technologií, aby mohla řešit celospolečenské problémy a tím zlepšovala podmínky pro život lidí v České Republice. 
 
 > *Cílemprojektu je pomáhat neziskovým organizacím identifikovat a překonat překážky, které jim brání v poskytování efektivních služeb klientům s využitím technologií, **a poskytnout první praktické kroky jak na to.*** 
