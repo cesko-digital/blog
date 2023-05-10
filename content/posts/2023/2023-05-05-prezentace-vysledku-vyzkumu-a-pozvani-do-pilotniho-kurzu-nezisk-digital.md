@@ -20,8 +20,6 @@ lang: cs
 
 <!--StartFragment-->
 
-
-
 V Česko.Digital jsme si v posledních měsících loňského roku a v prvních měsících letošního roku pro sebe pojmenovali problém, který ultimátně řešíme: 
 
 <!--StartFragment-->
@@ -34,7 +32,7 @@ V Česko.Digital jsme si v posledních měsících loňského roku a v prvních 
 
 Prostřednictvím projektu Nezisk.Digital chceme podpořit veřejnou sféru v efektivním využívání digitálních technologií, aby mohla řešit celospolečenské problémy a tím zlepšovala podmínky pro život lidí v České Republice. 
 
-> \*Cílem projektu je pomáhat neziskovým organizacím identifikovat a překonat překážky, které jim brání v poskytování efektivních služeb klientům s využitím technologií, **a poskytnout první praktické kroky jak na to.*** 
+> *Cílem projektu je pomáhat neziskovým organizacím identifikovat a překonat překážky, které jim brání v poskytování efektivních služeb klientům s využitím technologií, **a poskytnout první praktické kroky jak na to.***
 
 <!--StartFragment-->
 
@@ -71,8 +69,6 @@ V následujících řádcích shrnujeme, co jsme v našem výzkumu zjistili. Nez
   * Chybí motivace vzdělávání v technologiích
 
 <!--EndFragment--><!--StartFragment-->
-
-
 
 **Průběžný problém čtyř světů** \
 (komerce, NNO, technologie, státní sféra)
