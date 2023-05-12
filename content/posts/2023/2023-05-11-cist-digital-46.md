@@ -5,7 +5,7 @@ author: content.team
 tags:
   - newsletter
 cover: https://data.cesko.digital/newsletter/46/cover46.png
-date: 2023-05-11-06-24
+date: 2023-05-12-11-08
 slug: cist-digital-46
 description: Ahoj Česko.Digital! 👋 Veřejná sféra nepoužívá efektivně digitální
   technologie. V Nezisk.Digital v létě pomůžeme 10 neziskovkám. A o Digitální
@@ -13,6 +13,8 @@ description: Ahoj Česko.Digital! 👋 Veřejná sféra nepoužívá efektivně 
   4. narozeniny Česko.Digital. 🎉 Zarezervuj si místo a přijď!
 lang: cs
 ---
+N﻿emáš čas číst? Podcast má i [podcastovou verzi](https://podcasters.spotify.com/pod/show/poslouchatdigital/episodes/poslouchat-st-digital13-Otestuj-sv-digitln-dovednosti--Slavme-u-4--narozeniny---Spoutme-pilotn-verzi-digi-kurzu-pro-neziskovky-e23u9l1) 🎧
+
 # Horké novin(k)y měsíce
 
 ## 14 226 otestovaných a 1. měsíc za námi. Pomoz nám pokořit cíl pro ČR do letních prázdnin!
@@ -170,8 +172,6 @@ Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digita
 **[\> Nakouknout do Portálu](https://cesko.digital/dashboard)**
 
 *Víš, že na Portálu najdeš pod názvem Marketplace i příležitosti od neziskovek mimo Česko.Digital?*
-
-
 
 # Děkujeme, že tě baví číst.digital!
 
