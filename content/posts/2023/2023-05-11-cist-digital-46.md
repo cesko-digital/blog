@@ -183,8 +183,6 @@ Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digita
 
 *Edit: Martina Habová, Terézia Palaščáková*
 
-*Korektura: Olga Zörnerová*
-
 *Grafika: Monika Pavlovičová, Lukáš Návesník*
 
 *Podcast: Lukáš Návesník, Jiří Ryszawy*
