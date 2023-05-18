@@ -1,7 +1,7 @@
 ---
 title: Víme, co brání neziskových organizacím v efektivním využívání
   technologií. Odpovědi přinesl náš výzkum.
-author: zoul
+author: martina.habova
 tags:
   - nezisk-digital
 cover: https://data.cesko.digital/img/showcase1_blog.png
