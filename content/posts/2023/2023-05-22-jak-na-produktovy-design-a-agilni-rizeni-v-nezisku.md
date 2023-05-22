@@ -1,7 +1,7 @@
 ---
 title: "Náročné, ale ne nemožné: Jak na produktový design a agilní řízení v nezisku?"
 author: lukas.n
-cover: xxx
+cover: https://data.cesko.digital/img/clanek-mastermind-jak-na-produktovy-design/cover.png
 date: 2023-05-22-03-53
 slug: jak-na-produktovy-design-a-agilni-rizeni-v-nezisku
 description: Minulý Mastermind nám odhalil, kdo jsou product designer a agilní
@@ -13,11 +13,11 @@ description: Minulý Mastermind nám odhalil, kdo jsou product designer a agiln�
   know-how, které k tématům sdíleli*y jeho účastníci*účastnice a lidé z praxe.
 lang: cs
 ---
-Upozornění: Kompletní seznam účastníků*účastnic a jejich pozice, které v rámci článku citujeme, najdete na konci článku.
+*Upozornění: Kompletní seznam účastníků*účastnic a jejich pozice, které v rámci článku citujeme, najdete na konci článku.*
 
 # Nedaří se nám efektivně plánovat. Co s tím?
 
-V tomto duchu se nesla první otázka Tomáše Volka. Zajímalo ho, jakým způsobem motivovat tým a plánovat jednotlivé sprinty při tvorbě produktu, jestliže nemá tým pevně stanovenou pracovní dobu a a nefunguje full-time.
+V tomto duchu se nesla první otázka Tomáše Volka. Zajímalo ho, jakým **způsobem motivovat tým a plánovat jednotlivé sprinty** při tvorbě produktu, jestliže nemá tým pevně stanovenou pracovní dobu a a nefunguje full-time.
 
 Mezi nejzajímavější rady přítomných patří:
 
@@ -27,13 +27,15 @@ Mezi nejzajímavější rady přítomných patří:
 
 # Neustále se nám protáčí tým. Jak na to?
 
-Martina Hassmana zajímalo, jak úspěšně pracovat na neziskových projektech, kde je, vzhledem k dobrovolnické účasti jeho aktérů, vysoká fluktuace členů týmu, a jak omezit negativní dopady střídání.
+Martina Hassmana zajímalo, **jak úspěšně pracovat na neziskových projektech, kde je**, vzhledem k dobrovolnické účasti jeho aktérů, **vysoká fluktuace členů týmu**, a jak omezit negativní dopady střídání.
 
-Zde se většina účastníků*účastnic shoduje, že je důležitá především řádná dokumentace a kvalitní onboarding (= seznámení s týmem a projektem), během kterého je novým členům týmu vysvětleno, jak se do projektu zapojit. Jirka Sekera připomíná, že je možné onboarding provádět i asynchronně pomocí nahrávek.
+Zde se většina účastníků*účastnic shoduje, že je důležitá především **řádná dokumentace a kvalitní onboarding** (= seznámení s týmem a projektem), během kterého je novým členům týmu vysvětleno, jak se do projektu zapojit. Jirka Sekera připomíná, že je možné onboarding provádět i asynchronně pomocí nahrávek.
 
 Zajímavá je taktéž poznámka Honzy Jelínka, dle kterého je velmi důležitý i offboarding, kdy odcházející členové předají své dosavadní know-how o projektu nováčkům.
 
 Podle Honzy Kotary je nutné zaměřit se i na motivaci dobrovolníků a srozumitelnost vize projektu. Taktéž zdůrazňuje důležitost analýzy stavu projektu – může ještě fungovat na dobrovolnické bázi, nebo už vyžaduje placené síly?
+
+![](https://data.cesko.digital/img/clanek-mastermind-jak-na-produktovy-design/1.jpg)
 
 # Efektivní komunikace. Co funguje?
 
@@ -51,7 +53,7 @@ Jako **velmi efektivní nástroj pro zlepšení týmové komunikace označili\*y
 
 Martin Leskovjan taktéž připomněl zvýšenou **potřebu kontroly a opatrnosti ohledně efektivnosti dobrovolníka**. Může se totiž velmi lehce stát, že přijde o motivaci, vyhoří a celý průběh projektu tím bude ohrožen.
 
-![]()
+![](https://data.cesko.digital/img/clanek-mastermind-jak-na-produktovy-design/2.jpg)
 
 # Agilní design. Je to vůbec možné?
 
@@ -71,7 +73,7 @@ Jednou z nejlepších cest pro navození inspirace je **pořádat spolu mimoprac
 
 Často tyto vztahy a s nimi související důvěru nelze vybudovat „na sílu“ – je nutné je nechat vzniknout přirozeně. Dá se tomu ale trochu pomoct. Například Honza Jelínek doporučuje vybrat několik lidí, kteří se o budování vztahů v týmu budou průběžně, organicky starat. Naopak podle Terky Rybové je nejlepší vzít budování vztahů mimo pracovní prostředí a vyrazit ven, třeba na pivo.
 
-![]()
+![](https://data.cesko.digital/img/clanek-mastermind-jak-na-produktovy-design/3.jpg)
 
 # Chceš i ty přispět?
 
