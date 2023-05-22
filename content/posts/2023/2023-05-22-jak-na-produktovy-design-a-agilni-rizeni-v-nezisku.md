@@ -1,6 +1,6 @@
 ---
 title: "Náročné, ale ne nemožné: Jak na produktový design a agilní řízení v nezisku?"
-author: lukas.n
+author: martin.racz
 cover: https://data.cesko.digital/img/clanek-mastermind-jak-na-produktovy-design/cover.png
 date: 2023-05-22-03-53
 slug: jak-na-produktovy-design-a-agilni-rizeni-v-nezisku
