@@ -92,6 +92,7 @@ collections:
             "martina.habova",
             "lujza.kotryova",
             "veronika.quek",
+            "martin.racz",
           ]
         required: true
       - label: "Tags"
@@ -243,6 +244,7 @@ collections:
             "martina.habova",
             "lujza.kotryova",
             "veronika.quek",
+            "martin.racz",
           ]
         required: true
       - label: "Cover"
