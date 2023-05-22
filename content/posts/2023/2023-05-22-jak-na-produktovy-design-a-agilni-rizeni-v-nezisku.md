@@ -37,19 +37,21 @@ Podle Honzy Kotary je nutné zaměřit se i na motivaci dobrovolníků a srozumi
 
 # Efektivní komunikace. Co funguje?
 
-Dalším z témat Mastermindu, které zaujalo Evu Helešicovou, bylo nastavení efektivní komunikace a týmové kultury v prostředí, které je zvyklé se setkávat převážně na dálku a spíše méně než více.
+Dalším z témat Mastermindu, které zaujalo Evu Helešicovou, bylo **nastavení efektivní komunikace a týmové kultury** v prostředí, které je zvyklé se setkávat převážně na dálku a spíše méně než více.
 
-Většina se shodla, že je důležité všechny nejasnosti mezi sebou komunikovat a sdílet je s někým, ke komu má tým důvěru. Martin Hassman dodává, že z jeho zkušenosti se osvědčilo mít osobu koordinátora jako toho, s kým mohl tým řešit své problémy.
+Většina se shodla, že **je důležité všechny nejasnosti mezi sebou komunikovat** a sdílet je s někým, ke komu má tým důvěru. Martin Hassman dodává, že z jeho zkušenosti se osvědčilo mít osobu koordinátora jako toho, s kým mohl tým řešit své problémy.
 
-Jako velmi efektivní nástroj pro zlepšení týmové komunikace označili\*y účastníci\*účastnice také retrospektivu, během které se tým zaměří na to, co mohl v předchozím sprintu dělat lépe. Konkrétně Jirka Sekera doporučuje dělat retrospektivy ze začátku obecnější, ovšem s přibývajícími zkušenostmi by je více zpřesňoval pro lepší pokrytí témat a problémů v týmu.
+Jako **velmi efektivní nástroj pro zlepšení týmové komunikace označili\*y účastníci\*účastnice také retrospektivu**, během které se tým zaměří na to, co mohl v předchozím sprintu dělat lépe. Konkrétně Jirka Sekera doporučuje dělat retrospektivy ze začátku obecnější, ovšem s přibývajícími zkušenostmi by je více zpřesňoval pro lepší pokrytí témat a problémů v týmu.
 
 # Pasti v nezisku. Jak jim předejít?
 
-Řešilo se i téma fuckupů, které nadhodila Lujza Kotryová. Jedním z hlavních problémů, který několik účastníků*účastnic uvedlo, je vynechání cílové skupiny a uživatelů z procesu testování. Proto je po celou dobu testování nutné dbát na jejich zapojení a zohlednění požadavků v průběhu celého vývoje.
+Řešilo se i téma fuckupů, které nadhodila Lujza Kotryová. Jedním z hlavních problémů, který několik účastníků*účastnic uvedlo, je **vynechání cílové skupiny a uživatelů z procesu testování**. Proto je po celou dobu testování nutné dbát na jejich zapojení a zohlednění požadavků v průběhu celého vývoje.
 
-Netřeba zapomínat i na ostatní zainteresované strany (stakeholdery). A jak správně podotkl Honza Jelínek, existuje také rozdíl mezi člověkem, kterému je produkt určen, a subjektem, který jej financuje.
+**Netřeba zapomínat i na ostatní zainteresované strany** (stakeholdery). A jak správně podotkl Honza Jelínek, existuje také rozdíl mezi člověkem, kterému je produkt určen, a subjektem, který jej financuje.
 
-Martin Leskovjan taktéž připomněl zvýšenou potřebu kontroly a opatrnosti ohledně efektivnosti dobrovolníka. Může se totiž velmi lehce stát, že přijde o motivaci, vyhoří a celý průběh projektu tím bude ohrožen.
+Martin Leskovjan taktéž připomněl zvýšenou **potřebu kontroly a opatrnosti ohledně efektivnosti dobrovolníka**. Může se totiž velmi lehce stát, že přijde o motivaci, vyhoří a celý průběh projektu tím bude ohrožen.
+
+![]()
 
 # Agilní design. Je to vůbec možné?
 
@@ -57,13 +59,13 @@ Agilita. Ve vývoji věc, bez které nelze fungovat a která proniká i do dalš
 
 Názory a rady k tomuto tématu jsou velmi různorodé. Podle Martina Hassmana je správné zahrnout do sprintu jak design, tak i samotný vývoj. Pokud dané fáze projektu neprobíhají současně, ale postupně (tzn. vývoj začne až po designu), pak se z agilního přístupu stává standardní waterfall.
 
-V návaznosti na to vnímá Lujza úlohu designu především v definici jádra produktu, tudíž by se podle ní měl nacházet před vývojem. Bez zmíněného jádra nemůže produkt ani vývoj plně fungovat.
+V návaznosti na to vnímá Lujza úlohu designu především v definici jádra produktu, tudíž by se podle ní měl nacházet před vývojem. **Bez zmíněného jádra nemůže produkt ani vývoj plně fungovat.**
 
-Je ovšem třeba, jak podotkla Klára Scholleová, řešit každý projekt individuálně – každý má jiné podmínky a požadavky na zapojené lidi. Designéři\*designérky by ale podle Markéty Rýcové neměli\*y být z procesu a od týmu vývoje úplně odstřižení*é, proto je dobré tomu zabránit (například možností spolupráce mezi designerskými a vývojářskými týmy).
+Je ovšem třeba, jak podotkla Klára Scholleová, **řešit každý projekt individuálně** – každý má jiné podmínky a požadavky na zapojené lidi. Designéři\*designérky by ale podle Markéty Rýcové neměli\*y být z procesu a od týmu vývoje úplně odstřižení*é, proto je dobré tomu zabránit (například možností spolupráce mezi designerskými a vývojářskými týmy).
 
 # Neefektivní zpětná vazba. Jak to řešit?
 
-Poslední probírané téma od Markéty Rýcové se týkalo nastavení zpětné vazby v týmu a jeho inspirace.
+Poslední probírané téma od Markéty Rýcové se týkalo nastavení **zpětné vazby v týmu a jeho inspirace**.
 
 Jednou z nejlepších cest pro navození inspirace je **pořádat spolu mimopracovní události**, které utuží vzájemné vztahy a důvěru. Klára Scholleová doplňuje, že tyto rituály fungují především tam, kde ještě nejsou tolik ustálené. Honza Jelínek trefně podotkl, že nemusejí vznikat nutně ve fyzickém prostředí, můžou probíhat i ve virtuálním (např. prostředí Teams).
 
