@@ -3,7 +3,7 @@ title: "Česko.Digital, IPR a Kreativní Praha zvou na Festival kreativní
   byrokracie 2023: buďte součástí inspirativního setkání o digitální budoucnosti
   a inovacích!"
 author: martina.habova
-cover: https://data.cesko.digital/img/86657bbb.jpg
+cover: https://data.cesko.digital/FBTITULKA.jpg
 date: 2023-05-24-03-27
 slug: TZ-Cesko.Digital-IPR-a-Kreativni-Praha-zvou-na-3-rocnik-Festivalu-kreativni-byrokracie
 description: "Praha, 24. 5. 2023: Festival kreativní byrokracie je největší akcí
