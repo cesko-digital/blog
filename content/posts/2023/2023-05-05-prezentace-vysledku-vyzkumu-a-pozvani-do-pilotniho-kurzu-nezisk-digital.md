@@ -36,7 +36,7 @@ Prostřednictvím projektu Nezisk.Digital chceme podpořit veřejnou sféru v ef
 
 <!--StartFragment-->
 
-## P﻿rvní částí projektu byl výzkum<!--StartFragment--> 
+## P﻿rvní částí projektu byl výzkum<!--StartFragment-->
 
 Celkem na **33 pohovorech s neziskovými organizacemi, státními zaměstnanci, grantovými zadavateli, nadacemi, experty v okruhu technologií, mentory a organizacemi, které se zabývají digitalizací NNO sektoru** jsme otestovali své hypotézy o tom, co brání organizacím efektivně využívat potenciál technologií.
 
@@ -46,14 +46,14 @@ Celkem na **33 pohovorech s neziskovými organizacemi, státními zaměstnanci, 
 
 V následujících řádcích shrnujeme, co jsme v našem výzkumu zjistili. Neziskovým organizacím brání při efektivním využívání potenciálu technologií:
 
-* **absence peněz** \
+* **Absence peněz** \
   (granty, donoři, sebeudržitelnost a spolupráce s jinými organizacemi)
 
   * Nevládní organizace spoléhající na granty, často zanedbávají jiné zdroje financování, v turbulentních časech čelí nestabilitě a vytvářejí konkurenční prostředí.
 
 <!--EndFragment--><!--StartFragment-->
 
-* **absence času**
+* **Absence času**
 
   * Nedostatek technických znalostí nutí NNO zanedbávat svůj potenciál kvůli časovým prioritám.
   * Naléhavé úkoly převažují nad těmi důležitými a brání strategickému rozvoji.
@@ -61,7 +61,7 @@ V následujících řádcích shrnujeme, co jsme v našem výzkumu zjistili. Nez
 
 <!--EndFragment--><!--StartFragment-->
 
-* **absence kompetencí**
+* **Absence kompetencí**
 
   * Dostupné vzdělávací materiály nejsou přínosné, nejsou aplikovatelné
   * Chybějí měkké dovednosti (strategické myšlení, procesní smýšlení, digitální představivost, atd.)
@@ -70,13 +70,13 @@ V následujících řádcích shrnujeme, co jsme v našem výzkumu zjistili. Nez
 
 <!--EndFragment--><!--StartFragment-->
 
-**Průběžný problém čtyř světů** \
-(komerce, NNO, technologie, státní sféra)
+* **Průběžný problém čtyř světů** \
+  (komerce, NNO, technologie, státní sféra)
 
-* Čtyři různé světy jsou vnímané jako nespolupracující a antagonistické
-* Negativní stereotypy vytvářejí nedůvěru a odpor ke spolupráci
-* Prolomení bariér vyžaduje ochotu učit se jeden od druhého a uznání hodnoty
-* Spolupráce odemyká potenciál technologie 
+  * Čtyři různé světy jsou vnímané jako nespolupracující a antagonistické
+  * Negativní stereotypy vytvářejí nedůvěru a odpor ke spolupráci
+  * Prolomení bariér vyžaduje ochotu učit se jeden od druhého a uznání hodnoty
+  * Spolupráce odemyká potenciál technologie 
 
 <!--EndFragment--><!--StartFragment-->
 
@@ -102,7 +102,7 @@ B﻿ližší informace o pilotním kurzu najdeš v našem dalším blogovém čl
 
 <!--EndFragment-->
 
-Zajímá tě to? Doraz na třetí **[showcase - středa 31.5.2023 od 9:00 hod](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MjVibjZtZW8xcjFocm5sM[…]Wggcm9tYW5hQGNlc2tvLmRpZ2l0YWw&tmsrc=romana%40cesko.digital)**
+Zajímá tě to? Doraz na třetí **[Showcase #3 - čtvrtek 8.6.2023 od 9:00 ho](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MjVibjZtZW8xcjFocm5sM[…]Wggcm9tYW5hQGNlc2tvLmRpZ2l0YWw&tmsrc=romana%40cesko.digital)**
 
 Účastníci kurzu na něm budou prezentovat svůj digitální audit a plán realizace. 
 
