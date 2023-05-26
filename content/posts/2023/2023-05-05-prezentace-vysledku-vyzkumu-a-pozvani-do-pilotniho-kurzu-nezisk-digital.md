@@ -36,7 +36,7 @@ Prostřednictvím projektu Nezisk.Digital chceme podpořit veřejnou sféru v ef
 
 <!--StartFragment-->
 
-P﻿rvní částí projektu byl výzkum. <!--StartFragment--> 
+## P﻿rvní částí projektu byl výzkum<!--StartFragment--> 
 
 Celkem na **33 pohovorech s neziskovými organizacemi, státními zaměstnanci, grantovými zadavateli, nadacemi, experty v okruhu technologií, mentory a organizacemi, které se zabývají digitalizací NNO sektoru** jsme otestovali své hypotézy o tom, co brání organizacím efektivně využívat potenciál technologií.
 
