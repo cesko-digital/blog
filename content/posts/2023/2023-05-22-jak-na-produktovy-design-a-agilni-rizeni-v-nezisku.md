@@ -13,7 +13,7 @@ description: Minulý Mastermind nám odhalil, kdo jsou product designer a agiln�
   know-how, které k tématům sdíleli*y jeho účastníci*účastnice a lidé z praxe.
 lang: cs
 ---
-*Upozornění: Kompletní seznam účastníků*účastnic a jejich pozice, které v rámci článku citujeme, najdete na konci článku.*
+*Upozornění: Kompletní seznam účastníků, účastnic a jejich pozice, které v rámci článku citujeme, najdete na konci článku.*
 
 # Nedaří se nám efektivně plánovat. Co s tím?
 
@@ -21,7 +21,7 @@ V tomto duchu se nesla první otázka Tomáše Volka. Zajímalo ho, jakým **zp�
 
 Mezi nejzajímavější rady přítomných patří:
 
-* jasné stanovení dne vypuštění produktu a průběžných deadlinů (Jirka Sekera dodává, že je důležité i vysvětlit, proč byly zvoleny konkrétní datumy a jak na sebe navazují)
+* jasné stanovení dne vypuštění produktu a průběžných deadlinů (Jirka Sekera dodává, že je důležité i vysvětlit, proč byly zvoleny konkrétní data a jak na sebe navazují)
 * připomínka Kláry Scholleové, že je třeba zohlednit i prostředí vývoje (silně ovlivněné dobrovolností jeho účastníků*účastnic) a tomu přizpůsobit realističnost termínů a jejich splnitelnost
 * zajímavá varianta od Honzy Jelínka, kdy necháte samotný tým, aby určil ideální termíny
 
