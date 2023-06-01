@@ -2,7 +2,7 @@
 title: "(Osobnější) měsíc očima CEO #4: Tříměsíční pauza a najití svého proč"
 author: eva
 cover: https://data.cesko.digital/img/ocima-CEO/4/cesko-digital-4-narozeniny-023.jpeg
-date: 2023-06-01-08-36
+date: 2023-05-31-12-43
 slug: mesic-ocima-ceo-4
 description: V tomto článku vám vždy osobně přibližuju, co se za uplynulý měsíc
   v Česko.Digital událo. Tento měsíc to bude ale ještě o kus osobnější, protože
