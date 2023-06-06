@@ -1,8 +1,8 @@
 ---
 title: Manuál civic-tech začátečníka aneb pár tipů na úvod do občanských technologií
-author: lukas.n
+author: filip.leitgeb
 cover: xxx
-date: 2023-06-05-06-51
+date: 2023-06-06-11-06
 slug: manual-civic-tech-zacatecnika
 description: Snažíte se proniknout do světa civic-tech, ale připadáte si trochu
   jako Alenka v říši divů? Máte nápad na projekt, ale nedaří se vám ho
@@ -43,7 +43,7 @@ Samozřejmě nechceme tvrdit, že víme vše, co se vědět dá, ale ukážeme v
 
 # Časté překážky
 
-1. **Bariéra mezi technologiemi a vládou**
+1. ### **Bariéra mezi technologiemi a vládou**
 
 * Mezi lidmi, kteří pracují s technologiemi a těmi, kdo pracují ve státní správě nebo organizacích občanské společnosti [existuje jistá propast](https://blog.codeforaustralia.org/developers-are-friends-not-food-870e6aabd0be).
 * Technologické organizace často neznají situace, se kterými se státní správa a občanské společnosti potýkají. Naopak státní správy a občanské společnosti nedisponují dostatečnými znalostmi technologií.
@@ -157,8 +157,6 @@ Dodatečné zdroje jsou k dispozici [zde](https://medium.com/code-for-all/repost
 Pokud jste ženou začínající na poli civic-tech, můžete si přečíst [tyto poznatky od skvělé Grace O’Hara.](https://blog.codeforaustralia.org/to-the-women-of-civic-tech-f5961fd1eda2)
 
 Naše velké díky patří všem, kteří se na těchto nápadech podíleli. Někteří z přispěvatelů: [Lina Patel](https://medium.com/u/9fefb4f3f9b0?source=post_page-----d93e5f640106----------------------), [Alvaro Maz](https://medium.com/u/1b1ad2b65def?source=post_page-----d93e5f640106----------------------), [Lia Milito](https://medium.com/u/b6b114285e66?source=post_page-----d93e5f640106----------------------), [Christopher Whitaker](https://medium.com/u/396494398e75?source=post_page-----d93e5f640106----------------------), [Khairil Yusof](https://medium.com/u/14016fc1900f?source=post_page-----d93e5f640106----------------------), [Sheba Najmi](https://medium.com/u/18cbe7cfe022?source=post_page-----d93e5f640106----------------------), [Micah Sifry](https://medium.com/u/3ec8c288d183?source=post_page-----d93e5f640106----------------------), [Krzysztof Madejski](https://medium.com/u/442c14bc4af0?source=post_page-----d93e5f640106----------------------), [Laurenellen McCann](https://medium.com/@elle_mccann), [Grace O’Hara](https://medium.com/@graceohara), [Carl V. Lewis](https://medium.com/@carlvlewis), [Adriana Spulber](https://medium.com/@adrianaspulber88), [Lynn Fine](https://www.linkedin.com/in/lynnfine/), [Greg Bloom](https://medium.com/@greggish), [Matt Sawkill](https://medium.com/@sawks), [Sofía Corona](https://medium.com/@sofi.corona.b), [Kelly Halseth](https://medium.com/u/3941aaae7eff?source=post_page-----d93e5f640106----------------------)
-
-
 
 *Překlad: Filip Leitgeb*
 
