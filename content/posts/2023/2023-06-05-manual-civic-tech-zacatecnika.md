@@ -1,7 +1,7 @@
 ---
 title: Manuál civic-tech začátečníka aneb pár tipů na úvod do občanských technologií
 author: filip.leitgeb
-cover: xxx
+cover: https://data.cesko.digital/img/manual-civic-tech-zacatecnika.png
 date: 2023-06-06-11-06
 slug: manual-civic-tech-zacatecnika
 description: Snažíte se proniknout do světa civic-tech, ale připadáte si trochu
@@ -49,58 +49,58 @@ Samozřejmě nechceme tvrdit, že víme vše, co se vědět dá, ale ukážeme v
 * Technologické organizace často neznají situace, se kterými se státní správa a občanské společnosti potýkají. Naopak státní správy a občanské společnosti nedisponují dostatečnými znalostmi technologií.
 * Naštěstí v rámci naší sítě [existují snahy o zmírnění těchto nedorozumění](https://codeforaustralia.org/tech-for-non-tech/). To však zdaleka neřeší všechny problémy.
 
-2. **Předpoklad, že technologie jsou odpovědí na vše**
+2. ### **Předpoklad, že technologie jsou odpovědí na vše**
 
 * Pokud projekt výhradně závisí na technologiích a nebere v potaz politické, sociální a ekonomické kontexty, tak je vysoce pravděpodobné, že se neuchytí a lidé, pro které byl stvořen, jej využívat nebudou.
 * Technologie vždy budou jen jedním dílem skládačky při řešení komplexních společenských problémů. Zapotřebí je více než jen technologie.
 * Společenské problémy jsou často politizované a na jejich řešení se podílí několik zúčastněných stran. Komplexní nátura těchto problémů představuje výzvu, protože ač se část problému vyřeší nějakým určitým způsobem, neznamená to, že ho lze takto vyřešit kompletně.
 
-3. **Zaměření na výsledek místo na proces**
+3. ### **Zaměření na výsledek místo na proces**
 
 * Někdy zapomínáme, že cílem civic-tech [není vyvíjet aplikace, ale shromáždit lidi](https://medium.com/code-for-america/process-vs-product-856076f7985f) a dát jim možnosti, jak lépe vykomunikovat své potřeby.
 * Pokud v průběhu vývoje nebudeme dbát na cílovou skupinu a [jejich možnosti](https://www.w3.org/WAI/) v kontextu problému, je možné, že v dlouhodobém měřítku naše „řešení“ napáchá více škody než užitku. Čímž by se ve výsledku snížila důvěra v technologická řešení problémů.
 * Vývojový proces by měl být rovnocenným dialogem mezi komunitou a vládou.
 
-4. **Vytváření produktů, které nepomáhají**
+4. ### **Vytváření produktů, které nepomáhají**
 
 * Produkty, které nepomáhají, jsou takové, co neřeší žádné problémy nebo nejsou vůbec potřeba.
 * Přestože úmysly pro vývoj těchto produktů jsou většinou dobré, je jednoduché spadnout do vývoje něčeho, co je pro cílovou skupinu zbytečné. Kamenem úrazu je v těchto případech nedostatečná komunikace mezi zúčastněnými komunitami.
 * Průzkumy prokazují, že jen zlomek civic-tech organizací provádí výzkum cílových skupin před zvolením nástrojů pro řešení. Ještě menší část tyto nástroje testuje s potenciálními uživateli.
 
-5. **Špatná komunikace**
+5. ### **Špatná komunikace**
 
 * Když přijde čas spustit nástroj, nedostatek transparentnosti a jasné komunikace může zapříčinit mnohá nedorozumění a zmatek.
 * Pokud cílovým uživatelům není pořádně jasné, co nástroj dělá, jak funguje, jaký je jeho úkol a co má v životech veřejnosti ovlivňovat, tak bude těžké jím uživatele oslovit a tím produkt selže nejen v dosažení svých určených cílů, ale i v tom, aby zajistil nějaký reálný dopad.
 
-6. **Přehršel problémů s financováním**
+6. ### **Přehršel problémů s financováním**
 
 * Struktura financování civic-tech nástrojů je mnohdy nerealistická, málo flexibilní a neudržitelná.
 * Není vůbec lehké v plánovací fázi projektu stanovit jasný rozpočet, protože v průběhu samotného vývoje se mohou objevit neočekávané překážky.
 * Je nutné podotknout, že vládní technologie jsou často financovány na dobu určitou, tj. s přesným datem zahájení a ukončení, což mnohdy nevyhovuje neustále probíhajícímu procesu vývoje. Úpravy a záplaty na těchto produktech jsou často prováděny teprve až se vývojářům dostane odezvy od uživatelů, a to může být i po závěrečném datu financování.
 
-7. **Nejasná či nepřínosná partnerství**
+7. ### **Nejasná či nepřínosná partnerství**
 
 * Partnerství a spolupráce, ve kterých figuruje nejasná komunikace, špatně vykomunikovaná očekávání a selhání ve vzájemném porozumění, vedou k nesplnění požadavků a rozpadu těchto partnerství.
 
-8. **Meze dobrovolnické pomoci**
+8. ### **Meze dobrovolnické pomoci**
 
 * Do civic-tech projektů se zapojuje mnoho dobrovolníků, kteří nejsou schopni se naplno projektu zavázat. Mnoho projektů selže kvůli externím vlivům ovlivňujícím dobrovolníky (např. práce na plný úvazek a jiné povinnosti). Kvůli tomu je těžké rozšiřovat či vůbec udržovat dlouhodobý vývoj projektů.
 * V zemích s nízkými příjmy představuje dobrovolnictví závazek na úkor osobních příležitostí.
 
-9. **Překrývání snah**
+9. ### **Překrývání snah**
 
 * Je jednodušší rozjet nový projekt než vyhledávat již probíhající a k nim se připojit. Proto na poli civic-tech existuje mnoho případů, kdy se ztrácí čas vymýšlením něčeho, co už existuje.
 * Vládní metody často nepočítají s opakovaným využíváním starších projektů a jejich součástí pro použití ve vývoji dalších produktů. Pokud o budoucí opakované využití usilujete, tak to často budete muset explicitně s vládou vykomunikovat.
 
 # Co doporučujeme?
 
-1. **Zbytečně to nekomplikujte**
+1. ### **Zbytečně to nekomplikujte**
 
 * Procesy a zprávy by měly být co nejstručnější.
 * Vyvarujte se využívání žargonu. Kde se tomu nelze vyhnout, [přiložte vysvětlivky](https://sidewaysdictionary.com/#/).
 * Vše udržujte jednoduché, aby vašemu projektu rozumělo a mohlo se do něj zapojit co nejvíce lidí.
 
-2. **[Vyvíjejte s komunitami, ne pouze pro ně](https://medium.com/organizer-sandbox/building-technology-with-not-for-communities-an-engagement-guide-for-civic-tech-b8880982e65a)**
+2. ### **[Vyvíjejte s komunitami, ne pouze pro ně](https://medium.com/organizer-sandbox/building-technology-with-not-for-communities-an-engagement-guide-for-civic-tech-b8880982e65a)**
 
 * Ptejte se lidí, co potřebují. Zvěte je, aby se podíleli na vývoji. Zhodnoťte jejich schopnosti v užívání technologií.
 * Testujte svůj nástroj s vícero skupinami více než jednou. Zajistěte, aby testování proběhlo včas (před spuštěním nástroje) a vám tak zbylo dost času na řešení případných problémů, se kterými by se uživatelé mohli setkat. 
@@ -108,19 +108,19 @@ Samozřejmě nechceme tvrdit, že víme vše, co se vědět dá, ale ukážeme v
 * Vynaložte více úsilí na vyslechnutí lidí, jejichž připomínky jsou často ignorovány, protože to jsou ti, kteří potřebují vyslechnout nejvíce.
 * Nepředpokládejte, že když s nástrojem umíte zacházet vy, tak to veřejnost bude umět také.
 
-3. **Jasně si vymezte partnerské strategie**
+3. ### **Jasně si vymezte partnerské strategie**
 
 * Srozumitelně definujte podstatu partnerství, aby bylo vašim partnerům od začátku jasné, jakou roli v projektu budou mít, a co budou obnášet jejich povinnosti.
 * V každém partnerství je důležité, aby všichni rozuměli stanoveným očekáváním. Než se společně pustíte do práce, tak je dobré navrhnout dokument, který jasně říká, co se od spolupráce očekává.
 * [Zde je příklad takového dokumentu](https://docs.google.com/document/d/1FHEUV7sfRihWiuVs_Vrlvdm64AUZ5cqKg4c6eR-fW_I/edit?usp=sharing), který vytvořila komunita [Code for Australia](https://codeforaustralia.org/) ohledně spolupráce s námi ([Code for All](https://codeforall.org/)).
 
-4. **Učte se od ostatních**
+4. ### **Učte se od ostatních**
 
 * [Podívejte se](https://civictech.guide/) [na již existující](https://statusboard.brigade.cloud/#/topics) [nástroje](https://medium.com/code-for-all/collaboration-is-in-the-air-d616aeb35f78) a do svého projektu zakomponujte poznatky z předchozích projektů a od partnerů v terénu.
 * Opakování procesů a jejich adaptace je klíčová. Snažte se co nejvíce práce odvést pomocí již hotových nástrojů.
 * Kontaktujte nás na [Slacku Code for All](https://slack.codeforall.org/), kde třeba najdete pomoc, rady či zdroje od uživatelů nejen z celého světa, [ale i ze své země](https://codeforall.org/members).
 
-5. **Nikoho nevynechte**
+5. ### **Nikoho nevynechte**
 
 * Zvažte všechna možná odvětví, kterých se váš nástroj nebude týkat. Je dobré mít přehled i o tomto.
 * Vytvořte silné strategie, které do konverzace zapojí všechny občany (ale i neobčany), protože komunikace je základem.
@@ -128,18 +128,18 @@ Samozřejmě nechceme tvrdit, že víme vše, co se vědět dá, ale ukážeme v
 * S lidmi navazujte kontakt v jejich přirozeném prostředí, např. nevyzývejte členy komunit, aby vás kontaktovali na platformách jako je GitHub.
 * Nezapomínejte, že ne všichni jsou součástí digitální sféry. Doplňte své online a digitální strategie o „offline“ alternativy, kterými zapojíte i tuto část komunit.
 
-6. **Při financování myslete dlouhodobě a flexibilně**
+6. ### **Při financování myslete dlouhodobě a flexibilně**
 
 * Při vytváření rozpočtu berte v potaz veškeré možné dlouhodobé vlivy, které se mohou objevit.
 * Strategie financování by měly být flexibilní a vždy byste měli být ochotni se sponzory smlouvat.
 * Práci nezačínejte, pokud nebudete mít dostatečné, ale i dlouhodobě udržitelné financování.
 
-7. **Mějte jasno v tom, koho a co potřebujete**
+7. ### **Mějte jasno v tom, koho a co potřebujete**
 
 * Jasně si vymezte a sledujte, co za práci bude potřeba udělat a jaké pracovní pozice bude nutné zaplnit. Berte na vědomí, že lidé mohou od projektu i odcházet.
 * K problému se stavte tak, jako kdyby každý byl technologem. Spolupráce, kontakt s uživateli, realistické ambice a průběžné testování jsou mnohem důležitější než dovednosti a zkušenosti.
 
-8. **Vždy se adaptujte**
+8. ### **Vždy se adaptujte**
 
 * Mnoho ze civic-tech nástrojů jsou zbrusu nové aplikace pro specifické trhy, tudíž je často složité předpovědět, jakých ohlasů se jim od veřejnosti dostane.
 * Vymyslete způsob, jak získávat zpětnou vazbu od uživatelů. Zpětné vazby shromažďujte průběžně a na jejich základě proveďte případné změny.
