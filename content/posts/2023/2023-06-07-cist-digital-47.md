@@ -85,124 +85,123 @@ K dispozici už jsou fotky, které má na svědomí [Jakub Fiedler](https://www.
 \
 🌒 **V jaké jsme fázi?** Pečlivě připravujeme výzkum s cílovými skupinami, diskutujeme o vhodném přístupu a chystáme se na samotný redesign.
 
-\>﻿ [Naši raketovou rychlost sleduj ve Slacku v kanálu #run-csgov](https://cesko-digital.slack.com/archives/C055BGPSEJY)
+**\>﻿ [Naši raketovou rychlost sleduj ve Slacku v kanálu #run-csgov](https://cesko-digital.slack.com/archives/C055BGPSEJY)**
 
 ## Kogito 2.0
 
 *Aplikace vyvíjená na míru těhotným a ženám v poporodním období, které zažívají příznaky duševního onemocnění*
 
 \
-🎊 Nakopli jsme projekt a postavili silný základní tým.. Máme jasný plán na příští týdny, povedl se nám fantastický kickoff a první sprint přinesl konkrétní výsledky.
+🎊 Nakopli jsme projekt a postavili silný **základní tým..** Máme jasný plán na příští týdny, povedl se nám **fantastický kickoff** a první sprint přinesl **konkrétní výsledky**.
 
 \
-🧠 Prozkoumali jsme zpětnou vazbu od uživatelek*uživatelů původní aplikace a náš UX tým ve Figmě vytvořil user journeys. Pomocí nich odhalujeme, co vylepšit nebo upravit, a diskutujeme, jaký přístup bude pro Kogito nejužitečnější.
+🧠 Prozkoumali jsme **zpětnou vazbu** od uživatelek*uživatelů původní aplikace a náš UX tým ve Figmě vytvořil user journeys. Pomocí nich odhalujeme, co vylepšit nebo upravit, a diskutujeme, jaký přístup bude pro Kogito nejužitečnější.
 
-👫 Chceš být u toho? Hledáme React Native vývojáře*vývojářky pro zhodnocení technického stavu aplikace. Pomůžeš nám její ne-produkční verzi vizuálně postavit na nohy?\
-\
+👫 **Chceš být u toho?** Hledáme **React Native vývojáře*vývojářky** pro zhodnocení technického stavu aplikace. Pomůžeš nám její ne-produkční verzi vizuálně postavit na nohy?
 
-> [Přidej se do týmu](https://cesko.digital/opportunities/rec6xgSARW9Q3bpnS)
+**\>﻿ [Přidej se do týmu](https://cesko.digital/opportunities/rec6xgSARW9Q3bpnS)**
 
 ## Movapp
 
 *Základy češtiny a ukrajinštiny pro běžné životní situace*
 
-👆 Movapp vstupuje do další fáze. Jazykový obsah si nyní můžeš na webu snadno procvičovat. Feedback k první beta verzi postupně sbíráme a budeme rádi, když nám ho dáš vědět i ty.
+👆 Movapp vstupuje do další fáze. Jazykový obsah si nyní můžeš na webu **snadno procvičovat**. Feedback k první beta verzi postupně sbíráme a budeme rádi, když nám ho dáš vědět i ty.
 
-\> [Procvič si ukrajinštinu](https://www.movapp.cz/exercise)
+**\> [Procvič si ukrajinštinu](https://www.movapp.cz/exercise)**
 
-📣 Náš Telegram účet roste. Od únorového spuštění jsme nasbírali přes 555 sledujících, napsali přes 111 příspěvků a propojili se s nejdůležitějšími kanály v ČR.
+📣 **Náš Telegram účet roste.** Od únorového spuštění jsme nasbírali přes 555 sledujících, napsali přes 111 příspěvků a propojili se s nejdůležitějšími kanály v ČR.
 
-\> [Sleduj nás](https://t.me/movappcz)
+**\> [Sleduj nás](https://t.me/movappcz)**
 
 ## Mingly (dříve Tvoje láska)
 
 Největší online komunitní platforma pro navazování vztahů (nejen) pro lidi s handicapem
 
-💗 Tvoje láska se mění na Mingly! Vzhledem k rozšíření projektu směrem ke komunitní platformě a plánované zahraniční expanzi jsme se rozhodli pro změnu názvu.
+💗 **Tvoje láska se mění na Mingly!** Vzhledem k rozšíření projektu směrem ke komunitní platformě a plánované zahraniční expanzi jsme se rozhodli pro změnu názvu.
 
-🏆 Název Mingly nám v testování vyšel jako jednoznačný vítěz. Děkujeme všem marketingovým expertkám a expertům z týmu Česko.Digital, kteří se na rebrandingu podíleli. 
+🏆 Název **Mingly** nám v testování vyšel jako **jednoznačný vítěz**. Děkujeme všem marketingovým expertkám a expertům z týmu Česko.Digital, kteří se na rebrandingu podíleli. 
 
-✌️ Novým názvem nekončíme. Aktuálně pracujeme na vytvoření komplexní brand identity včetně nového loga, písma a barev. 
+✌️ Novým názvem nekončíme. Aktuálně pracujeme na vytvoření komplexní **brand identity** včetně nového loga, písma a barev. 
 
-💻 Pustili jsme se s IT týmem do vývoje a rozšiřujeme náš tým – aktuálně hledáme vývojáře*vývojářku s [TypeScriptem a Reactem](https://cesko.digital/opportunities/recjAnkmwYBHJpgNF).
+💻 Pustili jsme se s IT týmem do vývoje a **rozšiřujeme náš tým** – aktuálně hledáme vývojáře*vývojářku s [TypeScriptem a Reactem](https://cesko.digital/opportunities/recjAnkmwYBHJpgNF).
 
 # Newsletter 3x jinak
 
-📰 Novinky o komunitě. Hledané role do projektů. Úspěšné příběhy už zapojených dobrovolníků. I zajímavosti ze světa řízení projektů a technologií v nezisku. To vše a mnoho dalšího se dozvíš v jednom z našich pravidelných newsletterů.
+📰 Novinky o komunitě. Hledané role do projektů. Úspěšné příběhy už zapojených dobrovolníků. I zajímavosti ze světa řízení projektů a technologií v nezisku. To vše a mnoho dalšího se dozvíš v jednom z našich **pravidelných newsletterů**.
 
-\> [Přihlas se k odběru](https://cesko.digital/go/newsletters) nebo sdílej dál
+**\> [Přihlas se k odběru](https://cesko.digital/go/newsletters) nebo sdílej dál**
 
-Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš u nás na [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).
+**Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš u nás na [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).**
 
 # Události
 
 ## Skoncuj se zahlcením ve Slacku – aktuální výzvy a novinky v komunitě rychle a přehledně
 
-🤓 Přidej se 13. června od 17:30 na první online Komunitní hodinku – informacemi nabité setkání pro všechny, koho zajímá dění v Česko.Digital. Poslechneš si novinky z komunity a aktuálních projektů nebo se podělíš s ostatními o zajímavá témata a rady.
+🤓 Přidej se **13. června od 17:30** na první online **Komunitní hodinku** – informacemi nabité setkání pro všechny, koho zajímá dění v Česko.Digital. Poslechneš si novinky z komunity a aktuálních projektů nebo se podělíš s ostatními o zajímavá témata a rady.
 
-\> [Registruj se](https://cesko.digital/events/community-hour-1)
+**\> [Registruj se](https://cesko.digital/events/community-hour-1)**
 
 ## Program Festivalu kreativní byrokracie 2023 odhalen
 
 📅 19. června v 8:30 v Centru architektury a městského plánování v Praze začne [Festival kreativní byrokracie](https://creativebureaucracy.cz/) s programem, o který nechceš přijít! 
 
-📣 Čeká na tebe 5 panelových diskusí, 3 skvělé keynote od Matthiase Spielkampa, Anne Aagaard a Hanne Rønning Jorud a Kláry Šimáčkové Laurenčíkové, 3 kulaté stoly, do kterých se můžeš zapojit, nebo 1 absolventský film Tomáše Vorla a 1 film celovečerní film. Pro opravdu aktivní účastníky a účastnice se odpoledne koná NeKonference na téma Samosprávy to dělaj lepší!
+📣 Čeká na tebe **5 panelových diskusí**, **3 skvělé keynote** od Matthiase Spielkampa, Anne Aagaard a Hanne Rønning Jorud a Kláry Šimáčkové Laurenčíkové, **3 kulaté stoly**, do kterých se můžeš zapojit, nebo **1 absolventský film** Tomáše Vorla a **1 film celovečerní**. Pro opravdu aktivní účastníky a účastnice se odpoledne koná **NeKonference** na téma **Samosprávy to dělaj lepší!**
 
 🤝 I letos se můžete přihlásit na některý ze 6 workshopů od eDokladovky, [Pábení](https://www.pabeni.cz/), [NPI](https://www.npi.cz/), [ASWA](https://aswa.cz/), [Úřadu vlády](https://www.vlada.cz/cz/urad-vlady/) nebo [Czechdesignu](https://www.czechdesign.cz/).
 
 🤓 Svůj program Festivalu kreativní byrokracie 2023 si tedy kreativně sestavíš podle své chuti. Těšíme se na tebe.
 
-\> [Zaregistruj se](https://airtable.com/shrMrFNVTFQo1emdX)
+**\> [Zaregistruj se](https://airtable.com/shrMrFNVTFQo1emdX)**
 
-\> [Projdi si detailní program Festivalu](https://creativebureaucracy.cz/)
+**\> [Projdi si detailní program Festivalu](https://creativebureaucracy.cz/)**
 
 ## Víš jak na design a řízení (neziskového) produktu a služby?
 
-🧠 15. června se bude konat [Mastermind](https://cesko.digital/events/mastermind-design-rizeni) v Praze (Kiwi.com – Karlín). Je to setkání v uvolněném a přátelském prostředí, kde má každý prostor položit otázku, představit nápad, zmínit problém nebo potřebu, se kterou se potýká. Na toto téma pak od ostatních dostane zpětnou vazbu, postřehy a nové úhly pohledu a zkušeností. Při sdílení hledáme s ostatními cesty, jak vyřešit nebo posunout téma.
+🧠 **15. června se bude konat [Mastermind](https://cesko.digital/events/mastermind-design-rizeni)** v Praze (Kiwi.com – Karlín). Je to setkání v uvolněném a přátelském prostředí, kde má každý prostor položit otázku, představit nápad, zmínit problém nebo potřebu, se kterou se potýká. Na toto téma pak od ostatních dostane zpětnou vazbu, postřehy a nové úhly pohledu a zkušeností. Při sdílení hledáme s ostatními cesty, jak vyřešit nebo posunout téma.
 
-\> [Přihlas se](https://cesko.digital/events/mastermind-design-rizeni)
+**\> [Přihlas se](https://cesko.digital/events/mastermind-design-rizeni)**
 
 ## Další Hack Day za rohem
 
 Sešli jsme se tentokrát v komorní sestavě asi deseti lidí a prezentace Milli Boškové iniciovala velmi zajímavou debatu o tom, jak rozdílně (!) vnímáme roli testerů na projektech. Následně jsme společně se Zuzkou „ukažte mně to a já vám to rozbiju“ Šrůmovou procházeli aplikaci Kogito 2.0.
 
-👉 Srdečně Tě zveme na příští Hack Day, který proběhne tradičně v žižkovské [Pracovně](https://www.pracovna.cz/) v sobotu 24. června. A co se jako projektový tým domluvit a dorazit a společně posunout svůj projekt? Zrovna tak můžeš dorazit i jen tak, prostě se jen potkat Těšíme se na Tebe! 
+👉 **Srdečně Tě zveme na příští Hack Day, který proběhne tradičně v žižkovské [Pracovně](https://www.pracovna.cz/) v sobotu 24. června.** A co se jako projektový tým domluvit a dorazit a společně posunout svůj projekt? Zrovna tak můžeš dorazit i jen tak, prostě se jen potkat Těšíme se na Tebe! 
 
-\> [Registruj se](https://cesko.digital/events/hack-day-6)
+**\> [Registruj se](https://cesko.digital/events/hack-day-6)**
 
 Máš oblíbené téma, které chceš prezentovat ostatním?
 
-\> [Dej o nám vědět na Slacku v kanálu #ceskodigital-tech](https://cesko-digital.slack.com/archives/CS7RPPVUL)
+**\> [Dej o nám vědět na Slacku v kanálu #ceskodigital-tech](https://cesko-digital.slack.com/archives/CS7RPPVUL)**
 
 # Partnership
 
 ## Mít finančního partnera je skvělé, ale mít dlouhodobého finančního partnera je přímo úžasné
 
-💙 Je to tak – [Nadace PPF](https://nadaceppf.cz/) se nás rozhodla podpořit už druhý rok v řadě. Úspěšná spolupráce, například na redesignu aplikace [Nepanikař](http://nepanikar.eu), vývoji aplikace [Preventivka](https://www.loono.cz/mobilni-aplikace) nebo rozvoji projektů pro pomoc lidem utíkajícím před válkou na Ukrajině, s sebou přináší nejen krásný dopad, ale i kultivaci společných hodnot a velké důvěry.
+💙 Je to tak – **[Nadace PPF](https://nadaceppf.cz/) se nás rozhodla podpořit už druhý rok v řadě**. Úspěšná spolupráce, například na redesignu aplikace [Nepanikař](http://nepanikar.eu), vývoji aplikace [Preventivka](https://www.loono.cz/mobilni-aplikace) nebo rozvoji projektů pro pomoc lidem utíkajícím před válkou na Ukrajině, s sebou přináší nejen krásný dopad, ale i kultivaci společných hodnot a velké důvěry.
 
 ✌️ Díky tomu se teď můžeme ještě důrazněji zaměřit na řešení problému neefektivního využívání digitálních technologií veřejnou sférou, místo abychom se utápěli v partnerské administrativě. Děkujeme!
 
-\> [Poslechni si, jak probíhal redesign Nepanikař i díky Nadaci PPF](https://podcasters.spotify.com/pod/show/poslouchatdigital/episodes/Nepanika-Jak-dobrovolnci-v-esko-Digital-redesignovali-appku--kter-pomh-statiscm-lid-nejen-pi-zkostech-e1v0of8/a-a9bcm21)
+**\> [Poslechni si, jak probíhal redesign Nepanikař i díky Nadaci PPF](https://podcasters.spotify.com/pod/show/poslouchatdigital/episodes/Nepanika-Jak-dobrovolnci-v-esko-Digital-redesignovali-appku--kter-pomh-statiscm-lid-nejen-pi-zkostech-e1v0of8/a-a9bcm21)**
 
 # Nachytři se s námi
 
 ## Nauč se využívat digitální podepisování
 
- ✍️ Chceš zjistit, jaké jsou možnosti digitálního podepisování dokumentů a jak je využít v praxi? Pak se připoj 15. června v 17:00 k webináři Radima Studzinského a Dalibora Kováře, kteří ti představí různé typy elektronických podpisů a práci s nimi. Navíc se dozvíš vše o autentizaci přes BankID a na praktických příkladech se naučíš automatizovat celý proces.
+ ✍️ Chceš zjistit, jaké jsou možnosti digitálního podepisování dokumentů a jak je využít v praxi? Pak se připoj **15. června v 17:00** k webináři Radima Studzinského a Dalibora Kováře, kteří ti představí **různé typy elektronických podpisů** a práci s nimi. Navíc se dozvíš vše o **autentizaci přes BankID** a na praktických příkladech se naučíš automatizovat celý proces.
 
-\> [Zaregistruj se](https://cesko.digital/events/digitalni-podepisovani-dokumentu)
+**\> [Zaregistruj se](https://cesko.digital/events/digitalni-podepisovani-dokumentu)**
 
 ## Vývojářský meetup s NAKIT je za námi
 
-🧑‍💻 Jak probíhá porcování legislativního mamuta, když chceš jako vývojář*ka dodávat pro stát? Akce už sice proběhla, ale svoji porci know-how si můžeš dodatečně odnést z materiálů a prezentací.
+🧑‍💻 Jak probíhá porcování legislativního mamuta, když chceš jako vývojář*ka dodávat pro stát? Akce už sice proběhla, ale svoji porci know-how si můžeš dodatečně odnést **z materiálů a prezentací.**
 
-\> [Prolistuj si materiály a prezentace](https://drive.google.com/drive/folders/1LLRmJKewBjE2P-cn4XNI_p5U8cHAzkCk?usp=share_link)
+**\> [Prolistuj si materiály a prezentace](https://drive.google.com/drive/folders/1LLRmJKewBjE2P-cn4XNI_p5U8cHAzkCk?usp=share_link)**
 
 ## V hlavní roli Product Designer
 
-🧠 13. října 2022 proběhl Mastermind na téma Product Designer – Design proces dopadového projektu. Účastníci*účastnice se zabývali například úlohou Product Designera, řešením financí pro projekt nebo minimalistickým design procesem. Nejzajímavější postřehy a tipy z Mastermindu se dozvíš v blogovém článku Kláry Scholleové!
+🧠 13. října 2022 proběhl **Mastermind na téma Product Designer – Design proces dopadového projektu**. Účastníci*účastnice se zabývali například úlohou Product Designera, řešením financí pro projekt nebo minimalistickým design procesem. Nejzajímavější postřehy a tipy z Mastermindu se dozvíš v blogovém článku Kláry Scholleové!
 
-\> [Ego nechte za dveřmi a přečtěte si víc](https://blog.cesko.digital/2022/12/mastermind-product-design)
+**\> [Ego nechte za dveřmi a přečtěte si víc](https://blog.cesko.digital/2022/12/mastermind-product-design)**
 
 # Koho aktuálně hledáme
 
