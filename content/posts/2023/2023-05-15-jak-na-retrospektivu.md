@@ -11,7 +11,7 @@ lang: cs
 ---
 Místo úvodního odstavce textu vám uvedu článek pomocí videa. Znáte ho? 🤔
 
-<https://youtu.be/p5CsOXPoXSE>
+[https://www.tiktok.com/@nuggetn2/video/7187591622807522606 ](https://www.tiktok.com/@nuggetn2/video/7187591622807522606)
 
 Když na mě vyskočilo nedávno na internetu, úplně jsem ho zhltl, a to hlavně ze dvou důvodů:
 
