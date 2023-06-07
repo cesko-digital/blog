@@ -71,9 +71,9 @@ K dispozici už jsou fotky, které má na svědomí [Jakub Fiedler](https://www.
 
 ## Podcastový report ze třetího Meetupu Česko.Digital je tady
 
-🎧 Od Anežky Müller se dozvíš, **proč tahle setkání děláme**, a od ostatních pozvaných třeba to, co jim Česko.Digital dává.
+🎧 Od Anežky Müller se dozvíš, **proč tahle setkání děláme**, a od ostatních pozvaných třeba to, **co jim Česko.Digital dává**.
 
-\> [Pusť si osvěžující díl podcastu](https://podcasters.spotify.com/pod/show/poslouchatdigital/episodes/Report-Tet-Meetup-esko-Digital-aneb-Jak-se-naivo-potkv-opravdu-velk-remote-komunita-e23hv0v)
+**\> [Pusť si osvěžující díl podcastu](https://podcasters.spotify.com/pod/show/poslouchatdigital/episodes/Report-Tet-Meetup-esko-Digital-aneb-Jak-se-naivo-potkv-opravdu-velk-remote-komunita-e23hv0v)**
 
 # To nejlepší z našich projektů
 
@@ -81,12 +81,11 @@ K dispozici už jsou fotky, které má na svědomí [Jakub Fiedler](https://www.
 
 *Rozvíjíme otevřené řešení pro vytváření flexibilních webových stránek pro obce i organizace*
 
-🚀 V květnu jsme v akceleraci přivítali projekt CSGOV, otevřené řešení pro vytváření flexibilních webových stránek (nejen) pro obce. Jeho platformu chceme redesignovat tak, aby byla co nejjednodušší a zároveň poskytovala propracovanou nadstavbu.\
+🚀 V květnu jsme v akceleraci přivítali projekt CSGOV, **otevřené řešení pro vytváření flexibilních webových stránek** (nejen) pro obce. Jeho platformu chceme redesignovat tak, aby byla co nejjednodušší a zároveň poskytovala propracovanou nadstavbu.\
 \
-🌒 V jaké jsme fázi? Pečlivě připravujeme výzkum s cílovými skupinami, diskutujeme o vhodném přístupu a chystáme se na samotný redesign.\
-\
+🌒 **V jaké jsme fázi?** Pečlivě připravujeme výzkum s cílovými skupinami, diskutujeme o vhodném přístupu a chystáme se na samotný redesign.
 
-> [Naši raketovou rychlost sleduj ve Slacku v kanálu #run-csgov](https://cesko-digital.slack.com/archives/C055BGPSEJY)
+\>﻿ [Naši raketovou rychlost sleduj ve Slacku v kanálu #run-csgov](https://cesko-digital.slack.com/archives/C055BGPSEJY)
 
 ## Kogito 2.0
 
