@@ -1,7 +1,7 @@
 ---
 title: Nadace PPF posílá 4 miliony Česko.Digital i v roce 2023. Společně chtějí
   zabránit zaostávání ČR  v používání digitálních technologiích
-author: martina
+author: martina.habova
 cover: https://data.cesko.digital/img/cover_partnerstvi2_nadaceppf.png
 date: 2023-06-21-08-56
 slug: Nadace-PPF-posila-4-miliony-Cesko.Digital-i-v-roce-2023-Spolecne-chteji-zabranit-zaostavani-Ceske-republiky-v-pouzivani-digitalnich-technologii
