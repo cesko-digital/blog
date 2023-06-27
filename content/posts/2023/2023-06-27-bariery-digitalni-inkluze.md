@@ -3,8 +3,8 @@ title: Bariéry digitální inkluze aneb proč každý nemůže používat ty in
 author: martin.racz
 tags:
   - digitalni-inkluze
-cover: xxx
-date: 2023-06-27-10-42
+cover: https://data.cesko.digital/img/bariery-digitalni-inkluze.png
+date: 2023-06-27-04-38
 slug: bariery-digitalni-inkluze
 description: Digitální technologie. Mocný nástroj, který nám ulehčí nejednu
   starost. Můžeme díky nim komunikovat s blízkými, efektivněji pracovat nebo se
