@@ -13,6 +13,8 @@ description: Ahoj Česko.Digital! 👋 Náš IT Fitness Test otestoval už přes
   narozeninové oslavy. Příjemné čtení!
 lang: cs
 ---
+P﻿odcastová verze k poslechu 👉 [ZDE](https://podcasters.spotify.com/pod/show/poslouchatdigital/episodes/poslouchat-st-digital14-Mme-pes-20-tisc-IT-Fitnessk--Mapa-dobrovolnk-sputna--Jak-dobrodrustv-ek-nai-CEO-e269u53) 
+
 # Horké novin(k)y měsíce
 
 ## IT Fitness Test 2023 pokořil hranici 20 tisíc otestovaných
