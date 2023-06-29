@@ -25,8 +25,7 @@ Projekty zajišťující základní životní potřeby už vznikaly. **Parťák 
 
 Projektu se věnovali tito lidé:
 
-* **Leoš Literák** – kompletní support projektu (komunikace s firmami, dobrovolníky, organizace, workshopy, příprava pilotu a jeho vyhodnocení),
-* **Hana Nováková (Čiháková)** – taktéž kompletní support projektu,
+* **Hana Nováková (Čiháková), Leoš Literák** – kompletní support projektu (komunikace s firmami, dobrovolníky, organizace, workshopy, příprava pilotu a jeho vyhodnocení),
 * **Zuzana Schreiberová** – metodické vedení a konzultant v oblasti integrace cizinců, školení,
 * **Šimon Vostrý** – pomoc se sháněním partnerů: Deloitte, Pilulka, uprchlický hotel Pale Capital,
 * **Ingo Mesker** – grafika.
