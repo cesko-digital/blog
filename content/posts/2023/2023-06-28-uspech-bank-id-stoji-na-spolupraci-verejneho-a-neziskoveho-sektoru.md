@@ -51,9 +51,11 @@ Bankovní identita funguje jako **elektronická verze občanského průkazu**. P
 
 Společnost Bankovní identita, která za Bank iD stojí, uvádí: *„Díky jednoduchosti a rychlosti firmy snadno získají a ověří nového zákazníka, zaktualizují údaje těch stávajících a zrychlí online procesy díky předvyplnění osobních údajů.“*
 
+Nesmíme ale zapomínat, že **se státem online komunikuje jen 26 % fyzických osob**, což je podprůměr v EU (viz výzkum od STEM pro Nadaci OSF: [Připravenost české společnosti na digitalizace veřejné správy](https://osf.cz/wp-content/uploads/2023/06/Nadace-OSF_STEM_Pripravenost_ceske_spolecnosti_na_digitalizaci_verejne_spravy_2023.pdf)).
+
 ## Vlajková loď digitalizace v Česku
 
-O projektu Bank iD se mluví jako o **největším digitalizačním projektu českého bankovnictví**. Plošné nasazení určitě pomáhá a celý projekt dokazuje, že sdílení hotových věcí je klíčem k úspěchu.
+O projektu Bank iD se mluví jako o **největším digitalizačním projektu českého bankovnictví**. Plošné nasazení určitě pomáhá a celý projekt dokazuje, že sdílení hotových věcí je klíčem k úspěchu. Podobně se o projektu vyjádřilo 41 politiků, vědců, novinářů, úředníků a zástupců firem a komerčního sektoru v [Průzkumu klíčových aktérů](https://drive.google.com/file/d/1BLLChViCvNAS0Q9Kptz6Fi5pdUyJCUOM/view?usp=sharing).
 
 *„Duplicitní projekty běžně vznikají v soukromé a veřejné sféře zcela odděleně, přitom mají stejný cíl. Mrhání časem, financemi a energií se lze vyhnout kvalitní rešerší již hotových řešení. Spíš než se pouštět do nového je výhodnější vynaložit snahu na propojení se stávajícím. Bank iD je toho výborným příkladem,“* komentuje Jindřich Oukropec z kmenového týmu Česko.Digital.
 
