@@ -1,7 +1,7 @@
 ---
 title: Na věku nezáleží – v komunitě pomáhají i talentovaní studenti. Co jim to
   přineslo?
-author: lukas.n
+author: dominika.vykydalova
 cover: https://data.cesko.digital/img/clanek-na-veku-nezalezi/na-veku-nezalezi.png
 date: 2023-07-10-02-03
 slug: na-veku-nezalezi-v-komunite-pomahaji-i-talentovani-studenti
