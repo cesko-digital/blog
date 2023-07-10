@@ -94,6 +94,7 @@ collections:
             "veronika.quek",
             "martin.racz",
             "filip.leitgeb",
+            "dominika.vykydalova",
           ]
         required: true
       - label: "Tags"
@@ -247,6 +248,7 @@ collections:
             "veronika.quek",
             "martin.racz",
             "filip.leitgeb",
+            "dominika.vykydalova",
           ]
         required: true
       - label: "Cover"
