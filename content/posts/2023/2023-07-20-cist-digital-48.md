@@ -53,8 +53,6 @@ lang: cs
 
 \> [Sdílej svůj názor](https://airtable.com/shraT0RMIKsu3CET9)
 
-
-
 # Dobro.tip 
 
 ## Prý se tomu říká Imposter syndrome
@@ -99,8 +97,6 @@ lang: cs
 
 Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).
 
-
-
 # Události
 
 ## Report z Meetupu Česko.Digital #3 je tady
@@ -113,19 +109,15 @@ Na čem pracujeme v dalších projektech a co se nám na nich za poslední měs�
 
 👌 3. ročník [Festivalu kreativní byrokracie](https://creativebureaucracy.cz/) je za námi. Uteklo ti něco?
 
-\> [Podívej se na záznam přednášek, keynote a diskuzi](https://www.youtube.com/watch?v=A6GTdn_3gOQ&t=11767s)
+\> [Podívej se na záznam přednášek, keynote a diskuzi](https://youtube.com/playlist?list=PLOX5xelTsEv8tiPrFICSf_ruf-BgrADTn)
 
 \> [Prohlédni si fotografie z akce](https://drive.google.com/drive/folders/1LjvKXAyqh0c7wnxqOq5x61LiEgslIAfd)
-
-
 
 # Partnerství
 
 ## 50 500
 
 Touto částkou podpořila [](https://twitter.com/CeskoDigital) Česko.Digital dobročinná aukční platforma [DOBROBOT](https://dobrobot.cz/). U jejího vzniku byl i náš hlavní partner [](https://twitter.com/Livesport_eu) [Livesport](https://www.livesport.cz/). Díky výtěžku z aukce věnovanému zakladatelem [](https://twitter.com/TheShipMonk) [Shipmonku](https://www.shipmonk.com/) Janem Bednářem tak můžeme ještě více rozvíjet naši komunitu a měnit Česko k lepšímu. Děkujeme!
-
-
 
 # Nachytři se s námi
 
@@ -135,8 +127,6 @@ Touto částkou podpořila [](https://twitter.com/CeskoDigital) Česko.Digital d
 
 \> [Přečti si článek](https://blog.cesko.digital/2023/03/architektura-webovych-aplikaci-cesko-digital)
 
-
-
 # Koho aktuálně hledáme
 
 Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digitalizuj s námi Česko. Všechny pozice najdeš přehledně na Portálu dobrovolníka!
@@ -144,8 +134,6 @@ Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digita
 \> [Nakouknout do Portálu](https://cesko.digital/dashboard)
 
 Víš, že na této stránce najdeš pod názvem Marketplace i příležitosti od neziskovek mimo Česko.Digital?
-
-
 
 ## Děkujeme, že tě baví číst.digital!
 
