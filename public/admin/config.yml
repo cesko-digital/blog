@@ -95,6 +95,7 @@ collections:
             "martin.racz",
             "filip.leitgeb",
             "dominika.vykydalova",
+            "lenka.konarikova",
           ]
         required: true
       - label: "Tags"
@@ -249,6 +250,7 @@ collections:
             "martin.racz",
             "filip.leitgeb",
             "dominika.vykydalova",
+            "lenka.konarikova",
           ]
         required: true
       - label: "Cover"
