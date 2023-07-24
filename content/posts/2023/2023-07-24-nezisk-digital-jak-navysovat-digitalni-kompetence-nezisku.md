@@ -1,10 +1,10 @@
 ---
 title: Jak navyšovat digitální kompetence v nezisku? Letní pilotní kurz
   Nezisk.Digital je v plném proudu
-author: lukas.n
+author: lenka.konarikova
 tags:
   - nezisk-digital
-cover: xxx
+cover: https://data.cesko.digital/img/jak-navysovat-digitalni-kompetence-nezisku/clanek-cover.png
 date: 2023-07-24-05-22
 slug: nezisk-digital-jak-navysovat-digitalni-kompetence-nezisku
 description: Naší misí v Česko.Digital je zlepšovat podmínky života v České
@@ -17,7 +17,7 @@ description: Naší misí v Česko.Digital je zlepšovat podmínky života v Če
   účastníci i mentoři?
 lang: cs
 ---
-Do pilotního kurzu Nezisk.Digital se zapojili: [CheironT](https://www.cheiront.cz/), [RadoVan](https://radovan.fun/), [Tamtamy](https://www.tamtamy.cz/), [SIPORA](https://sipora.cz/), [Letokruh](https://letokruh.eu/) a [Česká asociace pro psychoterapii](https://czap.cz/).
+**Do pilotního kurzu Nezisk.Digital se zapojili**: [CheironT](https://www.cheiront.cz/), [RadoVan](https://radovan.fun/), [Tamtamy](https://www.tamtamy.cz/), [SIPORA](https://sipora.cz/), [Letokruh](https://letokruh.eu/) a [Česká asociace pro psychoterapii](https://czap.cz/).
 
 # Bariéry a zase bariéry
 
@@ -25,15 +25,15 @@ Na jaře jsme zjišťovali, [co brání neziskových organizacím v efektivním 
 
 Odhalil, že překážkami jsou:
 
-* absence peněz,
-* absence času a
-* absence kompetencí.
+* **absence peněz**,
+* **absence času** a
+* **absence kompetencí**.
 
-Narazili jsme také na střet čtyř světů: obchodu, NNO, technologií a státní sféry. Mezi nimi panuje napětí, nedůvěra a spolupráce vázne. Ne všechny bariéry je však možné překonat v řádu měsíců, proto jsme se rozhodli cíl pilotního kurzu zúžit a zacílit ho na zvyšování kompetencí prostřednictvím aktivního učení.
+Narazili jsme také na **střet čtyř světů**: obchodu, NNO, technologií a státní sféry. Mezi nimi panuje napětí, nedůvěra a spolupráce vázne. Ne všechny bariéry je však možné překonat v řádu měsíců, proto jsme se rozhodli cíl pilotního kurzu zúžit a zacílit ho na **zvyšování kompetencí** prostřednictvím **aktivního učení**.
 
 # Navyšovat digitální kompetence – ale které?
 
-Když jsme se pokoušeli konkrétní kompetence formulovat, přišli jsme na to, že digitalizace i kompetence jsou jen nástroje. Organizace musí vědět, za jakým účelem technologie používá, teprve pak je možné zhodnotit, jestli je používá efektivně. Výzkum odhalil, jak vypadá ideální NNO, která potenciál technologií využívá naplno:
+Když jsme se pokoušeli konkrétní kompetence formulovat, přišli jsme na to, že **digitalizace i kompetence jsou jen nástroje**. Organizace musí vědět, za jakým účelem technologie používá, teprve pak je možné zhodnotit, jestli je používá efektivně. Výzkum odhalil, jak vypadá ideální NNO, která potenciál technologií využívá naplno:
 
 ![]()
 
@@ -42,11 +42,8 @@ Seznam ukázal, že nezbytné kompetence spočívají především v měkkých d
 Samotný kurz probíhá ve čtyřech modulech:
 
 1.           Audit: neziskovky mapují stávající procesy a nástroje a identifikují slabá místa.
-
 2.           Plán: účastníci vybírají oblasti, ve kterých lze i s malým úsilím dosáhnout významného dopadu, a tvoří se plán digitalizace.
-
 3.           Výběr nástrojů: Představujeme neziskovkám další nástroje a funkce, ze kterých si vybírají ty nejlepší podle vlastních potřeb.
-
 4.           Nastavení: účastníci společně s mentorem nastavují vybrané nástroje tak, aby odpovídaly organizačním procesům. Součástí tohoto procesu je i zpětná vazba.
 
 💡 Zajímají vás podrobnosti? Podívejte se na [videozáznam Showcasu #2](https://www.youtube.com/watch?v=ZK-YBXQC3IQ&ab_channel=%C4%8Cesko.Digital) nebo mrkněte na [prezentaci](https://docs.google.com/presentation/d/1J9yp9SbDunPiHldWrTPflWrmBQHKaudFnEfxz1OneR0/edit?usp=sharing).
