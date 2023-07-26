@@ -48,7 +48,7 @@ Samotný kurz probíhá ve čtyřech modulech:
 
 💡 Zajímají vás podrobnosti? Podívejte se na [videozáznam Showcasu #2](https://www.youtube.com/watch?v=ZK-YBXQC3IQ&ab_channel=%C4%8Cesko.Digital) nebo mrkněte na [prezentaci](https://docs.google.com/presentation/d/1J9yp9SbDunPiHldWrTPflWrmBQHKaudFnEfxz1OneR0/edit?usp=sharing).
 
-# Jak se nám zatím daří?
+# Jak se nám dařilo?
 
 Showcase #3 jsme věnovali **průběžnému vyhodnocení pilotního kurzu** a **ohlédnutí za zkušenostmi účastnickými i mentorskými**. Pro měření výsledků kurzu jsme si vybrali tzv. **[Kirkpatrickův model](https://www.kirkpatrickpartners.com/the-kirkpatrick-model/)**. Ten se běžně používá pro hodnocení vzdělávacích kurzů a jde o mimořádně efektivní nástroj, protože se zaměřuje na **výsledky a dopad na organizaci**, nikoli pouze na získané znalosti. Model pracuje se **čtyřmi úrovněmi: reakce, učení, chování** a **výsledky**.
 
