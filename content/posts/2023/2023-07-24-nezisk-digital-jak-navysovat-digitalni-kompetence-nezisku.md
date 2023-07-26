@@ -54,7 +54,7 @@ Showcase #3 jsme věnovali **průběžnému vyhodnocení pilotního kurzu** a **
 
 ![](https://data.cesko.digital/img/jak-navysovat-digitalni-kompetence-nezisku/kirkpatrick-model.png)
 
-Protože kurz stále běží, můžeme zatím hodnotit jen první a druhou úroveň. **Co vyplynulo ze zpětné vazby?**
+**Co vyplynulo ze zpětné vazby?**
 
 * Účastníci i mentoři jsou s dosavadním průběhem **velmi spokojení**. V rámci první úrovně účastníci **hodnotí celkovou spokojenost s kurzem na 79 %**. Chválí si vhodnost a relevanci nabytých znalostí a dovedností, hodnotu kurzu a závazek k praxi. 
 * Neziskovky si také **pochvalují spolupráci s mentorským týmem (byly spokojené na 88 %)** a stejně to vidí i expertní dobrovolníci. Většina mentorů by se do procesu **zapojila znovu** a **doporučili by mentorství dalším**. 
