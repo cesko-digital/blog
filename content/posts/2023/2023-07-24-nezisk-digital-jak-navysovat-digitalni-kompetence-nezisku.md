@@ -1,6 +1,6 @@
 ---
-title: Jak navyšovat digitální kompetence v nezisku? Letní pilotní kurz
-  Nezisk.Digital je v plném proudu
+title: Jak navyšovat digitální kompetence v nezisku? Proběhl letní pilotní kurz
+  Nezisk.Digital
 author: lenka.konarikova
 tags:
   - nezisk-digital
