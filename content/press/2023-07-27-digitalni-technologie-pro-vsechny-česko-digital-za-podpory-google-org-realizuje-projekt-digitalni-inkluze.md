@@ -4,7 +4,7 @@ title: "Digitální technologie pro všechny: Česko.Digital za podpory Google.o
 author: content.team
 cover: https://data.cesko.digital/img/mapujeme-digitalni-vylouceni.png
 date: 2023-07-03-12-06
-slug: Digitalni-technologie-pro-vsechny-Česko.Digital-za-podpory-Google.org-realizuje-projekt-Digitalni-inkluze
+slug: Digitalni-technologie-pro-vsechny-Cesko-Digital-za-podpory-Google-org-realizuje-projekt-Digitalni-inkluze
 description: "Praha, 3.7.2023: Česko.Digital, největší civic-tech organizace v
   Evropě co do počtu členů a komunita expertních dobrovolníků, realizuje projekt
   Digitální inkluze. Ten reaguje na závažný problém diskriminace  skupin
