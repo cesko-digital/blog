@@ -3,7 +3,7 @@ title: "Za hranicí rutiny: přes 320 účastníků Festivalu kreativní byrokra
   2023 rozproudilo diskuse ve veřejné správě"
 author: content.team
 cover: https://data.cesko.digital/img/CBF-23.jpg
-date: 2023-07-27-12-42
+date: 2023-06-27-12-42
 slug: Pres-320-ucastniku-Festivalu-kreativni-byrokracie-2023-rozproudilo-diskuse-ve-verejne-sprave
 description: "Praha 27.6.2023 – Festival kreativní byrokracie 2023 zase o něco
   více posunul hranice každodenní rutiny v úřednickém světě. Třetí ročník
