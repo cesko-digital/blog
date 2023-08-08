@@ -88,96 +88,66 @@ Závěrečná myšlenka moderátora diskuze a vědce **Jana Lukačeviče**, mimo
 
 # Jedna vizuální identita vládne všem
 
-Jak je důležité mít jednotnou vizuální identitu města pro demokracii? A jak její nastavování probíhalo v Oslu? O tom mluvily Anne Aagaard a Hanne Rønning Jorud v přednášce [The Making of Oslo City Identity](https://www.youtube.com/watch?v=yExqZsj4dbU&ab_channel=%C4%8Cesko.Digital).
+Jak je důležité mít jednotnou vizuální identitu města pro demokracii? A jak její nastavování probíhalo v Oslu? O tom mluvily Anne Aagaard a Hanne Rønning Jorud v přednášce **[The Making of Oslo City Identity](https://www.youtube.com/watch?v=yExqZsj4dbU&ab_channel=%C4%8Cesko.Digital)**.
 
-Ještě před několika lety mělo Oslo 250 různých oficiálních vizuálních identit. To znamenalo nejen obrovské náklady až 80 milionů korun ročně, ale také velký demokratický problém. „Zjistili jsme, že máme pěkný stadion, dostali jsme nový bazén, ale nikdo nevěděl, že oba pochází od města Osla,“ popisuje Aagaard. Lidé zkrátka nevěděli, že některé projekty jsou placené z jejich daní.
+Ještě před několika lety mělo Oslo **250 různých oficiálních vizuálních identit**. To znamenalo nejen obrovské náklady až **80 milionů korun ročně**, ale také velký demokratický problém. *„Zjistili jsme, že máme pěkný stadion, dostali jsme nový bazén, ale nikdo nevěděl, že oba pochází od města Osla,“* popisuje Aagaard. Lidé zkrátka **nevěděli, že některé projekty jsou placené z jejich daní**.
 
 Obě přednášející také vedly výzkumné rozhovory s 1500 obyvateli Osla, 1000 zaměstnanci magistrátu, několika podniky či neziskovými organizacemi. A výsledek? Design Osla je příliš chaotický a roztříštěný, takže je těžké s ním pracovat. Jak ale tento problém vyřešit?
 
-Ve spolupráci s designovou agenturou Creuna (současně Knowit) navrhly [design manuál](https://designmanual.oslo.kommune.no/) magistrátu Osla, který obsahuje oficiální písmo, Oslo Sans, nové logo, oficiální barvy a tvary, šablony či ilustrace, které jsou inkluzivní a citlivé na kulturní odlišnosti. Design je navíc univerzálně využitelný pro fyzické i digitální povrchy a s využitím šablon umožňuje nespočet různých kombinací.
+Ve spolupráci s designovou agenturou Creuna (současně Knowit) navrhly **[design manuál](https://designmanual.oslo.kommune.no/) magistrátu Osla**, který obsahuje oficiální písmo, Oslo Sans, nové logo, oficiální barvy a tvary, šablony či ilustrace, které jsou **inkluzivní a citlivé na kulturní odlišnosti**. Design je navíc univerzálně využitelný pro fyzické i digitální povrchy a s využitím šablon umožňuje nespočet různých kombinací.
 
-Vizuální identita pak byla testována více než dva roky během pandemie v rámci strategické komunikace. „Museli jsme zajistit, aby všichni občané byli informováni o důležitých rozhodnutích, pravidlech a nařízeních. Lidé museli pochopit, že informace pochází z magistrátu. Možná jsme tím zachránili životy,“ popisuje Rønning Jorud.
+Vizuální identita pak byla **testována více než dva roky** během pandemie v rámci strategické komunikace. *„Museli jsme zajistit, aby všichni občané byli informováni o důležitých rozhodnutích, pravidlech a nařízeních. Lidé museli pochopit, že informace pochází z magistrátu. Možná jsme tím zachránili životy,“* popisuje Rønning Jorud.
 
-## Nové logo jako potřeba vlastní identity nebo zbytečný luxus?
+![](https://data.cesko.digital/img/clanek-cbf23/the-making-of-oslo-city-identity-cbf.jpg)
 
-Na slova kolegyň z Norska plynule navázal panel s diskuzí pod názvem [JEŠTĚ JEDNO LOGO A UMŘE KOŤÁTKO](https://www.youtube.com/watch?v=O5dOS5DYafQ). A hned z kraje nám Miroslav Roubíček, vedoucí ateliéru grafického a mediálního designu a zakladatel studia Colmo, předkládá další příklad povedeného vizuálního sjednocení: město Vídeň. Když to jde u tak velkých měst, proč to nejde u nás? 
+# Nové logo jako potřeba vlastní identity nebo zbytečný luxus?
 
+Na slova kolegyň z Norska plynule navázal panel s diskuzí pod názvem [JEŠTĚ JEDNO LOGO A UMŘE KOŤÁTKO](https://www.youtube.com/watch?v=O5dOS5DYafQ). A hned z kraje nám **Miroslav Roubíček**, vedoucí ateliéru grafického a mediálního designu a zakladatel studia Colmo, předkládá další příklad povedeného vizuálního sjednocení: město Vídeň. **Když to jde u tak velkých měst, proč to nejde u nás?** 
 
+**Michal Daněk** z Úřadu vlády a projekt manažer pro sjednocení domén pod [GOV.cz](https://gov.cz/), rozkrývá úskalí, s kterými se potýká 14 ministerstev a dalších 17 ústředních orgánů státní správy. Výčet důvodů se může zdát nekonečný. **Existuje vůbec „vůle“** ke změně? Očividně ji státní či další úřady postrádají dostatek. A nakolik je nečinnost podpořena finančními, časovými, personálním či dalšími nedostatečnými zdroji, to už se můžeme jen dohadovat. 
 
-Michal Daněk z Úřadu vlády a projekt manažer pro sjednocení domén pod [GOV.cz](https://gov.cz/), rozkrývá úskalí, s kterými se potýká 14 ministerstev a dalších 17 ústředních orgánů státní správy. Výčet důvodů se může zdát nekonečný. Existuje vůbec „vůle“ ke změně? Očividně ji státní či další úřady postrádají dostatek. A nakolik je nečinnost podpořena finančními, časovými, personálním či dalšími nedostatečnými zdroji, to už se můžeme jen dohadovat. 
+Důvod k radosti se přeci jen najde, zmiňme **úspěch sjednocení domén státní správy**, které **Michal Daněk** popsal: *„[GOV.cz](https://gov.cz/) nás vpasuje mezi demokratické právní státy NATO a EU. Obdobné řešení má polovina státu EU.“*
 
+Moderátorovi diskuze, specialistovi analýz a prognóz z IPR Praha, **Jiřímu Jarošovi** na otázku: Jestli je potřeba, aby každá instituce měla svou identitu či logo?, odpovídá spoludiskutér Martin Benda, mimo jiné projektový manažer projektu **[Identita](https://projektidentita.cz/)**: **„Je to EGO,“** a jedním dechem dodává, že **musíme proti tomu bojovat**. Jen nelze zapomenout, že může jít o cílené řešení ve snaze pomoci občanovi v orientaci. 
 
+**Miroslav Roubíček** lehce oponuje argumentem využití celistvého designového rámce s možností jisté individualizace. A na něho navazuje **Jiří Jaroš** upřesněním, že máme jak silné instituce, které ze svého nechtějí ustoupit, tak zároveň i **malé subjekty**, které nemají ambice si tvořit identity a naopak rády budou **čerpat z benefitu silného a zkušeného hráče**. Věřme, že i z této diskuze bude možné čerpat do dalších řešení při tvorbě sjednoceného vizuálu.
 
-Důvod k radosti se přeci jen najde, zmiňme úspěch sjednocení domén státní správy, které Michal Daněk popsal: „[GOV.cz](https://gov.cz/) nás vpasuje mezi demokratické právní státy NATO a EU. Obdobné řešení má polovina státu EU.“
+# Může být úředník pružný a odvážný? Na festivalu se prokázalo, že ano
 
+Občas se prostě stane, že hlavní řečník panelu nemůže dorazit. Festival Kreativní byrokracie občas působí na okolí mírně chaoticky, ale dle slov **Matěje Chytila**: *„Když to je páté přes deváté, tak my tomu říkáme kreativní.“* 
 
+A tak za nemocné zaskočili kolegové (původně diváci) a za Kláru Lorenčíkovou v části [SKLENĚNÉ STROPY ČESKÉ VEŘEJNÉ SPRÁVY](https://www.youtube.com/watch?v=mY51xjzxaLo), která v té chvíli zůstala uvězněna ve zpožděném vlaku, se ujal slova sám místopředseda vlády pro digitalizaci **Ivan Bartoš**.  
 
-Moderátorovi diskuze, specialistovi analýz a prognóz z IPR Praha, Jiřímu Jarošovi na otázku: Jestli je potřeba, aby každá instituce měla svou identitu či logo?, odpovídá spoludiskutér Martin Benda, mimo jiné projektový manažer projektu [Identita](https://projektidentita.cz/): „Je to EGO,“ a jedním dechem dodává, že musíme proti tomu bojovat. Jen nelze zapomenout, že může jít o cílené řešení ve snaze pomoci občanovi v orientaci. 
+Ten vyzdvihl, jak **„osazenstvo festivalu boří mýty o státním úředníkovi jako líném netáhlu, které brzdí rozvoj ČR.“** Pokračoval potřebou komunikace v prostředí, kde má každý svou zodpovědnost i kompetenci, avšak kde se **minimalizuje atmosféra strachu**. A pokud se ptáme na zpětnou vazbu, pojďme si ji skutečně vyslyšet a neočekávejme potvrzení své pravdy.
 
+# Vytvořme správné prostředí a dejme čas i těm, co doteď nemohli svá práva hájit
 
+S myšlenkou o vhodném nastavení prostředí pro komunikaci i pro příležitosti se zapojit do veřejné správy, se shodovaly i další řečnice následujícího tématu [MARUŠKO, UDĚLALA BYSTE NÁM DVĚ PRESSA?](https://www.youtube.com/watch?v=-0AxxDJ4SmA). Sama Maruška alias **Marie Hájek Salomonová**, mimo jiné neurovědkyně, členka Národní rady pro duševní zdraví, prozradila, **proč se diskuze jmenuje po ní**. Podělila se o to, jak její věk a fakt, že je žena, ji v minulosti stavěly do nepříjemných situací – ostatní okolo ní byli oslovováni jako: „Pane inženýre, Pane doktore…“ a ji familiárně oslovovali „Maruško“, a to i přes její pozici vystudované neurovědkyně s titulem MSc.
 
-Miroslav Roubíček lehce oponuje argumentem využití celistvého designového rámce s možností jisté individualizace. A na něho navazuje Jiří Jaroš upřesněním, že máme jak silné instituce, které ze svého nechtějí ustoupit, tak zároveň i malé subjekty, které nemají ambice si tvořit identity a naopak rády budou čerpat z benefitu silného a zkušeného hráče. Věřme, že i z této diskuze bude možné čerpat do dalších řešení při tvorbě sjednoceného vizuálu.
+![](https://data.cesko.digital/img/clanek-cbf23/4.jpg)
 
-## Může být úředník pružný a odvážný? Na festivalu se prokázalo, že ano
+Jednoduše řečeno, **předsudky je potřeba bořit**, jako např. ty, které popisuje socioložka **Jitka Rudolfová**, která je sama denodenně zažívá kvůli invalidnímu vozíku a vadě řeči: *„Panuje obecná představa, že osoby s postižením chodí jen k lékaři a na procházku a to je jejich celý život.“* Zdá se to absurdní? Ne, opravdu lidé s postižením musejí častěji prokazovat svou přidanou hodnotu. Což může mít ten dopad na to, že **pouze 1 % zaměstnanců ve veřejné správě jsou osoby s postižením**, navíc často na nižších pozicích s nulovým zastoupením na vyšších postech.
 
-Občas se prostě stane, že hlavní řečník panelu nemůže dorazit. Festival Kreativní byrokracie občas působí na okolí mírně chaoticky, ale dle slov Matěje Chytila: „Když to je páté přes deváté, tak my tomu říkáme kreativní.“ 
+Kdo jiný než stát a veřejná správa má jít příkladem i ostatním zaměstnavatelům v ČR? Změna je nutná, otevřeme dveře všude, ať si každý vybere **dle svého oboru či zaměření, a ne tam, kde to lze fyzicky či organizačně realizovat**. 
 
+Prostor a dostatek času vše nevyřeší, ale pomůže. Jestliže má dojít ke změně, potřebujeme zapojit ty, kterých se to týká a **podporovat diverzitu**. *„Neexistuje univerzální člověk s handicapem, stejně jako univerzální žena s univerzální zkušeností s mateřstvím,“* upřesňuje **Marie Hájek Salomonová**. Proto je tak důležité myslet na různorodé možnosti formátu komunikace. Existují různé preference a možnosti, což platí obecně bez ohledu na jakékoli zdravotní omezení. 
 
+**Ludmila Hamplová** ze strategického oddělení Úřadu vlády, vyzývá publikum k vyjádření názorů a klade na ostatní další a další otázky: **Umíme trpělivě naslouchat a pochopit**, že ne každý je zkušený řečník bez studu a má natolik vyvinutou sociální dovednost? 
 
-A tak za nemocné zaskočili kolegové (původně diváci) a za Kláru Lorenčíkovou v části [SKLENĚNÉ STROPY ČESKÉ VEŘEJNÉ SPRÁVY](https://www.youtube.com/watch?v=mY51xjzxaLo), která v té chvíli zůstala uvězněna ve zpožděném vlaku, se ujal slova sám místopředseda vlády pro digitalizaci Ivan Bartoš.  
-
-
-
-Ten vyzdvihl, jak „osazenstvo festivalu boří mýty o státním úředníkovi jako líném netáhlu, které brzdí rozvoj ČR.“ Pokračoval potřebou komunikace v prostředí, kde má každý svou zodpovědnost i kompetenci, avšak kde se minimalizuje atmosféra strachu. A pokud se ptáme na zpětnou vazbu, pojďme si ji skutečně vyslyšet a neočekávejme potvrzení své pravdy.
-
-## Vytvořme správné prostředí a dejme čas i těm, co doteď nemohli svá práva hájit
-
-S myšlenkou o vhodném nastavení prostředí pro komunikaci i pro příležitosti se zapojit do veřejné správy, se shodovaly i další řečnice následujícího tématu [MARUŠKO, UDĚLALA BYSTE NÁM DVĚ PRESSA?](https://www.youtube.com/watch?v=-0AxxDJ4SmA). Sama Maruška alias Marie Hájek Salomonová, mimo jiné neurovědkyně, členka Národní rady pro duševní zdraví, prozradila, proč se diskuze jmenuje po ní. Podělila se o to, jak její věk a fakt, že je žena, ji v minulosti stavěly do nepříjemných situací – ostatní okolo ní byli oslovováni jako: „Pane inženýre, Pane doktore…“ a ji familiárně oslovovali „Maruško“, a to i přes její pozici vystudované neurovědkyně s titulem MSc.
-
-
-
-![](https://lh5.googleusercontent.com/arO2RLM3h4czOzlUzx6fF8xLVbKhmc8oNcGRCMiHOqflIsgDfBwwALrfo8EjeDdU9oeGw2S1tiZZ24eO05WFrodAXqX53dO8_E43H3J5asu1waNIRUvvntkD_eCzTt1p9SOTCTz9ujrIF-8_79Gt6mg)
+**Monika Šámová**, právnička a členka Rady vlády pro rovná práva mužů a žen, zdůrazňuje upozadění honby se za čísly. Lepší je preferovat **tvorbu prostředí** podpůrnými opatřeními napříč rezorty, aby se různé minoritní či znevýhodněné skupiny měly možnost jednodušeji zapojovat.
 
 
 
-Jednoduše řečeno, předsudky je potřeba bořit, jako např. ty, které popisuje socioložka Jitka Rudolfová, která je sama denodenně zažívá kvůli invalidnímu vozíku a vadě řeči: „Panuje obecná představa, že osoby s postižením chodí jen k lékaři a na procházku a to je jejich celý život.“ Zdá se to absurdní? Ne, opravdu lidé s postižením musejí častěji prokazovat svou přidanou hodnotu. Což může mít ten dopad na to, že pouze 1 % zaměstnanců ve veřejné správě jsou osoby s postižením, navíc často na nižších pozicích s nulovým zastoupením na vyšších postech.
-
-
-
-Kdo jiný než stát a veřejná správa má jít příkladem i ostatním zaměstnavatelům v ČR? Změna je nutná, otevřeme dveře všude, ať si každý vybere dle svého oboru či zaměření, a ne tam, kde to lze fyzicky či organizačně realizovat. 
-
-
-
-Prostor a dostatek času vše nevyřeší, ale pomůže. Jestliže má dojít ke změně, potřebujeme zapojit ty, kterých se to týká a podporovat diverzitu. „Neexistuje univerzální člověk s handicapem, stejně jako univerzální žena s univerzální zkušeností s mateřstvím,“ upřesňuje Marie Hájek Salomonová. Proto je tak důležité myslet na různorodé možnosti formátu komunikace. Existují různé preference a možnosti, což platí obecně bez ohledu na jakékoli zdravotní omezení. 
-
-
-
-Ludmila Hamplová ze strategického oddělení Úřadu vlády, vyzývá publikum k vyjádření názorů a klade na ostatní další a další otázky: Umíme trpělivě naslouchat a pochopit, že ne každý je zkušený řečník bez studu a má natolik vyvinutou sociální dovednost? 
-
-
-
-Monika Šámová, právnička a členka Rady vlády pro rovná práva mužů a žen, zdůrazňuje upozadění honby se za čísly. Lepší je preferovat tvorbu prostředí podpůrnými opatřeními napříč rezorty, aby se různé minoritní či znevýhodněné skupiny měly možnost jednodušeji zapojovat.
-
-
-
-Nalezneme díky festivalu odpovědi?
+# Nalezneme díky festivalu odpovědi?
 
 Poslední zmíněná i další diskuze, panely a workshopy ukázaly, jak je prostředí Festivalu kreativní byrokracie potřebné. Dává prostor, čas a snaží se navodit vhodné podmínky pro zapojení každého, kdo chce posunout stát, bez ohledu na vlastní fyzické, duševní, sociální či další predispozice. Témata na sebe navazují, účastníci jednoho ročníku inspirují následující. Sdílení zkušeností a pohledu cizíma očima otevírá obzory.
 
-
-
-\> [Otevřete oči a mrkněte na celý záznam nebo jeho dílčí části](https://youtu.be/A6GTdn_3gOQ)
-
-
+**\> [Otevřete oči a mrkněte na celý záznam nebo jeho dílčí části](https://youtu.be/A6GTdn_3gOQ)**
 
 A chcete-li se zapojit víc, přidejte se do komunity Česko.Digital a posuňte Česko k lepšímu.
 
+**\> [Přidejte se k Česko.Digital](https://cesko.digital/join)**
 
+*Editorka: Terézia Palaščáková*
 
-\> [Přidejte se k Česko.Digital](https://cesko.digital/join)
-
-
-
-##### Editorka: Terézia Palaščáková
-
-##### Korektorka: Romana Přibylová
+*Korektorka: Romana Přibylová*
