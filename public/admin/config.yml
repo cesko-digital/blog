@@ -96,6 +96,7 @@ collections:
             "filip.leitgeb",
             "dominika.vykydalova",
             "lenka.konarikova",
+            "melanie.klvanova",
           ]
         required: true
       - label: "Tags"
@@ -251,6 +252,7 @@ collections:
             "filip.leitgeb",
             "dominika.vykydalova",
             "lenka.konarikova",
+            "melanie.klvanova",
           ]
         required: true
       - label: "Cover"
