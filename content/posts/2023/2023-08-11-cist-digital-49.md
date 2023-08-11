@@ -30,8 +30,6 @@ Komunita se rychle rozrůstá, potkávají se v ní lidé z různých prostřed�
 
 **\> [Přidej se do Mapy dobrovolníků](https://cesko.digital/profile)**
 
-
-
 # Reprezentuj komunitu
 
 ## Vybav se bločkem z chráněné dílny s logem Česko.Digital
@@ -56,9 +54,7 @@ Komunita se rychle rozrůstá, potkávají se v ní lidé z různých prostřed�
 
 **\> Zaujal tě CSGOV? [Přidej se do týmu](https://cesko.digital/opportunities/reckQSmUAx2Ray7T4)**
 
-
-
-## Mingly (dříve Tvoje láska) 
+## Mingly (dříve Tvoje láska)
 
 *Vytváříme největší online komunitní platformu pro navazování vztahů (nejen) pro lidi s handicapem.* 
 
@@ -68,11 +64,7 @@ Komunita se rychle rozrůstá, potkávají se v ní lidé z různých prostřed�
 
 🥳 Uspořádali jsme v Brně menší oslavu k ukončení úvodní fáze projektu.
 
-
-
 **Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).**
-
-
 
 # Setkání (nejen) s Česko.Digital
 
@@ -85,8 +77,6 @@ Nezapomeň se registrovat na druhý **Showcase Digitální inkluze** a z pohodl�
 **Kde:** online
 
 **\> [Registruj se ještě dnes](https://airtable.com/appQje7L2ZbXHIP4t/shresU62eYHBX2D0U?utm_source=ecomail&utm_campaign=2023_07_21_newsletter_072023&utm_medium=email&utm_term=56285&ecmid=40814)**
-
-
 
 ## Už brzy se naživo potkáme na Meetupu Česko.Digital #4
 
@@ -112,8 +102,8 @@ A ještě něco? Samozřejmě!
 
 ## Navyšujeme digitální kompetence v nezisku
 
-💪 Jak efektivně využít potenciál technologií v neziskovém sektoru? Nejen tím se zabývá pilotní projekt **Nezisk.Digital**. Zjisti, jak se neziskovky učí používat digitální nástroje a jakým překážkám musí čelit. To vše v blogu od Lenky Koňaříkové.\
-\
+💪 Jak efektivně využít potenciál technologií v neziskovém sektoru? Nejen tím se zabývá pilotní projekt **Nezisk.Digital**. Zjisti, jak se neziskovky učí používat digitální nástroje a jakým překážkám musí čelit. To vše v blogu od Lenky Koňaříkové.
+
 > [Chci vědět víc](https://blog.cesko.digital/2023/07/nezisk-digital-jak-navysovat-digitalni-kompetence-nezisku)
 
 ## Webová analytika s expertem v oboru
@@ -128,15 +118,11 @@ A ještě něco? Samozřejmě!
 
 **\> [Poslechni si celý rozhovor](https://podcasters.spotify.com/pod/show/poslouchatdigital/episodes/Benedikt-Kotmel-Data-et-mstm-penze--Jak-nastartovat-data-driven-kulturu-ve-sttn-sfe-e276rpf)**
 
-
-
 # Koho aktuálně hledáme
 
 Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digitalizuj s námi Česko. Všechny pozice najdeš přehledně mezi Příležitostmi k zapojení.
 
 **\> [Okoukni Příležitosti k zapojení](https://cesko.digital/dashboard)**
-
-
 
 ## Děkujeme, že tě baví číst.digital!
 
