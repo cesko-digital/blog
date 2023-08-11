@@ -1,7 +1,7 @@
 ---
 title: "Festival kreativní byrokracie: odvážní úředníci a inovace pro lepší
   stát. Přečtěte si shrnutí všech přednášek z třetího ročníku"
-author: melanie.klvanova
+author: content.team
 tags:
   - festival-kreativni-byrokracie
 cover: https://data.cesko.digital/img/clanek-cbf23/CBF23-cover.png
@@ -136,8 +136,6 @@ Prostor a dostatek času vše nevyřeší, ale pomůže. Jestliže má dojít ke
 
 **Monika Šámová**, právnička a členka Rady vlády pro rovná práva mužů a žen, zdůrazňuje upozadění honby se za čísly. Lepší je preferovat **tvorbu prostředí** podpůrnými opatřeními napříč rezorty, aby se různé minoritní či znevýhodněné skupiny měly možnost jednodušeji zapojovat.
 
-
-
 # Nalezneme díky festivalu odpovědi?
 
 Poslední zmíněná i další diskuze, panely a workshopy ukázaly, jak je prostředí Festivalu kreativní byrokracie potřebné. Dává prostor, čas a snaží se navodit vhodné podmínky pro zapojení každého, kdo chce posunout stát, bez ohledu na vlastní fyzické, duševní, sociální či další predispozice. Témata na sebe navazují, účastníci jednoho ročníku inspirují následující. Sdílení zkušeností a pohledu cizíma očima otevírá obzory.
@@ -147,6 +145,8 @@ Poslední zmíněná i další diskuze, panely a workshopy ukázaly, jak je pros
 A chcete-li se zapojit víc, přidejte se do komunity Česko.Digital a posuňte Česko k lepšímu.
 
 **\> [Přidejte se k Česko.Digital](https://cesko.digital/join)**
+
+*A﻿utorky textu: Melánie Klvaňová, Lenka Moravcová*
 
 *Editorka: Terézia Palaščáková*
 
