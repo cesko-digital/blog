@@ -24,10 +24,6 @@ const socialLinks = [
     name: "Podcast",
   },
   {
-    url: "https://www.cocuma.cz/company/cesko-digital/jobs/",
-    name: "Cocuma",
-  },
-  {
     url: "http://github.com/cesko-digital",
     name: "GitHub",
   },
