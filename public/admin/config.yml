@@ -97,6 +97,7 @@ collections:
             "dominika.vykydalova",
             "lenka.konarikova",
             "melanie.klvanova",
+            "adela.sykorova",
           ]
         required: true
       - label: "Tags"
@@ -253,6 +254,7 @@ collections:
             "dominika.vykydalova",
             "lenka.konarikova",
             "melanie.klvanova",
+            "adela.sykorova",
           ]
         required: true
       - label: "Cover"
