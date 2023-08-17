@@ -15,6 +15,8 @@ description: Ahoj Česko.Digital! 👋 V létě nezahálíme a pečujeme o spole
   prázdniny a užij si léto!
 lang: cs
 ---
+**P﻿odcastová verze k poslechu 👉 [zde](https://podcasters.spotify.com/pod/show/poslouchatdigital/episodes/poslouchat-st-digital15-Zlepujeme-ovzdu--Bome-bariry-v-digitalizaci--Myslme-na-spokojenost-komunity-e2872rg)** 
+
 # Horké novin(k)y měsíce
 
 ## Pro čistší ovzduší
@@ -52,8 +54,6 @@ lang: cs
 😊 V červenci se vracíme k pravidelnému **měření spokojenosti** v komunitě. Máme už tvůj feedback? Díky! Chceš nám ještě dát vědět, jak se tu cítíš a co zlepšit? ⏰ Čas na to běží **do 31. 7. 23:59**. Děkujeme!
 
 **\> [Sdílej svůj názor](https://airtable.com/shraT0RMIKsu3CET9)**
-
-
 
 # Dobro.tip 
 
