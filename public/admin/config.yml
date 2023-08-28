@@ -98,6 +98,7 @@ collections:
             "lenka.konarikova",
             "melanie.klvanova",
             "adela.sykorova",
+            "aneta.bohmova",
           ]
         required: true
       - label: "Tags"
@@ -255,6 +256,7 @@ collections:
             "lenka.konarikova",
             "melanie.klvanova",
             "adela.sykorova",
+            "aneta.bohmova",
           ]
         required: true
       - label: "Cover"
