@@ -14,7 +14,7 @@ description: Jak rozhýbat komunitu Česko.Digital, aby vzrostly její aktivní
   máme obojí – a chceme se o to s vámi podělit.
 lang: cs
 ---
-<iframe src="https://podcasters.spotify.com/pod/show/poslouchatdigital/embed/episodes/S-inovanm-studiem-Q-Designers-o-tom--jak-zvit-dopad-komunity-esko-Digital-e287bfk" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe style="border-radius:12px" src="https://podcasters.spotify.com/pod/show/poslouchatdigital/embed/episodes/S-inovanm-studiem-Q-Designers-o-tom--jak-zvit-dopad-komunity-esko-Digital-e287bfk" height="100%" width="100%" frameborder="0" scrolling="no"></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5nJvwl4X5MdMXJIaK6PoTf?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
