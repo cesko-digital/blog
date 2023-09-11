@@ -13,6 +13,8 @@ description: "Ahoj Česko.Digital! 👋  Myslíš, že v komunitě nastal letní
   Česko.Digital #4? Příjemné letní počtení!"
 lang: cs
 ---
+<center><iframe src="https://podcasters.spotify.com/pod/show/poslouchatdigital/embed/episodes/poslouchat-st-digital16-Mingly-m-nov-logo--Komunitn-pravidla-ern-na-blm--Pozvnka-na-zijov-meetup-e2872uu" height="120px" width="600px" frameborder="0" scrolling="no"></iframe></center>
+
 # Horké novin(k)y měsíce
 
 ## Pravidla máte? A můžu je vidět?
