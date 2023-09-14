@@ -23,10 +23,7 @@ lang: cs
 
 V České republice je zhruba[ 1 milion digitálně vyloučených lidí a minimálně 700 000 lidí je digitálně ohrožených.](https://portaldigi.cz/segmentace/pdf/Metodika-Segmentace.pdf) Cílem projektu Digitální inkluze je pochopit potřeby těchto skupin a nalézt vhodné nástroje k širšímu zpřístupnění digitálních technologií. Mezi cílové skupiny patří: 
 
-* dospělí lidé, kteří trpí sociálním vyloučením spojeným zejména s chudobou,
-
-nezaměstnaností, problémy s bydlením či diskriminací;
-
+* dospělí lidé, kteří trpí sociálním vyloučením spojeným zejména s chudobou, nezaměstnaností, problémy s bydlením či diskriminací;
 * děti ve věku 12–18 let vyrůstající ve ztížených sociálních a ekonomických podmínkách a v jejich etnicky vyloučených komunitách;
 * osamělí senioři*seniorky a starší lidé žijící v sociálně vyloučených lokalitách. 
 
