@@ -55,6 +55,6 @@ Google.org je neziskovou odnoží společnosti Google, která pomáhá řešit n
 
 Kontakt pro média: Martina Habová, martina@cesko.digital
 
-
+N﻿a tiskové zprávě spolupracovala dobrovolnice Petra Javornická.
 
 <!--EndFragment-->
