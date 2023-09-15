@@ -4,8 +4,8 @@ title: "číst.digital/50: 8 profilů digitálně vyloučených lidí | Chceme r
 author: content.team
 tags:
   - newsletter
-cover: xxx
-date: 2023-09-14-11-24
+cover: https://data.cesko.digital/newsletter/50/50.png
+date: 2023-09-15-10-32
 slug: cist-digital-50
 description: "Ahoj Česko.Digital! 👋 Září je tu a náš newsletter zůstává stejně
   nabitý jako naše batohy na letní výpravy: Společně s Q Designers jsme
@@ -16,6 +16,8 @@ description: "Ahoj Česko.Digital! 👋 Září je tu a náš newsletter zůstá
   křídla?"
 lang: cs
 ---
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4unaJViGPKPvM3JsMuVlr3?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 # Horké novin(k)y měsíce
 
 ## Digitální inkluze
@@ -91,6 +93,18 @@ Aby z aplikace Kogito **mohly mít ženy ještě větší užitek**, pracuje ná
 📜 Jsme stát my všichni, nebo jen ta paní v kostýmku za přepážkou? I 3. ročník **Festivalu kreativní byrokracie** bořil mýty a hlavně přinesl jasnou odpověď. Letošní panely se věnovaly tématům, které nás stále trápí – rezortismus a roztříštěnost v rozhodování, digitalizace, AI, jednotná vizuální identita či podpora diverzity ve společnosti. Někde se už ale karta pomalu obrací – úspěch českého předsednictví v Radě EU je první vlaštovkou! Důležité body a tipy z přednášek shrnuly Melánie Klvaňová a Lenka Moravcová na našem blogu.
 
 **[\> Přečti si článek](https://blog.cesko.digital/2023/08/festival-kreativni-byrokracie-odvazni-urednici-a-inovace-pro-lepsi-stat)**
+
+
+
+## **Čtvrtý Meetup Česko.Digital** 
+
+Ve středu 13. 9. 2023 jsme se sešli v prostorách [WPP Campusu](https://www.wpp.com/en) na Vltavské na již čtvrtém Meetupu Česko.Digital. K dispozici máme i fotky, které má tentokrát na svědomí Jura Ryszawy a Petr Illek. 
+
+**[\> Podívej se na fotky](https://drive.google.com/drive/folders/1wIWHuIKb5nE8dAl9JNQqSCUUrGC8jtjA?usp=drive_link)**
+
+![](https://data.cesko.digital/newsletter/50/meerup-4-2.jpg)
+
+![](https://data.cesko.digital/newsletter/50/meetup-4-1.jpg)
 
 # Nachytři se s námi
 
