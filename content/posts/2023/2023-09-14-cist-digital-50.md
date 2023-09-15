@@ -20,7 +20,7 @@ lang: cs
 
 ## Digitální inkluze
 
-👩‍🔬 Díky ojedinělému výzkumu jsme vytvořili **8 profilů digitálně ohrožených a vyloučených lidí** v ČR. Profily **umožní lépe pochopit potřeby** vybraných skupin a mohou **sloužit** zejména **neziskovým organizacím** poskytujícím sociální služby a **ve státní sféře** v oblasti služeb veřejnosti.
+👩‍🔬 Díky ojedinělému výzkumu jsme vytvořili **[8 profilů digitálně ohrožených a vyloučených lidí](https://drive.google.com/drive/folders/1YZXWXxwCFBb7DZOQA-xihTJ9DWNpcJ3g?usp=sharing)** v ČR. Profily **umožní lépe pochopit potřeby** vybraných skupin a mohou **sloužit** zejména **neziskovým organizacím** poskytujícím sociální služby a **ve státní sféře** v oblasti služeb veřejnosti.
 
 🎤 Podrobnosti jsme probrali na nedávné **[tiskové konferenci](https://drive.google.com/file/d/15aTh559NbG_57lM5MCsEwoJnOHoaU8Q2/view?usp=sharing)**, která proběhla 13. září.
 
@@ -51,8 +51,6 @@ lang: cs
 💻 Ať jsi student, nebo ne, prověř si své digitální dovednosti. A co když to zkusíš pojmout jako soutěž se svými přáteli: **Kdo dosáhne vyššího skóre?** 🏅
 
 **\> [Otestuj se IT Fitness Testem ještě dnes](https://itfitness.eu/cs/stranky/chci-se-otestovat/)** 
-
-
 
 # To nejlepší z našich projektů
 
@@ -128,11 +126,7 @@ Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digita
 
 Víš, že zde pod názvem Marketplace najdeš i příležitosti od neziskovek mimo Česko.Digital?
 
-
-
 ## Děkujeme, že tě baví číst.digital!
-
-
 
 **Tým newsletteru**
 
