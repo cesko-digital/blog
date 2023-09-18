@@ -22,7 +22,7 @@ lang: cs
 
 ## Digitální inkluze
 
-👩‍🔬 Díky ojedinělému výzkumu jsme vytvořili **[8 profilů digitálně ohrožených a vyloučených lidí](https://drive.google.com/drive/folders/1YZXWXxwCFBb7DZOQA-xihTJ9DWNpcJ3g?usp=sharing)** v ČR. Profily **umožní lépe pochopit potřeby** vybraných skupin a mohou **sloužit** zejména **neziskovým organizacím** poskytujícím sociální služby a **ve státní sféře** v oblasti služeb veřejnosti.
+👩‍🔬 Díky ojedinělému výzkumu jsme vytvořili **[8 profilů digitálně ohrožených a vyloučených lidí](https://bit.ly/3rbb6sK)** v ČR. Profily **umožní lépe pochopit potřeby** vybraných skupin a mohou **sloužit** zejména **neziskovým organizacím** poskytujícím sociální služby a **ve státní sféře** v oblasti služeb veřejnosti.
 
 🎤 Podrobnosti jsme probrali na nedávné **[tiskové konferenci](https://drive.google.com/file/d/15aTh559NbG_57lM5MCsEwoJnOHoaU8Q2/view?usp=sharing)**, která proběhla 13. září.
 
@@ -94,9 +94,7 @@ Aby z aplikace Kogito **mohly mít ženy ještě větší užitek**, pracuje ná
 
 **[\> Přečti si článek](https://blog.cesko.digital/2023/08/festival-kreativni-byrokracie-odvazni-urednici-a-inovace-pro-lepsi-stat)**
 
-
-
-## **Čtvrtý Meetup Česko.Digital** 
+## **Čtvrtý Meetup Česko.Digital**
 
 Ve středu 13. 9. 2023 jsme se sešli v prostorách [WPP Campusu](https://www.wpp.com/en) na Vltavské na již čtvrtém Meetupu Česko.Digital. K dispozici máme i fotky, které má tentokrát na svědomí Jura Ryszawy a Petr Illek. 
 
