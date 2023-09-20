@@ -74,7 +74,7 @@ Showcase #3 jsme věnovali **průběžnému vyhodnocení pilotního kurzu** a **
 
 👉 Na posledním, v pořadí pátém showcasu se pobavíme o dalších **plánech Nezisk.Digital po ukončení pilotního kurzu**.
 
-** [\> Co bude s Nezisk.Digital dál? Dozvíte se v úterý 29. 8. v 9:00.](https://cesko.digital/events/nezisk-digital-showcase-5)**
+**[\> Co bude s Nezisk.Digital dál? Dozvíte se v úterý 29. 8. v 9:00.](https://cesko.digital/events/nezisk-digital-showcase-5)**
 
 # Chcete o projektu vědět víc?
 
