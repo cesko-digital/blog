@@ -2,7 +2,7 @@
 title: "Je to začarovaný kruh. Průzkum Česko.Digital odhalil, co brání pokroku
   technologií ve státní správě "
 author: jindrich.oukropec
-cover: https://data.cesko.digital/img/CBF-23.jpg
+cover: https://data.cesko.digital/img/clanek-vyzkum-statni-sprava/header_pruzkum-statni-sprava-samosprava.png
 date: 2023-09-07-11-24
 slug: pruzkum-statni-sprava-a-samosprava-bariery-digitalizace
 description: Největší civic-tech organizace a komunita expertních dobrovolníků
@@ -17,9 +17,7 @@ lang: cs
 ---
 Česko.Digital chce, aby veřejná sféra uměla využívat potenciál technologií k řešení celospolečenských problémů a zlepšovala tak podmínky pro život lidí v České republice. Při mapování systému, který chce změnit, odhalila organizace několik začarovaných kruhů. Jedním z nich je státní správa a samospráva. „Předražené a neefektivní systémy, které tu dekády provozujeme, nepřinášejí velkou hodnotu ani úředníkům, ani veřejnosti. Výsledkem je nedůvěra úřednictva v technologie a zažitý český stereotyp, že digitální technologie musí stát miliony. Nedůvěra brání potřebným rozpočtům. Když se totiž uvolní peněz málo, generují se neefektivní řešení, která poté ještě více prohlubují nedůvěru,“ vysvětluje vedoucí strategie Veronika Quek z Česko.Digital.
 
-![]()
-
-Obrázek 1 – Začarovaný kruh státní správy a samosprávy v otázce digitálních technologií, autorka: Veronika Quek (Česko.Digital)
+![](https://data.cesko.digital/img/clanek-vyzkum-statni-sprava/nase-role-v-systemove-zmene.jpg "Obrázek 1 – Začarovaný kruh státní správy a samosprávy v otázce digitálních technologií, autorka: Veronika Quek (Česko.Digital)")
 
 \
 Nová data naznačují, že největší sílu na prosazení změny má šéf úřadu, který ve spolupráci s politiky a náměstky může nové technologie nejsnadněji prosadit. V rozhovorech se naopak několikrát objevilo, že prosadit změnu „zespoda“, tedy od řadových úředníků a úřednic (typicky referentek nebo specialistů), je mnohem těžší. Největší motivací pro zavedení technologie na úřad je podle 65 % oslovených prospěch pro celý úřad (např. šetření času, financí, snadnější práce atd.). 
