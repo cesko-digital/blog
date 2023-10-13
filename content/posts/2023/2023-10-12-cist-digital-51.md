@@ -5,39 +5,51 @@ title: "číst.digital/51: Kolik problémů digitalizace detekujeme ve státní
 author: content.team
 tags:
   - newsletter
-cover: xxx
+cover: https://data.cesko.digital/newsletter/51/cover51.png
 date: 2023-10-12-01-25
 slug: cist-digital-51
-description: Ahoj Česko.Digital! 👋 První pacienti*pacientky testují e-kurz
+description: Ahoj Česko.Digital! 👋 První pacienti/pacientky testují e-kurz
   Revma v klidu. Pouštíme se do CSGOV 2.0. Víme, jaké bariéry stojí v cestě
   rozvoji technologií ve státní správě. Jak se Česko.Digital zapojí na Týdnu pro
   Digitální Česko? Přidáš se? Čti dál a užij si říjnovou nálož novinek z naší
   komunity.
 lang: cs
 ---
+<center><iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1iKUGtWOSEmNQTv5sFhp29?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></center>
+
 # Horké novin(k)y měsíce
 
 ## Komunikace průzkumu klíčových aktérů 
 
-👩‍💼👨‍💼 Co brání rozvoji technologií na úřadech? 👀 Od začátku jsme tušili, co brzdí pokrok technologií ve státní správě, ale neměli jsme aktuální data, o která bychom se mohli opřít. Teď je máme. Díky odpovědím 2 000 úředníků a úřednic jsme formulovali 7 největších problémů.
+👩‍💼👨‍💼 Co brání rozvoji technologií na úřadech? 👀 Od začátku jsme tušili, co brzdí pokrok technologií ve státní správě, ale neměli jsme aktuální data, o která bychom se mohli opřít. **Teď je máme.** Díky odpovědím 2 000 úředníků a úřednic jsme formulovali **7 největších problémů**.
 
 \> [Mrkni na výsledky průzkumu shrnuté v prezentaci](https://docs.google.com/presentation/d/1dn0e3NNoDaTXCJvduSySMUno7PpnTvENVHlCoi2mrSM/edit#slide=id.g27a3ddc20a3_0_0)
 
-![](https://lh5.googleusercontent.com/Wb9Ggi4HizN7vV09ccjgA1IJkxsbuJY2EBltdD5XGC6m8T2U2648ARiZlQGIQJ6NsRZI8-Sd_tJNts_7URcjVzCbyDUQTQxy7aMpkDgmtl8LvF4cYBK3zNkY02sWb2pEWspcsL60lh2Zgm-uFDuiHcU)
+![](https://data.cesko.digital/newsletter/51/postrehy-z-pruzkumu.png)
 
 ## Movapp i po 1,5 roce stále stojí za Ukrajinou
 
 🌻 15 000 instalací, pozitivní ohlasy, nominace na Křišťálovou Lupu – toho všechno Movapp dosáhl. A jelikož je studium češtiny stále velký problém, Movapp dál pokračuje. Dokonce k tomu zakládá vlastní neziskovou organizaci a hledá finanční podporu. Hlavní prioritou Movappu bude i nadále tvorba softwarových nástrojů na pomoc ukrajinským uprchlíkům se zvládáním češtiny. Přáním je v budoucnu rozšířit pomoc i na další jazykové menšiny.
 
-💙 Do Movappu se zapojilo 100 dobrovolníků\*dobrovolnic ze 6 zemí světa. 2 z nich si díky zkušenostem v projektu následně našli svou práci snů. Děkujeme všem, kdo jste se zapojili. Movapp se neloučí, i nadále hledá dobrovolníky\*dobrovolnice a pořád ho najdeš na Slacku >č.d pod #run-ua-movapp.
-
-
+💙 Do Movappu se zapojilo 100 dobrovolníků/dobrovolnic ze 6 zemí světa. 2 z nich si díky zkušenostem v projektu následně našli svou práci snů. Děkujeme všem, kdo jste se zapojili. Movapp se neloučí, i nadále hledá dobrovolníky/dobrovolnice a pořád ho najdeš na Slacku >č.d pod #run-ua-movapp.
 
 📺 Víc informací včetně praktických rad k zakládání neziskové organizace se dozvíš z uskutečněného webináře „Jak založit neziskovku – zkušenosti projektu Movapp“.
 
-\> Podívej se na záznam webináře
+\> [Podívej se na záznam webináře](https://youtu.be/SZuzYd1qvT8)
 
 \> [Přihlas se k odběru Movapp newsletteru](https://www.movapp.cz/newsletter)
+
+
+
+## Praktický kurz Nezisk.Digital na míru NNO s podporou mentorů a využitelnými výsledky
+
+Přihlas se se svou neziskovou organizací do připravovaného [zimního běhu kurzu Nezisk.Digital](https://cesko.digital/projects/nezisk-digital) **právě teď**! Kurz je díky grantu od MPSV pro neziskové organizace **zdarma**. Během něj vám pomůžeme posoudit a optimalizovat nástroje pro spolupráci, komunikaci a bezpečnost ve vaší neziskové organizaci. **Za podpory facilitátora/facilitátorky kurzu**a **vám přiřazeného mentora/mentorky** naleznete ten správný nástroj, díky němuž budete ve své práci opravdu efektivní.
+
+**\> [Zarezervuj si místo pro svou neziskovku v zimním běhu kurzu Nezisk.Digital](https://airtable.com/appBMJcLnBva02IEy/shrlymCJWH9WCdGRq)**
+
+\> Máš o účast v kurzu zájem? **[Doraž na online event Nezisk.Digital: Jak bude probíhat zimní kurz a proč se do něj zapojit (Q&A)](https://cesko.digital/events/nezisk-digital-zimni-kurz)**
+
+\> Chceš sdílet své zkušenosti s neziskovými organizacemi jako mentor/mentorka? **[Vyplň dotazník a my se ti ozveme s bližšími informacemi](https://airtable.com/apppZX1QC3fl1RTBM/shrAuq9tVRMtiksIJ)**
 
 
 
@@ -65,8 +77,6 @@ lang: cs
 
 💪 Změnit web není vůbec jednoduché. Do hry vstupují transakční náklady i vendor-lock-in provázaný se stávajícím systémem. Ale my se nevzdáváme. Začali jsme s implementací design systému a pouštíme se do CSGOV 2.0.
 
-
-
 Na čem pracujeme v dalších projektech a co se nám na nich za poslední měsíc povedlo? To se dozvíš na naší [wiki](https://cesko-digital.atlassian.net/l/c/1RriTPgP).
 
 # Setkání (nejen) s Česko.Digital
@@ -87,7 +97,7 @@ Pojď do toho s námi – těšíme se na tebe! Podívej se na [](https://budouc
 
 💡 Kde? V 7 městech Česka a hlavně i online**![May be an image of text that says "TYDEN PRO DIGITÁLNÍ ČESKO 20.- 24.11.2023 KURZY| PREDN�KY WEBINÁRE PRO VAŠE DIGITALNI DOVEDNOSTI www.budoucnostjedigitalni.cz G"](https://lh3.googleusercontent.com/UFUlMtUdxtDj0mJunlHNtT3dNIo00Y8JFZf2eBnqFiFKjxhLWcrokW13JTkwnOmDZljPKowkxoVIkl3dg9UdLd_8jAJl_3DwwQSFbdxvCCXWm6HGnSHcCADby_t-NCCqYLVc5bawOGtUER-QvKL3kRU)**
 
-![]()
+![](https://data.cesko.digital/newsletter/51/tyden-pro-digitalni-cesko.jpg)
 
 # Nachytři se s námi
 
