@@ -131,7 +131,7 @@ Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digita
 
 **\> [Mrkni na Příležitosti k zapojení](https://cesko.digital/dashboard)**
 
-*Víš, že na Portálu najdeš pod názvem Marketplace i příležitosti od neziskovek mimo Česko.Digital?*
+*Víš, že na webu najdeš pod názvem Marketplace i příležitosti od neziskovek mimo Česko.Digital?*
 
 
 
