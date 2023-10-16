@@ -99,6 +99,7 @@ collections:
             "melanie.klvanova",
             "adela.sykorova",
             "aneta.bohmova",
+            "jaroslava.tomsu",
           ]
         required: true
       - label: "Tags"
@@ -257,6 +258,7 @@ collections:
             "melanie.klvanova",
             "adela.sykorova",
             "aneta.bohmova",
+            "jaroslava.tomsu",
           ]
         required: true
       - label: "Cover"
