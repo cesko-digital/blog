@@ -32,9 +32,9 @@ V rámci výzkumu jsme oslovili neziskové organizace poskytující sociální s
 
 Výsledky odpovídají výseku z celkového asi **1,7 milionu** lidí, kterých se tento problém v České republice týká. Právě tito lidé jsou v kontaktu s neziskovými organizacemi. Dotazovali jsme se **dětí z vyloučených lokalit**, socioekonomicky znevýhodněných **minorit** (včetně romských komunit) a **seniorů**.  
 
-obrázek: Respondenti podle místa pobytu
-
 ![](https://data.cesko.digital/img/clanek-mapujeme-propast-digitalniho-vylouceni/respondenti-podle-mista-pobytu.png "Respondenti podle místa pobytu")
+
+*Respondenti podle místa pobytu*
 
 Zmapovali jsme jejich přístup k internetu, jejich dovednosti a zkušenosti, jak dokáží řešit problémy online, jak tvoří obsah nebo přistupují k bezpečnosti na síti. Při mapování **digitálních kompetencí** jsme vycházeli z evropského modelu definovaného v rámci [DigiComp 2.2](https://publications.jrc.ec.europa.eu/repository/handle/JRC128415). 
 
