@@ -44,7 +44,7 @@ Společně jsme hledali, co respondentům **brání** efektivně využívat digi
 
 ## „Líbilo by se mi, kdyby mi můj telefon uměl pomoci s problémem.“
 
-*[Dítě s pravidelným přístupem k internetu](https://bit.ly/3rbb6sK)*
+*[Dítě s pravidelným přístupem k internetu](https://bit.ly/3tzY7BC)*
 
 Děti z vyloučených sociálních skupin nebo lokalit pro online komunikaci většinou využívají starší telefon, který nemá dostatek paměti. **Často se musí o telefon dělit** se sourozenci nebo s matkou. 
 
@@ -54,7 +54,7 @@ Děti se pohybují v digitálním prostoru ve své sociální bublině, která o
 
 ## „Ahoj, jsi tam?“
 
-*[Hlubší sonda do chování dětí](https://bit.ly/3rbb6sK)*
+*[Hlubší sonda do chování dětí](https://bit.ly/3Qja87i)*
 
 Měli jsme příležitost k intenzivnějšímu pozorování chování mladých dívek ve věku 11–14 let  využívajících sociálních služeb. Díky tomu vznikla 8. persona: *Digitální profil mladé romské dívky*. Ta podrobněji rozvádí chování dětí, které se k internetu dostanou pravidelně. 
 
@@ -62,7 +62,7 @@ Měli jsme příležitost k intenzivnějšímu pozorování chování mladých d
 
 ## „Když mi dojde kredit, volám jenom přes WhatsApp.“
 
-*[Pravidelný digitální uživatel](https://bit.ly/3rbb6sK)*
+*[Pravidelný digitální uživatel](https://bit.ly/3QjUZmi)*
 
 \
 Tito lidé mají většinou **internet zavedený doma**. Věkový profil je vyrovnaný od 19–65 let přibližně rovnoměrně, 70 % z nich tvoří ženy. Mobil a další zařízení mohou sdílet s dalšími členy domácnosti: „Hodně často mobil půjčuju i dcerám.“
@@ -71,9 +71,11 @@ Tito lidé mají většinou **internet zavedený doma**. Věkový profil je vyro
 
 Zvýšením digitální gramotnosti bychom jim mohli pomoci s lepší uplatnitelností na trhu práce. *„Chtěla bych se také naučit používat internet banking a lépe upravovat fotky na mobilu,“* říká naše respondentka. 
 
+
+
 ## „Já vím, že s nikým nemám sdílet heslo. Ale moje heslo ví celá rodina.“
 
-*[Nepravidelný digitální uživatel](https://bit.ly/3rbb6sK)*
+*[Nepravidelný digitální uživatel](https://bit.ly/45z0IZX)*
 
 Nejvíce respondentů je ve věkové kategorii 36–50 let, více než polovinu tvoří muži. Na internet se dostávají přes veřejnou WiFi nebo si kupují mobilní kredit. **Doma internet nemají.** 
 
@@ -87,7 +89,7 @@ Vylepšení dovedností ovládání digitálních technologií by jim mohlo pomo
 
 ## „Nevím, k čemu by mi chytrý mobil byl.“
 
-*[Digitálně vyloučený](https://bit.ly/3rbb6sK)*
+*[Digitálně vyloučený](https://bit.ly/45xU0TZ)*
 
 Digitálně vyloučení lidé **se nepřipojují k internetu** na svém mobilu (často vůbec chytrý telefon ani nevlastní). Pokud nutně potřebují něco zařídit online, udělají to většinou **s pomocí svých sociálních pracovníků**.
 
@@ -99,7 +101,7 @@ Mohou být v situaci, kdy je pro ně obtížné se o zařízení starat (nabíje
 
 ## „Já jsem to internetový bankovnictví taky dlouho odmítala a teď mi přijde bezvadný.“
 
-*[Pravidelný uživatel senior](https://bit.ly/3rbb6sK)*
+*[Pravidelný uživatel senior](https://bit.ly/3PWmW25)*
 
 Lidé nad 65 let, kteří internet používají pravidelně, se připojují převážně ze své domácí WiFi. Častěji sem patří senioři pod 80 let a lidé žijící ve vícečlenných domácnostech.
 
@@ -111,7 +113,7 @@ Intenzivní je zde **interakce mezi prarodiči a vnoučaty**. 
 
 ## „Připojuji se asi jednou týdně z počítače v městské knihovně a to mi stačí.“
 
-*[Nepravidelný uživatel senior](https://bit.ly/3rbb6sK)*
+*[Nepravidelný uživatel senior](https://bit.ly/3QiATI7)*
 
 Ze všech 7 + 1 profilů je tento nejméně početnou skupinou. Senioři většinou internet buď mají a používají jej, nebo ho nemají a nepotřebují. 
 
@@ -121,7 +123,7 @@ Rozšiřování obzorů o základní a jednoduché digitální nástroje (jízdn
 
 ## „Pro nás starý už to není.“
 
-*[Digitálně vyloučený senior](https://bit.ly/3rbb6sK)*
+*[Digitálně vyloučený senior](https://bit.ly/46vE6Le)*
 
 Digitálně vyloučení senioři internet vůbec nepoužívají. Typicky jde o lidi nad 80 let. Nejčastěji jsou to ženy žijící v jednočlenné domácnosti či v pobytovém zařízení.
 
@@ -157,10 +159,6 @@ Naše cílové skupiny se snadněji učí digitálním dovednostem, pokud je jej
  [Prezentace](https://docs.google.com/presentation/d/1DnQHL1UhHuXO_yANy31fBM3VqkZR91foNi-Er5EIvfI/edit)
 
 Zajímá tě víc nebo se chceš do projektu zapojit jako dobrovolník nebo nezisková organizace? Napiš Lujze Kotryové, Service Designerce projektu, na [lujza.kotryova@cesko.digital](mailto:lujza.kotryova@cesko.digital).
-
-
-
-
 
 *Autorka: Jaroslava Tomšů*
 
