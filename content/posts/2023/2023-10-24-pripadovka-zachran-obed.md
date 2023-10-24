@@ -62,9 +62,9 @@ V Zachraň jídlo měli vcelku jasnou představu o tom, co je potřeba udělat: 
 
 *„Nebyli jsme si jistí, jestli převzít už existující řešení ze zahraničí a přizpůsobit ho našim potřebám, nebo si vyhrnout rukávy a pustit se do toho od nuly. Zároveň jsme věděli, že na to nemáme v týmu potřebné know-how. Také jsme si uvědomovali, že jako neziskovka nemůžeme zakázku jen tak zadat komerční firmě, nemáme na to dostatek financí. Oslovili jsme proto Česko.Digital, protože jsme tušili, že v komunitě budou dobrovolníci, kterým může být naše téma blízké. A že by nám mohli pomoci najít ten správný směr.“*
 
-**Anička Strejcová**, spoluzakladatelka Zachraň jídlo
-
-![](https://data.cesko.digital/img/pripadovka-zachran-obed/anicka-strejcova.jpeg)
+> **Anička Strejcová**, spoluzakladatelka Zachraň jídlo
+>
+> ![](https://data.cesko.digital/img/pripadovka-zachran-obed/anicka-strejcova.jpeg)
 
 # Kudy vede cesta od problému k řešení
 
