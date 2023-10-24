@@ -33,7 +33,7 @@ Po roční společné práci lidí z neziskovky Zachraň jídlo a expertních do
 * Hodnota zachráněného jídla: 1 523 000 Kč
 * Uhlíková stopa – počet zachráněných stromů: 4 851
 
-To vše m jiné i díky tomu, že se nám společně podařilo nadesignovat a vyvinout tzv. minimální řešení, v tomto případě **jednoduchou tabulku založenou v interaktivní aplikaci [Airtable](https://airtable.com/)**.
+To všem jiné i díky tomu, že se nám společně podařilo nadesignovat a vyvinout tzv. minimální řešení, v tomto případě **jednoduchou tabulku založenou v interaktivní aplikaci [Airtable](https://airtable.com/)**.
 
 **Minimální řešení, které můžete najít i pod anglickou zkratkou MVP (Minimum Viable Product)** je produkt s nejmenší možnou funkcionalitou, který je plně použitelný a umožňuje rychle získat zpětnou vazbu od zákazníků pro další vývoj.
 
