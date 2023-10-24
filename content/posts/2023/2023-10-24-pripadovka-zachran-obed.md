@@ -39,7 +39,7 @@ To vše m jiné i díky tomu, že se nám společně podařilo nadesignovat a vy
 
 *„Airtable řešení nám velmi pomohlo s nastavením jednotného procesu darování v praxi. Funguje také jako forma předávacího protokolu, díky které také dokážeme sbírat data o pokrmech, které se převáží,“* říká Denisa Rybářová ze Zachraň jídlo.
 
-**Jak funguje akcelerátor Česko.Digital?** Mrkněte do [článku na našem blogu, kde popisujeme co to je a které projekty se hodí k akceleraci](https://cesko-digital.atlassian.net/wiki/spaces/CD/pages/832242262/Jak+na+p+ijet+projektu+do+akcelerace).
+> **Jak funguje akcelerátor Česko.Digital?** Mrkněte do [článku na našem blogu, kde popisujeme co to je a které projekty se hodí k akceleraci](https://cesko-digital.atlassian.net/wiki/spaces/CD/pages/832242262/Jak+na+p+ijet+projektu+do+akcelerace).
 
 # Proč se vlastně Zachraň jídlo propojilo s Česko.Digital? 
 
@@ -52,9 +52,7 @@ Zachraň oběd byl přesně typ projektu, který se pro akceleraci v Česko.Digi
 * je to projekt, který může sloužit velmi široké cílové skupině 
 * má potenciál nastartovat celospolečenskou změnu 
 
-
-
-### *„Při zadávání projektu do akcelerátoru je zásadní uvědomit si jednu důležitou věc. Zadavatel do toho musí jít s vědomím, že Česko.Digital není agentura, která mu vypracuje řešení na klíč,“ říká Romana Pokorná, která má v Česko.Digital. na starosti akcelerátor a jeho další rozvoj. „Jsme expertní dobrovolnickou organizací, která může neziskovkám nebo státním organizacím pomoci v oblasti technických a IT řešení. Na projektech pak intenzivně pracují zadavatelé spolu s dobrovolníky v jednom týmu.“*
+## *„Při zadávání projektu do akcelerátoru je zásadní uvědomit si jednu důležitou věc. Zadavatel do toho musí jít s vědomím, že Česko.Digital není agentura, která mu vypracuje řešení na klíč,“ říká Romana Pokorná, která má v Česko.Digital. na starosti akcelerátor a jeho další rozvoj. „Jsme expertní dobrovolnickou organizací, která může neziskovkám nebo státním organizacím pomoci v oblasti technických a IT řešení. Na projektech pak intenzivně pracují zadavatelé spolu s dobrovolníky v jednom týmu.“*
 
 # Hlavní úkol: vymyslet technické řešení
 
@@ -116,8 +114,6 @@ Pro akceleraci máme 4 kritéria:
 2. **Udržitelnost**: zadavatel umí definovat dlouhodobý cíl produktu a má alespoň na půl úvazku zaměstnance, který se mu může věnovat. 
 3. **Dopad**: projekt řeší nějaký celospolečenský problém konkrétní cílové skupiny a jde o problém z oblasti, kterou definují [cíle udržitelného rozvoje.](https://www.spolecenskaodpovednost.cz/sdgs/)
 4. **Technologie**: projekt využívá technologie a směřuje k vývoji nebo redesignu technologického řešení, které je navíc open source. 
-
-
 
 # Zapojte se
 
