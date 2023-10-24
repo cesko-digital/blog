@@ -52,7 +52,7 @@ Zachraň oběd byl přesně typ projektu, který se pro akceleraci v Česko.Digi
 * je to projekt, který může sloužit velmi široké cílové skupině 
 * má potenciál nastartovat celospolečenskou změnu 
 
-## *„Při zadávání projektu do akcelerátoru je zásadní uvědomit si jednu důležitou věc. Zadavatel do toho musí jít s vědomím, že Česko.Digital není agentura, která mu vypracuje řešení na klíč,“ říká Romana Pokorná, která má v Česko.Digital. na starosti akcelerátor a jeho další rozvoj. „Jsme expertní dobrovolnickou organizací, která může neziskovkám nebo státním organizacím pomoci v oblasti technických a IT řešení. Na projektech pak intenzivně pracují zadavatelé spolu s dobrovolníky v jednom týmu.“*
+### *„Při zadávání projektu do akcelerátoru je zásadní uvědomit si jednu důležitou věc. Zadavatel do toho musí jít s vědomím, že Česko.Digital není agentura, která mu vypracuje řešení na klíč,“ říká Romana Pokorná, která má v Česko.Digital. na starosti akcelerátor a jeho další rozvoj. „Jsme expertní dobrovolnickou organizací, která může neziskovkám nebo státním organizacím pomoci v oblasti technických a IT řešení. Na projektech pak intenzivně pracují zadavatelé spolu s dobrovolníky v jednom týmu.“*
 
 # Hlavní úkol: vymyslet technické řešení
 
