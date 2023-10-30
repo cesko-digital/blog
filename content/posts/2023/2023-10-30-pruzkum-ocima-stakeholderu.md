@@ -26,8 +26,6 @@ Na základě odpovědí od zaměstnanců státní správy a ročního mapování
 6. Ve státní správě a samosprávě chybí otevřená komunikace a kultura zpětné vazby, což brání pokroku
 7. Ve státní správě a samosprávě převládá krátkozraký přístup k implementaci technologií bez ohledu na reálné požadavky občana a úřadu
 
-
-
 # Šéf Digitální a informační agentury
 
 ## Martin Mesršmíd
@@ -40,8 +38,6 @@ Na základě odpovědí od zaměstnanců státní správy a ročního mapování
 
 *„Naše zjištění potvrzují výsledky průzkumu také v oblasti kultury ve státní správě a přístupu k technologiím. Pro využití technologií tak, aby občan jasně pocítil jejich přínos, je potřeba kultura otevřené zpětné vazby, testování a agilní přístup, což nyní velmi chybí,“* doplňuje Martin Mesršmíd.
 
-
-
 # Vicepremiér pro digitalizaci
 
 ## Ivan Bartoš
@@ -53,6 +49,10 @@ Na základě odpovědí od zaměstnanců státní správy a ročního mapování
 *„Právě abychom uměli lépe definovat problémy, najít vhodná řešení a věděli, jak je implementovat, jsme založili Digitální a informační agenturu jako expertní centrum, které dokáže přinést zlepšení rychleji než dosavadní rozdrobené agendy mezi ministerstvy. Její pracovníci mají nejen příslušnou kvalifikaci, ale i zkušenost, aby byli schopni identifikovat hlavní faktory zamezující zavádění nových technologií. Dosavadní dodavatelské firmy totiž často zavádění nových technologií nejrůznějším způsobem blokují, aby nepřišly o svůj status. Jsem přesvědčen, že s přispěním DIA jsme schopni prolomit onen začarovaný kruh, kdy výsledný produkt neodpovídá očekávání, úřednice a úředníci jsou zklamaní, protože nedojde ke slibované úspoře času či práce, a v důsledku toho se pak u nich zvyšuje nedůvěra v nové technologie a neochota se dál vzdělávat,“* doplňuje Bartoš.
 
 *„Naší snahou by ale zároveň mělo být nejen dodávat nové technologie a učit úředníky a úřednice novým digitálním dovednostem a znalostem těchto technologií, ale také flexibilitě, kreativnímu myšlení a komunikaci. Nikdo na úřadě by se neměl bát zeptat se svých kolegů na to, jak oni pracují s danými procesy, co jim usnadňuje práci a jak je to třeba na jiném resortu. Vnímám v tomto ohledu pozitivní posun a věřím, že si státní správa může vzájemně předávat řadu užitečných rad a dovedností,“* dodává.
+
+# Strategická ředitelka Česko.Digital
+
+## Veronika Quek
 
 > ![](https://data.cesko.digital/img/clanek-pruzkum-ocima-stakeholderu/veronika-q.png)
 >
@@ -68,8 +68,6 @@ Na základě odpovědí od zaměstnanců státní správy a ročního mapování
 
 *„V reakci na dnešní situaci je klíčovým faktorem spolupráce a vytvoření společné vize. Snažíme se všechny přivést k jednomu stolu. Cesta k efektivnímu využití technologií ve veřejné sféře je náročná, ale jsme odhodlaní tuto výzvu přijmout a hledat inovativní řešení pro budoucnost,“* doplňuje.
 
-
-
 # Další výzkumy
 
 Povědomí a postoje uživatelů k digitálním produktům ve státní sféře, jako je Portál občana, Portál veřejné správy, Datová schránka, Identita občana a Mobilní klíč, zkoumali letos na jaře [Galina Avanesjan a David Lustig](https://docs.google.com/presentation/d/1L8UhoFnh_RePgyebLqVneJFH6opHdVqW/edit#slide=id.p1).
@@ -83,7 +81,5 @@ Motivace a přístup státních úředníků k řešení úkolů ve veřejné sp
 # Pomozte zatočit s bariérami a zapojte se do komunity
 
 Také vám to není jedno? Přiložte ruku k dílu. Nyní hledáme experty*expertky na digitalizaci státní správy <https://cesko.digital/opportunities/recHkUMA18afnXoT4>
-
-
 
 *Korektura: Silvie Mitlenerová*
