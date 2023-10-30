@@ -9,7 +9,7 @@ description: Perex článku Proč Česká republika zaostává ve využívání 
   technologií ve státní správě? Odpovědi naznačuje nedávný průzkum, do kterého
   se zapojilo přes 2000 úředníků a úřednic. Ve výsledcích najdeme chybějící
   kompetence, rozpočty, ale i nechuť pracovníků cokoliv změnit nebo nevyhovující
-  legislativu. Co na na to říkají klíčové hráčky a hráči české digitalizace?
+  legislativu. Co na na to říkají klíčové postavy české digitalizace?
 lang: cs
 ---
 Z ročního [průzkumu Česko.Digital](https://blog.cesko.digital/2023/09/pruzkum-statni-sprava-a-samosprava-bariery-digitalizace) vzešlo 7 největších problémů, které mají nejspíš vliv na využití technologií ve státní správě a samosprávě. Zeptali jsme se tří klíčových hráčů na poli digitálních technologií, co na ně říkají. Bariéry pokroku komentuje ředitel Digitální a informační agentury Martin Mesršmíd, vicepremiér pro digitalizaci Ivan Bartoš a strategická ředitelka Česko.Digital Veronika Quek.
