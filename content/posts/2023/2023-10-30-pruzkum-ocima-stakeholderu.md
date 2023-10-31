@@ -5,10 +5,10 @@ author: jindrich.oukropec
 cover: https://data.cesko.digital/img/clanek-pruzkum-ocima-stakeholderu/cover.png
 date: 2023-10-30-05-44
 slug: pruzkum-ocima-stakeholderu
-description: Perex článku Proč Česká republika zaostává ve využívání digitálních
-  technologií ve státní správě? Odpovědi naznačuje nedávný průzkum, do kterého
-  se zapojilo přes 2000 úředníků a úřednic. Ve výsledcích najdeme chybějící
-  kompetence, rozpočty, ale i nechuť pracovníků cokoliv změnit nebo nevyhovující
+description: Proč Česká republika zaostává ve využívání digitálních technologií
+  ve státní správě? Odpovědi naznačuje nedávný průzkum, do kterého se zapojilo
+  přes 2000 úředníků a úřednic. Ve výsledcích najdeme chybějící kompetence,
+  rozpočty, ale i nechuť pracovníků cokoliv změnit nebo nevyhovující
   legislativu. Co na na to říkají klíčové postavy české digitalizace?
 lang: cs
 ---
