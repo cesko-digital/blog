@@ -58,10 +58,6 @@ Na základě odpovědí od zaměstnanců státní správy a ročního mapování
 >
 >  *©️ Petr Machan (tiskovka Nadace OSF)*
 
-# Strategická ředitelka Česko.Digital
-
-## Veronika Quek
-
 *„Využití technologií ve veřejné sféře představuje čím dál naléhavější výzvu. Jde o složitý systémový problém, který vyžaduje hlubší analýzu vzájemných vztahů mezi různými částmi systému a analýzu zpětných vazeb, které mohou buď vyvažovat, nebo posilovat existující problémy. Nejde o jednoduchý úkol, ale naším cílem je jej řešit,“* popisuje současný stav strategická ředitelka Česko.Digital Veronika Quek.
 
 *„Koordinované úsilí a spolupráce jsou stěžejní prvky. Nevyhnutelně musíme mít všichni společnou vizi a metriky, protože v současnosti existuje mnoho různých interpretací a měření úspěchu. Bez jasné definice úspěchu dochází k rozmanitosti strategií a cílů různých orgánů, což vede k neefektivním investicím a nevhodným řešením. Je tedy klíčové, abychom stanovili jasnou cestu a pracovali na společných cílech – tak nejspíše dosáhneme pozitivních výsledků,“* říká Veronika Quek.
