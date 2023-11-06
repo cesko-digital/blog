@@ -76,6 +76,6 @@ Motivace a přístup státních úředníků k řešení úkolů ve veřejné sp
 
 # Pomozte zatočit s bariérami a zapojte se do komunity
 
-Také vám to není jedno? Přiložte ruku k dílu. Nyní hledáme experty*expertky na digitalizaci státní správy <https://cesko.digital/opportunities/recHkUMA18afnXoT4>
+Také vám to není jedno? Přiložte ruku k dílu: [](https://cesko.digital/opportunities/recHkUMA18afnXoT4)<https://cesko.digital/opportunities>
 
-*Korektura: Silvie Mitlenerová*
+*[](https://cesko.digital/opportunities)Korektura: Silvie Mitlenerová*
