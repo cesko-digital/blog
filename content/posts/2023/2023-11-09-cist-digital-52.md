@@ -6,7 +6,7 @@ author: content.team
 tags:
   - cesko-digital-obsah
 cover: https://data.cesko.digital/newsletter/52/cover52.png
-date: 2023-11-09-09-05
+date: 2023-11-10-03-12
 slug: cist-digital-52
 description: Ahoj Česko.Digital! 👋 Bojíš se, že ti v listopadu bude zima? Žádný
   strach! Myslíme na všechno – hlavu ti schováme do nového merche a u srdce tě
