@@ -90,7 +90,7 @@ Umapa se během roku 2023 začala měnit v **nástroj pro dlouhodobou integraci*
 
 ✨ Na mapě se už zobrazují **pracovní pozice vhodné pro cizince**, a to díky spolupráci s [KdeJePrace.cz](https://www.kdejeprace.cz/).
 
-🎆🏆 Našli jsme pro projekt **silného partnera, kterým je globální nezisková organizace [IOM](https://www.iom.int/who-we-are)** 🥳. Ta bude na Umapě sdílet aktuální stav ubytovacích kapacit pro uprchlíky, zapojovat integrační neziskovky a postupně řešit další agendy.
+🎆🏆 Našli jsme pro projekt **silného partnera, kterým je Mezinárodní organizace pro migraci** (**[IOM](https://www.iom.int/who-we-are)** UN), jedna z agentur OSN v ČR 🥳. Ta bude na Umapě sdílet aktuální stav ubytovacích kapacit pro uprchlíky, zapojovat integrační neziskovky a postupně řešit další agendy.
 
 ## Revma v klidu
 
