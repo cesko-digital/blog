@@ -142,6 +142,14 @@ Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digita
 
 Víš, že na Portálu najdeš pod názvem Marketplace i příležitosti od neziskovek mimo Česko.Digital?
 
+
+
+📨 C﻿hceš dostávat souhrn novinek novinek rovnou do tvé e-mailové schránky? 
+
+**\> [Přihlas se k odběru newsletteru](https://ceskodigital.ecomailapp.cz/public/form/5-ed07fd6b07ff0199fabc8509f995f058)**
+
+
+
 ## Děkujeme, že tě baví číst.digital!
 
 ## Tým newsletteru
