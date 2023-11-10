@@ -54,6 +54,22 @@ A Česko.Digital je jeho **hrdou součástí!** Na programu najdeš spoustu **on
 
 
 
+## **Mastodon jako stvořený pro Česko.Digital**
+
+👍 Česko.Digital můžeš nově sledovat na sociální síti Mastodon. Jde o platformu, na které je možné sdílet krátké texty, odkazy a obrázky jako třeba na X a tradičně interagovat s cizím obsahem.
+
+Mastodon je provozovaný především v zájmu uživatelů*uživatelek, nikoliv inzerentů nebo majitele, a má řadu výhod a principů, které s námi rezonují. Je ale mnohem víc důvodů, proč jsme si vybrali právě Mastodon. 
+
+Zajímá tě, co nás vedlo k tomu Mastodon využít a proč nám nestačí X? Přečti si nový blogový článek od Tomáše Znamenáčka. 
+
+💙 A nezapomeň nás začít sledovat na [@ceskodigital@cesko.digital](https://mastodon.cesko.digital/@ceskodigital). 
+
+**\> [Chci si přečíst nový článek o Mastodonu](https://blog.cesko.digital/2023/11/ceskodigital-nove-na-mastodonu)**
+
+**\> [Chci sledovat Česko.Digital na Mastodonu](https://mastodon.cesko.digital/@ceskodigital)**
+
+
+
 # Náš merch má nový přírůstek – čepici Česko.Digital
 
 Je **udržitelná**, univerzální a **sluší všem**. Zahřeje a potěší každého, kdo chce mít hlavu po celou zimu pěkně v teple.
@@ -61,8 +77,6 @@ Je **udržitelná**, univerzální a **sluší všem**. Zahřeje a potěší ka�
 **\> [Tak ukaž, že máš pod čepicí, a ulov si ji tady](https://shop.czechdesign.cz/ceskodigital/cepice-digital-z-udrzitelnych-materialu/)**
 
 > ![](https://data.cesko.digital/newsletter/52/cd-cepice.png)
-
-
 
 # To nejlepší z našich projektů
 
@@ -129,8 +143,6 @@ Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digita
 Víš, že na Portálu najdeš pod názvem Marketplace i příležitosti od neziskovek mimo Česko.Digital?
 
 ## Děkujeme, že tě baví číst.digital!
-
-
 
 ## Tým newsletteru
 
