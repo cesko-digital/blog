@@ -52,8 +52,6 @@ A Česko.Digital je jeho **hrdou součástí!** Na programu najdeš spoustu **on
 
 **\> [Přečti si případovku](https://blog.cesko.digital/2023/10/pripadovka-zachran-obed)**
 
-
-
 ## **Mastodon jako stvořený pro Česko.Digital**
 
 👍 Česko.Digital můžeš nově sledovat na sociální síti Mastodon. Jde o platformu, na které je možné sdílet krátké texty, odkazy a obrázky jako třeba na X a tradičně interagovat s cizím obsahem.
@@ -67,8 +65,6 @@ Zajímá tě, co nás vedlo k tomu Mastodon využít a proč nám nestačí X? P
 **\> [Chci si přečíst nový článek o Mastodonu](https://blog.cesko.digital/2023/11/ceskodigital-nove-na-mastodonu)**
 
 **\> [Chci sledovat Česko.Digital na Mastodonu](https://mastodon.cesko.digital/@ceskodigital)**
-
-
 
 # Náš merch má nový přírůstek – čepici Česko.Digital
 
@@ -142,13 +138,9 @@ Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digita
 
 Víš, že na Portálu najdeš pod názvem Marketplace i příležitosti od neziskovek mimo Česko.Digital?
 
-
-
 📨 C﻿hceš dostávat souhrn novinek novinek rovnou do tvé e-mailové schránky? 
 
 **\> [Přihlas se k odběru newsletteru](https://ceskodigital.ecomailapp.cz/public/form/5-ed07fd6b07ff0199fabc8509f995f058)**
-
-
 
 ## Děkujeme, že tě baví číst.digital!
 
@@ -156,7 +148,7 @@ Víš, že na Portálu najdeš pod názvem Marketplace i příležitosti od nezi
 
 *Koordinace: Lenka Moravcová a Hana Burešová*
 
-*Texty: Martina Hradecká, Lucie Porazilová, Aneta Böhmová, Pavel Šnábl*
+*Texty: Martina Hradecká, Lucie Porazilová, Aneta Böhmová, Pavel Šnábl, Aneta Böhmová*
 
 *Edit: Martina Habová, Kateřina Sikorová*
 
