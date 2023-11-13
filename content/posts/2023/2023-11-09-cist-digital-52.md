@@ -16,6 +16,8 @@ description: Ahoj Česko.Digital! 👋 Bojíš se, že ti v listopadu bude zima?
   světem digitalizace. Novinek máme mnohem víc, tak čti dál!
 lang: cs
 ---
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1zWa8C3iPWfHq7fH9AQ5oo?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 # Horké novin(k)y měsíce
 
 ## Potlesk všem aktivním pedagogům
