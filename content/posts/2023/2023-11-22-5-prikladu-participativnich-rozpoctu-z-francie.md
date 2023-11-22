@@ -21,19 +21,17 @@ lang: cs
 
 Od roku 2018 probíhá ve městě Angers participativní rozpočtování prostřednictvím [digitální platformy Decidim](https://ecrivons.angers.fr/). Ta umožňuje obyvatelům předkládat návrhy projektů, které pokrývají **široké spektrum oblastí působnosti města**: územní plánování, sport, kulturu, životní prostředí a další. Občané tak mohou navrhovat projekty, které spadají do nejrůznějších kategorií.
 
-![Město Angers na platformě Decidim](https://data.cesko.digital/img/clanek-5-prikladu-participativnich-rozpoctu-z-francie/1.png "Město Angers na platformě Decidim")
-
-*Město Angers na platformě Decidim*
-
-
+> ![Město Angers na platformě Decidim](https://data.cesko.digital/img/clanek-5-prikladu-participativnich-rozpoctu-z-francie/1.png "Město Angers na platformě Decidim")
+>
+> *Město Angers na platformě Decidim*
 
 V prvním hlasování o přidělení části obecního rozpočtu si obyvatelé zvolili 2 projekty týkající se územního plánování a ty byly městem zrealizovány. Od té doby město **každoročně financuje nejméně 9 vítězných projektů** na různá témata. V celkovém součtu to dělá **47 realizovaných projektů**.
 
 Decidim veřejným institucím umožňuje vysvětlovat účastníkům, co se v každé jednotlivé fázi děje. Díky tomu je zaručena **transparentnost** a občané mají **přehled o časové ose a průběhu** celého participativního procesu.
 
-![Etapy průběhu participativního rozpočtování města Angers v roce 2022](https://data.cesko.digital/img/clanek-5-prikladu-participativnich-rozpoctu-z-francie/2.png "Etapy průběhu participativního rozpočtování města Angers v roce 2022")
-
-*Etapy průběhu participativního rozpočtování města Angers v roce 2022*
+> ![Etapy průběhu participativního rozpočtování města Angers v roce 2022](https://data.cesko.digital/img/clanek-5-prikladu-participativnich-rozpoctu-z-francie/2.png "Etapy průběhu participativního rozpočtování města Angers v roce 2022")
+>
+> *Etapy průběhu participativního rozpočtování města Angers v roce 2022*
 
 # Participativní rozpočet jen pro mladé
 
@@ -43,11 +41,9 @@ V rámci tohoto projektu proběhly na několika **základních a středních šk
 
 O vítězných návrzích hlasovali všichni mladí obyvatelé. Projekty cílily zejména na **zlepšení každodenního života ve školách**, mladí občané si přáli například **více zeleně** nebo **nová sportoviště**. Představeny byly také **kulturní projekty**, jako třeba zřízení nahrávacího studia pro online rádio. Některé studenty také napadlo postavit na školní pozemky **včelí úly**, které by vyrobili žáci středních škol se zaměřením na design.
 
-![Okres Indre-et-Loire na platformě Decidim](https://data.cesko.digital/img/clanek-5-prikladu-participativnich-rozpoctu-z-francie/3.png "Okres Indre-et-Loire na platformě Decidim")
-
-*Okres Indre-et-Loire na platformě Decidim*
-
-
+> ![Okres Indre-et-Loire na platformě Decidim](https://data.cesko.digital/img/clanek-5-prikladu-participativnich-rozpoctu-z-francie/3.png "Okres Indre-et-Loire na platformě Decidim")
+>
+> *Okres Indre-et-Loire na platformě Decidim*
 
 # Participativním rozpočtem proti klimatické změně
 
@@ -55,9 +51,9 @@ V rámci boje **proti globálnímu oteplování a znečištění ovzduší** spu
 
 Metropole Bordeaux poskytla pro projekt, první svého druhu ve Francii, ze svého vlastnictví **7 pozemků**. Díky němu ve městě vzniknou **„ostrůvky osvěžení“**, které posílí **biologickou rozmanitost**. Plochy pro výsadbu navrhlo několik sdružení, která díky finanční a technické pomoci od města budou moci se zalesňováním a úpravami začít již tuto zimu *(zima 2022)*. Občané mohli přímo na platformě reagovat na jednotlivé návrhy a hlasovat pro ty, které upřednostňovali – vybírali mezi **lesíky, sady, parky a komunitními zahradami**.
 
-![Metropole Bordeaux na platformě Decidim](https://data.cesko.digital/img/clanek-5-prikladu-participativnich-rozpoctu-z-francie/4.png "Metropole Bordeaux na platformě Decidim")
-
-*Metropole Bordeaux na platformě Decidim*
+> ![Metropole Bordeaux na platformě Decidim](https://data.cesko.digital/img/clanek-5-prikladu-participativnich-rozpoctu-z-francie/4.png "Metropole Bordeaux na platformě Decidim")
+>
+> *Metropole Bordeaux na platformě Decidim*
 
 # Pro každou městskou čtvrť zvlášť
 
@@ -80,15 +76,13 @@ Samostatnou kategorii tvořily projekty týkající se města Paříže a zvlá�
 
 Tento způsob hlasování umožňuje získat **lepší přehled o preferencích účastníků, odlišit mezi odpověďmi jemné rozdíly a snadněji odmítnout návrhy**, které do kolektivních preferencí nespadají. Jednou z výhod této metody je, že dovoluje účastníkům plně vyjádřit názor na každý předložený projekt, čímž **činí volby demokratičtějšími**.
 
-![Platforma pro participativní rozpočtování Paříže](https://data.cesko.digital/img/clanek-5-prikladu-participativnich-rozpoctu-z-francie/5.png "Platforma pro participativní rozpočtování Paříže")
-
-*Platforma pro participativní rozpočtování Paříže*
+> ![Platforma pro participativní rozpočtování Paříže](https://data.cesko.digital/img/clanek-5-prikladu-participativnich-rozpoctu-z-francie/5.png "Platforma pro participativní rozpočtování Paříže")
+>
+> *Platforma pro participativní rozpočtování Paříže*
 
 Jak je vidět, existuje **tolik variant participativního rozpočtování, kolik je správních celků**, přičemž každá z nich je trochu jiná a funguje více či méně odlišným způsobem. Je třeba také připomenout, že participativní rozpočet může vzniknout na všech úrovních – **na úrovni okresu, metropole, města, městského obvodu, čtvrti…** Tento postup se nyní ve Francii široce demokratizuje a zavádí jej řada správních celků.
 
 Jak bude vypadat participativní rozpočtování zítřka? Na straně územních samosprávných celků je patrná například snaha **zapojit navrhovatele projektů** a jejich řízení **již v dřívější fázi** – tento model se bude v budoucnu pravděpodobně rozvíjet. V současné době zavádějí nebo plánují zavádět vlastní participativní rozpočty nejen správní celky, ale i jiné organizace.
-
-
 
 *Překlad: Lenka Koňaříková*
 
