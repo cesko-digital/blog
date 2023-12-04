@@ -1,7 +1,7 @@
 ---
 title: Česko.Digital má nového ředitele. Eva Pavlíková jde do správní rady
 author: jindrich.oukropec
-cover: https://data.cesko.digital/web/projects/cesko-digital/4-narozeniny-23.jpeg
+cover: https://data.cesko.digital/img/eva-yen-jakub-1.jpg
 date: 2023-12-04-09-46
 slug: ceskodigital-ma-noveho-reditele-eva-pavlikov-jde-do-spravni-rady
 description: Organizace Česko.Digital mění své vedení. Dosavadní šéfku Evu
