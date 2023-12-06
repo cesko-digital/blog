@@ -1,7 +1,7 @@
 ---
 title: Proč se mění vedení Česko.Digital? Ptáme se přímo Evy a Honzy
 author: jindrich.oukropec
-cover: xxx
+cover: https://data.cesko.digital/img/clanek-novy-ceo/eva-yen.jpg
 date: 2023-12-05-04-50
 slug: proc-se-meni-vedeni-ceskodigital
 description: Kdo a proč bude nově vést Česko.Digital? Jakou roli bude mít
@@ -10,9 +10,7 @@ description: Kdo a proč bude nově vést Česko.Digital? Jakou roli bude mít
   změny se dějí ve vedení Česko.Digital.
 lang: cs
 ---
-![]()
-
-
+![](https://data.cesko.digital/img/clanek-novy-ceo/eva.jpg)
 
 ## 1. Česko.Digital jsi vedla přes dva roky, co tě vedlo ke změně?
 
@@ -48,7 +46,7 @@ Na systémové rovině se potom připojuji k Matějovi Chytilovi do nově vznika
 
 A osobně mám zkušenost, že ve veřejné správě pracuje mnoho talentovaných lidí, ale nedostává se jim dostatečné podpory, uznání a expertního rozvoje, což se potom odráží na nás všech – a to je škoda.
 
-![]()
+![](https://data.cesko.digital/img/clanek-novy-ceo/yen.jpg)
 
 ## 1. V Česko.Digital působíš už víc než rok. Proč ses tehdy rozhodl k nám přidat?
 
