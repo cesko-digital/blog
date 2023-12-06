@@ -75,3 +75,9 @@ Téma není vyloženě systémová změna, spíš zvolený druh přístupu k ní
 Naším tématem, potažmo vizí je, aby veřejná správa a neziskovky v Česku uměly využít potenciál technologií k řešení celospolečenských problémů a nám všem se tu nakonec lépe žilo. 
 
 V rámci systémového přístupu se je snažíme provázet samostatným dosažením té změny Nechceme suplovat roli veřejné správy, chceme, aby ona sama zvládala svoje úkoly co nejlépe.
+
+
+
+Chcete si poslechnout Evu a Honzu mluvit o změnách ve vedení Česko.Digital? Poslechněte si nový díl podcastu Ireny Zatloukalové [PeopleOps](https://peopleops.buzzsprout.com/).
+
+*Korektura: Silvie Mitlenerová*
