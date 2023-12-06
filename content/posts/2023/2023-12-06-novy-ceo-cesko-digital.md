@@ -50,7 +50,7 @@ A osobně mám zkušenost, že ve veřejné správě pracuje mnoho talentovanýc
 
 ## 1. V Česko.Digital působíš už víc než rok. Proč ses tehdy rozhodl k nám přidat?
 
-Pracoval jsem předtím v Liftagu a v posledním roce si procházel něčím, čemu přezdívám drobná vnitřní krize kapitalismu: „Když to budem dělat dobře, vyděláme víc peněz a snad přitom kultivujeme městskou dopravu, ale svět si z toho na zadek nesedne.“ 
+Pracoval jsem předtím v Liftagu a v posledním roce si procházel něčím, čemu přezdívám drobná vnitřní krize kapitalismu: *„Když to budem dělat dobře, vyděláme víc peněz a snad přitom kultivujeme městskou dopravu, ale svět si z toho na zadek nesedne.“* 
 
 V té době mě lízl efektivní altruismus jakožto myšlenkový směr, v rámci kterého se lidi snaží maximalizovat pozitivní dopad své práce a peněz. Zvažoval jsem tehdy advokacii, consulting, nakonec mě však vidina společenského dopadu přitáhla do Česko.Digital. 
 
@@ -75,8 +75,6 @@ Téma není vyloženě systémová změna, spíš zvolený druh přístupu k ní
 Naším tématem, potažmo vizí je, aby veřejná správa a neziskovky v Česku uměly využít potenciál technologií k řešení celospolečenských problémů a nám všem se tu nakonec lépe žilo. 
 
 V rámci systémového přístupu se je snažíme provázet samostatným dosažením té změny Nechceme suplovat roli veřejné správy, chceme, aby ona sama zvládala svoje úkoly co nejlépe.
-
-
 
 Chcete si poslechnout Evu a Honzu mluvit o změnách ve vedení Česko.Digital? Poslechněte si nový díl podcastu Ireny Zatloukalové [PeopleOps](https://peopleops.buzzsprout.com/).
 
