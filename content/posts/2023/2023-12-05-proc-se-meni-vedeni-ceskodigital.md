@@ -2,7 +2,7 @@
 title: Proč se mění vedení Česko.Digital? Ptáme se přímo Evy a Honzy
 author: jindrich.oukropec
 cover: https://data.cesko.digital/img/clanek-novy-ceo/eva-yen.jpg
-date: 2023-12-05-04-50
+date: 2023-12-06-02-08
 slug: proc-se-meni-vedeni-ceskodigital
 description: Kdo a proč bude nově vést Česko.Digital? Jakou roli bude mít
   dosavadní ředitelka ve správní radě a co můžeme očekávat od nového CEO? Ptali
