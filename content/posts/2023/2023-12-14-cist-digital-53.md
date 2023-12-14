@@ -102,15 +102,15 @@ Kapacita zimního běhu kurzu Nezisk.Digital je plná! Těšíme se na společno
 
 ## Jak dopadl průzkum spokojenosti?  
 
-🔍 Minulý měsíc proběhl další průzkum spokojenosti komunity, který vyplnilo 41 z vás. Děkujeme všem, kdo jste se o svůj názor podělili. Právě se vrháme na zpracování vašich podnětů, abychom vám život v komunitě ještě více zlepšili. 💪
+🔍 Minulý měsíc proběhl další **průzkum spokojenosti** komunity, který vyplnilo 41 z vás. Děkujeme všem, kdo jste se o svůj názor podělili. Právě se vrháme na zpracování **vašich podnětů**, abychom vám život v komunitě ještě více **zlepšili**. 💪
 
-\> [Přečti si výstupy](https://drive.google.com/file/d/1Qj5JDR-nzdmlhkqrY3EabbE2NdcnIxbK/view)
+**\> [Přečti si výstupy](https://drive.google.com/file/d/1Qj5JDR-nzdmlhkqrY3EabbE2NdcnIxbK/view)**
 
 # Setkání (nejen) s Česko.Digital
 
 ## Není týden jako Týden
 
-🗓️ 1 listopadový týden, 5 dnů, 14 akcí a asi 280 diváků nebo účastníků. To je úctyhodné skóre aktivit Česko.Digital v rámci Týdne pro Digitální Česko. Můžeš ho spolu s námi prožít ještě jednou!
+🗓️ 1 listopadový týden, 5 dnů, 14 akcí a asi 280 diváků nebo účastníků. To je úctyhodné skóre aktivit Česko.Digital v rámci Týdne pro Digitální Česko. **Můžeš ho spolu s námi prožít ještě jednou!**
 
 Shrnutí všech eventů v Týdnu pro Digitální Česko:
 
@@ -119,9 +119,9 @@ Shrnutí všech eventů v Týdnu pro Digitální Česko:
 * [Jak aktivní učení posiluje digitální kompetence veřejné správy a neziskových organizací](https://youtu.be/RuolH3uRKfk)
 * [Konference Navigace světem digitalizace](https://konference.gov.cz/#online)
 
-\> Přečti si Anežčiny [tipy a triky ve Slacku](https://diskutuj.digital/t/tipy-a-triky-ve-slacku/42)
+**\> Přečti si Anežčiny [tipy a triky ve Slacku](https://diskutuj.digital/t/tipy-a-triky-ve-slacku/42)**
 
-\> Mrkni také na [pokročilé open source nástroje pro audio a video grafiku](https://diskutuj.digital/t/pokrocile-open-source-nastroje-pro-audio-video-grafiku/43)
+**\> Mrkni také na [pokročilé open source nástroje pro audio a video grafiku](https://diskutuj.digital/t/pokrocile-open-source-nastroje-pro-audio-video-grafiku/43)**
 
 ![](https://data.cesko.digital/newsletter/53/tyden-pro-digitalni-cesko.png)
 
@@ -139,19 +139,19 @@ Webináře Canvy už nestihneš, ale nabízíme ti možnost zkouknout záznamy:
 
 ## Podílet se na rozvoji své obce může každý!
 
-🤔 Navrhnout projekt, (ne)hlasovat o dalších projektech a rozhodnout tak, do čeho bude obec investovat? To je participativní rozpočtování. Hned 5 příkladů najdeš v článku organizace Open Source Politics od Oline Arnould s překladem naší dobrovolnice [Lenky Koňaříkové](https://www.linkedin.com/in/lenka-ko%C5%88a%C5%99%C3%ADkov%C3%A1-921821242/). Už 5 let zkušeností s tím má například [Praha 14](https://www.praha14.cz/ctrnactka-podle-vas/o-projektu/).
+🤔 Navrhnout projekt, (ne)hlasovat o dalších projektech a rozhodnout tak, do čeho bude obec investovat? To je **participativní rozpočtování**. Hned 5 příkladů najdeš v článku organizace Open Source Politics od Oline Arnould s překladem naší dobrovolnice [Lenky Koňaříkové](https://www.linkedin.com/in/lenka-ko%C5%88a%C5%99%C3%ADkov%C3%A1-921821242/). Už 5 let zkušeností s tím má například [Praha 14](https://www.praha14.cz/ctrnactka-podle-vas/o-projektu/).
 
-\> [5 dobrých příkladů participativních rozpočtů z Francie](https://blog.cesko.digital/2023/11/5-prikladu-participativnich-rozpoctu-z-francie)
+**\> [5 dobrých příkladů participativních rozpočtů z Francie](https://blog.cesko.digital/2023/11/5-prikladu-participativnich-rozpoctu-z-francie)**
 
 ## Technologie mají potenciál řešit celospolečenské problémy
 
 🗞️ O našich aktivitách vedoucích k naplnění naší vize jsme se rozepsali pro Info – Lifestyle.cz – Kariéra v technologiích.
 
-\> [Přečti si článek](https://www.info-lifestyle.cz/kariera-v-technologiich/cesko-digital-technologie-maji-potencial-resit-celospolecenske-problemy/)
+**\> [Přečti si článek](https://www.info-lifestyle.cz/kariera-v-technologiich/cesko-digital-technologie-maji-potencial-resit-celospolecenske-problemy/)**
 
 # Partnership
 
-❤️ Děkujeme všem našim partnerům za podporu a důvěru v letošním roce. Díky ní jsme mohli realizovat aktivity, které přinášejí pozitivní změnu ve společnosti. Těšíme se na další společné úspěchy v příštím roce. 🎆
+❤️ **Děkujeme všem našim partnerům** za podporu a důvěru v letošním roce. Díky ní jsme mohli realizovat aktivity, které **přinášejí pozitivní změnu ve společnosti**. Těšíme se na další **společné úspěchy v příštím roce**. 🎆
 
 # Koho aktuálně hledáme
 
