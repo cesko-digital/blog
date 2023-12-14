@@ -22,7 +22,9 @@ lang: cs
 
 Dosavadní ředitelku [Evu Pavlíkovou](https://www.linkedin.com/in/evapavlikova/) nahradí od ledna 2024 v roli CEO současný COO [Jan Kotara](https://www.linkedin.com/in/jankotara/). Eva vedla organizaci téměř 4 roky a nově bude působit jako členka správní rady. Honza (alias Yen) je v Česko.Digital již rok a bude mít na starosti další rozvoj organizace. 
 
-\> [Přečti si, proč se mění vedení](https://blog.cesko.digital/2023/12/novy-ceo-cesko-digital)
+**\> [Přečti si, proč se mění vedení](https://blog.cesko.digital/2023/12/novy-ceo-cesko-digital)**
+
+**\> [Rozhovor s Evou, Honzou a Jakubem Nešetřilem v podcastu #PeopleOps](https://www.buzzsprout.com/2256188/14119210)**
 
 ![](https://data.cesko.digital/img/clanek-novy-ceo/eva-yen.jpg)
 
@@ -30,15 +32,15 @@ Dosavadní ředitelku [Evu Pavlíkovou](https://www.linkedin.com/in/evapavlikova
 
 🤝 Naše partnerství s [Mezinárodní organizací pro migraci (IOM UN)](https://www.iom.int/who-we-are) už nese první výsledky! Podařilo se nám zakomponovat do Umapy jejich databázi ubytovacích zařízení. 
 
-📚 Na jaře jsme se ponořili do světa průzkumu a připravili jsme přehledné PDF s výsledky. Chceš vědět, co jsme zjistili? 
+📚 Na jaře jsme se ponořili do světa **průzkumu** a připravili jsme **přehledné PDF s výsledky**. Chceš vědět, co jsme zjistili? 
 
-\> [Všechny novinky najdeš na našem webu](https://www.umapa.eu/page/pruzkum-cs)
+**\> [Všechny novinky najdeš na našem webu](https://www.umapa.eu/page/pruzkum-cs)**
 
 ## Mingly (TvojeLáska.cz)
 
-👩‍💻 V říjnu jsme v parádních prostorách [Kiwi.com](https://www.kiwi.com/cz/) uspořádali hackday – vývojáři se sešli osobně v Brně a UX designéři se zúčastnili online. 
+👩‍💻 **V říjnu** jsme v parádních prostorách [Kiwi.com](https://www.kiwi.com/cz/) uspořádali **hackday** – vývojáři se sešli osobně v Brně a UX designéři se zúčastnili online. 
 
-🎯 V listopadu jsme otestovali hotový prototyp. Testování se účastnily jak osoby s fyzickým handicapem, tak i osoby bez něj z různých věkových skupin i sexuální orientací. S hrdostí můžeme říct, že aplikace byla hodnocena velmi pozitivně.
+🎯 **V listopadu jsme otestovali hotový prototyp**. Testování se účastnily jak osoby s fyzickým handicapem, tak i osoby bez něj z různých věkových skupin i sexuální orientací. S hrdostí můžeme říct, že **aplikace byla hodnocena velmi pozitivně**.
 
 ☕ Kristýna Mertlová, jedna ze zakladatelek projektu, se účastnila [podcastu Na Kafi Ona Dnes](https://www.idnes.cz/onadnes/vztahy/podcast-na-kafi-kristyna-mertlova-senamovani-laska-handicap.A231109_151354_ona-vztahy_taj) a rozpovídala se o seznamování lidí s handicapem i o spolupráci mezi Mingly a Česko.Digital.
 
@@ -46,19 +48,21 @@ Dosavadní ředitelku [Evu Pavlíkovou](https://www.linkedin.com/in/evapavlikova
 
 ## Digitální inkluze 
 
-🎤 Na nedávné akci [\#GoogleOrgImpactChallenge](https://www.linkedin.com/feed/hashtag/?keywords=googleorgimpactchallenge&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133053330259386368) Lujza Kotryová společně s Danem Prokopem z PAQ Research odprezentovali dosavadní výsledky, kterých se nám během 1 roku podařilo v projektu dosáhnout. Lujza se hovořila o projektu v [podcastu Aktuálně.cz](https://zpravy.aktualne.cz/domaci/digitalnim-vyloucenim-trpi-hlavne-seniori-projekt-hleda-zpus/r~9ff500de8eb711eebe29ac1f6b220ee8/) a na přednášce KISKu.
+🎤 Na nedávné akci [\#GoogleOrgImpactChallenge](https://www.linkedin.com/feed/hashtag/?keywords=googleorgimpactchallenge&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133053330259386368) Lujza Kotryová společně s Danem Prokopem z PAQ Research **odprezentovali dosavadní výsledky**, kterých se nám během 1 roku podařilo v projektu dosáhnout. Lujza se hovořila o projektu **v [podcastu Aktuálně.cz](https://zpravy.aktualne.cz/domaci/digitalnim-vyloucenim-trpi-hlavne-seniori-projekt-hleda-zpus/r~9ff500de8eb711eebe29ac1f6b220ee8/) a na přednášce KISKu**.
 
-🎓 Dokončujeme microsite pro 7 + 1 digitálních profilů, a také jsme po zvážení všech pro a proti vybrali produkt – vzdělávací platformu pro sociální pracovníky – do jehož vývoje se vrhneme.
+🎓 Dokončujeme microsite pro 7 + 1 digitálních profilů, a také jsme po zvážení všech pro a proti vybrali produkt – **vzdělávací platformu pro sociální pracovníky** – do jehož vývoje se vrhneme.
 
-👀 Zajímá tě víc? Poznač si do kalendáře 25.1., kdy proběhne Showcase #3 a kde ti představíme novou microsite a další novinky z projektu. 
+👀 Zajímá tě víc? Poznač si do kalendáře 25.1., kdy proběhne **Showcase #3** a kde ti představíme novou microsite a další novinky z projektu. 
 
 \> [Registrace na Showcase #3](https://cesko.digital/events/showcase-digitalni-inkluze-3)
 
 ![](https://data.cesko.digital/newsletter/53/digi-inkluze.jpg)
 
-> Díky, že nám věnuješ svůj čas i znalosti 💙 Moc děkujeme, že jsi součástí komunity. K letošním Vánocům jsme pro tebe připravili speciální kód v hodnotě 500 Kč, za který si můžeš pořídit třeba novou čepici z našeho merchandisingu. 
+> ## Díky, že nám věnuješ svůj čas i znalosti 💙 
 >
-> \> [Řekni si o kód formulářem](https://airtable.com/app0FX3kBPkWTeQ2X/shr5MJsHQVKac17LE)
+> **Moc děkujeme**, že jsi součástí komunity. K letošním Vánocům jsme pro tebe připravili **speciální kód v hodnotě 500 Kč**, za který si můžeš pořídit třeba novou čepici z našeho merchandisingu. 
+>
+> **\> [Řekni si o kód formulářem](https://airtable.com/app0FX3kBPkWTeQ2X/shr5MJsHQVKac17LE)**
 
 ![](https://data.cesko.digital/newsletter/53/Vanocni_Grafika_23.jpg)
 
@@ -68,13 +72,13 @@ Dosavadní ředitelku [Evu Pavlíkovou](https://www.linkedin.com/in/evapavlikova
 
 *První volně dostupné (open source) řešení pro tvorbu webu pro obce a nezisk*
 
-S velkou hrdostí oznamujeme, že vytváříme první volně dostupné open source řešení pro tvorbu webu pro obce a neziskové organizace. Dokončujeme implementaci celého d[esign systému gov.cz](https://designsystem.gov.cz/) jako modul do [Drupalu](https://www.drupal.org/). Pracujeme na designu typových stránek, abychom zefektivnili vytváření webových stránek pro „průměrnou“ obec. Nezůstáváme jen u vzhledu, píšeme i návody a texty pro samotný obsah.
+S velkou hrdostí oznamujeme, že vytváříme první volně dostupné open source **řešení pro tvorbu webu pro obce a neziskové organizace**. Dokončujeme implementaci celého [design systému gov.cz](https://designsystem.gov.cz/) jako modul do [Drupalu](https://www.drupal.org/). Pracujeme na designu typových stránek, abychom zefektivnili vytváření webových stránek pro „průměrnou“ obec. Nezůstáváme jen u vzhledu, **píšeme i návody a texty pro samotný obsah**.
 
 ## Kogito 2.0
 
 *Aplikace vyvíjená na míru těhotným a ženám v poporodním období, které zažívají příznaky duševního onemocnění*
 
-📆 Aktuálně pracujeme na jednotlivých částech aplikace – kalendáři, deníku a plánovači. V aplikaci jsme rozdělili obsah na primární a sekundární (teorie), vymysleli jsme designy pro několik kategorií a JMÉNO GRAFIČKY poskytla tematickou grafiku.
+📆 Aktuálně **pracujeme na jednotlivých částech aplikace** – kalendáři, deníku a plánovači. V aplikaci jsme **rozdělili obsah** na primární a sekundární (teorie), vymysleli jsme **designy** pro několik kategorií a máme tematickou grafiku.
 
 ## Revma v klidu
 
@@ -86,13 +90,13 @@ Máme i krátké promo video a pracujeme na plakátech pro kampaň. Právě hled
 
 ## Kurz Nezisk.Digital pro neziskové organizace
 
-*Kurz vytvořený speciálně pro potřeby neziskových organizací ze sociální oblasti, do kterého má cenu se přihlásit. S aktivní podporou mentora*mentorky a okamžitě aplikovatelnými výsledky*
+*Kurz vytvořený speciálně pro potřeby neziskových organizací ze sociální oblasti, do kterého má cenu se přihlásit. S aktivní podporou mentora/mentorky a okamžitě aplikovatelnými výsledky*
 
 Kapacita zimního běhu kurzu Nezisk.Digital je plná! Těšíme se na společnou výzvu. Vrhneme se na posuzování a optimalizaci nástrojů pro spolupráci, komunikaci a bezpečnost s vybranými neziskovými organizacemi. 
 
-Chceš být u toho naplno? Právě teď hledáme 2 nové kolegy*ně na plný úvazek na pozici [Metodik\*Metodička / Lektor\*ka kurzu Nezisk.Digital](https://cesko.digital/opportunities/rec2l7Yvr0V2vSf2i).
+**Chceš být u toho naplno? Právě teď hledáme 2 nové kolegy*ně na plný úvazek na pozici [Metodik\*Metodička / Lektor\*ka kurzu Nezisk.Digital](https://cesko.digital/opportunities/rec2l7Yvr0V2vSf2i).**
 
-Chceš být přímo u toho, ale naplno to nedáš? Zapoj se jako [seniorní konzultant](https://cesko.digital/opportunities/recGLCcg5xF0wsi5e)*ka nebo [seniorní UX designér*ka](https://cesko.digital/opportunities/recJn6tEWDCAYbc8U) – průvodce*průvodkyně neziskových organizací.
+**Chceš být přímo u toho, ale naplno to nedáš? Zapoj se jako [seniorní konzultant](https://cesko.digital/opportunities/recGLCcg5xF0wsi5e)*ka nebo [seniorní UX designér*ka](https://cesko.digital/opportunities/recJn6tEWDCAYbc8U) – průvodce*průvodkyně neziskových organizací.**
 
 # Komunita
 
