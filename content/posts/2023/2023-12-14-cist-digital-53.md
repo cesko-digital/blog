@@ -58,7 +58,7 @@ Dosavadní ředitelku [Evu Pavlíkovou](https://www.linkedin.com/in/evapavlikova
 
 ![](https://data.cesko.digital/newsletter/53/digi-inkluze.jpg)
 
-> ## Díky, že nám věnuješ svůj čas i znalosti 💙 
+> ## Díky, že nám věnuješ svůj čas i znalosti 💙
 >
 > **Moc děkujeme**, že jsi součástí komunity. K letošním Vánocům jsme pro tebe připravili **speciální kód v hodnotě 500 Kč**, za který si můžeš pořídit třeba novou čepici z našeho merchandisingu. 
 >
@@ -96,7 +96,9 @@ Kapacita zimního běhu kurzu Nezisk.Digital je plná! Těšíme se na společno
 
 **Chceš být u toho naplno? Právě teď hledáme 2 nové kolegy*ně na plný úvazek na pozici [Metodik\*Metodička / Lektor\*ka kurzu Nezisk.Digital](https://cesko.digital/opportunities/rec2l7Yvr0V2vSf2i).**
 
-**Chceš být přímo u toho, ale naplno to nedáš? Zapoj se jako [seniorní konzultant](https://cesko.digital/opportunities/recGLCcg5xF0wsi5e)*ka nebo [seniorní UX designér*ka](https://cesko.digital/opportunities/recJn6tEWDCAYbc8U) – průvodce*průvodkyně neziskových organizací.**
+**Chceš být přímo u toho, ale naplno to nedáš? Zapoj se jako [seniorní konzultant*ka](https://cesko.digital/opportunities/recGLCcg5xF0wsi5e) nebo [seniorní UX designér*ka](https://cesko.digital/opportunities/recJn6tEWDCAYbc8U) – průvodce*průvodkyně neziskových organizací.**
+
+
 
 # Komunita
 
