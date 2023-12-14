@@ -98,8 +98,6 @@ Kapacita zimního běhu kurzu Nezisk.Digital je plná! Těšíme se na společno
 
 **Chceš být přímo u toho, ale naplno to nedáš? Zapoj se jako [seniorní konzultant*ka](https://cesko.digital/opportunities/recGLCcg5xF0wsi5e) nebo [seniorní UX designér*ka](https://cesko.digital/opportunities/recJn6tEWDCAYbc8U) – průvodce*průvodkyně neziskových organizací.**
 
-
-
 # Komunita
 
 ## Jak dopadl průzkum spokojenosti?  
