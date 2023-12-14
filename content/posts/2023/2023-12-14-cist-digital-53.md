@@ -24,7 +24,7 @@ Dosavadní ředitelku [Evu Pavlíkovou](https://www.linkedin.com/in/evapavlikova
 
 \> [Přečti si, proč se mění vedení](https://blog.cesko.digital/2023/12/novy-ceo-cesko-digital)
 
-![]()
+![](https://data.cesko.digital/img/clanek-novy-ceo/eva-yen.jpg)
 
 ## První úspěchy partnerství Umapy s IOM
 
@@ -33,8 +33,6 @@ Dosavadní ředitelku [Evu Pavlíkovou](https://www.linkedin.com/in/evapavlikova
 📚 Na jaře jsme se ponořili do světa průzkumu a připravili jsme přehledné PDF s výsledky. Chceš vědět, co jsme zjistili? 
 
 \> [Všechny novinky najdeš na našem webu](https://www.umapa.eu/page/pruzkum-cs)
-
-
 
 ## Mingly (TvojeLáska.cz)
 
@@ -46,8 +44,6 @@ Dosavadní ředitelku [Evu Pavlíkovou](https://www.linkedin.com/in/evapavlikova
 
 🎥 Momentálně natáčíme promo video. 
 
-
-
 ## Digitální inkluze 
 
 🎤 Na nedávné akci [\#GoogleOrgImpactChallenge](https://www.linkedin.com/feed/hashtag/?keywords=googleorgimpactchallenge&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133053330259386368) Lujza Kotryová společně s Danem Prokopem z PAQ Research odprezentovali dosavadní výsledky, kterých se nám během 1 roku podařilo v projektu dosáhnout. Lujza se hovořila o projektu v [podcastu Aktuálně.cz](https://zpravy.aktualne.cz/domaci/digitalnim-vyloucenim-trpi-hlavne-seniori-projekt-hleda-zpus/r~9ff500de8eb711eebe29ac1f6b220ee8/) a na přednášce KISKu.
@@ -58,13 +54,13 @@ Dosavadní ředitelku [Evu Pavlíkovou](https://www.linkedin.com/in/evapavlikova
 
 \> [Registrace na Showcase #3](https://cesko.digital/events/showcase-digitalni-inkluze-3)
 
-![]()
+![](https://data.cesko.digital/newsletter/53/digi-inkluze.jpg)
 
 > Díky, že nám věnuješ svůj čas i znalosti 💙 Moc děkujeme, že jsi součástí komunity. K letošním Vánocům jsme pro tebe připravili speciální kód v hodnotě 500 Kč, za který si můžeš pořídit třeba novou čepici z našeho merchandisingu. 
 >
 > \> [Řekni si o kód formulářem](https://airtable.com/app0FX3kBPkWTeQ2X/shr5MJsHQVKac17LE)
 
-![]()
+![](https://data.cesko.digital/newsletter/53/Vanocni_Grafika_23.jpg)
 
 # To nejlepší z našich projektů
 
@@ -106,8 +102,6 @@ Chceš být přímo u toho, ale naplno to nedáš? Zapoj se jako [seniorní konz
 
 \> [Přečti si výstupy](https://drive.google.com/file/d/1Qj5JDR-nzdmlhkqrY3EabbE2NdcnIxbK/view)
 
-
-
 # Setkání (nejen) s Česko.Digital
 
 ## Není týden jako Týden
@@ -125,7 +119,7 @@ Shrnutí všech eventů v Týdnu pro Digitální Česko:
 
 \> Mrkni také na [pokročilé open source nástroje pro audio a video grafiku](https://diskutuj.digital/t/pokrocile-open-source-nastroje-pro-audio-video-grafiku/43)
 
-![]()
+![](https://data.cesko.digital/newsletter/53/tyden-pro-digitalni-cesko.png)
 
 # Nachytři se s námi
 
@@ -155,19 +149,13 @@ Webináře Canvy už nestihneš, ale nabízíme ti možnost zkouknout záznamy:
 
 ❤️ Děkujeme všem našim partnerům za podporu a důvěru v letošním roce. Díky ní jsme mohli realizovat aktivity, které přinášejí pozitivní změnu ve společnosti. Těšíme se na další společné úspěchy v příštím roce. 🎆
 
-
-
 # Koho aktuálně hledáme
 
 Připoj se k největší dobrovolnické civic-tech organizaci v Evropě. Všechny pozice najdeš přehledně mezi Příležitostmi k zapojení.
 
 **\> [Okoukni Příležitosti k zapojení](https://cesko.digital/opportunities)**
 
-
-
 ## Děkujeme, že tě baví číst.digital!
-
-
 
 ### Tým newsletteru
 
