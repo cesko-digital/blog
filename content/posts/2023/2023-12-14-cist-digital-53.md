@@ -16,6 +16,8 @@ description: Ahoj Česko.Digital! 👋 Navzdory mrazu za okny ti přinášíme �
   Týdnu pro Digitální Česko.
 lang: cs
 ---
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5Gv2uQIbc3bHTDQ5JAsgsm?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 # Horké novin(k)y měsíce
 
 ## Budeme mít nového CEO. Evu Pavlíkovou od ledna nahradí Jan Kotara
