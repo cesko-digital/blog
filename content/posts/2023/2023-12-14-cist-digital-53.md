@@ -6,7 +6,7 @@ author: content.team
 tags:
   - cesko-digital-obsah
 cover: https://data.cesko.digital/newsletter/53/cover.png
-date: 2023-12-14-02-24
+date: 2023-12-15-11-35
 slug: cist-digital-53
 description: Ahoj Česko.Digital! 👋 Navzdory mrazu za okny ti přinášíme žhavé
   novinky za uplynulý měsíc. Výměna na pozici CEO Česko.Digital. Kdo tuto roli
