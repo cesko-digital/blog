@@ -115,8 +115,14 @@ Pro akceleraci máme 4 kritéria:
 3. **Dopad**: projekt řeší nějaký celospolečenský problém konkrétní cílové skupiny a jde o problém z oblasti, kterou definují [cíle udržitelného rozvoje.](https://www.spolecenskaodpovednost.cz/sdgs/)
 4. **Technologie**: projekt využívá technologie a směřuje k vývoji nebo redesignu technologického řešení, které je navíc open source. 
 
-# Zapojte se
+## Posuňte se dopředu díky technologiím
 
-Máte nápad, který může pomoci ostatním v Česku řešit nějakou situaci? Projekt, o kterém víte, že by mu digitální technologie mohly pomoci rozkvést? Řešení, které máte rozpracované a nevíte, jak s ním dál? 
+Přihlaste se do kurzu Nezisk.Digital. Vyberte si pro svou státní nebo neziskovou organizaci digitální nástroj a zlepšete své interní postupy. Jednoduše, zdarma, online. 
 
-Zkuste nám o něm [něco napsat](https://airtable.com/app9Whl6QSnfOF75l/shrP207QR9RrHTZEi) nebo ho rovnou [představte naší komunitě](https://cesko.digital/join).
+\> [Nezisk.Digital](https://cesko.digital/projects/nezisk-digital) 
+
+## Když nevíte, zeptejte se
+
+Nevíte si rady? Nejsem v tom sami! Na našem diskuzním fóru najdete nejen odpovědi na své otázky, rady a podporu, ale i posily a možnou spolupráci. Nečekejte na network, zeptejte se rovnou – na našem diskusním fóru. 
+
+\> [Diskutuj.Digital](https://diskutuj.digital/)
