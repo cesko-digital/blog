@@ -4,7 +4,7 @@ author: lenkab
 tags:
   - nepanikar
 cover: https://data.cesko.digital/img/pripadovka-nepanikar/cover.jpg
-date: 2024-01-04-01-35
+date: 2024-01-04-02-35
 slug: pripadovka-nepanikar
 description: Deprese, úzkosti, posttraumatické poruchy, sebepoškozování,
   myšlenky na sebevraždu a další duševní poruchy trápí až 50 % mladých lidí do
