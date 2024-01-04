@@ -59,17 +59,19 @@ Namísto několika návrhů designu prostředí aplikace tak lidé z Nepanikař 
 
 ![](https://data.cesko.digital/img/pripadovka-nepanikar/tym.jpg)
 
-# Máte projekt do akcelerace? Nebojte se ho přihlásit
+#  
 
-Nepanikař teď má za sebou rok intenzivní spolupráce s Česko.Digital. Během těch 12 měsíců se podařilo **nejen uvést do života nový design mobilní aplikace, ale také načerpat spoustu nových zkušeností** – s technologiemi, s přístupem k práci v týmu i s týmovými rolemi. 
+## Posuňte se dopředu díky technologiím
 
-**Máte v hlavě projekt, který byste s námi chtěli probrat?** Zamyslete se, jestli splňuje tři hlavní kritéria pro akceleraci v Česko.Digital. Ještě si je raději zopakujeme: 
+Přihlaste se do kurzu Nezisk.Digital. Vyberte si pro svou státní nebo neziskovou organizaci digitální nástroj a zlepšete své interní postupy. Jednoduše, zdarma, online. 
 
-* zadavatel je neziskovka, 
-* projekt má pozitivní dopad na společnost, 
-* je dlouhodobě udržitelný. 
+\> [Nezisk.Digital](https://cesko.digital/projects/nezisk-digital) 
 
-Odpověď zní třikrát ANO? Vyplňte nám [dotazníček do akcelerátoru](https://airtable.com/app9Whl6QSnfOF75l/shrP207QR9RrHTZEi) nebo se [mrkněte na ostatní projekty Česko.Digital](https://cesko.digital/projects), kde uvidíte, na čem aktuálně pracujeme i čemu jsme se věnovali v minulosti. Společně můžeme skrz jedničky a nuly měnit Česko k lepšímu. 
+## Když nevíte, zeptejte se
+
+Nevíte si rady? Nejsem v tom sami! Na našem diskuzním fóru najdete nejen odpovědi na své otázky, rady a podporu, ale i posily a možnou spolupráci. Nečekejte na network, zeptejte se rovnou – na našem diskusním fóru. 
+
+\> [Diskutuj.Digital](https://diskutuj.digital/)
 
 *Editorka: Silvie Mitlenerová*
 
