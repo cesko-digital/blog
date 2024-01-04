@@ -27,7 +27,7 @@ Aplikace vás pak provede činnostmi, které vám mohou pomoci se rozptýlit. Na
 
 ![](https://data.cesko.digital/img/pripadovka-nepanikar/appka1.png)
 
-Součástí aplikace je ale také **modul Rychlá pomoc**, přes který můžete napsat krizovou zprávu týmu Nepanikař, zavolat na linky zaměřené na psychickou pomoc, objednat se na online terapii nebo chatovat s proškolenými operátory*operátorkami týmu Nepanikař. 
+Součástí aplikace je ale také **modul Rychlá pomoc**, přes který můžete napsat krizovou zprávu týmu Nepanikař, zavolat na linky zaměřené na psychickou pomoc, objednat se na online terapii nebo chatovat s proškolenými operátory/operátorkami týmu Nepanikař. 
 
 ![](https://data.cesko.digital/img/pripadovka-nepanikar/appka2.png)
 
@@ -49,11 +49,11 @@ Veronika proto přihlásila projekt redesignu aplikace Nepanikař do [akcelerát
 
 První půlrok spolupráce Nepanikař a Česko.Digital trochu skřípala. První tým, který se k projektu přidal, si nesedl lidsky ani projektově. V důležitých rolích se objevili lidé, kteří nakonec nefungovali tak, jak bylo potřeba. **Po 3 měsících jsme se proto společně dohodli, že bude projektový tým potřeba obměnit.** 
 
-*„V novém týmu jsme si sedli hned,“* komentuje tuhle obměnu Veronika Kamenská. *„Původní tým tvořili hlavně junioři a juniorky a myslím, že se pro projekt i méně nadchli než tým nový. Novým členům*členkám projektu dávalo Nepanikař mnohem větší smysl: byli to srdcaři, kterých se téma nějakým způsobem dotýkalo nebo je přinejmenším víc bavilo. Myslím, že dobrovolničit ve svém volném čase můžeš jenom tehdy, pokud tomu, co děláš, na 100 % věříš.”*
+*„V novém týmu jsme si sedli hned,“* komentuje tuhle obměnu Veronika Kamenská. *„Původní tým tvořili hlavně junioři a juniorky a myslím, že se pro projekt i méně nadchli než tým nový. Novým členům/členkám projektu dávalo Nepanikař mnohem větší smysl: byli to srdcaři, kterých se téma nějakým způsobem dotýkalo nebo je přinejmenším víc bavilo. Myslím, že dobrovolničit ve svém volném čase můžeš jenom tehdy, pokud tomu, co děláš, na 100 % věříš.”*
 
 Veroniku ostatně nadchlo, jak se tým spojil a začal společně skvěle fungovat, přestože se v něm někteří lidé znali z předchozích projektů a jiní byli úplně noví. **Do projektu Nepanikař se na straně Česko.Digital přidalo 23 lidí, kteří tvořili tým vedení projektu, marketingový tým nebo designérský a programátorský tým. Všichni pak úzce spolupracovali s týmem Nepanikař**, konkrétně s product ownerkou Veronikou Kamenskou, IT specialistou Tomášem Chlubnou a marketing leaderkou Markétou Vaňkovou. 
 
-**Výsledkem spolupráce však nakonec nebyly jen návrhy obrazovek, jak měli lidé z Nepanikař původně v plánu.** Díky dobrovolníkům*dobrovolnicím z Česko.Digital dostala aplikace nejen nový UX redesign, ale také nové vnitřnosti. Z prostředí Qt převedli vývojáři aplikaci do Flutter a pozvali jsme lidi z Nepanikař na Hack Day, což pro ně byla obrovská zkušenost. Do projektu dále vstoupili lidé s velkými marketingovými zkušenostmi, kteří kolem Nepanikař dokázali udělat mnohem větší rozruch a zvýšit tak povědomí nejen o aplikaci, ale také o dalších aktivitách Nepanikař: Mapě pomoci, online poradně, workshopech nebo terapeutické pomoci. 
+**Výsledkem spolupráce však nakonec nebyly jen návrhy obrazovek, jak měli lidé z Nepanikař původně v plánu.** Díky dobrovolníkům/dobrovolnicím z Česko.Digital dostala aplikace nejen nový UX redesign, ale také nové vnitřnosti. Z prostředí Qt převedli vývojáři aplikaci do Flutter a pozvali jsme lidi z Nepanikař na Hack Day, což pro ně byla obrovská zkušenost. Do projektu dále vstoupili lidé s velkými marketingovými zkušenostmi, kteří kolem Nepanikař dokázali udělat mnohem větší rozruch a zvýšit tak povědomí nejen o aplikaci, ale také o dalších aktivitách Nepanikař: Mapě pomoci, online poradně, workshopech nebo terapeutické pomoci. 
 
 Namísto několika návrhů designu prostředí aplikace tak lidé z Nepanikař získali vhled do nových technologií, které zatím nepoužívali, naučili se pracovat s Google Analytics, přestali se bát sdílení a transparentnosti a naučili se využívat sílu marketingu a aktivně spolupracovat s designéry, programátory a ostatními lidmi v projektu. To všechno pak vedlo k **novému, uživatelsky přívětivějšímu designu aplikace Nepanikař s velkým přesahem do dalších činností organizace**. 
 
