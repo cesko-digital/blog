@@ -39,8 +39,6 @@ To všem jiné i díky tomu, že se nám společně podařilo nadesignovat a vyv
 
 *„Airtable řešení nám velmi pomohlo s nastavením jednotného procesu darování v praxi. Funguje také jako forma předávacího protokolu, díky které také dokážeme sbírat data o pokrmech, které se převáží,“* říká Denisa Rybářová ze Zachraň jídlo.
 
-> **Jak funguje akcelerátor Česko.Digital?** Mrkněte do [článku na našem blogu, kde popisujeme co to je a které projekty se hodí k akceleraci](https://cesko-digital.atlassian.net/wiki/spaces/CD/pages/832242262/Jak+na+p+ijet+projektu+do+akcelerace).
-
 # Proč se vlastně Zachraň jídlo propojilo s Česko.Digital? 
 
 Projekt Zachraň oběd prošel akcelerátorem Česko.Digital, kde se k němu připojili lidé z komunity, které téma zajímá a projekt jim připadal užitečný. Akcelerátor je naše platforma pro nové projekty, pomocí kterého hledáme řešení celospolečenských problémů a přinášíme díky nim do Česka inovace. 
@@ -103,17 +101,6 @@ Zachraň oběd plánuje spuštění aplikace, která by měla zjednodušit proce
 U projektu Zachraň oběd je dobře vidět, jak je důležité nejen vlastní nasazení zadavatele a týmu z konkrétní neziskovky, ale také to, jak umí dobrý tým krásně splynout s dobrovolníky z Česko.Digital. **Když se povede vytvořit stabilní tým, který je pro projekt nadšený stejně jako zadavatel, stává se běžně, že se na něm naši dobrovolníci podílí opravdu dlouho.** V tomto případě je to třeba Marek Malík, který projekt provází už rok a půl nebo Jakub Timko, který si díky spolupráci se Zachraň jídlo připravuje diplomovou práci. 
 
 *„Co jsme si z toho všeho vzali jako organizace? Především jsme se posunuli ve způsobu uvažování, posunuli jsme si limity toho, co podle nás je a není možné,“* hodnotí spolupráci Anička Strejcová. *„Komunita dobrovolníků pro nás byla také závazkem v tom, že jsme hodně řešili zadané úkoly. Nechtěli jsme, aby pracovali na blbostech, které by jim zabraly hodně času. V tomhle byla dobrovolnická forma spolupráce určující snad ještě víc, než kdybychom experty platili.“*
-
-# Jak zjistit, jestli se váš projekt hodí do akcelerátoru Česko.Digital? 
-
-S návrhem na spolupráci může přijít kdokoliv z komunity Česko.Digital (dobrovolník, zástupce neziskové organizace či státu, …), vždycky ale projekt musí vycházet z potřeb **neziskové** organizace. 
-
-Pro akceleraci máme 4 kritéria:
-
-1. **Neziskovost**: zadavatelem je neziskovka a má všechna práva k danému produktu. 
-2. **Udržitelnost**: zadavatel umí definovat dlouhodobý cíl produktu a má alespoň na půl úvazku zaměstnance, který se mu může věnovat. 
-3. **Dopad**: projekt řeší nějaký celospolečenský problém konkrétní cílové skupiny a jde o problém z oblasti, kterou definují [cíle udržitelného rozvoje.](https://www.spolecenskaodpovednost.cz/sdgs/)
-4. **Technologie**: projekt využívá technologie a směřuje k vývoji nebo redesignu technologického řešení, které je navíc open source. 
 
 ## Posuňte se dopředu díky technologiím
 
