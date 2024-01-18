@@ -82,7 +82,7 @@ Využij své dovednosti v zavádění digitálních nástrojů a **staň se klí
 
 🚑 V novém dílu podcastu poslouchat.digital si [Petra Jelének](https://www.linkedin.com/in/pj-jelenek/) a [Adéla Sedláčková](https://www.linkedin.com/in/adela-sedlackova/), Product Owner aplikace Preventivka (Loono), povídají o tom, jak si v ČR vedeme v oblasti prevence nemocí. Jen čtvrtina z nás chodí na pravidelné preventivní prohlídky, přitom **čtvrtina fatálně nemocných by při včasné detekci mohla žít**. 
 
-\> [Pusť si do uší, jak už aplikace Preventivka pomohla a co má v plánu do budoucna](https://podcasters.spotify.com/pod/show/poslouchatdigital/episodes/Adla-Sedlkov-Aplikace-Preventivka-u--jak-pedchzet-nemocem--Celch-60--esk-populace-je-zdravotn-negramotnch-e2d8i2s)
+**\> [Pusť si do uší, jak už aplikace Preventivka pomohla a co má v plánu do budoucna](https://podcasters.spotify.com/pod/show/poslouchatdigital/episodes/Adla-Sedlkov-Aplikace-Preventivka-u--jak-pedchzet-nemocem--Celch-60--esk-populace-je-zdravotn-negramotnch-e2d8i2s)**
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3MNEiGMkNDmw5gczXKrDLD?utm_source=generator&t=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -90,7 +90,7 @@ Využij své dovednosti v zavádění digitálních nástrojů a **staň se klí
 
 ❓ Co má společného **dobrovolnictví, zajímavá kariéra a státní správa**? To se dozvíš v článku přeloženém naší dobrovolnicí [Michaelou Mádlovou](http://www.linkedin.com/in/michaela-m%C3%A1dlov%C3%A1-3bbb448a). Ten vypráví příběh členky státní správy kanadské provincie Ontario Emily Macrae, která dobrovolničí v [Civic Tech Toronto](https://civictech.ca/).
 
-\> [Přečti si článek](https://blog.cesko.digital/2023/04/dobrovolnictvi-mi-otevrelo-cestu-ke-kariere-ve-verejne-sprave)
+**\> [Přečti si článek](https://blog.cesko.digital/2023/04/dobrovolnictvi-mi-otevrelo-cestu-ke-kariere-ve-verejne-sprave)**
 
 # Partnership
 
@@ -100,7 +100,7 @@ Děkujeme investiční skupině [Pale Fare Capital](https://palefirecapital.com/
 
 Připoj se k největší dobrovolnické civic-tech organizaci v Evropě a digitalizuj s námi Česko. Všechny pozice najdeš přehledně na našich stránkách.
 
-[\> Nakoukni na Příležitosti k zapojení](https://cesko.digital/dashboard)
+**[\> Nakoukni na Příležitosti k zapojení](https://cesko.digital/dashboard)**
 
 Mimochodem: najdeš tu i příležitosti od neziskovek mimo Česko.Digital.
 
