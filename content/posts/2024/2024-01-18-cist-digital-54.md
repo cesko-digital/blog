@@ -68,7 +68,7 @@ Co se zahřát díky unisex čepici Česko.Digital? Už od prosince rozdáváme 
 
 ## Hledáme mentory*mentorky pro online kurz Nezisk.Digital
 
-*Kurz vytvořený speciálně pro potřeby neziskových organizací ze sociální oblasti s aktivní podporou mentora/ky a okamžitě aplikovatelnými výsledky*
+*Kurz vytvořený speciálně pro potřeby neziskových organizací ze sociální oblasti s aktivní podporou mentora či mentorky a okamžitě aplikovatelnými výsledky*
 
 Využij své dovednosti v zavádění digitálních nástrojů a **staň se klíčovým průvodcem neziskových organizací**. Většina mentorů a mentorek z loňského pilotního kurzu Nezisk.Digital naše mentorství doporučuje.
 
