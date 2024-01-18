@@ -26,6 +26,12 @@ Na srdcovém 💜 projektu Mingly 💜 (dříve TvojeLáska) pracovalo v této f
 
 **\> [Mrkni na naše video](https://youtu.be/8QXprBTXDhU)**
 
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8QXprBTXDhU?si=YEHhZHazuWDZwIlm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
 ## Kogito opouští česko.digitální hnízdo
 
 ⌛ Po několikaměsíčním redesignu aplikace Kogito (pro těhotné a ženy po porodu) dospěla do fáze **ukončování projektu** a je zvědavá, jak se bude její nový vzhled líbit uživatelkám. UX a UI týmy zabojovaly a **vychytaly nejpalčivější problémy, které aplikaci trápily**. 🥳 Copy tým se zase postaral o srozumitelné texty. Grafička všechno doplnila tematickými ilustracemi.
@@ -75,6 +81,8 @@ Využij své dovednosti v zavádění digitálních nástrojů a **staň se klí
 ❄️ V prosinci proběhla další online Komunitní hodinka. Zajímá tě, jak si vedlo Česko v IT Fitness Testu? Co bude dál s Nezisk.Digital? Jak vypadá nový kabát aplikace Mingly? S kým spojuje síly Umapa? Nejen to se dozvíš ze záznamu prosincového setkání.
 
 **\> [Pusť si video a prohlédni si, na čem všem pracujeme](https://youtu.be/gSmRhqvAZ4o)**
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/gSmRhqvAZ4o?si=hoEMuZuazdY9v62W&amp;start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 # Nachytři se s námi
 
