@@ -6,7 +6,7 @@ author: content.team
 tags:
   - newsletter
 cover: https://data.cesko.digital/newsletter/54/cover54.png
-date: 2024-01-18-03-50
+date: 2024-01-19-09-32
 slug: cist-digital-54
 description: "Ahoj Česko.Digital! 👋 Přinášíme první novinky roku 2024. Končí
   akcelerační fáze projektu Mingly a loučí se s námi aplikace Kogito. Čím bojuje
@@ -16,6 +16,8 @@ description: "Ahoj Česko.Digital! 👋 Přinášíme první novinky roku 2024. 
   Diskutuj.Digital a také si nezapomeň pořídit zbrusu nový merch. "
 lang: cs
 ---
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0qtpOiastjlJF67alzKlDR?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 # Horké novin(k)y měsíce
 
 ## Sbohem a šáteček. Mingly se bude dokončovat mimo č.d  
