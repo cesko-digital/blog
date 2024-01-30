@@ -104,7 +104,7 @@ Využij své dovednosti v zavádění digitálních nástrojů a **staň se klí
 
 # Partnership
 
-Děkujeme investiční skupině [Pale Fare Capital](https://palefirecapital.com/) za jejich opakovanou finanční podporu Česko.Digital. I díky ní se budeme moci letos přiblížit naší vizi, že veřejná správa a neziskové organizace umí využívat potenciál digitálních technologií a zlepšovat tím život lidí v České republice.
+Děkujeme investiční skupině [Pale Fire Capital](https://palefirecapital.com/) za jejich opakovanou finanční podporu Česko.Digital. I díky ní se budeme moci letos přiblížit naší vizi, že veřejná správa a neziskové organizace umí využívat potenciál digitálních technologií a zlepšovat tím život lidí v České republice.
 
 ## Koho aktuálně hledáme
 
