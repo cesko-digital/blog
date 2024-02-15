@@ -6,7 +6,7 @@ author: content.team
 tags:
   - newsletter
 cover: https://data.cesko.digital/newsletter/55/cover55.png
-date: 2024-02-15-01-28
+date: 2024-02-15-10-43
 slug: cist-digital-55
 description: Ahoj Česko.Digital! 👋 Držet si své know-how, zkušenosti, projekty
   a dobrovolnické ruce i srdce tiše pod pokličkou…? Ne, to není smyslem naší
@@ -25,15 +25,13 @@ lang: cs
 
 **\> [Podívej se na web](https://www.csgov.cz/)**
 
-
-
 ## Senzor vzduchu v lednu ukončil akceleraci 
 
 🌬️ Od počátečního představení projektu komunitě, přes definování produktu, cílové skupiny až k novým webovým stránkám s novým logem a UX/UI designem. To vše celý projektový tým zvládl a ještě zlepšil svou komunikaci, spolupráci a řízení rizik. Rychlou adaptaci na změny agilního řízení už má dnes tým v malíku. Výzvám se rozhodně nevyhýbá – čelí neustálému rozšiřování obsahu, nedostatku dokumentace nebo výběru placeného vývojáře.
 
 **\> [Fanděte projektu na LinkedInu](https://www.linkedin.com/company/senzorvzduchu/)**
 
-![]()
+![](https://data.cesko.digital/newsletter/55/senzor-vzduchu-web.png)
 
 # Co se děje v Česko.Digital – setkání a příležitosti
 
@@ -42,8 +40,6 @@ lang: cs
 Zveme tě na další **online komunitní hodinku** - tentokrát ve speciálním vydání. Náš CEO Jan Kotara tě v něm provede tím, **na čem aktuálně pracujeme** a jak to můžeš svým časem, zkušenostmi nebo třeba jen vzdáleným fanděním podpořit.
 
 **\> [Přidej si akci do svého kalendáře a 28. února 2024 od 18:30 hod se na tebe těšíme!](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MG5vYm9sdW1hZG1vdWVkcTQ5bzJvdmV0bXMgb25saW5lQG1lZXQuY2Vza28uZGlnaXRhbA&tmsrc=online%40meet.cesko.digital)**
-
-
 
 🧺 Na diskuzním fóru [Diskutuj.Digital](http://diskutuj.digital) jsme **spustili novou kategorii [Tržiště](https://diskutuj.digital/c/trziste/5), kde můžeš nabídnout nebo hledat pomoc** 🩹 pro neziskové či státní organizace, nebo se podělit o svůj čas a expertizu. Na Tržišti můžeš najít zveřejněné poptávky **bez nutnosti registrace do Slacku**. Spolupráci si pak již přímo koordinují poptávající organizace, které navíc mohou sdílet i své pracovní nabídky. Vše je tak snadno dostupné přímo na webu. 🌐
 
@@ -56,8 +52,6 @@ V novém roce projektový tým pokračuje v práci 👷 na **e-learningové apli
 📣 Týmu by přišla vhod **pomoc od sociálních pracovníků, pro které je produkt zamýšlen** – stačí vyplnit tento **[dotazník](https://airtable.com/appQje7L2ZbXHIP4t/paghSQAfsE2W6UIRv/form)**.
 
 **\> [Chceš vědět víc? Mrkni na záznam Showcase #3](https://www.youtube.com/watch?v=72MS1SqV658&t=643s)**
-
-
 
 ## O Mingly s Kristýnou Mertlovou – nová epizoda podcastu je venku 🎧
 
@@ -81,8 +75,6 @@ V novém roce projektový tým pokračuje v práci 👷 na **e-learningové apli
 
 **\> [Přijď rozpoutat svoji diskuzi](https://diskutuj.digital/)**
 
-
-
 # Koho aktuálně hledáme
 
 Připoj se k neziskové organizaci s největší komunitou expertních dobrovolníků, zástupců neziskových organizací, veřejné správy a byznysu v Evropě. Všechny pozice najdeš na našich stránkách.
@@ -92,8 +84,6 @@ Připoj se k neziskové organizaci s největší komunitou expertních dobrovoln
 Víš, kde najdeš příležitosti pro krátkodobé zapojení od neziskovek a veřejné správy?
 
 **\> [Na Tržišti](https://diskutuj.digital/c/trziste/5)**
-
-
 
 # Děkujeme, že tě baví číst.digital!
 
