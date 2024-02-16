@@ -6,7 +6,7 @@ author: content.team
 tags:
   - newsletter
 cover: https://data.cesko.digital/newsletter/55/cover55.png
-date: 2024-02-15-10-43
+date: 2024-02-16-10-27
 slug: cist-digital-55
 description: Ahoj Česko.Digital! 👋 Držet si své know-how, zkušenosti, projekty
   a dobrovolnické ruce i srdce tiše pod pokličkou…? Ne, to není smyslem naší
@@ -15,6 +15,8 @@ description: Ahoj Česko.Digital! 👋 Držet si své know-how, zkušenosti, pro
   další newsletter.
 lang: cs
 ---
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/44eP8QchvOcVo5GTVxa62Z?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 # Horké novin(k)y měsíce
 
 ## CSGOV opouští akcelerační inkubátor Česko.Digital
@@ -58,6 +60,8 @@ V novém roce projektový tým pokračuje v práci 👷 na **e-learningové apli
 🎤 [Lukáš Návesník](https://www.linkedin.com/in/lukas-navesnik/) si v novém díle poslouchat.digital povídá s [Kristýnou Mertlovou](https://www.linkedin.com/in/kristyna-mertlova/) **o projektu seznamky pro handicapované Mingly**, na kterém v Česko.Digital 9 měsíců pracoval tým dobrovolníků. 🤰 
 
 **\> [Pusť si nový příjemný díl](https://podcasters.spotify.com/pod/show/poslouchatdigital/episodes/Kristna-Mertlov-Jak-se-seznamuj-lid-s-handicapem--Kristna-Mertlov-o-nov-platform-Mingly-e2ffsih)** 💆‍♂️
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2icCbjYhtH5jF7aLFZxxgQ?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # Komunita
 
