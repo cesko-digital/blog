@@ -95,6 +95,8 @@ Víš, kde najdeš příležitosti pro krátkodobé zapojení od neziskovek a ve
 
 # Děkujeme, že tě baví číst.digital!
 
+C﻿hceš, aby ti náš newsletter chodil přímo do e-mailové schránky? [Přihlas se k jeho odběru](https://ceskodigital.ecomailapp.cz/public/form/6-3fdfd544852ed7431aa64f3b9481afb9).
+
 **Tým newsletteru**
 
 *Koordinace: Lenka Moravcová a Hana Burešová*
