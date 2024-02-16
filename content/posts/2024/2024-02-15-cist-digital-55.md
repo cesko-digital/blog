@@ -41,7 +41,11 @@ lang: cs
 
 Zveme tě na další **online komunitní hodinku** - tentokrát ve speciálním vydání. Náš CEO Jan Kotara tě v něm provede tím, **na čem aktuálně pracujeme** a jak to můžeš svým časem, zkušenostmi nebo třeba jen vzdáleným fanděním podpořit.
 
-**\> [Přidej si akci do svého kalendáře a 28. února 2024 od 18:30 hod se na tebe těšíme!](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MG5vYm9sdW1hZG1vdWVkcTQ5bzJvdmV0bXMgb25saW5lQG1lZXQuY2Vza28uZGlnaXRhbA&tmsrc=online%40meet.cesko.digital)**
+Zarezervuj si ve svém kalendáři **28. února 2024 od 18:30 hod.** Těšíme se na tebe!
+
+**\> [Mrkni na detaily události na webu](https://app.cesko.digital/events/community-hour-special-edition)**
+
+## Diskutuj.Digital
 
 🧺 Na diskuzním fóru [Diskutuj.Digital](http://diskutuj.digital) jsme **spustili novou kategorii [Tržiště](https://diskutuj.digital/c/trziste/5), kde můžeš nabídnout nebo hledat pomoc** 🩹 pro neziskové či státní organizace, nebo se podělit o svůj čas a expertizu. Na Tržišti můžeš najít zveřejněné poptávky **bez nutnosti registrace do Slacku**. Spolupráci si pak již přímo koordinují poptávající organizace, které navíc mohou sdílet i své pracovní nabídky. Vše je tak snadno dostupné přímo na webu. 🌐
 
