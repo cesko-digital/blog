@@ -45,7 +45,7 @@ Zarezervuj si ve svém kalendáři **28. února 2024 od 18:30 hod.** Těšíme s
 
 **\> [Mrkni na detaily události na webu](https://app.cesko.digital/events/community-hour-special-edition)**
 
-
+## Diskutuj.Digital
 
 🧺 Na diskuzním fóru [Diskutuj.Digital](http://diskutuj.digital) jsme **spustili novou kategorii [Tržiště](https://diskutuj.digital/c/trziste/5), kde můžeš nabídnout nebo hledat pomoc** 🩹 pro neziskové či státní organizace, nebo se podělit o svůj čas a expertizu. Na Tržišti můžeš najít zveřejněné poptávky **bez nutnosti registrace do Slacku**. Spolupráci si pak již přímo koordinují poptávající organizace, které navíc mohou sdílet i své pracovní nabídky. Vše je tak snadno dostupné přímo na webu. 🌐
 
