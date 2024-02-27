@@ -32,13 +32,13 @@ V zemích V4 má test dlouholetou tradici, loni proběhl již 12. ročník. V Č
 
 ![](https://data.cesko.digital/img/clanek-data-it-fitness-test/prezentace-1.png)
 
-## IT fitko si vyzkoušeli dospělí i děti
+# IT fitko si vyzkoušeli dospělí i děti
 
 Z celkového počtu otestovaných bylo asi 34 800 žáků\*žaček základních škol a 33 200 studujících středních a vysokých škol. Ze zbývajících 6 200 dospělých respondentů\*respondentek více jak tři čtvrtiny tvoří učitelky a učitelé.
 
 Když se na čísla podíváme z širší perspektivy, můžeme říci, že jsme otestovali téměř třetinu českých základních škol a dvě třetiny středních a vysokých odborných škol. Velké díky patří všem aktivním pedagogům*pedagožkám, kteří test svým třídám představili a zadali.
 
-## Na sítích jsou děti jako doma, excelovské tabulky a grafy je však umí potrápit
+# Na sítích jsou děti jako doma, excelovské tabulky a grafy je však umí potrápit
 
 Jak se českým respondentům\*respondentkám v IT Fitness Testu dařilo? Celková průměrná úspěšnost dosáhla 51 %. Nejlépe si nepříliš překvapivě vedli pedagogové\*pedagožky, kteří v průměru získávali skóre 65 %. Nad průměrem se držel i zbytek dospělé populace a průměrný výsledek 53 % našli ve svých certifikátech žáci*žačky ZŠ. Nejnižší průměrná úspěšnost pak byla v kategorii SŠ a VŠ, tedy u testu, který byl v porovnání s verzí pro ZŠ o něco komplexnější. Tyto výsledky potvrdily očekávání, zajímavější pohled však nabízí porovnání úspěšnosti v jednotlivých tematických blocích.
 
@@ -56,19 +56,19 @@ Naopak výsledky oblasti Kolaborativní nástroje a sociální sítě jsou velmi
 
 IT Fitness Test prověřil i to, jak se účastnictvo orientuje na sociálních sítích. Zdroj: https://itfitness.eu/cs/
 
-## V mezinárodním srovnání získali čeští žáci*žačky stříbro, zlato putuje na Slovensko
+# V mezinárodním srovnání získali čeští žáci*žačky stříbro, zlato putuje na Slovensko
 
 Čeští žáci\*žačky a studenti\*studentky v testu poměřili síly nejen se svými spolužáky\*spolužačkami, ale také s dětmi a mládeží na Slovensku, v Polsku, Maďarsku a na Ukrajině. Jejich letošní skóre je řadí na druhou příčku, hned za žáky\*žačky a studenty*studentky ze sousedního Slovenska, kteří dosáhli průměrné úspěšnosti 59 % u základních škol a 57 % u středních škol.
 
 Nutno ale dodat, že Česká republika se do testování zapojila suverénně nejvíce, tvoří až 60 % všech otestovaných v rámci V4. Na průměrnou úspěšnost testů v Polsku a Maďarsku musíme nahlížet s vědomím, že v těchto zemích se vzhledem k jejich velikosti zapojil pouze zlomek žáků\*žaček a studentů\*studentek (v Polsku jich bylo 18 268, v Maďarsku pouhých 7 707).
 
-## Reproduktor nebo iPad pro digitální šampiony*šampionky 
+# Reproduktor nebo iPad pro digitální šampiony*šampionky 
 
 Největší odměnou pro všechny bylo zjištění, jak na tom se svými digitálními kompetencemi doopravdy jsou. Ti, kteří to stihli do konce října, automaticky získali elektronický certifikát potvrzující jejich úroveň digitálních dovedností. Pro vyučující to také byla jedinečná příležitost získat přehled o digitální gramotnosti svých tříd. „Výsledky pro mě byly překvapivé a pomohly mi udělat si lepší představu o IT znalostech našich žáků,“ říká Ing. Peter Budai ze SPŠE Ječná.
 
 Pro žáky\*žačky a studenty\*studentky však byla navíc připravená i soutěž s cenami od partnerů testu. Nejúspěšnější třídy i jednotlivci z řad žáků\*žaček a učitelů\*učitelek si tak na slavnostním vyhlášení 4. prosince 2023 převzali například powerbanku a dárkový balíček [ESET](https://www.eset.com/cz/), exkurzi do poboček firem [Seznam](https://www.seznam.cz/) a [AWS](https://aws.amazon.com/), tiskárnu a iPad od [Microsoftu](https://news.microsoft.com/cs-cz/profil-spolecnosti-microsoft-ceska-republika/) nebo bluetooth reproduktor od [Alzy](https://www.alza.cz/).
 
-## Chcete se o IT Fitness Testu dozvědět víc?
+# Chcete se o IT Fitness Testu dozvědět víc?
 
 [Kompletní výsledky IT Fitness Testu 2023](https://docs.google.com/presentation/d/1lqaoWHltiK77FXjkuOqpvkYuF35q1g644SgUSf1ckZ8/edit#slide=id.g29c284dfae8_2_58) najdete i s grafickým znázorněním v závěrečné prezentaci projektu. Pokud máte raději audiovizuální formu, pusťte si záznam z [panelové diskuze ze zahajovacího dne Týdne pro Digitální Česko](https://www.youtube.com/watch?v=-yHLnNDpDZ8&ab_channel=%C4%8Cesko.Digital), kterou moderovala Martina Habová, Marketing and Communication Lead Česko.Digital.
 
