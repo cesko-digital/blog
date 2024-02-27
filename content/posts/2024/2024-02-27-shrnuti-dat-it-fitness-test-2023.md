@@ -5,7 +5,7 @@ author: lenka.konarikova
 tags:
   - it-fitness-test
 cover: https://data.cesko.digital/img/clanek-data-it-fitness-test/data-IT-fitness-test23.png
-date: 2024-02-27-02-15
+date: 2024-02-27-02-44
 slug: shrnuti-dat-IT-Fitness-test-2023
 description: IT Fitness Test 2023 otestoval děti školou povinné a
   studenty*studentky ze zemí V4. Zatímco sociální sítě a kolaborativní nástroje
@@ -28,7 +28,9 @@ V loňském roce jsme se v Česko.Digital spolu s [Asociací pro aplikovaný vý
 
 # Druhý ročník testování přinesl 10x vyšší účast
 
-V zemích V4 má test dlouholetou tradici, loni proběhl již 12. ročník. **V České republice se mohli žáci*žačky zapojit podruhé**. V roce 2022 test vyplnilo 8 000 respondentů*respondentek a původní ambicí bylo číslo více než zdvojnásobit – překročit tedy hranici 20 000. Dosažení tohoto milníku se slavilo už na konci května, do konce října se výsledné číslo vyšplhalo na **neuvěřitelných 88 695 zúčastněných, z nichž 74 207 respondentů*respondentek test vyplnilo do konce**. Výsledek z předchozího ročníku se tak podařilo téměř **zdesetinásobit**.
+V zemích V4 má test dlouholetou tradici, loni proběhl již 12. ročník. **V České republice se mohli žáci*žačky zapojit podruhé**. V roce 2022 test vyplnilo 8 000 respondentů*respondentek a původní ambicí bylo číslo více než zdvojnásobit – překročit tedy hranici 20 000. 
+
+Dosažení tohoto milníku se slavilo už na konci května, do konce října se výsledné číslo vyšplhalo na **neuvěřitelných 88 695 zúčastněných, z nichž 74 207 respondentůrespondentek test vyplnilo do konce.** Výsledek z předchozího ročníku se tak podařilo téměř **zdesetinásobit**.
 
 ![](https://data.cesko.digital/img/clanek-data-it-fitness-test/prezentace-1.png)
 
@@ -40,7 +42,7 @@ Když se na čísla podíváme z širší perspektivy, můžeme říci, že jsme
 
 # Na sítích jsou děti jako doma, excelovské tabulky a grafy je však umí potrápit
 
-Jak se českým respondentům*respondentkám v IT Fitness Testu dařilo? **Celková průměrná úspěšnost dosáhla 51 %**. **Nejlépe si nepříliš překvapivě vedli pedagogové*pedagožky**, kteří v průměru získávali skóre 65 %. Nad průměrem se držel i zbytek dospělé populace a průměrný výsledek **53 % našli ve svých certifikátech žáci*žačky ZŠ**. **Nejnižší průměrná úspěšnost pak byla v kategorii SŠ a VŠ**, tedy u testu, který byl v porovnání s verzí pro ZŠ o něco komplexnější. Tyto výsledky potvrdily očekávání, zajímavější pohled však nabízí porovnání úspěšnosti v jednotlivých tematických blocích.
+Jak se českým respondentům*respondentkám v IT Fitness Testu dařilo? **Celková průměrná úspěšnost dosáhla 51 %**. \*\*Nejlépe si nepříliš překvapivě vedli pedagogové*pedagožky**, kteří v průměru získávali skóre 65 %. Nad průměrem se držel i zbytek dospělé populace a průměrný výsledek** 53 % našli ve svých certifikátech žáci*žačky ZŠ**.** Nejnižší průměrná úspěšnost pak byla v kategorii SŠ a VŠ\*\*, tedy u testu, který byl v porovnání s verzí pro ZŠ o něco komplexnější. Tyto výsledky potvrdily očekávání, zajímavější pohled však nabízí porovnání úspěšnosti v jednotlivých tematických blocích.
 
 ![](https://data.cesko.digital/img/clanek-data-it-fitness-test/test1.png)
 
@@ -75,8 +77,6 @@ Pro žáky\*žačky a studenty\*studentky však byla navíc připravená i **sou
 Zajímá vás, jak jste na tom s digitálními dovednostmi vy sami? Možnost [otestovat se na stránkách IT Fitness Testu](https://itfitness.eu/cs/) stále máte. Nezískáte sice certifikát s výsledným skóre a vaše výsledky nebudou součástí statistik, vyhodnocený test si však budete moci prohlédnout a dozvíte se, jaká je vaše úroveň digitálních kompetencí.
 
 Trpělivější si pak mohou počkat na zahájení [letošního ročníku testování digitální gramotnosti v dubnu 2024](https://cesko.digital/projects/it-fitness-test-2024). Na starosti jej bude mít opět společnost AAVIT, která má s podporou Česko.Digital ambiciózní cíl pokořit hranici 100 000 zapojených.
-
-
 
 *Editor: Lenka Vaculínová,* 
 
