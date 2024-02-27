@@ -42,7 +42,9 @@ Když se na čísla podíváme z širší perspektivy, můžeme říci, že jsme
 
 # Na sítích jsou děti jako doma, excelovské tabulky a grafy je však umí potrápit
 
-Jak se českým respondentům*respondentkám v IT Fitness Testu dařilo? **Celková průměrná úspěšnost dosáhla 51 %**. \*\*Nejlépe si nepříliš překvapivě vedli pedagogové*pedagožky**, kteří v průměru získávali skóre 65 %. Nad průměrem se držel i zbytek dospělé populace a průměrný výsledek** 53 % našli ve svých certifikátech žáci*žačky ZŠ**.** Nejnižší průměrná úspěšnost pak byla v kategorii SŠ a VŠ\*\*, tedy u testu, který byl v porovnání s verzí pro ZŠ o něco komplexnější. Tyto výsledky potvrdily očekávání, zajímavější pohled však nabízí porovnání úspěšnosti v jednotlivých tematických blocích.
+Jak se českým respondentům*respondentkám v IT Fitness Testu dařilo? 
+
+**Celková průměrná úspěšnost dosáhla 51 %. Nejlépe si nepříliš překvapivě vedli pedagogové*pedagožky**, kteří v průměru získávali skóre 65 %. Nad průměrem se držel i zbytek dospělé populace a průměrný výsledek **53 % našli ve svých certifikátech žáci*žačky ZŠ. Nejnižší průměrná úspěšnost pak byla v kategorii SŠ a VŠ**, tedy u testu, který byl v porovnání s verzí pro ZŠ o něco komplexnější. Tyto výsledky potvrdily očekávání, zajímavější pohled však nabízí porovnání úspěšnosti v jednotlivých tematických blocích.
 
 ![](https://data.cesko.digital/img/clanek-data-it-fitness-test/test1.png)
 
