@@ -75,3 +75,9 @@ Pro žáky\*žačky a studenty\*studentky však byla navíc připravená i **sou
 Zajímá vás, jak jste na tom s digitálními dovednostmi vy sami? Možnost [otestovat se na stránkách IT Fitness Testu](https://itfitness.eu/cs/) stále máte. Nezískáte sice certifikát s výsledným skóre a vaše výsledky nebudou součástí statistik, vyhodnocený test si však budete moci prohlédnout a dozvíte se, jaká je vaše úroveň digitálních kompetencí.
 
 Trpělivější si pak mohou počkat na zahájení [letošního ročníku testování digitální gramotnosti v dubnu 2024](https://cesko.digital/projects/it-fitness-test-2024). Na starosti jej bude mít opět společnost AAVIT, která má s podporou Česko.Digital ambiciózní cíl pokořit hranici 100 000 zapojených.
+
+
+
+*Editor: Lenka Vaculínová,* 
+
+*Korektor: Petr Hrudka, Silvie Mitlenerová*
