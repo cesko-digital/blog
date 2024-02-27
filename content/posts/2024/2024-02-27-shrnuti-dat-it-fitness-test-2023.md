@@ -28,7 +28,7 @@ V loňském roce jsme se v Česko.Digital spolu s [Asociací pro aplikovaný vý
 
 # Druhý ročník testování přinesl 10x vyšší účast
 
-V zemích V4 má test dlouholetou tradici, loni proběhl již 12. ročník. **V České republice se mohli žáci*žačky zapojit podruhé**. V roce 2022 test vyplnilo 8 000 respondentů*respondentek a původní ambicí bylo číslo více než zdvojnásobit – překročit tedy hranici 20 000. Dosažení tohoto milníku se slavilo už na konci května, do konce října se výsledné číslo vyšplhalo na **neuvěřitelných 88 695 zúčastněných, z nichž 74 207 respondentů*respondentek test vyplnilo do konce**. Výsledek z předchozího ročníku se tak podařilo téměř **zdesetinásobit**.
+V zemích V4 má test dlouholetou tradici, loni proběhl již 12. ročník. **V České republice se mohli žáci*žačky zapojit podruhé**. V roce 2022 test vyplnilo 8 000 respondentů*respondentek a původní ambicí bylo číslo více než zdvojnásobit – překročit tedy hranici 20 000. Dosažení tohoto milníku se slavilo už na konci května, do konce října se výsledné číslo vyšplhalo na **neuvěřitelných 88 695 zúčastněných, z nichž 74 207 respondentů*respondentek test vyplnilo do konce**. Výsledek z předchozího ročníku se tak podařilo téměř **zdesetinásobit**.
 
 ![](https://data.cesko.digital/img/clanek-data-it-fitness-test/prezentace-1.png)
 
