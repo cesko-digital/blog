@@ -20,7 +20,7 @@ lang: cs
 ![](https://data.cesko.digital/img/clanek-vyzkum-statni-sprava/nase-role-v-systemove-zmene.jpg "Obrázek 1 – Začarovaný kruh státní správy a samosprávy v otázce digitálních technologií, autorka: Veronika Quek (Česko.Digital)")
 
 \
-Nová data naznačují, že největší sílu na prosazení změny má šéf úřadu, který ve spolupráci s politiky a náměstky může nové technologie nejsnadněji prosadit. V rozhovorech se naopak několikrát objevilo, že prosadit změnu „zespoda“, tedy od řadových úředníků a úřednic (typicky referentek nebo specialistů), je mnohem těžší. Největší motivací pro zavedení technologie na úřad je podle 65 % oslovených prospěch pro celý úřad (např. šetření času, financí, snadnější práce atd.). 
+[Nová data](https://drive.google.com/file/d/1e_Qw05q5no8he2SMODDd2p-QIwg7y21Y/view?usp=drive_link) naznačují, že největší sílu na prosazení změny má šéf úřadu, který ve spolupráci s politiky a náměstky může nové technologie nejsnadněji prosadit. V rozhovorech se naopak několikrát objevilo, že prosadit změnu „zespoda“, tedy od řadových úředníků a úřednic (typicky referentek nebo specialistů), je mnohem těžší. Největší motivací pro zavedení technologie na úřad je podle 65 % oslovených prospěch pro celý úřad (např. šetření času, financí, snadnější práce atd.). 
 
 ## 7 největších problémů
 
@@ -51,3 +51,5 @@ Za největší překážku digitalizace považuje 83 % oslovených úředníků 
 ## Proč jsme výzkum dělali?
 
 „*Výsledky průzkumu nás tolik nepřekvapují, s jeho závěry jsme však dosud pracovali jako s domněnkami. Robustnější analýza bariér technologií ve státní správě, stejně jako mapování postojů a doporučení úředníků, na kterých by se dalo opravdu stavět, nám chyběly*,” vysvětluje COO Jan Kotara. vysvětluje COO Jan Kotara. Snaha vycházet z aktuálních dat navazuje na nový směr organizace: chceme podporovat technologie v naší zemi strategicky a systémově. Organizace, která je součástí Rady vlády pro informační technologie, se první tři roky své existence věnovala akceleraci technologií v neziskové sféře a advokačním aktivitám na podporu digitalizace.
+
+[Podívejte se na celý průzkum v .pdf](https://drive.google.com/file/d/1e_Qw05q5no8he2SMODDd2p-QIwg7y21Y/view?usp=drive_link)
