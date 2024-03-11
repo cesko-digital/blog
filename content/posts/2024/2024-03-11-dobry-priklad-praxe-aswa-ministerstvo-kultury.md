@@ -29,6 +29,8 @@ Tento příklad navíc naznačuje, kolik mohou stát projekty podobné velikosti
 
 *\*Iterace je opakovaný proces, při kterém se krok za krokem zpětnou vazbou a úpravami postupně zdokonaluje a vylepšuje nějaký prvek nebo výsledek. Metodika Agilního řízení je popsána [na stránkách ASWA](https://aswa.cz/tvorba-zadavaci-dokumentace#co-je-agile) nebo v sérii [videí Česko.Digital](https://www.youtube.com/watch?v=gG_9tC12CzY&list=PLOX5xelTsEv-qGxEFwT3piUEDrjK4ow6Z).*
 
+![](https://data.cesko.digital/img/clanek-prvni-priklad-praxe/citace_003.png)
+
 ## Co je největším přínosem této veřejné zakázky?
 
 Mění zažitý stereotyp, že ve veřejné zakázce vítězí nabídka s nejnižší cenou. Tím, že nemusí mít organizace vždy komplexní zkušenost nebo rozsáhlé kompetence pro řízení softwarových projektů, se často ubírají cestou hodnocení nabídek dodavatelů pouze na základě ceny. Důvodem pro orientaci zadavatelů na cenu, však rovněž může být opatrnost vůči kontrolním orgánům. Vybrat dodavatele veřejné zakázky podle ceny je jednodušší (méně zpochybnitelné), nežli hodnotit kritéria kvality, což je pochopitelně náročnější, pro kvalitu výsledku ovšem zásadní.
@@ -48,6 +50,8 @@ Klíčem k úspěchu byli lidé, kteří se na veřejné zakázce podíleli, a v
 Na straně ministerstva to byly především lidé z oddělení kulturních a kreativních odvětví a z oddělení veřejných zakázek. Dále to byli odborníci (právník, experti na e‑government) z ASWA, kterou ministerstvo vybralo jakožto expertního konzultanta pro tento projekt.
 
 Takto sestavený tým připravil úspěšnou veřejnou zakázku, jejíž hodnocení bylo založeno na kvalitativních kritériích a jejíž předmět plnění je dostatečně flexibilní a upřednostňuje agilní řízení projektu.
+
+![](https://data.cesko.digital/img/clanek-prvni-priklad-praxe/citace_001.png)
 
 ## 5 klíčových bodů, díky kterým se veřejnou zakázku podařilo zrealizovat:
 
@@ -74,6 +78,8 @@ Takto sestavený tým připravil úspěšnou veřejnou zakázku, jejíž hodnoce
 \-        **Odhadovaný konec projektu**: 2026
 
 Detailnější pohled na veřejnou zakázku včetně road mapy a vyjádření zúčastněných přináší ASWA ve své [případové studii](https://drive.google.com/file/d/1zOMzsgicLSlbsVc061raU2a5FS5_y6jy/view).
+
+![](https://data.cesko.digital/img/clanek-prvni-priklad-praxe/citace_002.png)
 
 ### Užitečné odkazy
 
