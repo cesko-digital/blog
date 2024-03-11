@@ -3,7 +3,7 @@ title: Když zvítězí kvalita nad cenou. Ministerstvo kultury s IT experty mě
   zažité stereotypy veřejných zakázek
 author: coreteam
 cover: https://data.cesko.digital/img/clanek-prvni-priklad-praxe/dobry-priklad-zakazky_001.png
-date: 2024-03-11-01-22
+date: 2024-03-11-05-01
 slug: dobry-priklad-praxe-aswa-ministerstvo-kultury
 description: Ministerstvo kultury potřebovalo vytvořit systém na podporu inovací
   u menších podnikatelů v kreativních průmyslech. S pomocí Asociace softwarových
