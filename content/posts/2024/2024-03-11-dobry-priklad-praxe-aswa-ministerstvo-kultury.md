@@ -27,9 +27,7 @@ Jedná se o osvědčenou metodu, jak se dopracovat ke kvalitnímu řešení, kdy
 
 Tento příklad navíc naznačuje, kolik mohou stát projekty podobné velikosti a jaké složení týmu je k tomu zapotřebí.
 
- 
-
-\*Iterace je opakovaný proces, při kterém se krok za krokem zpětnou vazbou a úpravami postupně zdokonaluje a vylepšuje nějaký prvek nebo výsledek. Metodika Agilního řízení je popsána [na stránkách ASWA](https://aswa.cz/tvorba-zadavaci-dokumentace#co-je-agile) nebo v sérii [videí Česko.Digital](https://www.youtube.com/watch?v=gG_9tC12CzY&list=PLOX5xelTsEv-qGxEFwT3piUEDrjK4ow6Z).
+*\*Iterace je opakovaný proces, při kterém se krok za krokem zpětnou vazbou a úpravami postupně zdokonaluje a vylepšuje nějaký prvek nebo výsledek. Metodika Agilního řízení je popsána [na stránkách ASWA](https://aswa.cz/tvorba-zadavaci-dokumentace#co-je-agile) nebo v sérii [videí Česko.Digital](https://www.youtube.com/watch?v=gG_9tC12CzY&list=PLOX5xelTsEv-qGxEFwT3piUEDrjK4ow6Z).*
 
 ## Co je největším přínosem této veřejné zakázky?
 
@@ -41,8 +39,6 @@ Preference nejlevnějšího řešení dává smysl tam, kde zadavatel předpokl�
 
 Pokud je však součástí veřejné zakázky plnění, které je založeno např. na tvůrčích činnostech, programování či vývoji (tzn. plnění s přidanou hodnotou), tak je ve většině případů vhodné soutěžit nejen na cenu, neboť je žádoucí, aby kvalita takového plnění byla co nejvyšší. V mnoha případech však zadavatel nedovede kvalitu vydefinovat předem svými konkrétními požadavky a je proto vhodné přenechat dílčí část tvorby obsahu plnění na dodavatelích, což lze zohlednit právě hodnocením kvality. Dodavatelé se tak mohou spolupodílet na definici následného plnění.
 
- 
-
 V rámci této veřejné zakázky **vznikla pravidla hodnocení nabídek dodavatelů zahrnující především kvalitu navrhovaného řešení ([strana 15](https://nen.nipez.cz/file?id=1442028175)). V rámci hodnocení byla upřednostňována nabídka dodavatele s přihlédnutím k designovému konceptu a UX, technickému řešení, správě obsahu a možnosti administrace a provozu, portability a bezpečnosti navrhovaného řešení, a to na základě definovaných podmínek**.
 
 ## Co bylo základním klíčem k úspěchu?
@@ -52,8 +48,6 @@ Klíčem k úspěchu byli lidé, kteří se na veřejné zakázce podíleli, a v
 Na straně ministerstva to byly především lidé z oddělení kulturních a kreativních odvětví a z oddělení veřejných zakázek. Dále to byli odborníci (právník, experti na e‑government) z ASWA, kterou ministerstvo vybralo jakožto expertního konzultanta pro tento projekt.
 
 Takto sestavený tým připravil úspěšnou veřejnou zakázku, jejíž hodnocení bylo založeno na kvalitativních kritériích a jejíž předmět plnění je dostatečně flexibilní a upřednostňuje agilní řízení projektu.
-
-  
 
 ## 5 klíčových bodů, díky kterým se veřejnou zakázku podařilo zrealizovat:
 
@@ -79,11 +73,7 @@ Takto sestavený tým připravil úspěšnou veřejnou zakázku, jejíž hodnoce
 
 \-        **Odhadovaný konec projektu**: 2026
 
- 
-
 Detailnější pohled na veřejnou zakázku včetně road mapy a vyjádření zúčastněných přináší ASWA ve své [případové studii](https://drive.google.com/file/d/1zOMzsgicLSlbsVc061raU2a5FS5_y6jy/view).
-
- 
 
 ### Užitečné odkazy
 
