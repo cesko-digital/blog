@@ -1,7 +1,5 @@
 import Footer from "app/footer";
 import NavigationBar from "app/navigation-bar";
-import PartnerSection, { decodePartner } from "./partners";
-import { array } from "typescript-json-decoder";
 import "../global.css";
 
 type Props = {
@@ -9,9 +7,6 @@ type Props = {
 };
 
 export default async function RootLayout({ children }: Props) {
-  const partners = (await getAllPartners())
-    // Only take main partners
-    .filter((p) => p.categories.includes("homepage"));
   return (
     <html>
       <head>
@@ -32,7 +27,7 @@ export default async function RootLayout({ children }: Props) {
         <div className="main-wrapper">
           <NavigationBar />
           <div className="content-wrapper">{children}</div>
-          <PartnerSection partners={partners} />
+          <PartnerSection />
           <Footer />
         </div>
       </body>
@@ -40,7 +35,38 @@ export default async function RootLayout({ children }: Props) {
   );
 }
 
-const getAllPartners = async () =>
-  await fetch("https://cesko.digital/api/partners")
-    .then((response) => response.json())
-    .then(array(decodePartner));
+const PartnerSection = () => {
+  const partners = [
+    {
+      id: "ppf",
+      linkUrl: "https://nadaceppf.cz/",
+      name: "Nadace PPF",
+      logoUrl:
+        "https://data.cesko.digital/web/sections/partners/zna__ka_nadace_ppf.png",
+    },
+    {
+      id: "google",
+      linkUrl: "https://www.google.org/",
+      name: "Google.org",
+      logoUrl:
+        "https://data.cesko.digital/web/sections/partners/google.org_color_852x272px.png",
+    },
+  ];
+
+  return (
+    <div className="partner-section">
+      <h2>Partneři</h2>
+      <div className="partner-logos">
+        {partners.map((partner) => (
+          <a
+            key={partner.id}
+            href={partner.linkUrl}
+            className="partner-logo-card"
+          >
+            <img src={partner.logoUrl} alt={partner.name} />
+          </a>
+        ))}
+      </div>
+    </div>
+  );
+};
