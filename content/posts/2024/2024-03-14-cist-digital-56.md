@@ -76,6 +76,8 @@ Přihlas se na online akci Nezisk Digital, kde budou účastníci kurzu sdílet 
 
 **[\> Více info & registrace](https://app.cesko.digital/events/event-nezisk-digital-24-1)**
 
+![](https://data.cesko.digital/events/CBF-23.jpg)
+
 ## Festival kreativní byrokracie 2024 
 
 17. června 2024
@@ -84,13 +86,17 @@ Přihlas se na online akci Nezisk Digital, kde budou účastníci kurzu sdílet 
 
 Co by na Festivalu mělo zaznít? Napiš nám do Diskutuj.Digital
 
-**\> PŘISPĚJ DO DISKUSE**
+**[\> Přispěj do diskuse](https://diskutuj.digital/t/co-byste-chteli-zazit-na-letosnim-festivalu-kreativni-byrokracie/167)**
+
+
 
 # Poptej se na Tržišti
 
 Jak přidat příspěvek do Tržiště na Diskutuj.Digital?
 
-**\> PODÍVEJ SE NA VIDEO**
+**[\> Podívej se na video](https://www.loom.com/share/90417828ce7f4c07a3782352d79a185b?sid=33564c5a-7481-4b56-b0fe-1c7f5ebc76c5)**
+
+
 
 # Diskuzní fórum
 
@@ -104,18 +110,36 @@ Provozujeme [online prostor](https://diskutuj.digital/) pro otevřenou diskuzi a
 
 Zakládám vlákno pro zaměstnance a zaměstnankyně z úřadů, které AI nadchla a hledají pro ni efektivní využití pro svoji práci...
 
-**\> VÍCE INFO**
+**[\> Více info](https://diskutuj.digital/t/prepisy-zaznamu-a-porad-pomoci-ai/27/1)**
 
 ### Moudrá Síť – pomoc s WA Business
 
 V rámci Moudré Sítě budujeme digitální infrastruktury pro zajištění individuálního vzdělávání pro seniory po celé ČR...
 
-**\> VÍCE INFO**
+**[\> Více info](https://diskutuj.digital/t/moudra-sit-pomoc-s-wa-business/297)**
 
 # Příležitosti k zapojení
 
 Připoj se k neziskové organizaci s největší komunitou expertních dobrovolníků, zástupců neziskových organizací, veřejné správy a byznysu v Evropě. Všechny pozice najdeš na našich stránkách.
 
-**\> Nakoukni na Příležitosti k zapojení**
+**[\> Nakoukni na Příležitosti k zapojení](https://app.cesko.digital/opportunities)**
+
+
 
 # Děkujeme, že tě baví číst.digital!
+
+
+
+**Tým newsletteru**
+
+*Koordinace: Lenka Moravcová a Hana Burešová*
+
+*Texty: Pavel Šnábl, Zdeněk Culek, Aneta Böhmová, Lenka Koňaříková*
+
+*Edit: Martina Habová, Kateřina Sikorová, Lukáš Návesník*
+
+*Korektura: Romana Přibylová*
+
+*Grafika: Monika Pavlovičová, Lukáš Návesník*
+
+*Podcast: Lukáš Návesník, Jiří Ryszawy, Káťa Ryszawa*
