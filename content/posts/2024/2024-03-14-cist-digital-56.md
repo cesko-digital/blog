@@ -30,8 +30,6 @@ Jarní běh kurzu startuje již 2. dubna s **10 vybranými neziskovkami ze soci�
 
 **[\> Registruj se](https://airtable.com/appBMJcLnBva02IEy/shrlymCJWH9WCdGRq)**
 
-
-
 > *„Proces a digitalizace jsou pro mne dvě odlišné věci, bylo pro mě překvapením, že je potřeba proces zohlednit při digitalizaci… Naučila jsem se taky, jak tuto zkušenost předat dál někomu dalšímu v týmu.“*
 >
 > **Ilona Jindrová**, organizace Letohruh, účastnice pilotního kurzu Nezisk Digital 2023
@@ -42,23 +40,33 @@ Jarní běh kurzu startuje již 2. dubna s **10 vybranými neziskovkami ze soci�
 
 Chceme ve spolupráci s dalšími hráči hledat, zviditelňovat a odstraňovat klíčové bariéry digitalizace celého Česka. Nechceme léčit symptomy, **zaměříme se na řešení kořenových příčin problémů**. Abychom tento cíl mohli naplnit, měníme **složení našich aktivit**. A i nadále potřebujeme tvoji pomoc.
 
-**\> VÍCE VE VIDEU**
+**[\> Více ve videu](https://youtu.be/Qjko6LAJlR4)**
 
-\>  **Start digitálních občanek**
 
-*„Už jen proaktivní komunikace a přiznání chyby ze strany Digitální a informační agentury je pro mě osvěžující změnou. Agentura si nese obrovský takzvaný technický dluh, kdy de facto dědí technické nedostatky z minulosti a odstranit je s sebou nese spoustu neviditelné a nezáviděníhodné práce,“* zhodnotil víkendový start aplikace eDoklady Jan Kotara. 
 
-**\> [Přečti si článek od Seznam Zpráv](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-kolaps-pri-vydavani-digitalnich-obcanek-se-uz-nema-opakovat-system-se-zmeni-244222)**
+> ## **Start digitálních občanek**
+>
+> *„Už jen proaktivní komunikace a přiznání chyby ze strany Digitální a informační agentury je pro mě osvěžující změnou. Agentura si nese obrovský takzvaný technický dluh, kdy de facto dědí technické nedostatky z minulosti a odstranit je s sebou nese spoustu neviditelné a nezáviděníhodné práce,“* zhodnotil víkendový start aplikace eDoklady Jan Kotara. 
+>
+> **\> [Přečti si článek od Seznam Zpráv](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-kolaps-pri-vydavani-digitalnich-obcanek-se-uz-nema-opakovat-system-se-zmeni-244222)**
+>
+> ![](https://data.cesko.digital/newsletter/56/jan-kotara.png)
+>
+>
 
 # Nejbližší akce
+
+![](https://data.cesko.digital/newsletter/56/ai-pro-neziskovky-cover1.png)
 
 ## WORKSHOP: Využití umělé inteligence v neziskových organizacích
 
 8. dubna 2024, 10:00 - 16:00, KUMST Brno
 
-Umělá inteligence je pro neziskové organizace jako stvořená – nabízí ruce a zdroje, které jsou tak zoufale potřeba. Na celodenním workshopu se spolu s lektory*lektorkami podíváte na činnosti, do kterých už dnes můžeš umělou inteligenci zapojit.<!-- x-tinymce/html -->
+Umělá inteligence je pro neziskové organizace jako stvořená – nabízí ruce a zdroje, které jsou tak zoufale potřeba. Na celodenním workshopu se spolu s lektory*lektorkami podíváte na činnosti, do kterých už dnes můžeš umělou inteligenci zapojit.
 
-**\> PŘIHLAS SE NA WORKSHOP**
+**[\> Přihlas se na workshop](https://www.kumstbrno.cz/akce/vyuziti-umele-inteligence-v-neziskovych-organizacich/)**
+
+![](https://data.cesko.digital/newsletter/56/Grant_MPSV_header_02.png)
 
 ## Event Nezisk Digital #1
 
@@ -66,7 +74,7 @@ Umělá inteligence je pro neziskové organizace jako stvořená – nabízí ru
 
 Přihlas se na online akci Nezisk Digital, kde budou účastníci kurzu sdílet svůj příběh, jaký problém řeší a jak se jim daří jej mapovat.
 
-**\> VÍCE INFO & REGISTRACE**
+**[\> Více info & registrace](https://app.cesko.digital/events/event-nezisk-digital-24-1)**
 
 ## Festival kreativní byrokracie 2024 
 
