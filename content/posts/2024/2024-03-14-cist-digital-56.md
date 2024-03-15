@@ -14,6 +14,8 @@ description: Proč a jak měníme v Česko.Digital zaměření našich aktivit?
   dalším ročníku Festivalu kreativní byrokracie.
 lang: cs
 ---
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3CX0dBSvJSwxPi9uD4TPpB?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 # Přinášíme první příklad dobré praxe 
 
 V Česko.Digital připravujeme **příklady dobré praxe s nejvyšší přidanou hodnotou** pro úředníky*úřednice i pro celou státní správu. [Náš loňský průzkum](https://blog.cesko.digital/2023/09/pruzkum-statni-sprava-a-samosprava-bariery-digitalizace) to řekl jasně – ve státní správě příklady dobré praxe chybí.
