@@ -6,7 +6,7 @@ author: content.team
 tags:
   - cesko-digital-obsah
 cover: https://data.cesko.digital/newsletter/56/cover56.png
-date: 2024-03-14-06-45
+date: 2024-03-15-08-05
 slug: cist-digital-56
 description: Proč a jak měníme v Česko.Digital zaměření našich aktivit?
   Ministerstvo práce a sociálních věcí ocenilo při rozhodování o další finanční
@@ -42,17 +42,13 @@ Chceme ve spolupráci s dalšími hráči hledat, zviditelňovat a odstraňovat 
 
 **[\> Více ve videu](https://youtu.be/Qjko6LAJlR4)**
 
-
-
 > ## **Start digitálních občanek**
 >
-> *„Už jen proaktivní komunikace a přiznání chyby ze strany Digitální a informační agentury je pro mě osvěžující změnou. Agentura si nese obrovský takzvaný technický dluh, kdy de facto dědí technické nedostatky z minulosti a odstranit je s sebou nese spoustu neviditelné a nezáviděníhodné práce,“* zhodnotil víkendový start aplikace eDoklady Jan Kotara. 
+> *„Už jen proaktivní komunikace a přiznání chyby ze strany Digitální a informační agentury je pro mě osvěžující změnou. Agentura si nese obrovský takzvaný technický dluh, kdy de facto dědí technické nedostatky z minulosti a odstranit je s sebou nese spoustu neviditelné a nezáviděníhodné práce,“* zhodnotil víkendový start aplikace eDoklady CEO Česko.Digital Jan Kotara. 
 >
 > **\> [Přečti si článek od Seznam Zpráv](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-kolaps-pri-vydavani-digitalnich-obcanek-se-uz-nema-opakovat-system-se-zmeni-244222)**
 >
 > ![](https://data.cesko.digital/newsletter/56/jan-kotara.png)
->
->
 
 # Nejbližší akce
 
@@ -60,7 +56,7 @@ Chceme ve spolupráci s dalšími hráči hledat, zviditelňovat a odstraňovat 
 
 ## WORKSHOP: Využití umělé inteligence v neziskových organizacích
 
-8. dubna 2024, 10:00 - 16:00, KUMST Brno
+\> 8. dubna 2024, 10:00 - 16:00, KUMST Brno.
 
 Umělá inteligence je pro neziskové organizace jako stvořená – nabízí ruce a zdroje, které jsou tak zoufale potřeba. Na celodenním workshopu se spolu s lektory*lektorkami podíváte na činnosti, do kterých už dnes můžeš umělou inteligenci zapojit.
 
@@ -70,7 +66,7 @@ Umělá inteligence je pro neziskové organizace jako stvořená – nabízí ru
 
 ## Event Nezisk Digital #1
 
-16. května 2024, 9:00 - 10:30
+\> 16. května 2024, 9:00 - 10:30
 
 Přihlas se na online akci Nezisk Digital, kde budou účastníci kurzu sdílet svůj příběh, jaký problém řeší a jak se jim daří jej mapovat.
 
@@ -80,7 +76,7 @@ Přihlas se na online akci Nezisk Digital, kde budou účastníci kurzu sdílet 
 
 ## Festival kreativní byrokracie 2024 
 
-17. června 2024
+\> 17. června 2024
 
 Čtvrtý ročník festivalu pro lepší veřejnou správu v Česku. Zazní inspirativní příběhy desítek hostů*hostek z Česka i ze zahraničí. Poznamenej si už nyní datum do kalendáře a můžeš se začít těšit.
 
@@ -88,15 +84,11 @@ Co by na Festivalu mělo zaznít? Napiš nám do Diskutuj.Digital
 
 **[\> Přispěj do diskuse](https://diskutuj.digital/t/co-byste-chteli-zazit-na-letosnim-festivalu-kreativni-byrokracie/167)**
 
-
-
-# Poptej se na Tržišti
+# Hledáš pomoc nebo radu pro svou organizaci? Poptej se na Tržišti!
 
 Jak přidat příspěvek do Tržiště na Diskutuj.Digital?
 
 **[\> Podívej se na video](https://www.loom.com/share/90417828ce7f4c07a3782352d79a185b?sid=33564c5a-7481-4b56-b0fe-1c7f5ebc76c5)**
-
-
 
 # Diskuzní fórum
 
@@ -124,11 +116,7 @@ Připoj se k neziskové organizaci s největší komunitou expertních dobrovoln
 
 **[\> Nakoukni na Příležitosti k zapojení](https://app.cesko.digital/opportunities)**
 
-
-
 # Děkujeme, že tě baví číst.digital!
-
-
 
 **Tým newsletteru**
 
