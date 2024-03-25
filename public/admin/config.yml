@@ -100,6 +100,7 @@ collections:
             "adela.sykorova",
             "aneta.bohmova",
             "jaroslava.tomsu",
+            "veronika.tomasova",
           ]
         required: true
       - label: "Tags"
@@ -259,6 +260,7 @@ collections:
             "adela.sykorova",
             "aneta.bohmova",
             "jaroslava.tomsu",
+            "veronika.tomasova",
           ]
         required: true
       - label: "Cover"
