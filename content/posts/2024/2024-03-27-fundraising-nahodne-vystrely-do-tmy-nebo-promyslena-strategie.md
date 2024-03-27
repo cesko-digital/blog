@@ -4,7 +4,7 @@ author: veronika.tomasova
 cover: https://data.cesko.digital/img/clanek-fundraising.png
 date: 2024-03-27-11-52
 slug: fundraising-nahodne-vystrely-do-tmy-nebo-promyslena-strategie
-description: "7 věcí k zamyšlení, než začnete s fundraisingem  Vášeň a nadšení
+description: "7 věcí k zamyšlení, než začnete s fundraisingem. Vášeň a nadšení
   jsou při práci v neziskovce nepostradatelné, ale k úspěšnému fundraisingu samy
   o sobě nestačí. K dosažení výsledků potřebujete pár dalších věcí. Podívejme
   se, co doporučuje Lenka Maděrová, fundraiserka pro Armádu spásy v
