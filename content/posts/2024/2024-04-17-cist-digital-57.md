@@ -15,7 +15,7 @@ description: Představujeme novou aktivitu Digitální partnerství a věříme,
   Digital a z první ruky poznej, jak můžete zefektivnit práci ve své neziskovce.
 lang: cs
 ---
-# Digitální veřejné služby, které si zamiluješ: Startujeme aktivitu Digitální partnerství
+## Digitální veřejné služby, které si zamiluješ: Startujeme aktivitu Digitální partnerství
 
 Líbil by se ti stát, který má perfektně vyladěné a uživatelsky přívětivé digitální služby? Aby se to stalo realitou i u nás, pustili jsme se do ambiciózní aktivity **[Digitální partnerství](https://digitalnipartnerstvi.cesko.digital)** a pro tuto misi aktuálně **hledáme spojence a partnery** mezi organizacemi a institucemi z **byznysu, veřejné správy i nezisku – mezi inovátory a experty**.
 
@@ -27,13 +27,13 @@ Digitální partnerství jsme už odprezentovali na Snídani s Česko.Digital, k
 
 **\> [Zjisti více informací na webu a pojď spolu s námi měnit Česko k lepšímu! ](https://digitalnipartnerstvi.cesko.digital)**
 
-# Inspiruj se od expertek fundraisingu
+## Inspiruj se od expertek fundraisingu
 
 V blogovém článku na téma „Fundraising – náhodné výstřely do tmy, nebo promyšlená strategie?“ sdílí Lenka Maděrová a Šárka Rooya Jiřičná **klíčové tipy pro úspěšný fundraising**. Procházíme s nimi celý proces od stanovení cílů a vize až po tvorbu strategických plánů a kreativních kampaní. 
 
 **\> [Začtu se](https://blog.cesko.digital/2024/03/fundraising-nahodne-vystrely-do-tmy-nebo-promyslena-strategie)**
 
-# Revma Liga spouští apku a motivuje pacienty cvičit
+## Revma Liga spouští apku a motivuje pacienty cvičit
 
 Máme velkou radost, že se i díky práci týmu dobrovolníků podařilo spustit svou novou webovou aplikaci! 7 hodin videa v online kurzu na revmavklidu.cz má velkou šanci **pomoci čtvrt milionu lidí, kteří v Česku trpí revmatem**! 
 
@@ -79,13 +79,15 @@ Jak jsi na tom s digitálními dovednostmi? **Otestujte svou třídu, školu, u�
 
 **\> [To zkusím](https://itfitness.eu)**
 
-# Event Nezisk Digital #1
+## Event Nezisk Digital #1
 
 16. května 2024, 9:00–10:30
 
 Díky našemu online kurzu Nezisk Digital **zlepšují spolupráci v týmu** i **řízení své neziskovky** anebo už také ví, **jak zabezpečit svá data**. Před tím ale museli **zmapovat své slabiny i potřeby**. A právě tuto první fázi ti odprezentují naši kurzisté. Inspiruj se jejich cestou od hledání po nalezení řešení!
 
 **\> [Registruj se na online setkání](https://app.cesko.digital/events/event-nezisk-digital-24-1)**
+
+
 
 # Hledáš pomoc nebo radu pro svou organizaci? Poptej se na Tržišti!
 
