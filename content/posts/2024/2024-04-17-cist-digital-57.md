@@ -41,6 +41,8 @@ Nová platforma motivuje pacienty, aby pokračovali s cvičením i po fyzioterap
 
 Moc děkujeme organizaci Revma Liga za jejich nasazení a obří dík putuje i všem, kdo v projektu dobrovolnicky pomáhali! Znáš někoho s touto nemocí? Pozvi ho a **rozhýbej na [revmavklidu.cz](https://www.revmavklidu.cz/)**!
 
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/cnGqFOZq2sU?si=VW866YKDVa3rxhoC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+
 # Nejbližší akce
 
 ## Design Kantýna – Panel Future is TECH: Digitální transformace ve veřejném sektoru
@@ -119,10 +121,10 @@ Připoj se k neziskové organizaci s největší komunitou expertních dobrovoln
 
 C﻿hceš, aby ti náš newsletter chodil přímo do e-mailové schránky? [Přihlas se k jeho odběru](https://ceskodigital.ecomailapp.cz/public/form/6-3fdfd544852ed7431aa64f3b9481afb9).
 
-***Koordinace**: Martina Habová*
+**\*Koordinace**: Martina Habová*
 
-***Texty**: Jakub Holzer*
+**\*Texty**: Jakub Holzer*
 
-***Edit**: Martina Habová, Lukáš Návesník*
+**\*Edit**: Martina Habová, Lukáš Návesník*
 
-***Grafika**: Lukáš Návesník*
+**\*Grafika**: Lukáš Návesník*
