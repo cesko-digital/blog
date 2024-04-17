@@ -6,7 +6,7 @@ author: content.team
 tags:
   - newsletter
 cover: https://data.cesko.digital/newsletter/57/cover57.png
-date: 2024-04-17-11-36
+date: 2024-04-17-11-42
 slug: cist-digital-57
 description: Představujeme novou aktivitu Digitální partnerství a věříme, že
   díky ní vyladíme české digitální veřejné služby tak, aby byly přehlednější,
@@ -43,7 +43,9 @@ Moc děkujeme organizaci Revma Liga za jejich nasazení a obří dík putuje i v
 
 # Nejbližší akce
 
-## Design Kantýna: Panel Future is TECH: Digitální transformace ve veřejném sektoru
+## Design Kantýna
+
+## Panel Future is TECH: Digitální transformace ve veřejném sektoru
 
 \> 11. května, 44. budova areálu Svit, Zlín
 
@@ -81,7 +83,7 @@ Jak jsi na tom s digitálními dovednostmi? **Otestujte svou třídu, školu, u�
 
 ## Event Nezisk Digital #1
 
-16. května 2024, 9:00–10:30
+\> 16. května 2024, 9:00–10:30
 
 Díky našemu online kurzu Nezisk Digital **zlepšují spolupráci v týmu** i **řízení své neziskovky** anebo už také ví, **jak zabezpečit svá data**. Před tím ale museli **zmapovat své slabiny i potřeby**. A právě tuto první fázi ti odprezentují naši kurzisté. Inspiruj se jejich cestou od hledání po nalezení řešení!
 
@@ -112,6 +114,8 @@ Nedávno jsem narazila na výborný web Data o zdraví, kde můžete najít expl
 Minulý týden jsem byla na brněnském meetupu ohledně Notion. Používám ho už celkem dlouho, ale jen na základní věci, tak sdílím pár tipů pro ostatní...
 
 **\>﻿ [Více info](https://diskutuj.digital/t/uzitecne-tipy-od-daly-musila-pro-praci-s-notion/350/1)**
+
+
 
 # Příležitosti k zapojení
 
