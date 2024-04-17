@@ -122,3 +122,5 @@ Připoj se k neziskové organizaci s největší komunitou expertních dobrovoln
 **[\> Nakoukni na Příležitosti k zapojení](https://app.cesko.digital/opportunities)**
 
 # Děkujeme, že tě baví číst.digital!
+
+C﻿hceš, aby ti náš newsletter chodil přímo do e-mailové schránky? [Přihlas se k jeho odběru](https://ceskodigital.ecomailapp.cz/public/form/6-3fdfd544852ed7431aa64f3b9481afb9).
