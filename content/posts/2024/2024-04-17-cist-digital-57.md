@@ -6,7 +6,7 @@ author: content.team
 tags:
   - newsletter
 cover: https://data.cesko.digital/newsletter/57/cover57.png
-date: 2024-04-16-08-50
+date: 2024-04-17-11-36
 slug: cist-digital-57
 description: Představujeme novou aktivitu Digitální partnerství a věříme, že
   díky ní vyladíme české digitální veřejné služby tak, aby byly přehlednější,
