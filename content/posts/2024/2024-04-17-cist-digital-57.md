@@ -43,9 +43,7 @@ Moc děkujeme organizaci Revma Liga za jejich nasazení a obří dík putuje i v
 
 # Nejbližší akce
 
-## Design Kantýna
-
-## Panel Future is TECH: Digitální transformace ve veřejném sektoru
+## Design Kantýna – Panel Future is TECH: Digitální transformace ve veřejném sektoru
 
 \> 11. května, 44. budova areálu Svit, Zlín
 
