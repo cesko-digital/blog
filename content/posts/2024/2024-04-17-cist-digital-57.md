@@ -25,7 +25,7 @@ Proč věříme, že opravdu stojíme na začátku změny, která může **usnad
 
 Digitální partnerství jsme už odprezentovali na Snídani s Česko.Digital, kde myšlenka silně rezonovala mezi desítkami zástupců veřejné správy, byznysu i nezisku: Úřadu vlády, DIA, MPSV, NÚKIB, Microsoft, PWC, Google, STEM, Hlídače státu a dalších.
 
-**\> [Zjisti více informací na webu a pojď spolu s námi měnit Česko k lepšímu! ](https://digitalnipartnerstvi.cesko.digital)**
+**\> [Zjisti více informací na webu](https://digitalnipartnerstvi.cesko.digital)**
 
 ## Inspiruj se od expertek fundraisingu
 
