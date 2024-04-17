@@ -47,13 +47,13 @@ Moc děkujeme organizaci Revma Liga za jejich nasazení a obří dík putuje i v
 
 \> 11. května, 44. budova areálu Svit, Zlín
 
-Jak může **design přispět k digitálním řešením veřejných služeb**, která budou uživatelsky přívětivá pro všechny skupiny obyvatel? Lze vůbec minimalizovat dopad technologií na planetu? Poslechněte si Veroniku Quek, Chief Strategy Officer v Česko.Digital, která v panelu vystoupí.
+Jak může **design přispět k digitálním řešením veřejných služeb**, která budou uživatelsky přívětivá pro všechny skupiny obyvatel? Lze vůbec minimalizovat dopad technologií na planetu? Poslechni si Veroniku Quek, Chief Strategy Officer v Česko.Digital, která v panelu vystoupí.
 
 ﻿**\> [Jedu do Zlína!](https://zlindesignweek.com/2024/design-kantyna)**
 
 ## Digitální den pro neziskovky 
 
-\> 21. května 2024
+\> 21. května 2024, 9:00 – 16:30
 
 Na 3. ročníku online konference si posvítíme na **aktuální trendy v digitalizaci neziskovek i výzvy**, kterým v nich čelí. Na celodenní akci s tématem »**Řízení IT v organizaci**« na tebe čeká pěkný kus inspirace ve formě přednášek, diskuzních stolů, networkování i prezentace partnerů.
 
@@ -73,9 +73,9 @@ Přijď na Czech Open Source Policy Forum 2024, které pořádá organizace Otev
 
 ## IT Fitness Test 2024: otestuj své digitální dovednosti
 
-\> startuje 16. dubna 2024
+\> odstartoval 16. dubna 2024
 
-Jak jsi na tom s digitálními dovednostmi? **Otestujte svou třídu, školu, učitele nebo rodinu!** V online IT Fitness Testu, který prověřil **\#digitalskills** už více než 500 000 žáků základních, středních i vysokých škol, tě čekají diplomy a pro ty nejlepší i ceny.
+Jak jsi na tom s digitálními dovednostmi? **Otestuj svou třídu, školu, učitele nebo rodinu!** V online IT Fitness Testu, který prověřil **\#digitalskills** už více než 500 000 žáků základních, středních i vysokých škol, tě čekají diplomy a pro ty nejlepší i ceny.
 
 **\> [To zkusím](https://itfitness.eu)**
 
