@@ -27,6 +27,8 @@ Digitální partnerství jsme už odprezentovali na Snídani s Česko.Digital, k
 
 **\> [Zjisti více informací na webu](https://digitalnipartnerstvi.cesko.digital)**
 
+![](https://data.cesko.digital/newsletter/57/Snidane-cd-4-24-45.jpg)
+
 ## Inspiruj se od expertek fundraisingu
 
 V blogovém článku na téma „Fundraising – náhodné výstřely do tmy, nebo promyšlená strategie?“ sdílí Lenka Maděrová a Šárka Rooya Jiřičná **klíčové tipy pro úspěšný fundraising**. Procházíme s nimi celý proces od stanovení cílů a vize až po tvorbu strategických plánů a kreativních kampaní. 
