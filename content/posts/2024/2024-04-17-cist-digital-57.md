@@ -27,11 +27,13 @@ Digitální partnerství jsme už odprezentovali na Snídani s Česko.Digital, k
 
 **\> [Zjisti více informací na webu](https://digitalnipartnerstvi.cesko.digital)**
 
+![](https://data.cesko.digital/newsletter/57/Snidane-cd-4-24-45.jpg)
+
 ## Inspiruj se od expertek fundraisingu
 
 V blogovém článku na téma „Fundraising – náhodné výstřely do tmy, nebo promyšlená strategie?“ sdílí Lenka Maděrová a Šárka Rooya Jiřičná **klíčové tipy pro úspěšný fundraising**. Procházíme s nimi celý proces od stanovení cílů a vize až po tvorbu strategických plánů a kreativních kampaní. 
 
-**\> [Začtu se](https://blog.cesko.digital/2024/03/fundraising-nahodne-vystrely-do-tmy-nebo-promyslena-strategie)**
+**\> [Začti se do článku](https://blog.cesko.digital/2024/03/fundraising-nahodne-vystrely-do-tmy-nebo-promyslena-strategie)**
 
 ## Revma Liga spouští apku a motivuje pacienty cvičit
 
@@ -40,6 +42,8 @@ Máme velkou radost, že se i díky práci týmu dobrovolníků podařilo spusti
 Nová platforma motivuje pacienty, aby pokračovali s cvičením i po fyzioterapii a zvládli ho začlenit do svého běžného života. Právě to je totiž klíčem k úspěšné léčbě.
 
 Moc děkujeme organizaci Revma Liga za jejich nasazení a obří dík putuje i všem, kdo v projektu dobrovolnicky pomáhali! Znáš někoho s touto nemocí? Pozvi ho a **rozhýbej na [revmavklidu.cz](https://www.revmavklidu.cz/)**!
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/cnGqFOZq2sU?si=VW866YKDVa3rxhoC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 # Nejbližší akce
 
@@ -69,8 +73,6 @@ Přijď na Czech Open Source Policy Forum 2024, které pořádá organizace Otev
 
 **\> [To mě zajímá](https://pretix.eu/om/czospf2024)**
 
-
-
 ## IT Fitness Test 2024: otestuj své digitální dovednosti
 
 \> odstartoval 16. dubna 2024
@@ -86,8 +88,6 @@ Jak jsi na tom s digitálními dovednostmi? **Otestuj svou třídu, školu, uči
 Díky našemu online kurzu Nezisk Digital **zlepšují spolupráci v týmu** i **řízení své neziskovky** anebo už také ví, **jak zabezpečit svá data**. Před tím ale museli **zmapovat své slabiny i potřeby**. A právě tuto první fázi ti odprezentují naši kurzisté. Inspiruj se jejich cestou od hledání po nalezení řešení!
 
 **\> [Registruj se na online setkání](https://app.cesko.digital/events/event-nezisk-digital-24-1)**
-
-
 
 # Hledáš pomoc nebo radu pro svou organizaci? Poptej se na Tržišti!
 
@@ -113,8 +113,6 @@ Minulý týden jsem byla na brněnském meetupu ohledně Notion. Používám ho 
 
 **\>﻿ [Více info](https://diskutuj.digital/t/uzitecne-tipy-od-daly-musila-pro-praci-s-notion/350/1)**
 
-
-
 # Příležitosti k zapojení
 
 Připoj se k neziskové organizaci s největší komunitou expertních dobrovolníků, zástupců neziskových organizací, veřejné správy a byznysu v Evropě. Všechny pozice najdeš na našich stránkách.
@@ -124,3 +122,11 @@ Připoj se k neziskové organizaci s největší komunitou expertních dobrovoln
 # Děkujeme, že tě baví číst.digital!
 
 C﻿hceš, aby ti náš newsletter chodil přímo do e-mailové schránky? [Přihlas se k jeho odběru](https://ceskodigital.ecomailapp.cz/public/form/6-3fdfd544852ed7431aa64f3b9481afb9).
+
+**\*Koordinace**: Martina Habová*
+
+**\*Texty**: Jakub Holzer*
+
+**\*Edit**: Martina Habová, Lukáš Návesník*
+
+**\*Grafika**: Lukáš Návesník*
