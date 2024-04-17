@@ -5,7 +5,7 @@ title: "číst.digital/57: Startujeme Digitální partnerství pro přívětivě
 author: content.team
 tags:
   - newsletter
-cover: xxx
+cover: https://data.cesko.digital/newsletter/57/cover57.png
 date: 2024-04-16-08-50
 slug: cist-digital-57
 description: Představujeme novou aktivitu Digitální partnerství a věříme, že
