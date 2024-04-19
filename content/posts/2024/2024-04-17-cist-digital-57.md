@@ -15,6 +15,8 @@ description: Představujeme novou aktivitu Digitální partnerství a věříme,
   Digital a z první ruky poznej, jak můžete zefektivnit práci ve své neziskovce.
 lang: cs
 ---
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0Ghla6DOnDWysWC7KR0uMs?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ## Digitální veřejné služby, které si zamiluješ: Startujeme aktivitu Digitální partnerství
 
 Líbil by se ti stát, který má perfektně vyladěné a uživatelsky přívětivé digitální služby? Aby se to stalo realitou i u nás, pustili jsme se do ambiciózní aktivity **[Digitální partnerství](https://digitalnipartnerstvi.cesko.digital)** a pro tuto misi aktuálně **hledáme spojence a partnery** mezi organizacemi a institucemi z **byznysu, veřejné správy i nezisku – mezi inovátory a experty**.
