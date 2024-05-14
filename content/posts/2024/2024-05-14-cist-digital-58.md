@@ -19,31 +19,31 @@ lang: cs
 
 ## Czech Open Source Policy Forum 2024: byli jsme u toho
 
-V dubnu jsme v Brně spolupořádali mezinárodní konferenci Open Source Policy Forum 2024. Tvůrci politik, technologové a zastánci otevřeného softwaru z celého světa tu diskutovali o budoucnosti open source technologií ve státní správě a samosprávě.\
+V dubnu jsme v Brně spolupořádali **mezinárodní konferenci Open Source Policy Forum 2024**. Tvůrci politik, technologové a zastánci otevřeného softwaru z celého světa tu diskutovali o **budoucnosti open source technologií ve státní správě a samosprávě**.\
 \
-Panelovou diskuzi se 4 expertními hosty a tématem „Jak mohou komunity pomoci státu k větší adopci open source řešení“ tu moderovala naše Veronika Quek. Celou si ji můžeš pustit ze [záznamu](https://www.youtube.com/live/5wVKoQsu-Zo?feature=shared&t=22222). A pro zajímavost: na open source řešeních už běží i Portál občana a Národní webový design systém. Česko je jedním z open source lídrů ve státní správě v celé EU a přímo na konferenci započala svou činnost i česká kancelář OSPO (Open Source Program Office).
+Panelovou **diskuzi** se 4 expertními hosty a tématem **„Jak mohou komunity pomoci státu k větší adopci open source řešení“** tu moderovala naše Veronika Quek. Celou si ji můžeš pustit ze **[záznamu](https://www.youtube.com/live/5wVKoQsu-Zo?feature=shared&t=22222)**. A pro zajímavost: na open source řešeních už běží i Portál občana a Národní webový design systém. Česko je jedním z open source lídrů ve státní správě v celé EU a přímo na konferenci započala svou činnost i česká kancelář OSPO (Open Source Program Office).
 
 \|﻿ Pro neziskové organizace
 
 ## Kurz Nezisk Digital – průvodci*průvodkyně i neziskovky, hlaste se
 
-V online kurzu Nezisk Digital učíme neziskovky, jak vyladit jejich vnitřní procesy, aby získaly více času na své poslání a klienty. Aktuální účastníci a účastnice jarního běhu mají za sebou první část kurzu. Co si z první čtvrtiny odnášejí?
+V online kurzu Nezisk Digital **učíme neziskovky, jak vyladit jejich vnitřní procesy, aby získaly více času na své poslání a klienty**. Aktuální účastníci a účastnice jarního běhu mají za sebou první část kurzu. Co si z první čtvrtiny odnášejí?
 
 * *„Skvělý výběr průvodkyně – má opravdu nadhled nad našimi problémy.“*
 * *„Nevěřila jsem řešení, které nám průvodkyně navrhla, ale odezva od klientů byla pozitivní!“*
 * *„Pořádně jsme si nad tím sedli a identifikovali naše slabiny i skutečné potřeby.“*
 
-Další 12dílný online kurz startuje 9. září 2024. Je bezplatný a tvé organizaci ho připravíme přesně na míru. [Přihlas svou NNO](https://airtable.com/appBMJcLnBva02IEy/shrlymCJWH9WCdGRq) (tentokrát ze sociální oblasti), nebo se k nám [přidej jako průvodce*průvodkyně](https://app.cesko.digital/opportunities/recP8PO9DhSXwERTr) a proveď jednu z organizací digitální transformací. Vše o průvodcování ti rádi povíme i na [online setkání 30. 5.](https://app.cesko.digital/events/predstaveni-kurzu-nezisk-digital-mentorum)
+Další 12dílný online kurz startuje 9. září 2024. Je bezplatný a tvé organizaci ho připravíme přesně na míru. **[Přihlas svou NNO](https://airtable.com/appBMJcLnBva02IEy/shrlymCJWH9WCdGRq)** (tentokrát ze sociální oblasti), nebo se k nám **[přidej jako průvodce*průvodkyně](https://app.cesko.digital/opportunities/recP8PO9DhSXwERTr)** a proveď jednu z organizací digitální transformací. Vše o průvodcování ti rádi povíme i na **[online setkání 30. 5.](https://app.cesko.digital/events/predstaveni-kurzu-nezisk-digital-mentorum)**
 
 > *„Jsem ráda, že si mohu vyzkoušet jiný typ spolupráce než v klasickém byznys světě. Velkou přidanou hodnotu vidím ve sdílení zkušeností s ostatními průvodci, od nichž se můžu učit.“*
 >
 > ![](https://data.cesko.digital/newsletter/58/pavla-radkova.png)
 >
-> průvodkyně kurzem Nezisk Digital, Pavla Řádková
+> Pavla Řádková, průvodkyně kurzem Nezisk Digital
 
 ## **Česko.Digital opět v médiích**
 
-Velká část české populace je digitálně ohrožená, nebo přímo vyloučená a to má své negativní důsledky na kvalitu života těchto lidí. Článek na iDNES využívá data i persony naší Digitální inkluze a cituje i naše kolegyně Lujzu Kotryovou a Veroniku Quek.
+Velká část české populace je digitálně ohrožená, nebo přímo vyloučená a to má své negativní důsledky na kvalitu života těchto lidí. Článek na iDNES **využívá data i persony naší Digitální inkluze a cituje i naše kolegyně Lujzu Kotryovou a Veroniku Quek**.
 
 **\> [Přečtu si to celé](https://www.idnes.cz/zpravy/domaci/digitalni-gramotnost-cesi-problemy-datove-schranky-bankovni-identita.A240416_103232_domaci_nema)**
 
@@ -67,18 +67,15 @@ Poslechni si všechny **podrobnosti o našem kurzu**, kde se neziskovky aktivn�
 
 \> 30. května 2024, 17:00–18:00,online 
 
-Chceš pomoci neziskovkám zefektivnit jejich práci, aby mohly trávit více času s klienty? Staň se jedním z průvodců*průvodkyň na jejich nové digitální cestě. Vše už jsme pro tebe připravili a [takhle si tě představujeme](https://app.cesko.digital/opportunities/recP8PO9DhSXwERTr).\
+Chceš pomoci neziskovkám zefektivnit jejich práci, aby mohly trávit více času s klienty? **Staň se jedním z průvodců*průvodkyň na jejich nové digitální cestě.** Vše už jsme pro tebe připravili a [takhle si tě představujeme](https://app.cesko.digital/opportunities/recP8PO9DhSXwERTr).\
 \
 **\>﻿ [To zní zajímavě](https://app.cesko.digital/events/predstaveni-kurzu-nezisk-digital-mentorum)**
 
-## \
-
-Showcase #4 Digitální inkluze
+## Showcase #4 Digitální inkluze
 
 \> 30. května 2024 od 9:00, online
 
-\
-Představíme právě vznikající online příručku Pomáháme.Digital. Je určená pro rozvoj digitálních kompetencí nejen sociálních pracovníků*pracovnic, kteří je pak můžou předávat svým klientům.
+Představíme právě vznikající **online příručku Pomáháme.Digital**. Je určená pro rozvoj digitálních kompetencí nejen sociálních pracovníků*pracovnic, kteří je pak můžou předávat svým klientům.
 
 **\>﻿ [Něco pro mě!](https://app.cesko.digital/events/showcase-digitalni-inkluze-4)** 
 
@@ -86,7 +83,7 @@ Představíme právě vznikající online příručku Pomáháme.Digital. Je ur�
 
 \> 13. června 2024, 09:00–10:30 online  
 
-Chceš vyladit práci ve své neziskovce tak, aby vše běželo jako po drátkách? Účastníci*účastnice kurzu Nezisk Digital ti nasdílejí své zkušenosti z jeho průběhu: jaké si s pomocí průvodců zvolili nástroje pro řešení svých problémů a jak se jim daří začlenit je do svého každodenního fungování.
+Chceš vyladit práci ve své neziskovce tak, aby vše běželo jako po drátkách? **Účastníci*účastnice kurzu Nezisk Digital ti nasdílejí své zkušenosti z jeho průběhu**: jaké si s pomocí průvodců zvolili nástroje pro řešení svých problémů a jak se jim daří začlenit je do svého každodenního fungování.
 
 **\>**﻿ **[Nenechám si ujít](https://app.cesko.digital/events/event-nezisk-digital-24-2)**
 
@@ -94,7 +91,7 @@ Chceš vyladit práci ve své neziskovce tak, aby vše běželo jako po drátká
 
 \> 1﻿7. června 2024, Jatka78
 
-Kreativní státní správa vedená zdravým rozumem a dobrou vůlí se sama neudělá! 4. ročník [Festivalu kreativní byrokracie](https://creativebureaucracy.cz/) se odehraje 17. 6. v Jatka78, ale už teď radši běž pro vstupenky! Na akci plné přednášek, speakerů, workshopů, afterparty a kolegů stejné krevní skupiny určitě nechceš chybět!\
+**Kreativní státní správa** vedená zdravým rozumem a dobrou vůlí se sama neudělá! 4. ročník **[Festivalu kreativní byrokracie](https://creativebureaucracy.cz/)** se odehraje 17. 6. v Jatka78, ale už **teď radši běž pro vstupenky**! Na akci plné přednášek, speakerů, workshopů, afterparty a kolegů stejné krevní skupiny určitě nechceš chybět!\
 \
 **\>﻿ [Pro vstupenky!](https://connect.boomevents.org/cs/event/1013b185-03c0-43ee-bee9-fadfeb47b380/order)**
 
