@@ -15,7 +15,7 @@ description: Do online kurzu Nezisk Digital nabíráme dobrovolné
   určeny.
 lang: cs
 ---
-\| Pro veřejnou správu
+## \| Pro veřejnou správu
 
 ## Czech Open Source Policy Forum 2024: byli jsme u toho
 
