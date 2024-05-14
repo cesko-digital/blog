@@ -101,6 +101,7 @@ collections:
             "aneta.bohmova",
             "jaroslava.tomsu",
             "veronika.tomasova",
+            "jakub.holzer",
           ]
         required: true
       - label: "Tags"
@@ -261,6 +262,7 @@ collections:
             "aneta.bohmova",
             "jaroslava.tomsu",
             "veronika.tomasova",
+            "jakub.holzer",
           ]
         required: true
       - label: "Cover"
