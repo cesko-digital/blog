@@ -15,9 +15,11 @@ description: Do online kurzu Nezisk Digital nabíráme dobrovolné
   určeny.
 lang: cs
 ---
-`| Pro veřejnou správu`
+
 
 ## Czech Open Source Policy Forum 2024: byli jsme u toho
+
+`| Pro veřejnou správu`
 
 V dubnu jsme v Brně spolupořádali **mezinárodní konferenci Open Source Policy Forum 2024**. Tvůrci politik, technologové a zastánci otevřeného softwaru z celého světa tu diskutovali o **budoucnosti open source technologií ve státní správě a samosprávě**.\
 \
