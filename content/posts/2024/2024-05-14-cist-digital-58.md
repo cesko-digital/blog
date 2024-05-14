@@ -15,7 +15,7 @@ description: Do online kurzu Nezisk Digital nabíráme dobrovolné
   určeny.
 lang: cs
 ---
-> \| Pro veřejnou správu
+\| Pro veřejnou správu
 
 ## Czech Open Source Policy Forum 2024: byli jsme u toho
 
@@ -23,7 +23,7 @@ V dubnu jsme v Brně spolupořádali mezinárodní konferenci Open Source Policy
 \
 Panelovou diskuzi se 4 expertními hosty a tématem „Jak mohou komunity pomoci státu k větší adopci open source řešení“ tu moderovala naše Veronika Quek. Celou si ji můžeš pustit ze [záznamu](https://www.youtube.com/live/5wVKoQsu-Zo?feature=shared&t=22222). A pro zajímavost: na open source řešeních už běží i Portál občana a Národní webový design systém. Česko je jedním z open source lídrů ve státní správě v celé EU a přímo na konferenci započala svou činnost i česká kancelář OSPO (Open Source Program Office).
 
-> \|﻿ Pro neziskové organizace
+\|﻿ Pro neziskové organizace
 
 ## Kurz Nezisk Digital – průvodci*průvodkyně i neziskovky, hlaste se
 
@@ -33,11 +33,7 @@ V online kurzu Nezisk Digital učíme neziskovky, jak vyladit jejich vnitřní p
 * *„Nevěřila jsem řešení, které nám průvodkyně navrhla, ale odezva od klientů byla pozitivní!“*
 * *„Pořádně jsme si nad tím sedli a identifikovali naše slabiny i skutečné potřeby.“*
 
-
-
 Další 12dílný online kurz startuje 9. září 2024. Je bezplatný a tvé organizaci ho připravíme přesně na míru. [Přihlas svou NNO](https://airtable.com/appBMJcLnBva02IEy/shrlymCJWH9WCdGRq) (tentokrát ze sociální oblasti), nebo se k nám [přidej jako průvodce*průvodkyně](https://app.cesko.digital/opportunities/recP8PO9DhSXwERTr) a proveď jednu z organizací digitální transformací. Vše o průvodcování ti rádi povíme i na [online setkání 30. 5.](https://app.cesko.digital/events/predstaveni-kurzu-nezisk-digital-mentorum)
-
-
 
 > *„Jsem ráda, že si mohu vyzkoušet jiný typ spolupráce než v klasickém byznys světě. Velkou přidanou hodnotu vidím ve sdílení zkušeností s ostatními průvodci, od nichž se můžu učit.“*
 >
@@ -76,6 +72,7 @@ Chceš pomoci neziskovkám zefektivnit jejich práci, aby mohly trávit více č
 **\>﻿ [To zní zajímavě](https://app.cesko.digital/events/predstaveni-kurzu-nezisk-digital-mentorum)**
 
 ## \
+
 Showcase #4 Digitální inkluze
 
 \> 30. května 2024 od 9:00, online
@@ -85,15 +82,13 @@ Představíme právě vznikající online příručku Pomáháme.Digital. Je ur�
 
 **\>﻿ [Něco pro mě!](https://app.cesko.digital/events/showcase-digitalni-inkluze-4)** 
 
-
-
-## Event Nezisk Digital #2 
+## Event Nezisk Digital #2
 
 \> 13. června 2024, 09:00–10:30 online  
 
 Chceš vyladit práci ve své neziskovce tak, aby vše běželo jako po drátkách? Účastníci*účastnice kurzu Nezisk Digital ti nasdílejí své zkušenosti z jeho průběhu: jaké si s pomocí průvodců zvolili nástroje pro řešení svých problémů a jak se jim daří začlenit je do svého každodenního fungování.
 
-**\>**﻿ [**Nenechám si ujít**](https://app.cesko.digital/events/event-nezisk-digital-24-2)
+**\>**﻿ **[Nenechám si ujít](https://app.cesko.digital/events/event-nezisk-digital-24-2)**
 
 ## Rezervuj si místo na Festivalu kreativní byrokracie 
 
@@ -103,21 +98,15 @@ Kreativní státní správa vedená zdravým rozumem a dobrou vůlí se sama neu
 \
 **\>﻿ [Pro vstupenky!](https://connect.boomevents.org/cs/event/1013b185-03c0-43ee-bee9-fadfeb47b380/order)**
 
-
-
 # Hledáš pomoc nebo radu pro svou organizaci? Poptej se na Tržišti!
 
 **\> [M﻿rkni na Tržiště](https://diskutuj.digital/c/trziste/5)**
-
-
 
 # Diskutuj o digitalizaci Česka!
 
 Digitální transformace státu, nástroje, inovace i podpultovky. Pojď se s námi bavit o všem, co souvisí s digitální budoucností Česka, která prospěje veřejné správě, nezisku i byznysu.
 
 **Aktuální a nejžhavější témata:**
-
-
 
 ### Jak řešíte bezpečnost v menším týmu?
 
@@ -131,15 +120,11 @@ Sociální podnik [Kuchařky bez domova](https://kucharkybezdomova.org/) by mo
 
 **[\> ﻿Nabídni pomoc](https://diskutuj.digital/t/uzitecne-tipy-od-daly-musila-pro-praci-s-notion/350/1)**
 
-
-
 # Příležitosti k zapojení
 
 Připoj se k neziskové organizaci s největší komunitou expertních dobrovolníků, zástupců neziskových organizací, veřejné správy a byznysu v Evropě. Všechny pozice najdeš na našich stránkách.
 
 **[\> Nakoukni na Příležitosti k zapojení](https://app.cesko.digital/opportunities)**
-
-
 
 # Děkujeme, že tě baví číst.digital!
 
