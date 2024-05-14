@@ -15,7 +15,7 @@ description: Do online kurzu Nezisk Digital nabíráme dobrovolné
   určeny.
 lang: cs
 ---
-## \| Pro veřejnou správu
+> ## \| Pro veřejnou správu
 
 ## Czech Open Source Policy Forum 2024: byli jsme u toho
 
@@ -23,7 +23,7 @@ V dubnu jsme v Brně spolupořádali **mezinárodní konferenci Open Source Poli
 \
 Panelovou **diskuzi** se 4 expertními hosty a tématem **„Jak mohou komunity pomoci státu k větší adopci open source řešení“** tu moderovala naše Veronika Quek. Celou si ji můžeš pustit ze **[záznamu](https://www.youtube.com/live/5wVKoQsu-Zo?feature=shared&t=22222)**. A pro zajímavost: na open source řešeních už běží i Portál občana a Národní webový design systém. Česko je jedním z open source lídrů ve státní správě v celé EU a přímo na konferenci započala svou činnost i česká kancelář OSPO (Open Source Program Office).
 
-\|﻿ Pro neziskové organizace
+> ## \|﻿ Pro neziskové organizace
 
 ## Kurz Nezisk Digital – průvodci*průvodkyně i neziskovky, hlaste se
 
