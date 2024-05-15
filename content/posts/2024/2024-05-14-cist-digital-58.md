@@ -33,7 +33,7 @@ V online kurzu Nezisk Digital **učíme neziskovky, jak vyladit jejich vnitřní
 * *„Nevěřila jsem řešení, které nám průvodkyně navrhla, ale odezva od klientů byla pozitivní!“*
 * *„Pořádně jsme si nad tím sedli a identifikovali naše slabiny i skutečné potřeby.“*
 
-Další 12dílný online kurz startuje 9. září 2024. Je bezplatný a tvé organizaci ho připravíme přesně na míru. **[Přihlas svou NNO](https://airtable.com/appBMJcLnBva02IEy/shrlymCJWH9WCdGRq)** (tentokrát ze sociální oblasti), nebo se k nám **[přidej jako průvodce*průvodkyně](https://app.cesko.digital/opportunities/recP8PO9DhSXwERTr)** a proveď jednu z organizací digitální transformací. Vše o průvodcování ti rádi povíme i na **[online setkání 30. 5.](https://app.cesko.digital/events/predstaveni-kurzu-nezisk-digital-mentorum)**
+Další 12dílný online kurz startuje 9. září 2024. Je bezplatný a tvé organizaci ho připravíme přesně na míru. **[Přihlas svou NNO](https://airtable.com/appBMJcLnBva02IEy/shrlymCJWH9WCdGRq)** (tentokrát ze sociální oblasti) **nejpozději do 5. června 2024**, nebo se k nám **[přidej jako průvodce*průvodkyně](https://app.cesko.digital/opportunities/recP8PO9DhSXwERTr)** a proveď jednu z organizací digitální transformací. Vše o průvodcování ti rádi povíme i na **[online setkání 30. 5.](https://app.cesko.digital/events/predstaveni-kurzu-nezisk-digital-mentorum)**
 
 > *„Jsem ráda, že si mohu vyzkoušet jiný typ spolupráce než v klasickém byznys světě. Velkou přidanou hodnotu vidím ve sdílení zkušeností s ostatními průvodci, od nichž se můžu učit.“*
 >
