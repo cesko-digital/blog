@@ -1,5 +1,4 @@
 import Footer from "app/footer";
-import NavigationBar from "app/navigation-bar";
 import "../global.css";
 import { MobileNav } from "./MobileNav";
 import { DesktopNav } from "./Navigation";

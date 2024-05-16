@@ -1,8 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
 
-import { SecondLevelNav } from "./SiteNav";
-
 export const DesktopNav = () => (
   <div className="flex flex-row gap-12 md:items-center lg:grid lg:grid-cols-3 lg:items-start mb-9">
     <div className="-mt-[21px] hidden lg:block">
@@ -13,8 +11,7 @@ export const DesktopNav = () => (
     </div>
     <div className="col-span-2 flex grow flex-row items-end">
       <div className="flex flex-col gap-7">
-        <FirstLevelNav />
-        {/* <SecondLevelNav /> */}
+        <FirstLevelNav />        
       </div>      
     </div>
   </div>

@@ -5,7 +5,6 @@ import { useState } from "react";
 import clsx from "clsx";
 
 import { FirstLevelNav, SquareLogo } from "./Navigation";
-import { SecondLevelNav } from "./SiteNav";
 
 export const MobileNav = () => {
   const [isOpen, setOpen] = useState(false);
@@ -44,8 +43,7 @@ export const MobileNav = () => {
           isOpen ? "flex" : "hidden",
         )}
       >
-        <FirstLevelNav />
-        {/* <SecondLevelNav />         */}
+        <FirstLevelNav />        
       </div>
     </div>
   );
