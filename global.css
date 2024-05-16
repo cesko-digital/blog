@@ -40,6 +40,17 @@
 
 @font-face {
   font-family: "Cesko Digital";
+  font-display: swap;
+  src:
+    url("https://data.cesko.digital/font/semibold.woff2") format("woff2"),
+    url("https://data.cesko.digital/font/semibold.woff") format("woff"),
+    url("https://data.cesko.digital/font/semibold.eot") format("eot");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Cesko Digital";
   src: url(https://data.cesko.digital/font/bold.woff2) format("woff2"),
     url(https://data.cesko.digital/font/bold.woff) format("woff"),
     url(https://data.cesko.digital/font/bold.eot) format("eot");
@@ -76,9 +87,10 @@ body {
   display: flex;
   justify-content: center;
   flex-direction: row;
-  max-width: 1200px;
+  max-width: 1164px;
   margin-right: 20px;
   margin-left: 20px;
+  margin-top: 10px;
   width: 100%;
 }
 
