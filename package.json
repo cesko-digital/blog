@@ -10,6 +10,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "clsx": "^2.1.1",
     "feed": "^4.2.2",
     "gray-matter": "^4.0.3",
     "marked": "^12.0.2",
@@ -34,7 +35,10 @@
     "jest": "^29.7.0",
     "js-yaml": "^4.1.0",
     "ts-jest": "^29.1.2",
-    "typescript": "^5.4.5"
+    "typescript": "^5.4.5",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3"
   },
   "jest": {
     "preset": "ts-jest",

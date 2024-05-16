@@ -1,6 +1,8 @@
 import Footer from "app/footer";
 import NavigationBar from "app/navigation-bar";
 import "../global.css";
+import { MobileNav } from "./MobileNav";
+import { DesktopNav } from "./Navigation";
 
 type Props = {
   children: React.ReactNode;
@@ -24,8 +26,8 @@ export default async function RootLayout({ children }: Props) {
         />
       </head>
       <body>
-        <div className="main-wrapper">
-          <NavigationBar />
+        <div className="main-wrapper">          
+          <Navigation/>
           <div className="content-wrapper">{children}</div>
           <PartnerSection />
           <Footer />
@@ -68,5 +70,20 @@ const PartnerSection = () => {
         ))}
       </div>
     </div>
+  );
+};
+
+const Navigation = () => {
+  return (
+    <nav className="w-full bg-pebble lg:pt-6">
+      <div className="m-auto -mb-12 max-w-content px-7 py-10">
+        <div className="block md:hidden">
+          <MobileNav />
+        </div>
+        <div className="hidden md:block">
+          <DesktopNav />
+        </div>
+      </div>
+    </nav>
   );
 };

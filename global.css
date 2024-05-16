@@ -1,3 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  /*
+   * Typography
+   * Inspired by https://developer.apple.com/design/human-interface-guidelines/typography
+   */
+  .typo-title {
+    @apply text-4xl font-bold;
+  }
+  .typo-title2 {
+    @apply text-3xl font-bold;
+  }
+  .typo-title3 {
+    @apply text-2xl font-bold;
+  }
+  .typo-subtitle {
+    @apply text-2xl;
+  }
+  .typo-caption {
+    @apply text-sm;
+  }
+  .typo-link {
+    @apply cursor-pointer underline underline-offset-2;
+  }
+}
+
 @import url("https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;0,600;1,400&display=swap");
 
 @font-face {
