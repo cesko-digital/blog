@@ -12,7 +12,7 @@
   "dependencies": {
     "feed": "^4.2.2",
     "marked": "^4.0.12",
-    "next": "^13.2.1",
+    "next": "14.x",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "remark": "^14.0.2",
@@ -29,7 +29,7 @@
     "@types/marked": "^4.0.2",
     "@types/node": "^17.0.13",
     "@types/react": "18",
-    "eslint-config-next": "^13.2.1",
+    "eslint-config-next": "14.x",
     "jest": "^27.4.7",
     "js-yaml": "^4.1.0",
     "ts-jest": "^27.1.3",
