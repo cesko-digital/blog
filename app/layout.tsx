@@ -1,6 +1,6 @@
 import Footer from "app/footer";
 import NavigationBar from "app/navigation-bar";
-import "../global.css";
+import "./global.css";
 
 type Props = {
   children: React.ReactNode;
