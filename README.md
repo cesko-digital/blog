@@ -15,8 +15,8 @@ Základní použití je jednoduché:
 ```bash
 $ git clone git@github.com:cesko-digital/blog.git
 $ cd blog
-$ yarn install
-$ yarn dev
+$ npm install
+$ npm run dev
 ```
 
 # Kontakt
