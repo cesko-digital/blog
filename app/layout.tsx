@@ -86,7 +86,7 @@ const NavigationBar = () => {
             <Link href="https://cesko.digital">Co děláme</Link>
           </li>
           <li>
-            <Link href="https://app.cesko.digital/">Zapojte se</Link>
+            <Link href="https://app.cesko.digital/">Zapojte se</Link>
           </li>
           <li>
             <Link href="/" className="navigation-current">
