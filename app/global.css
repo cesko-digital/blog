@@ -103,6 +103,7 @@ body {
   font-size: 1.25rem;
 }
 
+.navigation-menu a,
 .navigation-menu a:visited {
   color: black;
 }
