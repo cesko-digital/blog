@@ -1,5 +1,5 @@
-import Footer from "app/footer";
-import NavigationBar from "app/navigation-bar";
+import Link from "next/link";
+import Footer from "./footer";
 import "./global.css";
 
 type Props = {
@@ -66,6 +66,38 @@ const PartnerSection = () => {
             <img src={partner.logoUrl} alt={partner.name} />
           </a>
         ))}
+      </div>
+    </div>
+  );
+};
+
+//
+// Navigation
+//
+
+const NavigationBar = () => {
+  return (
+    <div className="navigation-wrapper">
+      <div className="navigation-bar">
+        <a href="/" className="logo-full" />
+        <a href="/" className="logo-square" />
+        <ul className="navigation-menu">
+          <li>
+            <Link href="https://cesko.digital" className="typo-link">
+              Co děláme
+            </Link>
+          </li>
+          <li>
+            <Link href="https://app.cesko.digital/" className="typo-link">
+              Zapojte se
+            </Link>
+          </li>
+          <li>
+            <Link href="/" className="font-semibold">
+              Blog
+            </Link>
+          </li>
+        </ul>
       </div>
     </div>
   );
