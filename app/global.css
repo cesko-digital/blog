@@ -11,10 +11,10 @@
 
 @font-face {
   font-family: "Cesko Digital";
-  src: url(https://data.cesko.digital/font/bold.woff2) format("woff2"),
-    url(https://data.cesko.digital/font/bold.woff) format("woff"),
-    url(https://data.cesko.digital/font/bold.eot) format("eot");
-  font-weight: 700;
+  src: url(https://data.cesko.digital/font/semibold.woff2) format("woff2"),
+    url(https://data.cesko.digital/font/semibold.woff) format("woff"),
+    url(https://data.cesko.digital/font/semibold.eot) format("eot");
+  font-weight: 600;
   font-style: normal;
 }
 
@@ -53,76 +53,100 @@ body {
   width: 100%;
 }
 
-.header-wrapper {
-  display: flex;
-  justify-content: center;
-  flex-direction: row;
-  max-width: 1200px;
-  margin-right: 20px;
-  margin-left: 20px;
+/* Navigation */
+
+.navigation-wrapper {
   width: 100%;
+  background-color: #f9f9f9;
 }
 
 .navigation-bar {
-  display: flex;
   width: 100%;
-  flex-direction: row-reverse;
-  justify-content: space-between;
+  max-width: 1200px;
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
   align-items: center;
-  margin-right: 20px;
-  margin-left: 20px;
+  padding: 40px 28px 40px 28px;
+  margin: auto;
 }
 
-.logo {
-  display: inline-block;
-  width: 183px;
-  height: 36px;
-  background: url("/logo.svg");
+.logo-full {
+  display: none;
+  width: 255px;
+  height: 53px;
+  background-image: url("/logo.svg");
   background-size: contain;
-  padding: 0 !important;
-  color: #1a2c29;
-  margin: 32px 5px 28px 20px;
-  /*
-  &__inner {
-    display: none;
-  }
-  */
+  margin-top: -21px; /* align logotype baseline with text right to it */
 }
 
-.toolbar-links {
+.logo-square {
+  width: 60px;
+  aspect-ratio: 1;
+  background-image: url("/favicon.png");
+  background-size: contain;
+}
+
+.navigation-menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
   display: flex;
-  width: 100%;
-  flex-wrap: wrap;
-  flex-grow: 0;
-  flex-shrink: 0;
-  align-items: normal;
-  justify-content: flex-end;
+  flex-direction: row;
+  gap: 28px;
 }
 
-.toolbar-link {
-  vertical-align: middle;
-  color: #080831;
-  margin: 20px;
-  font-size: 15px;
-  text-decoration: underline;
-  font-weight: 500;
-  line-height: 1.3;
-  text-overflow: ellipsis;
-  overflow: hidden;
-  white-space: nowrap;
-  width: min-content;
-}
-.toolbar-link:first-child {
-  margin-left: 5px;
+.navigation-menu {
+  font-size: 1.25rem;
 }
 
-.toolbar-link:hover {
-  transition: all 200ms ease-in-out;
+.navigation-menu a:visited {
+  color: black;
+}
+
+.navigation-current {
+  font-weight: 600;
   text-decoration: none;
 }
 
-.toolbar-link:last-child {
-  margin-right: 0;
+/* lg breakpoint and up */
+@media (min-width: 1024px) {
+  /* Replace square logo with full-width logotype */
+  .logo-square {
+    display: none;
+  }
+  .logo-full {
+    display: block;
+  }
+  .navigation-wrapper {
+    padding-top: 24px;
+  }
+
+  /* Switch navigation bar to grid layout */
+  .navigation-bar {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+/* Post Listing */
+
+.post-listing-row {
+  display: grid;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+  gap: 28px;
+  padding: 28px;
+}
+
+/* lg breakpoint and up */
+@media (min-width: 1024px) {
+  /* Three-column layout with big main post */
+  .post-listing-row {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .main-post {
+    grid-column: span 2 / span 2;
+  }
 }
 
 /* Partners */
@@ -132,8 +156,8 @@ body {
   max-width: 1200px;
   margin-top: 20px;
   margin-bottom: 20px;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 28px;
+  padding-right: 28px;
 }
 
 .partner-section h2 {
@@ -209,42 +233,7 @@ body {
   opacity: 0.6;
 }
 
-.cookie-note {
-  color: white;
-  font-weight: 400;
-  line-height: 1.4;
-  font-size: 14px;
-  text-align: center;
-}
-
-/* Post Listing */
-
-.post-listing-row {
-  display: flex;
-  flex-wrap: wrap;
-  flex-grow: 0;
-  flex-shrink: 0;
-  align-items: normal;
-  justify-content: flex-start;
-  width: 100%;
-}
-
-.main-post {
-  width: 66%;
-  padding: 10px;
-}
-
-.post-listing-post {
-  width: 33%;
-  padding: 10px;
-}
-
 /* Press Releases */
-
-.press-release-box {
-  width: 34%;
-  padding: 10px;
-}
 
 .press-release-listing {
   background: #ffffff;
@@ -552,61 +541,4 @@ ol {
 .post-content .volunteer .note {
   font-size: 14px;
   opacity: 0.5;
-}
-
-@media (orientation: portrait) {
-  .navigation-bar {
-    flex-direction: column;
-  }
-
-  .logo {
-    margin-left: 20px;
-  }
-
-  .toolbar-links {
-    justify-content: flex-start;
-  }
-
-  .toolbar-link {
-    margin: 0 25px 25px 0;
-    text-decoration: none;
-  }
-
-  .toolbar-link:hover {
-    text-decoration: underline;
-  }
-
-  .main-post {
-    width: 100%;
-  }
-
-  .post-listing-post {
-    width: 50%;
-  }
-
-  .press-release-box {
-    width: 100%;
-  }
-
-  .post-wrapper {
-    padding: 10px 20px 20px;
-  }
-
-  center iframe {
-    width: 100%;
-    height: auto;
-    overflow: hidden;
-  }
-}
-
-@media (max-width: 768px) {
-  .post-listing-post {
-    width: 50%;
-  }
-}
-
-@media (max-width: 576px) {
-  .post-listing-post {
-    width: 100%;
-  }
 }

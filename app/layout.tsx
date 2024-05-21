@@ -1,6 +1,6 @@
-import Footer from "app/footer";
-import NavigationBar from "app/navigation-bar";
-import "../global.css";
+import Link from "next/link";
+import Footer from "./footer";
+import "./global.css";
 
 type Props = {
   children: React.ReactNode;
@@ -66,6 +66,34 @@ const PartnerSection = () => {
             <img src={partner.logoUrl} alt={partner.name} />
           </a>
         ))}
+      </div>
+    </div>
+  );
+};
+
+//
+// Navigation
+//
+
+const NavigationBar = () => {
+  return (
+    <div className="navigation-wrapper">
+      <div className="navigation-bar">
+        <a href="/" className="logo-full" />
+        <a href="/" className="logo-square" />
+        <ul className="navigation-menu">
+          <li>
+            <Link href="https://cesko.digital">Co děláme</Link>
+          </li>
+          <li>
+            <Link href="https://app.cesko.digital/">Zapojte se</Link>
+          </li>
+          <li>
+            <Link href="/" className="navigation-current">
+              Blog
+            </Link>
+          </li>
+        </ul>
       </div>
     </div>
   );
