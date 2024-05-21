@@ -47,7 +47,7 @@ body {
   display: flex;
   justify-content: center;
   flex-direction: row;
-  max-width: 1200px;
+  max-width: 1180px;
   margin-right: 20px;
   margin-left: 20px;
   width: 100%;
@@ -58,18 +58,16 @@ body {
 .navigation-wrapper {
   width: 100%;
   background-color: #f9f9f9;
-  margin-right: 20px;
-  margin-left: 20px;
 }
 
 .navigation-bar {
   width: 100%;
-  max-width: 1200px;
+  max-width: 1180px;
   display: flex;
   flex-direction: row;
   gap: 48px;
   align-items: center;
-  padding: 40px 10px 40px 10px;
+  padding: 40px 20px 40px 20px;
   margin: auto;
 }
 
@@ -118,11 +116,31 @@ body {
   }
 }
 
+/* Post Listing */
+
+.post-listing-row {
+  display: grid;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+/* lg breakpoint and up */
+@media (min-width: 1024px) {
+  /* Three-column layout with big main post */
+  .post-listing-row {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .main-post {
+    grid-column: span 2 / span 2;
+  }
+}
+
 /* Partners */
 
 .partner-section {
   width: 100%;
-  max-width: 1200px;
+  max-width: 1160px;
   margin-top: 20px;
   margin-bottom: 20px;
   padding-left: 20px;
@@ -202,42 +220,7 @@ body {
   opacity: 0.6;
 }
 
-.cookie-note {
-  color: white;
-  font-weight: 400;
-  line-height: 1.4;
-  font-size: 14px;
-  text-align: center;
-}
-
-/* Post Listing */
-
-.post-listing-row {
-  display: flex;
-  flex-wrap: wrap;
-  flex-grow: 0;
-  flex-shrink: 0;
-  align-items: normal;
-  justify-content: flex-start;
-  width: 100%;
-}
-
-.main-post {
-  width: 66%;
-  padding: 10px;
-}
-
-.post-listing-post {
-  width: 33%;
-  padding: 10px;
-}
-
 /* Press Releases */
-
-.press-release-box {
-  width: 34%;
-  padding: 10px;
-}
 
 .press-release-listing {
   background: #ffffff;
@@ -545,40 +528,4 @@ ol {
 .post-content .volunteer .note {
   font-size: 14px;
   opacity: 0.5;
-}
-
-@media (orientation: portrait) {
-  .main-post {
-    width: 100%;
-  }
-
-  .post-listing-post {
-    width: 50%;
-  }
-
-  .press-release-box {
-    width: 100%;
-  }
-
-  .post-wrapper {
-    padding: 10px 20px 20px;
-  }
-
-  center iframe {
-    width: 100%;
-    height: auto;
-    overflow: hidden;
-  }
-}
-
-@media (max-width: 768px) {
-  .post-listing-post {
-    width: 50%;
-  }
-}
-
-@media (max-width: 576px) {
-  .post-listing-post {
-    width: 100%;
-  }
 }
