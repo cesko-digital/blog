@@ -11,10 +11,10 @@
 
 @font-face {
   font-family: "Cesko Digital";
-  src: url(https://data.cesko.digital/font/bold.woff2) format("woff2"),
-    url(https://data.cesko.digital/font/bold.woff) format("woff"),
-    url(https://data.cesko.digital/font/bold.eot) format("eot");
-  font-weight: 700;
+  src: url(https://data.cesko.digital/font/semibold.woff2) format("woff2"),
+    url(https://data.cesko.digital/font/semibold.woff) format("woff"),
+    url(https://data.cesko.digital/font/semibold.eot) format("eot");
+  font-weight: 600;
   font-style: normal;
 }
 
@@ -94,6 +94,19 @@ body {
   display: flex;
   flex-direction: row;
   gap: 28px;
+}
+
+.navigation-menu {
+  font-size: 1.25rem;
+}
+
+.navigation-menu a:visited {
+  color: black;
+}
+
+.navigation-current {
+  font-weight: 600;
+  text-decoration: none;
 }
 
 /* lg breakpoint and up */

@@ -83,17 +83,13 @@ const NavigationBar = () => {
         <a href="/" className="logo-square" />
         <ul className="navigation-menu">
           <li>
-            <Link href="https://cesko.digital" className="typo-link">
-              Co děláme
-            </Link>
+            <Link href="https://cesko.digital">Co děláme</Link>
           </li>
           <li>
-            <Link href="https://app.cesko.digital/" className="typo-link">
-              Zapojte se
-            </Link>
+            <Link href="https://app.cesko.digital/">Zapojte se</Link>
           </li>
           <li>
-            <Link href="/" className="font-semibold">
+            <Link href="/" className="navigation-current">
               Blog
             </Link>
           </li>
