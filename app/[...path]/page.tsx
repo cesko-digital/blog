@@ -1,5 +1,5 @@
-import PostCard from "shared/post-card";
-import PressReleaseListing from "shared/press-releases";
+import PostCard from "components/PostCard";
+import PressReleaseListing from "components/PressReleaseListing";
 import { Author } from "shared/author";
 import { BlogPost, PostMetadata, stripBlogPostBody } from "shared/post";
 import {
@@ -35,11 +35,7 @@ const Post = ({ params }: Props) => {
       <div className="lg:col-span-2">
         <PostBody post={post} author={author} />
       </div>
-
-      <div className="press-release-box">
-        <PressReleaseListing />
-      </div>
-
+      <PressReleaseListing />
       {otherPosts.map((post) => (
         <div className="post-listing-post" key={post.path}>
           <PostCard post={post} author={authorOf(post)} />

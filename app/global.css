@@ -2,6 +2,40 @@
 @tailwind components;
 @tailwind utilities;
 
+/*
+ * Commonly used Tailwind shorthands.
+ *
+ * NOTE: Avoid premature abstraction here:
+ * https://tailwindcss.com/docs/reusing-styles
+ */
+
+@layer components {
+  /*
+   * Typography
+   * Inspired by https://developer.apple.com/design/human-interface-guidelines/typography
+   */
+  .typo-title {
+    @apply text-4xl font-bold;
+  }
+  .typo-title2 {
+    @apply text-3xl font-bold;
+  }
+  .typo-title3 {
+    @apply text-2xl font-bold;
+  }
+  .typo-subtitle {
+    @apply text-2xl;
+  }
+  .typo-caption {
+    @apply text-sm;
+  }
+  .typo-link {
+    @apply cursor-pointer underline underline-offset-2;
+  }
+}
+
+/* Fonts */
+
 @import url("https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;0,600;1,400&display=swap");
 
 @font-face {
@@ -22,75 +56,12 @@
   font-style: normal;
 }
 
+/* Global styles */
+
 body {
   font-family: "Cesko Digital", sans-serif;
   background: #ffffff;
   color: #21262c;
-}
-
-/* Press Releases */
-
-.press-release-listing {
-  background: #ffffff;
-  border: 2px solid rgb(237, 237, 239);
-  border-radius: 14px;
-  padding: 20px 20px 0 20px;
-  max-height: 800px;
-  height: 100%;
-}
-
-.press-release-row {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  flex-wrap: wrap-reverse;
-  margin-bottom: 15px;
-}
-
-.press-release-icon {
-  margin-right: 10px;
-  margin-left: 4px;
-}
-
-.press-release-title {
-  font-style: normal;
-  font-weight: bold;
-  font-size: 24px;
-  line-height: 150%;
-  /* identical to box height, or 36px */
-  color: #080831;
-  margin: 0;
-}
-
-.press-release-divider {
-  height: 1px;
-  width: 100%;
-  box-shadow: inset 0px -1px 0px rgba(0, 0, 0, 0.1);
-}
-
-.press-release-link {
-  display: block;
-  padding: 1rem 20px;
-  text-decoration: none;
-  color: #2b2b2b;
-  margin-left: -20px;
-  margin-right: -20px;
-  width: calc(100% + 40px);
-  position: relative;
-}
-
-.press-release-link:before {
-  content: "";
-  display: block;
-  position: absolute;
-  top: 0;
-  right: 20px;
-  bottom: 0;
-  left: 20px;
-  width: calc(100% - 40px);
-  height: 100%;
-  box-shadow: 0 4px 5px -5px #ffffff;
-  transition: 0.25s box-shadow ease-out;
 }
 
 /* Post Card */

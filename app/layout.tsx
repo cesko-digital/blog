@@ -64,7 +64,7 @@ const SquareLogo = () => (
 );
 
 const Menu = () => (
-  <ul className="flex flex-row gap-7 text-xl underline underline-offset-2">
+  <ul className="flex flex-row gap-7 text-xl typo-link">
     <li>
       <Link href="https://cesko.digital">Co děláme</Link>
     </li>
@@ -135,7 +135,11 @@ const Footer = () => {
     <div className="w-full bg-plum py-12">
       <div className="max-w-content m-auto flex flex-row flex-wrap justify-center items-center gap-10 px-7">
         {socialLinks.map((item) => (
-          <a key={item.name} className="block text-white" href={item.url}>
+          <a
+            key={item.name}
+            className="block text-white typo-link"
+            href={item.url}
+          >
             {item.name}
           </a>
         ))}
