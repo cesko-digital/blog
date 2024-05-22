@@ -28,25 +28,6 @@ body {
   color: #21262c;
 }
 
-/* Post Listing */
-
-.post-listing-row {
-  display: grid;
-  grid-template-columns: repeat(1, minmax(0, 1fr));
-  gap: 28px;
-}
-
-/* lg breakpoint and up */
-@media (min-width: 1024px) {
-  /* Three-column layout with big main post */
-  .post-listing-row {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-  .main-post {
-    grid-column: span 2 / span 2;
-  }
-}
-
 /* Press Releases */
 
 .press-release-listing {

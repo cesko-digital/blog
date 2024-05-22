@@ -31,8 +31,8 @@ const Post = ({ params }: Props) => {
     authors.find((a) => a.id === post.authorId)!;
 
   return (
-    <div className="post-listing-row">
-      <div className="main-post">
+    <div className="grid lg:grid-cols-3 gap-7">
+      <div className="lg:col-span-2">
         <PostBody post={post} author={author} />
       </div>
 
