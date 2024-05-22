@@ -1,7 +1,7 @@
 import { PostMetadata } from "shared/post";
 import { getAllAuthors, getAllBlogPosts } from "shared/site-data";
-import PostCard from "shared/post-card";
-import PressReleaseListing from "shared/press-releases";
+import PostCard from "components/PostCard";
+import PressReleaseListing from "components/PressReleaseListing";
 import { Metadata } from "next";
 
 const Home = () => {
@@ -18,11 +18,7 @@ const Home = () => {
           showCover={true}
         />
       </div>
-
-      <div className="press-release-box">
-        <PressReleaseListing />
-      </div>
-
+      <PressReleaseListing />
       {otherPosts.map((post) => (
         <div className="post-listing-post" key={post.path}>
           <PostCard post={post} author={authorOf(post)} />
