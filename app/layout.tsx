@@ -1,6 +1,5 @@
 import Link from "next/link";
 import Image from "next/image";
-import Footer from "./footer";
 import "./global.css";
 
 type Props = {
@@ -124,3 +123,52 @@ const Partners = () => {
     </div>
   );
 };
+
+//
+// Footer
+//
+
+const Footer = () => {
+  return (
+    <div className="w-full bg-plum py-12">
+      <div className="max-w-content m-auto flex flex-row flex-wrap justify-center items-center gap-10 px-7">
+        {socialLinks.map((item) => (
+          <a key={item.name} className="block text-white" href={item.url}>
+            {item.name}
+          </a>
+        ))}
+      </div>
+    </div>
+  );
+};
+
+const socialLinks = [
+  {
+    url: "https://www.facebook.com/cesko.digital",
+    name: "Facebook",
+  },
+  {
+    url: "https://twitter.com/CeskoDigital",
+    name: "Twitter",
+  },
+  {
+    url: "https://www.linkedin.com/company/cesko-digital/",
+    name: "LinkedIn",
+  },
+  {
+    url: "https://www.instagram.com/cesko.digital/",
+    name: "Instagram",
+  },
+  {
+    url: "https://www.youtube.com/c/ČeskoDigital",
+    name: "YouTube",
+  },
+  {
+    url: "https://anchor.fm/poslouchatdigital",
+    name: "Podcast",
+  },
+  {
+    url: "http://github.com/cesko-digital",
+    name: "GitHub",
+  },
+];
