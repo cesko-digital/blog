@@ -47,52 +47,6 @@ body {
   }
 }
 
-/* Footer */
-
-.footer {
-  margin-top: 20px;
-  background: #080831;
-  padding: 30px;
-  width: 100%;
-  margin-left: -20px;
-  margin-right: -20px;
-}
-
-.footer-content {
-  display: flex;
-  flex-direction: column;
-}
-
-.footer-row {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-}
-
-.footer-item {
-  padding: 20px;
-}
-
-.footer-link {
-  vertical-align: middle;
-  font-size: 16px;
-  text-decoration: none;
-  font-weight: bold;
-  line-height: 1.4;
-  text-overflow: ellipsis;
-  overflow: hidden;
-  color: white;
-  white-space: nowrap;
-  width: min-content;
-}
-
-.footer-link:hover {
-  transition: all 200ms ease-in-out;
-  opacity: 0.6;
-}
-
 /* Press Releases */
 
 .press-release-listing {
