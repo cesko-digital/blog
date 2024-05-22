@@ -104,7 +104,7 @@ const Partners = () => {
   return (
     <div className="w-full max-w-content m-auto px-7 my-12 text-center">
       <h2 className="mb-10">Partneři</h2>
-      <div className="flex flex-row items-center justify-around gap-7">
+      <div className="flex flex-row items-center justify-center gap-7">
         {partners.map((partner) => (
           <a
             key={partner.id}
