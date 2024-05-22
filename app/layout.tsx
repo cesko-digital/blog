@@ -1,7 +1,7 @@
 import Link from "next/link";
+import Image from "next/image";
 import Footer from "./footer";
 import "./global.css";
-import Image from "next/image";
 
 type Props = {
   children: React.ReactNode;
@@ -25,52 +25,16 @@ export default async function RootLayout({ children }: Props) {
         />
       </head>
       <body>
-        <div className="main-wrapper">
+        <div className="flex flex-col gap-7">
           <NavigationBar />
-          <div className="content-wrapper">{children}</div>
-          <PartnerSection />
+          <main className="max-w-content px-7 m-auto">{children}</main>
+          <Partners />
           <Footer />
         </div>
       </body>
     </html>
   );
 }
-
-const PartnerSection = () => {
-  const partners = [
-    {
-      id: "ppf",
-      linkUrl: "https://nadaceppf.cz/",
-      name: "Nadace PPF",
-      logoUrl:
-        "https://data.cesko.digital/web/sections/partners/zna__ka_nadace_ppf.png",
-    },
-    {
-      id: "google",
-      linkUrl: "https://www.google.org/",
-      name: "Google.org",
-      logoUrl:
-        "https://data.cesko.digital/web/sections/partners/google.org_color_852x272px.png",
-    },
-  ];
-
-  return (
-    <div className="partner-section">
-      <h2>Partneři</h2>
-      <div className="partner-logos">
-        {partners.map((partner) => (
-          <a
-            key={partner.id}
-            href={partner.linkUrl}
-            className="partner-logo-card"
-          >
-            <img src={partner.logoUrl} alt={partner.name} />
-          </a>
-        ))}
-      </div>
-    </div>
-  );
-};
 
 //
 // Navigation
@@ -115,3 +79,48 @@ const Menu = () => (
     </li>
   </ul>
 );
+
+//
+// Partners
+//
+
+const Partners = () => {
+  const partners = [
+    {
+      id: "ppf",
+      linkUrl: "https://nadaceppf.cz/",
+      name: "Nadace PPF",
+      logoUrl:
+        "https://data.cesko.digital/web/sections/partners/zna__ka_nadace_ppf.png",
+    },
+    {
+      id: "google",
+      linkUrl: "https://www.google.org/",
+      name: "Google.org",
+      logoUrl:
+        "https://data.cesko.digital/web/sections/partners/google.org_color_852x272px.png",
+    },
+  ];
+
+  return (
+    <div className="w-full max-w-content m-auto px-7 my-12 text-center">
+      <h2 className="mb-10">Partneři</h2>
+      <div className="flex flex-row items-center justify-around gap-7">
+        {partners.map((partner) => (
+          <a
+            key={partner.id}
+            href={partner.linkUrl}
+            className="block w-[160px] h-[100px] relative"
+          >
+            <Image
+              className="object-contain"
+              src={partner.logoUrl}
+              alt={partner.name}
+              fill
+            />
+          </a>
+        ))}
+      </div>
+    </div>
+  );
+};
