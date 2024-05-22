@@ -22,18 +22,8 @@
   font-style: normal;
 }
 
-* {
-  box-sizing: border-box;
-}
-
-html {
-  height: 100%;
-}
-
 body {
-  margin: 0;
   font-family: "Cesko Digital", sans-serif;
-  -webkit-font-smoothing: antialiased;
   background: #ffffff;
   color: #21262c;
 }
