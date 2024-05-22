@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Footer from "./footer";
 import "./global.css";
+import Image from "next/image";
 
 type Props = {
   children: React.ReactNode;
@@ -77,24 +78,40 @@ const PartnerSection = () => {
 
 const NavigationBar = () => {
   return (
-    <div className="navigation-wrapper">
-      <div className="navigation-bar">
-        <a href="/" className="logo-full" />
-        <a href="/" className="logo-square" />
-        <ul className="navigation-menu">
-          <li>
-            <Link href="https://cesko.digital">Co děláme</Link>
-          </li>
-          <li>
-            <Link href="https://app.cesko.digital/">Zapojte se</Link>
-          </li>
-          <li>
-            <Link href="/" className="navigation-current">
-              Blog
-            </Link>
-          </li>
-        </ul>
-      </div>
+    <div className="w-full bg-pebble lg:pt-6">
+      <nav className="max-w-content flex flex-row flex-wrap gap-x-12 gap-y-7 items-center py-10 px-7 m-auto lg:grid lg:grid-cols-3">
+        <FullLogo />
+        <SquareLogo />
+        <Menu />
+      </nav>
     </div>
   );
 };
+
+const FullLogo = () => (
+  <a href="/" className="-mt-[21px] hidden lg:block">
+    <Image src="/logo.svg" width={255} height={53} alt="Česko.Digital" />
+  </a>
+);
+
+const SquareLogo = () => (
+  <a href="/" className="lg:hidden">
+    <Image src="/favicon.png" width={60} height={60} alt="Česko.Digital" />
+  </a>
+);
+
+const Menu = () => (
+  <ul className="flex flex-row gap-7 text-xl underline underline-offset-2">
+    <li>
+      <Link href="https://cesko.digital">Co děláme</Link>
+    </li>
+    <li>
+      <Link href="https://app.cesko.digital/">Zapojte se</Link>
+    </li>
+    <li>
+      <Link href="/" className="font-bold no-underline">
+        Blog
+      </Link>
+    </li>
+  </ul>
+);
