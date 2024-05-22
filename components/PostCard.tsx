@@ -8,30 +8,24 @@ interface Props {
   showCover?: boolean;
 }
 
-const PostCard: React.FC<Props> = ({ post, author, showCover = false }) => {
+const PostCard = ({ post, author, showCover = false }: Props) => {
   const formatDate = (stamp: string) =>
     new Date(stamp).toLocaleDateString("cs-CZ", { dateStyle: "medium" });
   return (
-    <Link href={post.path} className="post-card-link">
-      <div className="post-card">
-        {showCover && (
-          <img
-            alt=""
-            loading="lazy"
-            width="100%"
-            style={{ borderTopLeftRadius: 10, borderTopRightRadius: 10 }}
-            src={post.coverImageUrl}
-          />
-        )}
-        <div className="post-card-meta">
-          <div className="post-card-author">
-            {formatDate(post.date)}
-            {" • "}
-            {author.name}
-          </div>
-          <h2>{post.title}</h2>
-          <p className="post-card-description">{post.description}</p>
+    <Link
+      href={post.path}
+      className="block border-2 border-gray rounded-xl post-card h-full overflow-clip hover:shadow-lg"
+    >
+      {showCover && (
+        <img alt="" loading="lazy" width="100%" src={post.coverImageUrl} />
+      )}
+      <div className="p-5 flex flex-col gap-4">
+        <div className="-mb-2 flex flex-row gap-2">
+          <span>{formatDate(post.date)}</span>
+          <span>{author.name}</span>
         </div>
+        <h2 className="typo-title2">{post.title}</h2>
+        <p className="line-clamp-3">{post.description}</p>
       </div>
     </Link>
   );
