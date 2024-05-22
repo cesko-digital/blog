@@ -102,23 +102,25 @@ const Partners = () => {
   ];
 
   return (
-    <div className="w-full max-w-content m-auto px-7 my-12 text-center">
-      <h2 className="mb-10">Partneři</h2>
-      <div className="flex flex-row items-center justify-center gap-7">
-        {partners.map((partner) => (
-          <a
-            key={partner.id}
-            href={partner.linkUrl}
-            className="block w-[160px] h-[100px] relative"
-          >
-            <Image
-              className="object-contain"
-              src={partner.logoUrl}
-              alt={partner.name}
-              fill
-            />
-          </a>
-        ))}
+    <div className="bg-pebble py-12 mt-7 -mb-7">
+      <div className="w-full max-w-content m-auto px-7 text-center">
+        <h2 className="typo-title2 mb-10">Partneři</h2>
+        <div className="flex flex-row items-center justify-center gap-7">
+          {partners.map((partner) => (
+            <a
+              key={partner.id}
+              href={partner.linkUrl}
+              className="block w-[160px] h-[100px] relative"
+            >
+              <Image
+                className="object-contain"
+                src={partner.logoUrl}
+                alt={partner.name}
+                fill
+              />
+            </a>
+          ))}
+        </div>
       </div>
     </div>
   );
