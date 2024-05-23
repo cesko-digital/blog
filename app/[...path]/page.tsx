@@ -37,9 +37,7 @@ const Post = ({ params }: Props) => {
       </div>
       <PressReleaseListing />
       {otherPosts.map((post) => (
-        <div className="post-listing-post" key={post.path}>
-          <PostCard post={post} author={authorOf(post)} />
-        </div>
+        <PostCard key={post.path} post={post} author={authorOf(post)} />
       ))}
     </div>
   );
@@ -49,27 +47,20 @@ const PostBody = ({ post, author }: { post: BlogPost; author: Author }) => {
   const formatDate = (stamp: string) =>
     new Date(stamp).toLocaleDateString("cs-CZ", { dateStyle: "medium" });
   return (
-    <div className="post-container" lang={post.lang}>
-      <img
-        alt=""
-        loading="lazy"
-        width="100%"
-        style={{ borderTopLeftRadius: 10, borderTopRightRadius: 10 }}
-        src={post.coverImageUrl}
-      />
+    <div
+      className="border-2 border-gray rounded-xl overflow-clip"
+      lang={post.lang}
+    >
+      <img src={post.coverImageUrl} alt="" loading="lazy" width="100%" />
 
-      <div className="post-wrapper">
-        <div className="post-metadata">
+      <div className="flex flex-col gap-4 p-5">
+        <div className="flex flex-row gap-2 -mb-2">
           {formatDate(post.date)}
-          {" • "}
-          <a className="post-author" href={`mailto:${author.email}`}>
-            {author.name}
-          </a>
-          {/* TODO: Language versions */}
+          <a href={`mailto:${author.email}`}>{author.name}</a>
         </div>
 
-        <h1 className="post-title">{post.title}</h1>
-        <p className="post-perex">{post.description}</p>
+        <h1 className="typo-title">{post.title}</h1>
+        <p>{post.description}</p>
 
         <div
           className="post-content"

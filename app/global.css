@@ -60,60 +60,6 @@ body {
 
 /* Posts */
 
-.post-container {
-  background: #ffffff;
-  border: 2px solid rgb(237, 237, 239);
-  border-radius: 14px;
-}
-
-.post-wrapper {
-  padding: 10px 40px 40px;
-}
-
-.post-metadata {
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 150%;
-  /* identical to box height, or 24px */
-  margin-bottom: 10px;
-  margin-top: 5px;
-  color: #000000;
-  width: auto;
-}
-
-.post-author {
-  text-decoration: none;
-  color: #000000;
-}
-
-.post-title {
-  font-style: normal;
-  font-weight: bold;
-  font-size: 36px;
-  line-height: 130%;
-  /* identical to box height, or 36px */
-  color: #000000;
-  margin: 0;
-}
-
-.post-perex {
-  font-family: "Fira Sans", sans-serif;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 23px;
-  line-height: 150%;
-  /* or 30px */
-  color: #080831;
-  opacity: 1;
-  display: block;
-  display: -webkit-box;
-  max-width: 100%;
-  -webkit-box-orient: vertical;
-  /* or 24px */
-  margin-top: 10px;
-}
-
 .post-button {
   background: #ffffff;
   box-sizing: border-box;
