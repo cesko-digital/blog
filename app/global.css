@@ -58,54 +58,63 @@ body {
   color: #21262c;
 }
 
-/* Post Content */
+/*
+ * Content Styling
+ */
 
 .post-content {
   font-family: "Fira Sans", sans-serif;
+  font-size: 18px;
   font-style: normal;
-  /* or 26px */
-  color: #000000;
 }
+
+/* Headings */
 
 .post-content h1,
 .post-content h2,
 .post-content h3 {
   font-family: "Cesko Digital", sans-serif;
+  font-weight: bold;
+  margin-top: 2ex;
+  margin-bottom: 1ex;
+  line-height: 140%;
 }
 
 .post-content h1 {
-  margin-top: 1.5em;
+  font-size: 2rem;
 }
 
-.post-content p {
-  font-style: normal;
-  font-weight: normal;
-  font-size: 20px;
-  color: #080831;
+.post-content h2 {
+  font-size: 1.5rem;
 }
 
-.post-content p,
-li {
-  line-height: 30px;
+.post-content h3 {
+  font-size: 1.2rem;
 }
+
+/* Block Content */
 
 .post-content ul,
-ol {
-  padding-left: 1.2em;
-  font-size: 20px;
+.post-content ol,
+.post-content p {
+  margin-top: 2ex;
+  margin-bottom: 2ex;
 }
+
+.post-content ul {
+  list-style: disc outside;
+  margin-left: 1em;
+}
+
+.post-content iframe {
+  width: 100%;
+}
+
+/* Inline Content */
 
 .post-content img {
   border-radius: 10px;
   max-width: 100%;
-}
-
-.post-content .picture-note {
-  margin-top: -15px;
-  margin-left: 5px;
-  font-size: 16px;
-  line-height: 150%;
-  opacity: 0.5;
 }
 
 .post-content a {
@@ -114,14 +123,7 @@ ol {
   text-decoration: none;
 }
 
-.post-content a:hover {
-  transition: all 200ms ease-in-out;
-  border-bottom: none;
-}
-
-.post-content h2 {
-  margin-top: 50px;
-}
+/* Volunteer Banners */
 
 .post-content .volunteers {
   display: flex;
