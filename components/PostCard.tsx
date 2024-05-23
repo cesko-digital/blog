@@ -16,6 +16,7 @@ const PostCard = ({ post, author, showCover = false }: Props) => {
       href={post.path}
       className="block border-2 border-gray rounded-xl post-card h-full overflow-clip hover:shadow-lg"
     >
+      {/* TBD: Convert to next/image */}
       {showCover && (
         <img alt="" loading="lazy" width="100%" src={post.coverImageUrl} />
       )}
