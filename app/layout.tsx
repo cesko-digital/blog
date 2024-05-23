@@ -70,15 +70,19 @@ const SquareLogo = () => (
 );
 
 const Menu = () => (
-  <ul className="flex flex-row gap-7 text-xl typo-link">
+  <ul className="flex flex-row gap-7 text-xl">
     <li>
-      <Link href="https://cesko.digital">Co děláme</Link>
+      <Link href="https://cesko.digital" className="typo-link">
+        Co děláme
+      </Link>
     </li>
     <li>
-      <Link href="https://app.cesko.digital/">Zapojte se</Link>
+      <Link href="https://app.cesko.digital/" className="typo-link">
+        Zapojte se
+      </Link>
     </li>
     <li>
-      <Link href="/" className="font-bold no-underline">
+      <Link href="/" className="font-bold">
         Blog
       </Link>
     </li>
