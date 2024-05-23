@@ -68,9 +68,8 @@ const PostBody = ({ post, author }: { post: BlogPost; author: Author }) => {
         {formatDate(post.date)}
         <a href={`mailto:${author.email}`}>{author.name}</a>
       </div>
-
       <h1 className="typo-title">{post.title}</h1>
-      <p>{post.description}</p>
+      <p className="text-xl">{post.description}</p>
     </Fragment>
   );
 
@@ -81,7 +80,6 @@ const PostBody = ({ post, author }: { post: BlogPost; author: Author }) => {
     >
       {/* TBD: Replace with next/image */}
       <img src={post.coverImageUrl} alt="" loading="lazy" width="100%" />
-
       <div className="flex flex-col gap-4 p-5">
         <PostMetadata />
         <div
