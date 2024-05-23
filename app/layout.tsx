@@ -52,15 +52,21 @@ const NavigationBar = () => {
 };
 
 const FullLogo = () => (
-  <a href="/" className="-mt-[21px] hidden lg:block">
-    <Image src="/logo.svg" width={255} height={53} alt="Česko.Digital" />
-  </a>
+  <Link href="/" className="-mt-[21px] hidden lg:block">
+    <Image
+      src="/logo.svg"
+      width={255}
+      height={53}
+      alt="Česko.Digital"
+      className="select-none"
+    />
+  </Link>
 );
 
 const SquareLogo = () => (
-  <a href="/" className="lg:hidden">
+  <Link href="/" className="lg:hidden">
     <Image src="/favicon.png" width={60} height={60} alt="Česko.Digital" />
-  </a>
+  </Link>
 );
 
 const Menu = () => (
