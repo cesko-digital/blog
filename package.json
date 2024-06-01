@@ -23,17 +23,17 @@
     "unified": "^11.0.4"
   },
   "devDependencies": {
-    "@typescript-eslint/parser": "^7.9.0",
-    "@playwright/test": "^1.30.0",
+    "@typescript-eslint/parser": "^7.11.0",
+    "@playwright/test": "^1.44.1",
     "@types/jest": "^29.5.12",
     "@types/js-yaml": "^4.0.9",
     "@types/marked": "^6.0.0",
-    "@types/node": "^20.12.12",
+    "@types/node": "^20.13.0",
     "@types/react": "18",
     "eslint-config-next": "14.x",
     "jest": "^29.7.0",
     "js-yaml": "^4.1.0",
-    "ts-jest": "^29.1.2",
+    "ts-jest": "^29.1.4",
     "typescript": "^5.4.5"
   },
   "jest": {
