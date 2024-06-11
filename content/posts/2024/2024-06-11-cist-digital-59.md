@@ -15,7 +15,7 @@ description: Přejete si také skvělé digitální služby státu pro všechny?
   šiřte ji dál! Novinek ale máme víc.
 lang: cs
 ---
-## Odstartovali jsme velký projekt Digitální partnerství
+# Odstartovali jsme velký projekt Digitální partnerství
 
 Asi 60 zástupců veřejné správy, byznysu i nezisku přišlo na **oficiální start** naší společné aktivity **[Digitální partnerství](https://digitalnipartnerstvi.cesko.digital)**. Jejím cílem je vybudovat dlouhodobě udržitelnou platformu, která by umožňovala vznik skutečně prouživatelských digitálních veřejných služeb státu. A začneme hned prakticky: zkoumáním obyvatel a firem a tvorbou person pro tvůrce nových digitálních služeb.
 
@@ -41,7 +41,7 @@ A proč se zapojit? Pokud vás zajímá digitalizace státu, tady uvidíte pří
 
 > **\| Pro neziskové organizace**
 
-## Pomáháme.Digital: první verze naší digi příručky pro zaměstnané v sociálních službách je na světě! Co si o ní myslíte?
+# Pomáháme.Digital: první verze naší digi příručky pro zaměstnané v sociálních službách je na světě! Co si o ní myslíte?
 
 V Česku žije skoro 3 000 000 digitálně ohrožených, nebo vyloučených obyvatel, což má a bude mít stále větší dopad na kvalitu jejich života. Jak jim s digitálním světem pomoci? Nejefektivnější cestou jsou **zaměstnanci a zaměstnankyně v sociálních službách**, kteří s těmito skupinami bývají v úzkém kontaktu. **Digi kompetence ale sociálním službám** nezřídka **chybí**, proto je krokem číslo jedna **předat jim je ve srozumitelné formě**. A to je cílem naší novinky – **webové příručky Pomáháme.Digital**.
 
@@ -53,37 +53,37 @@ Příručku jsme nedávno prezentovali na online Showcase #4 Digitální inkluze
 
 ![](https://assets.cesko.digital/bf533ccc.png)
 
-## Kurz Nezisk Digital – nestihli jste přihlášky?
+# Kurz Nezisk Digital – nestihli jste přihlášky?
 
 Zjistili jste pozdě, že chcete projít naším jedinečným online kurzem, který neziskovkám pomáhá s jejich efektivitou? Termín pro přihlášky sice uběhl, ale **pořád máme 5 volných míst**. Tak honem jedno obsaďte, protože určitě nebudete litovat! K registraci do kurzu vás může rozhoupat i záznam z akce [Jak bude probíhat podzimní kurz a proč se do něj zapojit (Q&A)](https://youtu.be/cd3WC6bWmNk).
 
 **\>﻿ [Přihlásit se na kurz](https://airtable.com/appBMJcLnBva02IEy/shrlymCJWH9WCdGRq)**
 
-## `Digitální jednohubky`
+# `Digitální jednohubky`
 
-### Naše Digitální inkluze zabodovala v Evropě
+## Naše Digitální inkluze zabodovala v Evropě
 
 Tenhle úspěch si nemůžeme nechat pro sebe! Náš projekt Digitální inkluze (Pomáháme.Digital je jeho součástí) se zatím probojoval mezi [**5 nejlepších z 65**  „konkurentů“ v kategorii Digital Upskilling @ Work](https://digital-skills-jobs.europa.eu/en/latest/news/all-finalists-european-digital-skills-awards-2024) soutěže **The European Digital Skills Awards 2024**. Tato iniciativa Evropské komise oceňuje mimořádné projekty podporující digitální kompetence napříč EU. V červenci se rozhodne o absolutních vítězích v každé kategorii.
 
 ![](https://assets.cesko.digital/e66b6d01.png)
 
-### Hledáme online tech experty a průvodce kurzem Nezisk Digital
+## Hledáme online tech experty a průvodce kurzem Nezisk Digital
 
 Pro náš [online kurz](https://app.cesko.digital/projects/nezisk-digital), který pomáhá konkrétním NNO, hledáme ještě několik [seniorních tech konzultantů a konzultantek](https://app.cesko.digital/opportunities/recGLCcg5xF0wsi5e) stejně jako [průvodců či průvodkyň](https://app.cesko.digital/opportunities/recP8PO9DhSXwERTr). Reálná pomoc reálným lidem – tohle by vás mohlo hodně bavit.
 
-### 5. narozeniny Česko.Digital jsou za rohem
+## 5. narozeniny Česko.Digital jsou za rohem
 
 V úterý 27. srpna na našem digitálním dortu sfoukneme pět svíček a doufáme, že i s vámi! Pojďte se vidět i mimo monitory a popovídat si o čemkoliv vážném i nevážném. Na [oslavu](https://app.cesko.digital/events/5-narozeniny-ceskodigital) se prosíme [registrujte](https://airtable.com/appzzeZuZPAlDmgNl/shrfyic0IXYEwS6ZY). Těšíme se!
 
-### Umapa roste do celospolečenského projektu Integromap 
+## Umapa roste do celospolečenského projektu Integromap 
 
 V novém díle podcastu poslouchat.digital vám Martina Cílková z IOM a Ivoš Gajdorus z Mapoticu povypráví o tom, jak může původně krizové řešení typu #umapa vyrůst do velkého projektu založeného na datech. Dnes pomáhá nejen válečným uprchlíkům, ale i celé společnosti. Super poslech o projektu s DNA Česko.Digital [TADY](https://podcasters.spotify.com/pod/show/poslouchatdigital/episodes/Umapa-z-krizovho-projektu-k-platform-pro-dlouhodobou-pomoc-e2k6svb).
 
-### Volební kalkulačka to určitě nemá spočítané! Pomozte se voličům správně rozhodnout
+## Volební kalkulačka to určitě nemá spočítané! Pomozte se voličům správně rozhodnout
 
 Úspěšná a už mezinárodní Volební kalkulačka, která vznikla ve spolupráci mezi KohoVolit.eu a námi, opouští svůj domovský přístav Česko.Digital. Ale určitě nekončí! Naopak hledá nové dobrovolníky a dobrovolnice: lidi na projektové řízení, přípravu otázek, komunikaci, vývoj aplikace a UX design. [Čtěte detaily](https://www.kalkulacka.one/cs/zapojte-se) a pište na [dobrovolnici@kohovolit.eu](mailto:dobrovolnici@kohovolit.eu).
 
-### Czech Open Source Policy Forum 2024: co vše se povedlo
+## Czech Open Source Policy Forum 2024: co vše se povedlo
 
 Minule jsme psali o naší účasti na této mezinárodní konferenci na podporu open source řešení ve státní správě a samosprávě. Hlavní vize, na kterých se hosté shodli, a vše, co se v pořadatelském Brně povedlo upéct, čtěte v [závěrečném shrnutí](https://otevrenamesta.cz/news/94) přímo na stránkách konference. Najdete tu i záznamy jednotlivých bodů programu. 
 
