@@ -35,7 +35,7 @@ Firmy, organizace:
 
 🔋 **Sponzor**: cíle Digitálního partnerství jsou vám blízké a podporujete je svým jménem nebo penězi – ozvěte se prosím [julia@cesko.digital](mailto:julia@cesko.digital)
 
-A proč se zapojit? Pokud vás zajímá digitalizace státu, tady uvidíte přímo do kuchyně a získáte spoustu kontaktů nebo zajímavých dat. Budete v obraze nejnovějšího dění a budete mít vliv na vytváření nových řešení, která můžou posunout i vaše vlastní aktivity.
+A proč se zapojit? Pokud vás zajímá digitalizace státu, tady uvidíte přímo do kuchyně a získáte spoustu kontaktů nebo zajímavých dat. Budete v obraze nejnovějšího dění a získáte vliv na vytváření nových řešení, která můžou posunout i vaše vlastní aktivity.
 
 [Zajímá mě to!](https://digitalnipartnerstvi.cesko.digital/)
 
