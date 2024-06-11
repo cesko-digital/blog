@@ -43,11 +43,11 @@ Pro neziskové organizace
 
 ## Pomáháme.Digital: první verze naší digi příručky pro zaměstnané v sociálních službách je na světě! Co si o ní myslíte?
 
-V Česku žije skoro 3 000 000 digitálně ohrožených, nebo vyloučených obyvatel, což má a bude mít stále větší dopad na kvalitu jejich života. Jak jim s digitálním světem pomoci? Nejefektivnější cestou jsou zaměstnanci a zaměstnankyně v sociálních službách, kteří s těmito skupinami bývají v úzkém kontaktu. Digi kompetence ale sociálním službám nezřídka chybí, proto je krokem číslo jedna předat jim je ve srozumitelné formě. A to je cílem naší novinky – webové příručky Pomáháme.Digital.
+V Česku žije skoro 3 000 000 digitálně ohrožených, nebo vyloučených obyvatel, což má a bude mít stále větší dopad na kvalitu jejich života. Jak jim s digitálním světem pomoci? Nejefektivnější cestou jsou **zaměstnanci a zaměstnankyně v sociálních službách**, kteří s těmito skupinami bývají v úzkém kontaktu. **Digi kompetence ale sociálním službám** nezřídka **chybí**, proto je krokem číslo jedna **předat jim je ve srozumitelné formě**. A to je cílem naší novinky – **webové příručky Pomáháme.Digital**.
 
-Příručka je plná návodů, jak využít digitální technologie v praxi, zejména v komunikaci se státem. Navrhli jsme ji spolu s experty ze sociálních služeb a budeme ji postupně rozšiřovat. A to je i výzva pro vás – prosíme dejte nám na ni zpětnou vazbu! Určitě také budeme rádi za sdílení vašim kolegům, organizacím a všem, komu by mohla pomoci.
+Příručka je plná **návodů, jak využít digitální technologie v praxi**, zejména v komunikaci se státem. Navrhli jsme ji spolu s experty ze sociálních služeb a budeme ji postupně rozšiřovat. A to je i výzva pro vás – **prosíme dejte nám na ni zpětnou vazbu**! Určitě také budeme rádi za **sdílení vašim kolegům, organizacím a všem, komu by mohla pomoci**.
 
-[Prohlédnout příručku](https://pomahame.digital)
+**\>﻿ [Prohlédnout příručku](https://pomahame.digital)**
 
 Příručku jsme nedávno prezentovali na online Showcase #4 Digitální inkluze. Koukněte na [záznam z akce](https://youtu.be/3EJ9DXMdgr0).
 
@@ -55,7 +55,7 @@ Příručku jsme nedávno prezentovali na online Showcase #4 Digitální inkluze
 
 ## Kurz Nezisk Digital – nestihli jste přihlášky?
 
-Zjistili jste pozdě, že chcete projít naším jedinečným online kurzem, který neziskovkám pomáhá s jejich efektivitou? Termín pro přihlášky sice uběhl, ale pořád máme 5 volných míst. Tak honem jedno obsaďte, protože určitě nebudete litovat! K registraci do kurzu vás může rozhoupat i záznam z akce [Jak bude probíhat podzimní kurz a proč se do něj zapojit (Q&A)](https://youtu.be/cd3WC6bWmNk).
+Zjistili jste pozdě, že chcete projít naším jedinečným online kurzem, který neziskovkám pomáhá s jejich efektivitou? Termín pro přihlášky sice uběhl, ale **pořád máme 5 volných míst**. Tak honem jedno obsaďte, protože určitě nebudete litovat! K registraci do kurzu vás může rozhoupat i záznam z akce [Jak bude probíhat podzimní kurz a proč se do něj zapojit (Q&A)](https://youtu.be/cd3WC6bWmNk).
 
 **\>﻿ [Přihlásit se na kurz](https://airtable.com/appBMJcLnBva02IEy/shrlymCJWH9WCdGRq)**
 
@@ -63,7 +63,7 @@ Zjistili jste pozdě, že chcete projít naším jedinečným online kurzem, kte
 
 ### Naše Digitální inkluze zabodovala v Evropě
 
-Tenhle úspěch si nemůžeme nechat pro sebe! Náš projekt Digitální inkluze (Pomáháme.Digital je jeho součástí) se zatím probojoval mezi [5 nejlepších z 65  „konkurentů“ v kategorii Digital Upskilling @ Work](https://digital-skills-jobs.europa.eu/en/latest/news/all-finalists-european-digital-skills-awards-2024) soutěže The European Digital Skills Awards 2024. Tato iniciativa Evropské komise oceňuje mimořádné projekty podporující digitální kompetence napříč EU. V červenci se rozhodne o absolutních vítězích v každé kategorii.
+Tenhle úspěch si nemůžeme nechat pro sebe! Náš projekt Digitální inkluze (Pomáháme.Digital je jeho součástí) se zatím probojoval mezi [**5 nejlepších z 65**  „konkurentů“ v kategorii Digital Upskilling @ Work](https://digital-skills-jobs.europa.eu/en/latest/news/all-finalists-european-digital-skills-awards-2024) soutěže **The European Digital Skills Awards 2024**. Tato iniciativa Evropské komise oceňuje mimořádné projekty podporující digitální kompetence napříč EU. V červenci se rozhodne o absolutních vítězích v každé kategorii.
 
 ![](https://assets.cesko.digital/e66b6d01.png)
 
@@ -95,7 +95,7 @@ Minule jsme psali o naší účasti na této mezinárodní konferenci na podporu
 
 \> 13. června 2024, 09:00–10:30, online
 
-Chceš vyladit práci ve své neziskovce tak, aby vše běželo jako po drátkách? Účastníci a účastnice kurzu Nezisk Digital ti nasdílejí své zkušenosti z jeho průběhu: jaké si s pomocí průvodců zvolili nástroje pro řešení svých problémů a jak se jim daří začlenit je do svého každodenního fungování.
+Chceš vyladit práci ve své neziskovce tak, aby vše běželo jako po drátkách? **Účastníci a účastnice kurzu Nezisk Digital ti nasdílejí své zkušenosti z jeho průběhu**: jaké si s pomocí průvodců zvolili nástroje pro řešení svých problémů a jak se jim daří začlenit je do svého každodenního fungování.
 
 **\>﻿ [Nenechám si ujít](https://app.cesko.digital/events/event-nezisk-digital-24-2)**
 
@@ -103,7 +103,7 @@ Chceš vyladit práci ve své neziskovce tak, aby vše běželo jako po drátká
 
 \> 17. června 2024, Jatka78
 
-Kreativní státní správa vedená zdravým rozumem a dobrou vůlí se sama neudělá! 4. ročník [Festivalu kreativní byrokracie](https://creativebureaucracy.cz/) se odehraje 17. 6. v Jatka78, ale už teď radši běž pro vstupenky! Některé workshopy už jsou plné a vítaní jsou i vaši malí úředníčci – dětský koutek připraví Sto skupin. Na akci plné přednášek, speakerů, workshopů, afterparty a kolegů stejné krevní skupiny určitě nechceš chybět!
+**Kreativní státní správa** vedená zdravým rozumem a dobrou vůlí se sama neudělá! 4. ročník **[Festivalu kreativní byrokracie](https://creativebureaucracy.cz/)** se odehraje 17. 6. v Jatka78, ale už **teď radši běž pro vstupenky**! Některé workshopy už jsou plné a vítaní jsou i vaši malí úředníčci – dětský koutek připraví Sto skupin. Na akci plné přednášek, speakerů, workshopů, afterparty a kolegů stejné krevní skupiny určitě nechceš chybět!
 
 **\>﻿ [Pro vstupenky](https://connect.boomevents.org/cs/event/1013b185-03c0-43ee-bee9-fadfeb47b380/order)**
 
@@ -111,7 +111,7 @@ Kreativní státní správa vedená zdravým rozumem a dobrou vůlí se sama neu
 
 \> 25. června, 17:00, online
 
-Přijď na [první školení webové příručky Pomáháme.Digital](https://app.cesko.digital/events/online-workshop-digitalni-inkluze) určené lidem ze sociální práce.
+Přijď na **[první školení webové příručky Pomáháme.Digital](https://app.cesko.digital/events/online-workshop-digitalni-inkluze)** určené lidem ze sociální práce.
 
 Zjistíš, jak si můžeš usnadnit práci a ušetřit čas a být větší oporou svým klientům.
 
