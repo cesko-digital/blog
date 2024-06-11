@@ -39,7 +39,7 @@ A proč se zapojit? Pokud vás zajímá digitalizace státu, tady uvidíte pří
 
 **\>﻿ [Zajímá mě to!](https://digitalnipartnerstvi.cesko.digital/)**
 
-Pro neziskové organizace
+> **\| Pro neziskové organizace**
 
 ## Pomáháme.Digital: první verze naší digi příručky pro zaměstnané v sociálních službách je na světě! Co si o ní myslíte?
 
