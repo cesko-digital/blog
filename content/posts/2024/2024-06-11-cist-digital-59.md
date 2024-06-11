@@ -87,8 +87,6 @@ V novém díle podcastu poslouchat.digital vám Martina Cílková z IOM a Ivoš 
 
 Minule jsme psali o naší účasti na této mezinárodní konferenci na podporu open source řešení ve státní správě a samosprávě. Hlavní vize, na kterých se hosté shodli, a vše, co se v pořadatelském Brně povedlo upéct, čtěte v [závěrečném shrnutí](https://otevrenamesta.cz/news/94) přímo na stránkách konference. Najdete tu i záznamy jednotlivých bodů programu. 
 
-
-
 # Nejbližší akce
 
 ## Event Nezisk Digital #2
@@ -116,8 +114,6 @@ Přijď na **[první školení webové příručky Pomáháme.Digital](https://a
 Zjistíš, jak si můžeš usnadnit práci a ušetřit čas a být větší oporou svým klientům.
 
 **\>﻿ [Registruj se](https://airtable.com/appQje7L2ZbXHIP4t/shrpI3voYbYVwFydv)**
-
-
 
 # Hledáš pomoc nebo radu pro svou organizaci? Poptej se na Tržišti!
 
