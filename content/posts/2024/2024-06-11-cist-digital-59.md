@@ -57,7 +57,7 @@ Příručku jsme nedávno prezentovali na online Showcase #4 Digitální inkluze
 
 Zjistili jste pozdě, že chcete projít naším jedinečným online kurzem, který neziskovkám pomáhá s jejich efektivitou? Termín pro přihlášky sice uběhl, ale pořád máme 5 volných míst. Tak honem jedno obsaďte, protože určitě nebudete litovat! K registraci do kurzu vás může rozhoupat i záznam z akce [Jak bude probíhat podzimní kurz a proč se do něj zapojit (Q&A)](https://youtu.be/cd3WC6bWmNk).
 
-[Přihlásit se na kurz](https://airtable.com/appBMJcLnBva02IEy/shrlymCJWH9WCdGRq)
+**\>﻿ [Přihlásit se na kurz](https://airtable.com/appBMJcLnBva02IEy/shrlymCJWH9WCdGRq)**
 
 ## `Digitální jednohubky`
 
@@ -73,7 +73,7 @@ Pro náš [online kurz](https://app.cesko.digital/projects/nezisk-digital), kter
 
 ### 5. narozeniny Česko.Digital jsou za rohem
 
-27. srpna na našem digitálním dortu sfoukneme pět svíček a doufáme, že i s vámi! Pojďte se vidět i mimo monitory a popovídat si o čemkoliv vážném i nevážném. Na [oslavu](https://app.cesko.digital/events/5-narozeniny-ceskodigital) se prosíme [registrujte](https://airtable.com/appzzeZuZPAlDmgNl/shrfyic0IXYEwS6ZY). Těšíme se!
+V úterý 27. srpna na našem digitálním dortu sfoukneme pět svíček a doufáme, že i s vámi! Pojďte se vidět i mimo monitory a popovídat si o čemkoliv vážném i nevážném. Na [oslavu](https://app.cesko.digital/events/5-narozeniny-ceskodigital) se prosíme [registrujte](https://airtable.com/appzzeZuZPAlDmgNl/shrfyic0IXYEwS6ZY). Těšíme se!
 
 ### Umapa roste do celospolečenského projektu Integromap 
 
@@ -81,36 +81,43 @@ V novém díle podcastu poslouchat.digital vám Martina Cílková z IOM a Ivoš 
 
 ### Volební kalkulačka to určitě nemá spočítané! Pomozte se voličům správně rozhodnout
 
-Úspěšná a už mezinárodní Volební kalkulačka, která vznikla ve spolupráci mezi KohoVolit.eu a námi, opouští svůj domovský přístav Česko.Digital. Ale určitě nekončí! Naopak hledá nové dobrovolníky a dobrovolnice: lidi na projektové řízení, přípravu otázek, komunikaci, vývoj aplikace a UX design. [Čtěte detaily](https://www.kalkulacka.one/cs/zapojte-se) a pište na dobrovolnici@kohovolit.eu.
+Úspěšná a už mezinárodní Volební kalkulačka, která vznikla ve spolupráci mezi KohoVolit.eu a námi, opouští svůj domovský přístav Česko.Digital. Ale určitě nekončí! Naopak hledá nové dobrovolníky a dobrovolnice: lidi na projektové řízení, přípravu otázek, komunikaci, vývoj aplikace a UX design. [Čtěte detaily](https://www.kalkulacka.one/cs/zapojte-se) a pište na [dobrovolnici@kohovolit.eu](mailto:dobrovolnici@kohovolit.eu).
 
 ### Czech Open Source Policy Forum 2024: co vše se povedlo
 
 Minule jsme psali o naší účasti na této mezinárodní konferenci na podporu open source řešení ve státní správě a samosprávě. Hlavní vize, na kterých se hosté shodli, a vše, co se v pořadatelském Brně povedlo upéct, čtěte v [závěrečném shrnutí](https://otevrenamesta.cz/news/94) přímo na stránkách konference. Najdete tu i záznamy jednotlivých bodů programu. 
 
+
+
 # Nejbližší akce
 
 ## Event Nezisk Digital #2
 
-13. června 2024, 09:00–10:30, online
+\> 13. června 2024, 09:00–10:30, online
+
 Chceš vyladit práci ve své neziskovce tak, aby vše běželo jako po drátkách? Účastníci a účastnice kurzu Nezisk Digital ti nasdílejí své zkušenosti z jeho průběhu: jaké si s pomocí průvodců zvolili nástroje pro řešení svých problémů a jak se jim daří začlenit je do svého každodenního fungování.
 
-[Nenechám si ujít](https://app.cesko.digital/events/event-nezisk-digital-24-2)
+**\>﻿ [Nenechám si ujít](https://app.cesko.digital/events/event-nezisk-digital-24-2)**
 
 ## Rezervuj si místo na Festivalu kreativní byrokracie 
 
+\> 17. června 2024, Jatka78
+
 Kreativní státní správa vedená zdravým rozumem a dobrou vůlí se sama neudělá! 4. ročník [Festivalu kreativní byrokracie](https://creativebureaucracy.cz/) se odehraje 17. 6. v Jatka78, ale už teď radši běž pro vstupenky! Některé workshopy už jsou plné a vítaní jsou i vaši malí úředníčci – dětský koutek připraví Sto skupin. Na akci plné přednášek, speakerů, workshopů, afterparty a kolegů stejné krevní skupiny určitě nechceš chybět!
 
-[Pro vstupenky](https://connect.boomevents.org/cs/event/1013b185-03c0-43ee-bee9-fadfeb47b380/order)
+**\>﻿ [Pro vstupenky](https://connect.boomevents.org/cs/event/1013b185-03c0-43ee-bee9-fadfeb47b380/order)**
 
 ## Online workshop Pomáháme.Digital
 
-25. června, 17:00, online
+\> 25. června, 17:00, online
 
 Přijď na [první školení webové příručky Pomáháme.Digital](https://app.cesko.digital/events/online-workshop-digitalni-inkluze) určené lidem ze sociální práce.
 
 Zjistíš, jak si můžeš usnadnit práci a ušetřit čas a být větší oporou svým klientům.
 
-[Registruj se](https://airtable.com/appQje7L2ZbXHIP4t/shrpI3voYbYVwFydv)
+**\>﻿ [Registruj se](https://airtable.com/appQje7L2ZbXHIP4t/shrpI3voYbYVwFydv)**
+
+
 
 # Hledáš pomoc nebo radu pro svou organizaci? Poptej se na Tržišti!
 
@@ -122,23 +129,23 @@ Digitální transformace státu, nástroje, inovace i podpultovky. Pojď se s n�
 
 **Aktuální a nejžhavější témata:**
 
-### Jak řešíte bezpečnost v menším týmu?
+### Hledáme talenty pro unikátní projekt (Školicí a vzdělávací platforma eGovernmentu)
 
-Bezpečnost je trochu jako správná životospráva – všichni tak nějak vědí, co by měli dělat, ale trochu to bolí, tak často radši nedělají nic...
+Máte vášeň pro eGovernment a touhu zvýšit digitální gramotnost občanů? Připojte se k nám a buďte součástí něčeho velkého...
 
-**\> [Pokračuj v diskuzi](https://diskutuj.digital/t/jak-resite-bezpecnost-v-mensim-tymu/378)**
+**\>﻿ [Přihlas se](https://diskutuj.digital/t/hledame-talenty-pro-unikatni-projekt-skolici-a-vzdelavaci-platforma-egovernmentu/430)**
 
-### Kuchařky bez domova hledají pomoc s nastavením a/nebo granty Google Ads
+### Tipy pro neziskové organizace
 
-Sociální podnik [Kuchařky bez domova](https://kucharkybezdomova.org/) by moc rád zlepšil propagaci svých udržitelných, přírodě i lidem prospívajících cateringů pomocí Google Ads...
+Pro absolventy*ky kurzu Nezisk Digital v Česko.digital dávám dohromady tipy na informace, nástroje a případně zdroje, které je mohou podpořit v dlouhodobé digitální transformaci...
 
-**[\> ﻿Nabídni pomoc](https://diskutuj.digital/t/uzitecne-tipy-od-daly-musila-pro-praci-s-notion/350/1)**
+**\> [Pokračuj v diskuzi](https://diskutuj.digital/t/tipy-pro-neziskove-organizace/436)**
 
 # Příležitosti k zapojení
 
-Připoj se k neziskové organizaci s největší komunitou expertních dobrovolníků, zástupců neziskových organizací, veřejné správy a byznysu v Evropě. Všechny pozice najdeš na našich stránkách.
+Připoj se k neziskové organizaci s největší komunitou expertních dobrovolníků, zástupců neziskových organizací, veřejné správy a byznysu v Evropě. Všechny příležitosti najdeš na našich stránkách.
 
-**[\> Nakoukni na Příležitosti k zapojení](https://app.cesko.digital/opportunities)**
+**[\> Nakoukni na Příležitosti k zapojení](https://app.cesko.digital/)**
 
 # Děkujeme, že tě baví číst.digital!
 
