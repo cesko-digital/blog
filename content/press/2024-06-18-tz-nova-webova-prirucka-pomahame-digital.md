@@ -8,7 +8,7 @@ slug: tz-nova-webova-prirucka-pomahame-digital
 description: "Praha, 18. června 2024: Praktické návody, jak na digitální služby
   a nástroje státu, přináší nová internetová příručka Pomáháme.Digital.
   Sestavili ji odborníci z organizace Česko.Digital ve spolupráci se zaměstnanci
-  v sociální oblasti a dobrovolníky. Cílem je pomoci až 3 000 0001,2 obyvatel
+  v sociální oblasti a dobrovolníky. Cílem je pomoci až 3 000 000(1,2) obyvatel
   Česka, kteří jsou digitálně ohrožení nebo vyloučení, což může mít negativní
   dopad na jejich životy. S digitálními technologiemi bojují především senioři,
   ale i dospělí nebo děti do 18 let žijící ve ztížených sociálních a
