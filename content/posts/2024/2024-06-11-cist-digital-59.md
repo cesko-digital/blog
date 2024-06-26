@@ -15,6 +15,8 @@ description: Přejete si také skvělé digitální služby státu pro všechny?
   šiřte ji dál! Novinek ale máme víc.
 lang: cs
 ---
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2V8vp8mcaLNWIPDKEa8CKh?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 # Odstartovali jsme velký projekt Digitální partnerství
 
 Asi 60 zástupců veřejné správy, byznysu i nezisku přišlo na **oficiální start** naší společné aktivity **[Digitální partnerství](https://digitalnipartnerstvi.cesko.digital)**. Jejím cílem je vybudovat dlouhodobě udržitelnou platformu, která by umožňovala vznik skutečně prouživatelských digitálních veřejných služeb státu. A začneme hned prakticky: zkoumáním obyvatel a firem a tvorbou person pro tvůrce nových digitálních služeb.
