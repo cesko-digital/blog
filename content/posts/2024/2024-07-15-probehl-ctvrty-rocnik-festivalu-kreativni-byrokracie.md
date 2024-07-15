@@ -106,7 +106,7 @@ Na závěr festivalu vystoupili Petr Konůpka a Eliška Hronová, kteří jako z
 
 \
 \
-Na záznam ostatních bodů programu se můžete podívat ze záznamu:\
+Na záznam ostatních bodů programu se můžete podívat přes odkazy níže:\
 \
 **[Digitální Česko – pro všechny!](https://youtu.be/0h_4HFUMZBU) | Stand-Up**\
 Kamila Kolmanová, Kristina Vančurová, Johana Pozděnová\
