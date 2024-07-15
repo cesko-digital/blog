@@ -14,13 +14,12 @@ description: 4. ročník festivalu je za námi a my děkujeme všem 330 z vás, 
   nebáli sdílet své zkušenosti na úřednickém barcampu nebo představili své
   projekty na Let’s go public. A jestli vám to nevyšlo, nesmutněte. Přinášíme
   kompletní videozáznam hlavního programu včetně playlistu jednotlivých
-  přednášek (postupně budou přibývat další), ale i textové shrnutí 4 přednášek/
-  diskuzních panelů.
+  přednášek, ale i textové shrnutí 5 přednášek / diskuzních panelů.
 lang: cs
 ---
 # Shrnutí vybraných bodů programu:
 
-## [The Digital Skills Every Civil Servant Needs Today (ENG)](https://www.youtube.com/watch?v=oU1iE8WRyD4&list=PLOX5xelTsEv81j_3kWdO6l3XI4oU-lejn&index=2) | Stand-Up
+## [The Digital Skills Every Civil Servant Needs Today (ENG)](https://youtu.be/oU1iE8WRyD4) | Stand-Up
 
 **David Eaves**
 
@@ -37,7 +36,7 @@ Základem úspěšného modelu digitální správy musí být sdílená data a d
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oU1iE8WRyD4?si=EzrVM43U-9hLtksz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## [Nevím, že nic nevím](https://www.youtube.com/watch?v=Hmqg0uPhduA&list=PLOX5xelTsEv81j_3kWdO6l3XI4oU-lejn&index=3) | Panelová diskuze
+## [Nevím, že nic nevím](https://youtu.be/Hmqg0uPhduA) | Panelová diskuze
 
 moderuje **Lucie Krausová** (MPSV)
 
@@ -71,7 +70,7 @@ Panel, ve kterém se v přátelském utkání střetli názory a zkušenosti tř
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hmqg0uPhduA?si=0Chknc8wsAaDR_w1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## [Digitalizace vs. Černé koženkové bundy](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=11803) | Keynote
+## [Digitalizace vs. Černé koženkové bundy](https://youtu.be/-cBcDkm9c8o) | Keynote
 
 **Luboš Šafránek, Jiří Slabý, Ján Sedliačik**
 
@@ -83,7 +82,7 @@ Proto vznikl informační systém pro cizince (2015/2016). Cestu k digitalizaci 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-cBcDkm9c8o?si=zN4nu0PU4mUW4KaV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## [Mentoring je jen začátek](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=19778) | Keynote
+## [Mentoring je jen začátek](https://youtu.be/9sOXt0k9X0g) | Keynote
 
 **Kristina Šůsová, Eva Pavlíková**
 
@@ -95,7 +94,7 @@ Public Leadership Academy, inspirovaná slovenským konceptem, nabízí desetim�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9sOXt0k9X0g?si=jdMZBtspUxPDP11R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## [Mezisoudy](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=29612) | Stand-Up
+## [Mezisoudy](https://youtu.be/9pNcZ9aOLqc) | Stand-Up
 
 **Petr Konůpka, Eliška Hronová**
 
@@ -109,29 +108,31 @@ Na závěr festivalu vystoupili Petr Konůpka a Eliška Hronová, kteří jako z
 \
 Na záznam ostatních bodů programu se můžete podívat ze záznamu:\
 \
-**[Digitální Česko – pro všechny!](https://www.youtube.com/watch?v=0h_4HFUMZBU&list=PLOX5xelTsEv81j_3kWdO6l3XI4oU-lejn&index=1) | Stand-Up**\
+**[Digitální Česko – pro všechny!](https://youtu.be/0h_4HFUMZBU) | Stand-Up**\
 Kamila Kolmanová, Kristina Vančurová, Johana Pozděnová\
 \
-**[Malé velké obce](https://www.youtube.com/watch?v=u2qk40S79jo&list=PLOX5xelTsEv81j_3kWdO6l3XI4oU-lejn&index=4) | Panelová diskuze**\
+**[Malé velké obce](https://youtu.be/u2qk40S79jo) | Panelová diskuze**\
 Jiří Koubek, Michal Plaček, Jan Školník, Jan Schneider\
 \
-**[Hiring Innovation into Government (ENG)](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=14890) | Keynote** \
+**[Hiring Innovation into Government (ENG)](https://youtu.be/qhgLcu0Hrl8) | Keynote** \
 Nina Maturu\
 \
-**[Connecting Civil Servants: Lessons Learnt (ENG)](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=16097) | Panelová diskuze**\
+**[Connecting Civil Servants: Lessons Learnt (ENG)](https://youtu.be/GX4OcLK69pg) | Panelová diskuze**\
 Johanna Sieben, Robyn Bennett, Nina Maturu, Jakub Nešetřil
 
 \
-**[Dlužník-centered Design](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=21414) | Stand-Up**\
+**[Dlužník-centered Design](https://youtu.be/VHPIxj2GxXg) | Stand-Up**\
 Jan Benýšek, Eva Holubcová, Pavla Aschermannová, Radek Hábl, Dana Salačová\
 \
-**[Čitelná Praha!](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=23530) | Stand-Up**\
+**[Čitelná Praha!](https://youtu.be/2n5H2qs8GvQ) | Stand-Up**\
 Dominika Potužáková, Richard Jaroš, Rostislav Zapletal\
 \
-**[Státní služba jako služba](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=25420) | Panelová diskuze**\
+**[Státní služba jako služba](https://youtu.be/vkmFcctgRmY) | Panelová diskuze**\
 Matěj Bacovský, Dana Salačová, Dominika Potužáková, Veronika Pavlovská\
 \
-**[Transparentní Česko. Proč a jak?](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=28802) | Stand-Up**\
+**[Transparentní Česko. Proč a jak?](https://youtu.be/i0cX2LCaLQ0) | Stand-Up**\
 Lenka Ježková, Marie Krutišová, Tomáš Kubica
 
 Každá přednáška, panel i workshop každým rokem ukazují, jak je tato akce a společenství kolem festivalu potřebné. Je to prostor a čas pro sdílení, inspiraci a zapojení každého, kdo chce posunout služby státu dál. A kam dál? Pro informace ale i rady o digitální transformaci státu, inovacích či nástrojích zamiřte na otevřené fórum [Diskutuj.Digital](https://diskutuj.digital/). A kolegové z Byro spustili přihlášky do nového ročníku Byro.Mentoringu a intenzivního rozvojového programu Public Leadership Academy pro všechny tvůrčí a odhodlané úředníky a úřednice. Více na [Byro.Works](https://www.byro.works/).
+
+F﻿otogalerii letošního ročníku najdeš 👉 [TADY](https://foto.cesko.digital/Festival-kreativni-byrokracie-2024)
