@@ -36,8 +36,6 @@ Základem úspěšného modelu digitální správy musí být sdílená data a d
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oU1iE8WRyD4?si=EzrVM43U-9hLtksz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
 ## [Nevím, že nic nevím](https://www.youtube.com/watch?v=Hmqg0uPhduA&list=PLOX5xelTsEv81j_3kWdO6l3XI4oU-lejn&index=3) | Panelová diskuze
 
 moderuje **Lucie Krausová** (MPSV)
@@ -72,8 +70,6 @@ Panel, ve kterém se v přátelském utkání střetli názory a zkušenosti tř
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hmqg0uPhduA?si=0Chknc8wsAaDR_w1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
 ## [Digitalizace vs. Černé koženkové bundy](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=11803) | Keynote
 
 **Luboš Šafránek, Jiří Slabý, Ján Sedliačik**
@@ -86,8 +82,6 @@ Proto vznikl informační systém pro cizince (2015/2016). Cestu k digitalizaci 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-cBcDkm9c8o?si=zN4nu0PU4mUW4KaV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
 ## [Mentoring je jen začátek](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=19778) | Keynote
 
 **Kristina Šůsová, Eva Pavlíková**
@@ -98,7 +92,7 @@ Od září běží nový mentoringový program, který spojuje mentory a mentee 
 
 Public Leadership Academy, inspirovaná slovenským konceptem, nabízí desetiměsíční podporu pro 45 vybraných úředníků a úřednic. Tento podzim se můžete stát součástí této komunity a zažít osobní i profesní růst. Program se zaměřuje na vedoucí z různých ministerstev a jeho cílem je posílit spolupráci a propojení lidí ve veřejné správě. 
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sOXt0k9X0g?si=jdMZBtspUxPDP11R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## [Mezisoudy](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=29612) | Stand-Up
 
@@ -106,7 +100,11 @@ Public Leadership Academy, inspirovaná slovenským konceptem, nabízí desetim�
 
 *shrnutí zpracoval dobrovolník Petr Hrudka*
 
-Na závěr festivalu vystoupili Petr Konůpka a Eliška Hronová, kteří jako zástupci vládního zmocněnce pro lidská práva před Mezinárodním soudem představili poměrně nedávno dokončený projekt Mezisoudy. Úkolem státu je dodržovat pravidla týkající se migrace, ochrany menšin nebo zabraňování diskriminace, ale není v lidských silách všechny nálezy aplikovat. Proto se rozhodli vytvořit a zpřístupnit databázi judikatury štrasburského soudu v českém jazyce. Webová stránka obsahuje mimo jiné i manuál slučitelnosti. Pro různé typy uživatelů a jejich potřeb existuje také podcast, několik příruček a sociální sítě.\
+Na závěr festivalu vystoupili Petr Konůpka a Eliška Hronová, kteří jako zástupci vládního zmocněnce pro lidská práva před Mezinárodním soudem představili poměrně nedávno dokončený projekt Mezisoudy. Úkolem státu je dodržovat pravidla týkající se migrace, ochrany menšin nebo zabraňování diskriminace, ale není v lidských silách všechny nálezy aplikovat. Proto se rozhodli vytvořit a zpřístupnit databázi judikatury štrasburského soudu v českém jazyce. Webová stránka obsahuje mimo jiné i manuál slučitelnosti. Pro různé typy uživatelů a jejich potřeb existuje také podcast, několik příruček a sociální sítě.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9pNcZ9aOLqc?si=VPCyOD6YRJ9r_Q_6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+\
 \
 Na záznam ostatních bodů programu se můžete podívat ze záznamu:\
 \
