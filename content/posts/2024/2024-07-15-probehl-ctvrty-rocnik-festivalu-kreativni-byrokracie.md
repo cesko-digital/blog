@@ -120,7 +120,6 @@ Nina Maturu\
 **[Connecting Civil Servants: Lessons Learnt (ENG)](https://youtu.be/GX4OcLK69pg) | Panelová diskuze**\
 Johanna Sieben, Robyn Bennett, Nina Maturu, Jakub Nešetřil
 
-\
 **[Dlužník-centered Design](https://youtu.be/VHPIxj2GxXg) | Stand-Up**\
 Jan Benýšek, Eva Holubcová, Pavla Aschermannová, Radek Hábl, Dana Salačová\
 \
