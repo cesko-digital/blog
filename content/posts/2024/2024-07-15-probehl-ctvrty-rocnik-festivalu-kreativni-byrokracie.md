@@ -1,5 +1,6 @@
 ---
-title: Festival kreativní byrokracie – záznamy i zápisky
+title: "Festival kreativní byrokracie opět přitáhl úřednictvo, které se nebojí
+  vykročit z řady: mrkněte na záznamy i zápisky z hlavního programu"
 author: jakub.holzer
 tags:
   - festival-kreativni-byrokracie
