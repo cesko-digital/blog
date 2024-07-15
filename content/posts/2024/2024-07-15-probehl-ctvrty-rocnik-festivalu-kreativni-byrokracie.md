@@ -47,7 +47,7 @@ věcňáci: **Melanie Zajacová** (FF UK, dříve MPSV), **Zuzana Brucknerová**
 \
 Panel, ve kterém se v přátelském utkání střetli názory a zkušenosti tří analytiků a tří „věcňáků“ z české i slovenské veřejné správy. Hosté se vyznačují hlavně tím, že ve své práci nezapínají autopilota. Naopak myslí kriticky, jsou odvážní, inspirativní i vtipní. Hlavní otázka diskuze zněla: Jaký je ideální postup při přípravě nové právní regulace? A začalo se pěkně zostra: než politické zadání shora je prý určitě lepší zadání zdola díky kontaktu s reálnou praxí. Jako zásadní východisko vidí pojmenování problému, jeho příčin i důsledků. Probírali se i výzvy spojené s přijetím regulace jako je tlak na rychlost, nedostatek nebo dokonce přebytek vstupních dat či často chybějící evaluace. Hosté si potvrdili, že bez vzájemné, transparentní a průběžné komunikace mezi věcnými útvary, analytiky a politickým vedením to sice jde, ale hodně špatně, a notovali si i v tom, že zapojení analytiků od úplného počátku procesu vede ke kvalitnějším legislativním řešením.\
 \
-20 zásadních tvrzení z tohoto panelu:
+**20 zásadních tvrzení z tohoto panelu:**
 
 1. Politické zadání nemusí vždy cílit na skutečný problém a může být ovlivněno cíli politiků. (Petr Hronček)
 2. Politické zadání často převažuje nad identifikací problémů z praxe. (Zuzana Brucknerová)
