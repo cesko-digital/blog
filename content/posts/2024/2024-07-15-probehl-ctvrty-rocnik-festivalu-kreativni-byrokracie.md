@@ -34,8 +34,11 @@ lang: cs
 
 Základem úspěšného modelu digitální správy musí být sdílená data a databáze. Na opačném konci jsou pak občanům lehce dostupné služby, které zajišťují jednotlivé úřady. Mezi těmito dvěma sférami existuje infrastruktura, která data spolehlivě dopraví k jednotlivým úřadům. Cílem je být agilní pouze u koncových služeb. Inspirovat bychom se neměli u států západní Evropy nebo Severní Ameriky, ale u zemí jako jsou Indie nebo Estonsko (kde digitalizace zvládají efektivněji).
 
-## \
-[Nevím, že nic nevím](https://www.youtube.com/watch?v=Hmqg0uPhduA&list=PLOX5xelTsEv81j_3kWdO6l3XI4oU-lejn&index=3) | Panelová diskuze
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oU1iE8WRyD4?si=EzrVM43U-9hLtksz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+## [Nevím, že nic nevím](https://www.youtube.com/watch?v=Hmqg0uPhduA&list=PLOX5xelTsEv81j_3kWdO6l3XI4oU-lejn&index=3) | Panelová diskuze
 
 moderuje **Lucie Krausová** (MPSV)
 
@@ -67,6 +70,10 @@ Panel, ve kterém se v přátelském utkání střetli názory a zkušenosti tř
 19. Důležité je mít připravené analytické výstupy pro momenty, kdy přijde politický tlak. (Peter Hronček)
 20. Kultura evaluace a vyhodnocování legislativy je klíčová pro zlepšování regulací. (Magdalena Klimešová)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hmqg0uPhduA?si=0Chknc8wsAaDR_w1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 ## [Digitalizace vs. Černé koženkové bundy](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=11803) | Keynote
 
 **Luboš Šafránek, Jiří Slabý, Ján Sedliačik**
@@ -77,8 +84,11 @@ Luboš Šafránek vypráví, jak našel své místo na druhé straně nekonečn�
 
 Proto vznikl informační systém pro cizince (2015/2016). Cestu k digitalizaci nastartoval projekt ICAS (Integrovaný cizinecký agendový systém). Soutěž na přípravu proveditelnosti agendového systému vyhrálo Deloitte. O realizaci zakázky, její obtížnosti a důvodu pro časovou náročnost se rozpovídal Ján Sedliačik. Jiří Slabý doplnil postřehy k projektu. Zmiňuje, že za neúspěšností projektu a překážkami k digitalizaci státní správy nestojí technická nevyspělost, ale policko-organizační problém.
 
-## \
-[Mentoring je jen začátek](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=19778) | Keynote
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-cBcDkm9c8o?si=zN4nu0PU4mUW4KaV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+## [Mentoring je jen začátek](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=19778) | Keynote
 
 **Kristina Šůsová, Eva Pavlíková**
 
@@ -87,6 +97,8 @@ Proto vznikl informační systém pro cizince (2015/2016). Cestu k digitalizaci 
 Od září běží nový mentoringový program, který spojuje mentory a mentee ve státní správě. Program nabízí prostor pro oboustranné sdílení zkušeností a rozvoj. Příběhy jako ten Tomáše Frígla a Jitky ukazují, jak může mentoring obohatit obě strany. Tomáš se dozvěděl o zájmech mladé generace úředníků, zatímco Jitka získala cenné vhledy do práce na Ministerstvu školství.
 
 Public Leadership Academy, inspirovaná slovenským konceptem, nabízí desetiměsíční podporu pro 45 vybraných úředníků a úřednic. Tento podzim se můžete stát součástí této komunity a zažít osobní i profesní růst. Program se zaměřuje na vedoucí z různých ministerstev a jeho cílem je posílit spolupráci a propojení lidí ve veřejné správě. 
+
+
 
 ## [Mezisoudy](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=29612) | Stand-Up
 
@@ -98,29 +110,29 @@ Na závěr festivalu vystoupili Petr Konůpka a Eliška Hronová, kteří jako z
 \
 Na záznam ostatních bodů programu se můžete podívat ze záznamu:\
 \
-[Digitální Česko – pro všechny!](https://www.youtube.com/watch?v=0h_4HFUMZBU&list=PLOX5xelTsEv81j_3kWdO6l3XI4oU-lejn&index=1) | Stand-Up\
+**[Digitální Česko – pro všechny!](https://www.youtube.com/watch?v=0h_4HFUMZBU&list=PLOX5xelTsEv81j_3kWdO6l3XI4oU-lejn&index=1) | Stand-Up**\
 Kamila Kolmanová, Kristina Vančurová, Johana Pozděnová\
 \
-[Malé velké obce](https://www.youtube.com/watch?v=u2qk40S79jo&list=PLOX5xelTsEv81j_3kWdO6l3XI4oU-lejn&index=4) | Panelová diskuze\
+**[Malé velké obce](https://www.youtube.com/watch?v=u2qk40S79jo&list=PLOX5xelTsEv81j_3kWdO6l3XI4oU-lejn&index=4) | Panelová diskuze**\
 Jiří Koubek, Michal Plaček, Jan Školník, Jan Schneider\
 \
-[Hiring Innovation into Government (ENG)](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=14890) | Keynote \
+**[Hiring Innovation into Government (ENG)](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=14890) | Keynote** \
 Nina Maturu\
 \
-[Connecting Civil Servants: Lessons Learnt (ENG)](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=16097) | Panelová diskuze\
+**[Connecting Civil Servants: Lessons Learnt (ENG)](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=16097) | Panelová diskuze**\
 Johanna Sieben, Robyn Bennett, Nina Maturu, Jakub Nešetřil
 
 \
-[Dlužník-centered Design](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=21414) | Stand-Up\
+**[Dlužník-centered Design](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=21414) | Stand-Up**\
 Jan Benýšek, Eva Holubcová, Pavla Aschermannová, Radek Hábl, Dana Salačová\
 \
-[Čitelná Praha!](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=23530) | Stand-Up\
+**[Čitelná Praha!](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=23530) | Stand-Up**\
 Dominika Potužáková, Richard Jaroš, Rostislav Zapletal\
 \
-[Státní služba jako služba](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=25420) | Panelová diskuze\
+**[Státní služba jako služba](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=25420) | Panelová diskuze**\
 Matěj Bacovský, Dana Salačová, Dominika Potužáková, Veronika Pavlovská\
 \
-[Transparentní Česko. Proč a jak?](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=28802) | Stand-Up\
+**[Transparentní Česko. Proč a jak?](https://www.youtube.com/live/nWPMwbcbTwM?feature=shared&t=28802) | Stand-Up**\
 Lenka Ježková, Marie Krutišová, Tomáš Kubica
 
 Každá přednáška, panel i workshop každým rokem ukazují, jak je tato akce a společenství kolem festivalu potřebné. Je to prostor a čas pro sdílení, inspiraci a zapojení každého, kdo chce posunout služby státu dál. A kam dál? Pro informace ale i rady o digitální transformaci státu, inovacích či nástrojích zamiřte na otevřené fórum [Diskutuj.Digital](https://diskutuj.digital/). A kolegové z Byro spustili přihlášky do nového ročníku Byro.Mentoringu a intenzivního rozvojového programu Public Leadership Academy pro všechny tvůrčí a odhodlané úředníky a úřednice. Více na [Byro.Works](https://www.byro.works/).
