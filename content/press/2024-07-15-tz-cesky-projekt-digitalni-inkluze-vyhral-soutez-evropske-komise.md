@@ -2,7 +2,7 @@
 title: Český projekt Digitální inkluze vyhrál soutěž Evropské komise
 author: jakub.holzer
 cover: https://assets.cesko.digital/e8f9758b.jpg
-date: 2024-07-15-10-32
+date: 2024-07-11-10-42
 slug: tz-cesky-projekt-digitalni-inkluze-vyhral-soutez-evropske-komise
 description: "Praha, 11. července 2024 První místo vybojoval tým organizace
   Česko.Digital v mezinárodní soutěži The European Digital Skills Awards 2024.
