@@ -4,7 +4,7 @@ title: "Festival kreativní byrokracie opět přitáhl úřednictvo, které se n
 author: jakub.holzer
 tags:
   - festival-kreativni-byrokracie
-cover: https://assets.cesko.digital/6553aa9b.jpg
+cover: https://assets.cesko.digital/44f9ba5b.jpg
 date: 2024-07-15-03-10
 slug: probehl-ctvrty-rocnik-festivalu-kreativni-byrokracie
 description: 4. ročník festivalu je za námi a my děkujeme všem 330 z vás, kteří
