@@ -17,7 +17,7 @@ description: "Sláva! V celoevropské soutěži EDSA 2024 zvítězila naše Digi
   nominujte nás do Křišťálové Lupy 2024!"
 lang: cs
 ---
-## Vyhráli jsme! Naše Digitální inkluze získala 1. místo v soutěži Evropské komise
+# Vyhráli jsme! Naše Digitální inkluze získala 1. místo v soutěži Evropské komise
 
 Minule jsme psali o postupu do finále a teď můžeme bouchat šampaňské! První místo v mezinárodní soutěži Evropské komise [The European Digital Skills Awards 2024](https://digital-skills-jobs.europa.eu/en/latest/news/who-are-winners-european-digital-skills-awards-2024) bere náš projekt Digitální inkluze včetně příručky Pomáháme.Digital, která zvyšuje digitální kompetence sociálních pracovníků a pracovnic a jejich klientů. V kategorii Digital Upskilling @ Work jsme za sebou nechali 65 dalších týmů z celé Evropy.
 
@@ -27,7 +27,7 @@ Příručce Pomáháme.Digital se zatím daří skvěle. Máme už přes 140 reg
 
 \> [Hlásím se na školení!](https://docs.google.com/forms/d/e/1FAIpQLSdcYjIodaIb44at40KPQoslllsph7NlEMSV4T22eyYisIVptw/viewform)
 
-## Oslavte s námi 5 let Česko.Digital!
+# Oslavte s námi 5 let Česko.Digital!
 
 26. srpna 2024, 17:00-22:00\
 offline, [STVR Scroll Bar](https://www.google.com/maps/place//data=!4m2!3m1!1s0x470b94ed1e43b9cf:0x3e590144c34e1351?sa=X&ved=1t:8290&ictx=111), Praha
@@ -69,8 +69,6 @@ Děkujeme, že jste přišli na 4. ročník Festivalu kreativní byrokracie. 330
 Záznamy přednášek i textové souhrny některých bodů programu máme [na blogu](https://blog.cesko.digital/2024/07/probehl-ctvrty-rocnik-festivalu-kreativni-byrokracie).\
 Fotky si prohlédněte [tady](https://foto.cesko.digital/Festival-kreativni-byrokracie-2024).
 
-
-
 ## iDNES píše: Digitální dovednosti lidí posílí příručka Pomáháme.Digital
 
 Abychom pomohli co největšímu počtu digitálně ohrožených a vyloučených, školíme zaměstnané v sociálních službách. I v neziskovkách a sociálních službách totiž s digi dovednostmi bojují. „Pokud jim pomůžeme, naučí se efektivněji využívat například on-line služby státu při pomoci svým klientům," říká v článku na iDNES.cz naše Lujza Kotryová.
@@ -96,7 +94,7 @@ Pokud vám dává smysl to, co děláme, [nominujte nás a naše projekty do Kř
 ## 5. narozeniny Česko.Digital
 
 26. srpna 2024, 17:00-22:00
-offline, [STVR Scrollbar](https://www.google.com/maps/place//data=!4m2!3m1!1s0x470b94ed1e43b9cf:0x3e590144c34e1351?sa=X&ved=1t:8290&ictx=111), Praha
+    offline, [STVR Scrollbar](https://www.google.com/maps/place//data=!4m2!3m1!1s0x470b94ed1e43b9cf:0x3e590144c34e1351?sa=X&ved=1t:8290&ictx=111), Praha
 
 Chceme to oslavit s vámi! Pojďte se vidět naživo, popovídat si a seznámit se novými tvářemi. Čeká vás i shrnutí toho, co se nám povedlo, jak jsme se proměnili a taky přehled našich aktuálních aktivit a možností vašeho zapojení.
 
@@ -105,7 +103,7 @@ Chceme to oslavit s vámi! Pojďte se vidět naživo, popovídat si a seznámit 
 ## Efektivnější neziskovky? Využijte naše data i zkušenosti z projektu Nezisk Digital
 
 12. září 2024, 09:00--10:30\
-online
+    online
 
 V kurzu Nezisk Digital provázíme neziskové organizace digitální transformací a odemykáme jejich plný potenciál. Výzkum, metodika, pilotní i jarní běh kurzu jsou za námi a my vám rádi [nasdílíme naše dosavadní výsledky, dobrou praxi, zajímavá data i cenné informace a také vám nabídneme zapojení](https://app.cesko.digital/events/nezisk-digital-showcase-24-1).
 
