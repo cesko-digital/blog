@@ -5,7 +5,7 @@ author: jakub.holzer
 tags:
   - cesko-digital-obsah
 cover: https://assets.cesko.digital/208830a6.png
-date: 2024-07-18-12-42
+date: 2024-07-19-09-30
 slug: cist-digital-60
 description: "Sláva! V celoevropské soutěži EDSA 2024 zvítězila naše Digitální
   inkluze včetně příručky Pomáháme.Digital. Slavit budeme i 5. narozeniny
