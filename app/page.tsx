@@ -1,7 +1,7 @@
 import { PostMetadata } from "shared/post";
 import { getAllAuthors, getAllBlogPosts } from "shared/site-data";
-import PostCard from "shared/post-card";
-import PressReleaseListing from "shared/press-releases";
+import PostCard from "components/PostCard";
+import PressReleaseListing from "components/PressReleaseListing";
 import { Metadata } from "next";
 
 const Home = () => {
@@ -10,19 +10,15 @@ const Home = () => {
   const authorOf = (post: PostMetadata) =>
     authors.find((a) => a.id === post.authorId)!;
   return (
-    <div className="post-listing-row">
-      <div className="main-post">
+    <div className="grid lg:grid-cols-3 gap-7">
+      <div className="lg:col-span-2">
         <PostCard
           post={firstPost}
           author={authorOf(firstPost)}
           showCover={true}
         />
       </div>
-
-      <div className="press-release-box">
-        <PressReleaseListing />
-      </div>
-
+      <PressReleaseListing />
       {otherPosts.map((post) => (
         <div className="post-listing-post" key={post.path}>
           <PostCard post={post} author={authorOf(post)} />

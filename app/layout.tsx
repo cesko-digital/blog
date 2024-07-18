@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Footer from "./footer";
+import Image from "next/image";
 import "./global.css";
 
 type Props = {
@@ -24,10 +24,10 @@ export default async function RootLayout({ children }: Props) {
         />
       </head>
       <body>
-        <div className="main-wrapper">
+        <div className="flex flex-col gap-7">
           <NavigationBar />
-          <div className="content-wrapper">{children}</div>
-          <PartnerSection />
+          <main className="max-w-content px-7 m-auto">{children}</main>
+          <Partners />
           <Footer />
         </div>
       </body>
@@ -35,7 +35,65 @@ export default async function RootLayout({ children }: Props) {
   );
 }
 
-const PartnerSection = () => {
+//
+// Navigation
+//
+
+const NavigationBar = () => {
+  return (
+    <div className="w-full bg-pebble lg:pt-6">
+      <nav className="max-w-content flex flex-row flex-wrap gap-x-12 gap-y-7 items-center py-10 px-7 m-auto lg:grid lg:grid-cols-3">
+        <FullLogo />
+        <SquareLogo />
+        <Menu />
+      </nav>
+    </div>
+  );
+};
+
+const FullLogo = () => (
+  <Link href="/" className="-mt-[21px] hidden lg:block">
+    <Image
+      src="/logo.svg"
+      width={255}
+      height={53}
+      alt="Česko.Digital"
+      className="select-none"
+    />
+  </Link>
+);
+
+const SquareLogo = () => (
+  <Link href="/" className="lg:hidden">
+    <Image src="/favicon.png" width={60} height={60} alt="Česko.Digital" />
+  </Link>
+);
+
+const Menu = () => (
+  <ul className="flex flex-row gap-7 text-xl">
+    <li>
+      <Link href="https://cesko.digital" className="typo-link">
+        Co děláme
+      </Link>
+    </li>
+    <li>
+      <Link href="https://app.cesko.digital/" className="typo-link">
+        Zapojte se
+      </Link>
+    </li>
+    <li>
+      <Link href="/" className="font-bold">
+        Blog
+      </Link>
+    </li>
+  </ul>
+);
+
+//
+// Partners
+//
+
+const Partners = () => {
   const partners = [
     {
       id: "ppf",
@@ -54,16 +112,45 @@ const PartnerSection = () => {
   ];
 
   return (
-    <div className="partner-section">
-      <h2>Partneři</h2>
-      <div className="partner-logos">
-        {partners.map((partner) => (
+    <div className="bg-pebble py-12 mt-7 -mb-7">
+      <div className="w-full max-w-content m-auto px-7 text-center">
+        <h2 className="typo-title2 mb-10">Partneři</h2>
+        <div className="flex flex-row items-center justify-center gap-7">
+          {partners.map((partner) => (
+            <a
+              key={partner.id}
+              href={partner.linkUrl}
+              className="block w-[160px] h-[100px] relative"
+            >
+              <Image
+                className="object-contain"
+                src={partner.logoUrl}
+                alt={partner.name}
+                fill
+              />
+            </a>
+          ))}
+        </div>
+      </div>
+    </div>
+  );
+};
+
+//
+// Footer
+//
+
+const Footer = () => {
+  return (
+    <div className="w-full bg-plum py-12">
+      <div className="max-w-content m-auto flex flex-row flex-wrap justify-center items-center gap-10 px-7">
+        {socialLinks.map((item) => (
           <a
-            key={partner.id}
-            href={partner.linkUrl}
-            className="partner-logo-card"
+            key={item.name}
+            className="block text-white typo-link"
+            href={item.url}
           >
-            <img src={partner.logoUrl} alt={partner.name} />
+            {item.name}
           </a>
         ))}
       </div>
@@ -71,30 +158,33 @@ const PartnerSection = () => {
   );
 };
 
-//
-// Navigation
-//
-
-const NavigationBar = () => {
-  return (
-    <div className="navigation-wrapper">
-      <div className="navigation-bar">
-        <a href="/" className="logo-full" />
-        <a href="/" className="logo-square" />
-        <ul className="navigation-menu">
-          <li>
-            <Link href="https://cesko.digital">Co děláme</Link>
-          </li>
-          <li>
-            <Link href="https://app.cesko.digital/">Zapojte se</Link>
-          </li>
-          <li>
-            <Link href="/" className="navigation-current">
-              Blog
-            </Link>
-          </li>
-        </ul>
-      </div>
-    </div>
-  );
-};
+const socialLinks = [
+  {
+    url: "https://www.facebook.com/cesko.digital",
+    name: "Facebook",
+  },
+  {
+    url: "https://twitter.com/CeskoDigital",
+    name: "Twitter",
+  },
+  {
+    url: "https://www.linkedin.com/company/cesko-digital/",
+    name: "LinkedIn",
+  },
+  {
+    url: "https://www.instagram.com/cesko.digital/",
+    name: "Instagram",
+  },
+  {
+    url: "https://www.youtube.com/c/ČeskoDigital",
+    name: "YouTube",
+  },
+  {
+    url: "https://anchor.fm/poslouchatdigital",
+    name: "Podcast",
+  },
+  {
+    url: "http://github.com/cesko-digital",
+    name: "GitHub",
+  },
+];
