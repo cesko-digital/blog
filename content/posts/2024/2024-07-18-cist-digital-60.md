@@ -38,7 +38,7 @@ Máme narozeniny a chceme je oslavit s vámi! Pojďte se vidět naživo, popoví
 
 # Digitální služby státu od vás dostaly trojku
 
-[Průzkum spokojenosti s digitálními službami státu](https://docs.google.com/presentation/d/1K1xkxKLcjEa_VYtl-n5ym8m1kvoB9GoXW_TS2e2JUTc/edit#slide=id.g2e87c7e8872_0_6) mezi občany, firmami a dalšími aktéry je jedním z výstupů našeho projektu Digitální Partnerství, který jsme spustili před dvěma měsíci. Co vše jsme zatím stihli, co chystáme  a jak se můžete zapojit vy? [Pusťte si záznam naší první showcase](https://youtu.be/6Kyd3Cst4Xk).
+[Průzkum spokojenosti s digitálními službami státu](https://assets.cesko.digital/de19dc27.pdf) mezi občany, firmami a dalšími aktéry je jedním z výstupů našeho projektu Digitální Partnerství, který jsme spustili před dvěma měsíci. Co vše jsme zatím stihli, co chystáme  a jak se můžete zapojit vy? [Pusťte si záznam naší první showcase](https://youtu.be/6Kyd3Cst4Xk).
 
 Stále také hledáme posily do týmu. Přidejte se k nám v roli [analytika či analytičky](https://app.cesko.digital/opportunities/rec8eIQ29qnP53GwM) a pomozte nám zmapovat stávající systém, ve kterém digitální služby vznikají. Pro výzkum hledáme [výzkumníky a výzkumnice](https://app.cesko.digital/opportunities/recA1Gf2HDOCBmVxH). A pokud jimi nejste, budeme rádi, když s námi budete sdílet své znalosti a zkušenosti s digitálními službami: přidejte se k respondentům našeho průzkumu a [vyplňte tento formulář](https://airtable.com/app8N3Mk33MCxMuUk/pagPFrHfyxotQm1dA/form).
 
