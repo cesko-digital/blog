@@ -34,7 +34,7 @@ Příručce Pomáháme.Digital se zatím daří skvěle. Máme už přes 140 reg
 Kdy? 26. srpna 2024, 17:00-22:00\
 Kde? offline, [STVR Scrollbar](https://www.google.com/maps/place//data=!4m2!3m1!1s0x470b94ed1e43b9cf:0x3e590144c34e1351?sa=X&ved=1t:8290&ictx=111), Praha
 
-Máme narozeniny a chceme je oslavit s vámi! Pojďte se vidět naživo, popovídat si a seznámit se novými členkami a členy komunity. Čeká vás i shrnutí toho hlavního, co se nám v Česko.Digital povedlo, jak jsme se za tu dobu proměnili a taky přehled našich aktuálních aktivit a možností vašeho zapojení. [Registrujte se](https://airtable.com/appzzeZuZPAlDmgNl/shrfyic0IXYEwS6ZY) a doražte!
+Máme narozeniny a chceme je oslavit s vámi! Pojďte se vidět naživo, popovídat si a seznámit se s novými členkami a členy komunity. Čeká vás i shrnutí toho hlavního, co se nám v Česko.Digital povedlo, jak jsme se za tu dobu proměnili a taky přehled našich aktuálních aktivit a možností vašeho zapojení. [Registrujte se](https://airtable.com/appzzeZuZPAlDmgNl/shrfyic0IXYEwS6ZY) a doražte!
 
 # Digitální služby státu od vás dostaly trojku
 
@@ -42,11 +42,11 @@ Máme narozeniny a chceme je oslavit s vámi! Pojďte se vidět naživo, popoví
 
 Stále také hledáme posily do týmu. Přidejte se k nám v roli [analytika či analytičky](https://app.cesko.digital/opportunities/rec8eIQ29qnP53GwM) a pomozte nám zmapovat stávající systém, ve kterém digitální služby vznikají. Pro výzkum hledáme [výzkumníky a výzkumnice](https://app.cesko.digital/opportunities/recA1Gf2HDOCBmVxH). A pokud jimi nejste, budeme rádi, když s námi budete sdílet své znalosti a zkušenosti s digitálními službami: přidejte se k respondentům našeho průzkumu a [vyplňte tento formulář](https://airtable.com/app8N3Mk33MCxMuUk/pagPFrHfyxotQm1dA/form).
 
-[Podívám se na showcase Digitálního partnerství](https://youtu.be/6Kyd3Cst4Xk)
+**[\> Podívám se na showcase Digitálního partnerství](https://youtu.be/6Kyd3Cst4Xk)**
 
 [](https://youtu.be/6Kyd3Cst4Xk)
 
-> # Pro neziskové organizace
+> # 📍 Pro neziskové organizace
 
 ## 8 neziskovek se díky nám naučilo, jak pracovat efektivněji
 
@@ -61,7 +61,7 @@ duben-červen 2025
 
 **\> [Přihlásit se](https://airtable.com/appBMJcLnBva02IEy/shrlymCJWH9WCdGRq)**
 
-> # Veřejná správa
+> # 📍 Pro veřejnou správu
 
 ## Úředníci a úřednice dorazili na Jatka
 
@@ -72,13 +72,17 @@ Děkujeme, že jste přišli na 4. ročník Festivalu kreativní byrokracie. 330
 [](https://airtable.com/appzzeZuZPAlDmgNl/shr5mGAg94SiwXTtg)\
 Záznamy přednášek i textové souhrny některých bodů programu máme [na blogu](https://blog.cesko.digital/2024/07/probehl-ctvrty-rocnik-festivalu-kreativni-byrokracie). Fotky si prohlédněte na [foto.cesko.digital](https://foto.cesko.digital/Festival-kreativni-byrokracie-2024).
 
+
+
+
+
 > ## iDNES píše: Digitální dovednosti lidí posílí příručka Pomáháme.Digital
 >
 > Abychom pomohli co největšímu počtu digitálně ohrožených a vyloučených, školíme zaměstnané v sociálních službách. I v neziskovkách a sociálních službách totiž s digi dovednostmi bojují. „Pokud jim pomůžeme, naučí se efektivněji využívat například on-line služby státu při pomoci svým klientům," říká v článku na iDNES.cz naše Lujza Kotryová.
 >
 > [Přečtěte si to celé](https://www.idnes.cz/zpravy/domaci/digitalni-dovednosti-lidi-mohou-posilit-socialni-pracovnici-pomuze-jim-prirucka.A240615_090621_domaci_vank)
->
-> [](https://www.idnes.cz/zpravy/domaci/digitalni-dovednosti-lidi-mohou-posilit-socialni-pracovnici-pomuze-jim-prirucka.A240615_090621_domaci_vank)
+
+
 
 # Digitální jednohubky
 
@@ -100,7 +104,7 @@ Pokud vám dává smysl to, co děláme, [nominujte nás a naše projekty do Kř
 
 \> 26. srpna 2024, 17:00-22:00, offline, [STVR Scrollbar](https://www.google.com/maps/place//data=!4m2!3m1!1s0x470b94ed1e43b9cf:0x3e590144c34e1351?sa=X&ved=1t:8290&ictx=111), Praha
 
-Chceme to oslavit s vámi! Pojďte se vidět naživo, popovídat si a seznámit se novými tvářemi. Čeká vás i shrnutí toho, co se nám povedlo, jak jsme se proměnili a taky přehled našich aktuálních aktivit a možností vašeho zapojení.
+Chceme to oslavit s vámi! Pojďte se vidět naživo, popovídat si a seznámit se s novými tvářemi. Čeká vás i shrnutí toho, co se nám povedlo, jak jsme se proměnili a taky přehled našich aktuálních aktivit a možností vašeho zapojení.
 
 **[\> Dejte nám vědět, že přijdete](https://airtable.com/appzzeZuZPAlDmgNl/shrfyic0IXYEwS6ZY)**
 
