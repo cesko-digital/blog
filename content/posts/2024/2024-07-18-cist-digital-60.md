@@ -50,7 +50,7 @@ Stále také hledáme posily do týmu. Přidejte se k nám v roli [analytika či
 
 ## 8 neziskovek se díky nám naučilo, jak pracovat efektivněji
 
-92 ze 100 bodů - to je slušné hodnocení, nemyslíte? Je to průměrný počet bodů za přínos, který dostal náš online kurz Nezisk Digital po konci svého jarního běhu od zúčastněných neziskovek i průvodců a průvodkyň. Podívejte se na videomedailonky s  jejich pozitivními dojmy z kurzu.
+92 ze 100 bodů - to je slušné hodnocení, nemyslíte? Je to průměrný počet bodů za přínos, který dostal náš online kurz Nezisk Digital po konci svého jarního běhu od zúčastněných neziskovek i průvodců a průvodkyň. **Podívejte se na [videomedailonky s  jejich pozitivními dojmy z kurzu](https://www.youtube.com/playlist?list=PLOX5xelTsEv-8EW6sxP_I25VcJxM7L0JP)**.
 
 Pro podzimní běh kurzu, který startuje začátkem září, stále hledáme [průvodce a průvodkyně](https://app.cesko.digital/opportunities/recP8PO9DhSXwERTr) i [tech konzultanty a konzultantky](https://app.cesko.digital/opportunities/recGLCcg5xF0wsi5e). Nemusíte nic vymýšlet, vše máme připravené. Bude vás to bavit, protože uplatníte to, v čem jste dobří, získáte nové zkušenosti i vhled do nového prostředí a potkáte partu skvělých průvodců a průvodkyň, se kterými se můžete vzájemně učit. A to hlavní: konkrétní neziskovce pomůžete pracovat efektivněji.
 
@@ -80,7 +80,7 @@ Záznamy přednášek i textové souhrny některých bodů programu máme [na bl
 >
 > Abychom pomohli co největšímu počtu digitálně ohrožených a vyloučených, školíme zaměstnané v sociálních službách. I v neziskovkách a sociálních službách totiž s digi dovednostmi bojují. „Pokud jim pomůžeme, naučí se efektivněji využívat například on-line služby státu při pomoci svým klientům," říká v článku na iDNES.cz naše Lujza Kotryová.
 >
-> [Přečtěte si to celé](https://www.idnes.cz/zpravy/domaci/digitalni-dovednosti-lidi-mohou-posilit-socialni-pracovnici-pomuze-jim-prirucka.A240615_090621_domaci_vank)
+> **\> [Přečtěte si to celé](https://www.idnes.cz/zpravy/domaci/digitalni-dovednosti-lidi-mohou-posilit-socialni-pracovnici-pomuze-jim-prirucka.A240615_090621_domaci_vank)**
 
 
 
