@@ -86,7 +86,7 @@ Proto vznikl informační systém pro cizince (2015/2016). Cestu k digitalizaci 
 
 **Kristina Šůsová, Eva Pavlíková**
 
-*shrnutí zpracovala dobrovolnice Mari*
+*shrnutí zpracovala dobrovolnice Mariana Múdra*
 
 Od září běží nový mentoringový program, který spojuje mentory a mentee ve státní správě. Program nabízí prostor pro oboustranné sdílení zkušeností a rozvoj. Příběhy jako ten Tomáše Frígla a Jitky ukazují, jak může mentoring obohatit obě strany. Tomáš se dozvěděl o zájmech mladé generace úředníků, zatímco Jitka získala cenné vhledy do práce na Ministerstvu školství.
 
