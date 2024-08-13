@@ -2,7 +2,7 @@
 title: Horší trojka pro stát aneb jak občané a firmy hodnotí digitální služby
   veřejné správy
 author: jakub.holzer
-cover: xxx
+cover: https://assets.cesko.digital/d395231b.jpg
 date: 2024-08-13-05-44
 slug: horsi-trojka-pro-stat-aneb-jak-obcane-a-firmy-hodnoti-digitalni-sluzby-verejne-spravy
 description: Jak jste spokojeni s digitálními službami státu, kde konkrétně
