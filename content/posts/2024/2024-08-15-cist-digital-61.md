@@ -64,7 +64,7 @@ Děti vám v **dětském koutku** pohlídá Sto skupin.
 
 V naší online příručce pro lidi ze sociálních služeb přibyly 2 nové návody o komunikaci s klienty a bezpečnosti u aplikace Signal, 2 podobné návody na Messenger a návod Co je to Elbot, a v čem je přínosný pro seniory. Příručka Pomáháme.Digital se také objevila v [newsletteru magazínu Siréna](https://www.csspraha.cz/post/5-tip%C5%AF-jak-nau%C4%8Dit-klienty-ovl%C3%A1dat-digit%C3%A1ln%C3%AD-n%C3%A1stroje).
 
-## Podcast: Komunitní Senzor vzduchu měří kvalitu ovzduší v Česku
+## 🎧 Podcast: Komunitní Senzor vzduchu měří kvalitu ovzduší v Česku
 
 Díky projektu Senzor vzduchu si můžeme být jistí, co právě dýcháme. V nové epizodě poslouchat.digital si [Lukáš Návesník](https://www.linkedin.com/in/lukas-navesnik/) povídá s [Michaelem Lažanem](https://www.linkedin.com/in/michaellazan/) o komunitním měření kvality ovzduší a o tom, jak jsme na projektu společně pracovali v akcelerátoru č.d. Zhluboka se nadechněte a [pusťte si nový díl](https://podcasters.spotify.com/pod/show/poslouchatdigital/episodes/Michael-Laan-Vte--co-dchte--Uniktn-Senzor-vzduchu-m-ovzdu-v-esku-komunitn-e2mrll5).
 
