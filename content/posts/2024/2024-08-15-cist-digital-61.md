@@ -19,7 +19,7 @@ lang: cs
 
 # Horší trojka pro stát za digitální služby
 
-Máme za sebou předběžný výzkum – anketu mezi klienty státu (občany a firmami). Ptali jsme se vás, jak jste spokojeni s digitálními službami státu, kde konkrétně vidíte jejich rezervy a co od nich vlastně očekáváte. Ne příliš uspokojivé výsledky vám přinášíme v novém článku na našem blogu.
+Máme za sebou **předběžný výzkum – anketu** mezi klienty státu (občany a firmami). Ptali jsme se vás, jak jste **spokojeni s digitálními službami státu, kde konkrétně vidíte jejich rezervy a co od nich vlastně očekáváte**. Ne příliš uspokojivé výsledky vám přinášíme v novém článku na našem blogu.
 
 **[\> Přečtu si to](https://blog.cesko.digital/2024/08/horsi-trojka-pro-stat-aneb-jak-obcane-a-firmy-hodnoti-digitalni-sluzby-verejne-spravy)**
 
@@ -37,7 +37,7 @@ Blízký soused byla jednou z 8 neziskovek, která díky jarnímu kurzu [Nezisk.
 
 # Pomozte neziskovkám pracovat efektivněji
 
-Pro podzimní běh kurzu, který startuje začátkem září, [hledáme ještě 2  technické konzultanty a konzultantky](https://app.cesko.digital/opportunities/recGLCcg5xF0wsi5e).
+Pro podzimní běh kurzu, který startuje začátkem září, **[hledáme ještě 2  technické konzultanty a konzultantky](https://app.cesko.digital/opportunities/recGLCcg5xF0wsi5e)**.
 
 # Přijďte na naše narozeniny – už známe program
 
@@ -45,13 +45,12 @@ KDY: 27. srpna 2024, 17:00–22:00
 
 KDE: [STVR Scrollbar](https://www.google.com/maps/place//data=!4m2!3m1!1s0x470b94ed1e43b9cf:0x3e590144c34e1351?sa=X&ved=1t:8290&ictx=111), Praha, Karlín
 
-Už 150 z vás s námi hodlá naživo oslavit 5. narozeniny Česko.Digital. Doražte taky! Čeká vás moderovaný program, přehled našich aktuálních aktivit a možností vašeho zapojení, kvíz o merch č.d, networking a samozřejmě něco dobrého na zub i k pití. Doražte i vy – product owneři minulých projektů a jejich ex-dobrovolníci a dobrovolnice.
-
-Děti vám v dětském koutku pohlídá Sto skupin.
+Už 150 z vás s námi hodlá naživo oslavit 5. narozeniny Česko.Digital. Doražte taky! Čeká vás **moderovaný program**, přehled našich **aktuálních aktivit** a **možností vašeho zapojení, kvíz o merch č.d, networking** a samozřejmě něco dobrého na zub i k pití. Doražte i vy – product owneři minulých projektů a jejich ex-dobrovolníci a dobrovolnice.\
+Děti vám v **dětském koutku** pohlídá Sto skupin.
 
 **[\> Registrujte se](https://airtable.com/appzzeZuZPAlDmgNl/shrfyic0IXYEwS6ZY)**
 
-Program (stage, cca 40 minut)
+**Program** (stage, cca 40 minut)
 
 * 1. rok - Vzniká organizace Česko.Digital - proč a jak?
 * 2. rok - Máme první úspěšné projekty s neziskovými organizacemi.
