@@ -49,7 +49,7 @@ Už 150 z vás s námi hodlá naživo oslavit 5. narozeniny Česko.Digital. Dora
 
 Děti vám v dětském koutku pohlídá Sto skupin.
 
-[\> Registrujte se](https://airtable.com/appzzeZuZPAlDmgNl/shrfyic0IXYEwS6ZY)
+**[\> Registrujte se](https://airtable.com/appzzeZuZPAlDmgNl/shrfyic0IXYEwS6ZY)**
 
 Program (stage, cca 40 minut)
 
@@ -67,7 +67,7 @@ V naší online příručce pro lidi ze sociálních služeb přibyly 2 nové n�
 
 ## Podcast: Komunitní Senzor vzduchu měří kvalitu ovzduší v Česku
 
-Díky projektu Senzor vzduchu si můžeme být jistí, co právě dýcháme. V nové epizodě poslouchat.digital si Lukáš Návesník povídá s Michaelem Lažanem o komunitním měření kvality ovzduší a o tom, jak jsme na projektu společně pracovali v akcelerátoru č.d. Zhluboka se nadechněte a [pusťte si nový díl](https://podcasters.spotify.com/pod/show/poslouchatdigital/episodes/Michael-Laan-Vte--co-dchte--Uniktn-Senzor-vzduchu-m-ovzdu-v-esku-komunitn-e2mrll5).
+Díky projektu Senzor vzduchu si můžeme být jistí, co právě dýcháme. V nové epizodě poslouchat.digital si [Lukáš Návesník](https://www.linkedin.com/in/lukas-navesnik/) povídá s [Michaelem Lažanem](https://www.linkedin.com/in/michaellazan/) o komunitním měření kvality ovzduší a o tom, jak jsme na projektu společně pracovali v akcelerátoru č.d. Zhluboka se nadechněte a [pusťte si nový díl](https://podcasters.spotify.com/pod/show/poslouchatdigital/episodes/Michael-Laan-Vte--co-dchte--Uniktn-Senzor-vzduchu-m-ovzdu-v-esku-komunitn-e2mrll5).
 
 ## Rok 2023 v Česko.Digital
 
@@ -82,21 +82,18 @@ online
 
 V kurzu Nezisk.Digital provázíme neziskové organizace digitální transformací a odemykáme jejich plný potenciál. Výzkum, metodika, pilotní i jarní běh kurzu jsou za námi a my vám rádi [nasdílíme naše dosavadní výsledky, dobrou praxi, zajímavá data i cenné informace a také vám nabídneme zapojení](https://app.cesko.digital/events/nezisk-digital-showcase-24-1).
 
-[\> Registrujte se](https://airtable.com/appBMJcLnBva02IEy/shr7e5GpqzKrYFvII)
+**[\> Registrujte se](https://airtable.com/appBMJcLnBva02IEy/shr7e5GpqzKrYFvII)**
 
 [](https://airtable.com/appBMJcLnBva02IEy/shr7e5GpqzKrYFvII)
 
 ## Event Nezisk.Digital #1
 
-\> 16. října 2024, 15:00–16:30 
-a\
-
-> 18. října 2024, 9:00–10.30
->     online
+\> 16. října 2024, 15:00–16:30 & 18.října 2024, 9:00–10.30
+online
 
 Zjistěte, jak nejen pomocí digitálních nástrojů zlepšit efektivitu své neziskovky. Konkrétní ukázky, tipy a zkušenosti vám nasdílejí účastníci našeho kurzu Nezisk.Digital. Přímo z první ruky se dozvíte, jak zmapovali slabá místa i skutečné potřeby své organizace a představí vám, na jaké konkrétní problémy se zaměřili a proč. Eventy jsou tentokrát dva a v každém z nich vám svou dosavadní cestu kurzem odprezentuje 10 neziskovek.
 
-[\> Registruj se](https://airtable.com/appBMJcLnBva02IEy/shrQ3U5Ie9gFJPAQB)
+**[\> Registruj se](https://airtable.com/appBMJcLnBva02IEy/shrQ3U5Ie9gFJPAQB)**
 
 [](https://airtable.com/appBMJcLnBva02IEy/shrQ3U5Ie9gFJPAQB)
 
@@ -109,7 +106,7 @@ offline
 
 Vyzkoušejte si, jaké je to být designérem digitálních řešení pro lidi, kteří mají k digitálnu daleko. Budeme vycházet ze zkušeností s naším oceněným projektem Digitální inkluze. Projdeme ideační fází, vybrainstormujeme možná řešení a načrtneme jednoduché prototypy. Workshopem vás provedou designérky z Česko.Digital, Lujza Kotryová a Anežka Malčíková. Na workshopu je jen 15 míst, účastníci musí mít koupenou vstupenku na Maker Faire Brno.
 
-[\> Registrujte si své místo](https://docs.google.com/forms/d/e/1FAIpQLSdje9BpjLjqxTL5iUVNWHKhvahzpMjnBCf0FIX9-ZuK1N9Ffg/viewform)
+**[\> Registrujte si své místo](https://docs.google.com/forms/d/e/1FAIpQLSdje9BpjLjqxTL5iUVNWHKhvahzpMjnBCf0FIX9-ZuK1N9Ffg/viewform)**
 
 [](https://docs.google.com/forms/d/e/1FAIpQLSdje9BpjLjqxTL5iUVNWHKhvahzpMjnBCf0FIX9-ZuK1N9Ffg/viewform)
 
