@@ -66,11 +66,11 @@ V naší online příručce pro lidi ze sociálních služeb přibyly 2 nové n�
 
 ## 🎧 Podcast: Komunitní Senzor vzduchu měří kvalitu ovzduší v Česku
 
-Díky projektu Senzor vzduchu si můžeme být jistí, co právě dýcháme. V nové epizodě poslouchat.digital si [Lukáš Návesník](https://www.linkedin.com/in/lukas-navesnik/) povídá s [Michaelem Lažanem](https://www.linkedin.com/in/michaellazan/) o komunitním měření kvality ovzduší a o tom, jak jsme na projektu společně pracovali v akcelerátoru č.d. Zhluboka se nadechněte a [pusťte si nový díl](https://podcasters.spotify.com/pod/show/poslouchatdigital/episodes/Michael-Laan-Vte--co-dchte--Uniktn-Senzor-vzduchu-m-ovzdu-v-esku-komunitn-e2mrll5).
+Díky projektu Senzor vzduchu si můžeme být jistí, co právě dýcháme. V nové epizodě poslouchat.digital si [Lukáš Návesník](https://www.linkedin.com/in/lukas-navesnik/) povídá s [Michaelem Lažanem](https://www.linkedin.com/in/michaellazan/) o komunitním měření kvality ovzduší a o tom, jak jsme na projektu společně pracovali v akcelerátoru č.d. Zhluboka se nadechni a [pusť si nový díl](https://podcasters.spotify.com/pod/show/poslouchatdigital/episodes/Michael-Laan-Vte--co-dchte--Uniktn-Senzor-vzduchu-m-ovzdu-v-esku-komunitn-e2mrll5).
 
 ## Rok 2023 v Česko.Digital
 
-Chcete naservírovat, co všechno se nám podařilo v loňském roce, a jaký měly naše aktivity dopad? Prolistujte si naši [výroční zprávu](https://assets.cesko.digital/4b37ec4e.pdf).
+Chceš naservírovat, co všechno se nám podařilo v loňském roce, a jaký měly naše aktivity dopad? Prolistuj si naši [výroční zprávu](https://assets.cesko.digital/4b37ec4e.pdf).
 
 # Nejbližší akce
 
