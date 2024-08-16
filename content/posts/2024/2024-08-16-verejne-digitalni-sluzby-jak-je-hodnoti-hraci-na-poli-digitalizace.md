@@ -2,7 +2,7 @@
 title: Veřejné digitální služby – jak je hodnotí hráči na poli digitalizace?
 author: jakub.holzer
 cover: https://assets.cesko.digital/149a8ad2.jpg
-date: 2024-08-16-01-39
+date: 2024-08-16-03-41
 slug: Verejne-digitalni-sluzby-jak-je-hodnoti-hraci-na-poli-digitalizace
 description: Jak jste spokojeni s digitálními službami státu, kde konkrétně
   vidíte jejich rezervy a co od nich vlastně očekáváte? Přesně to nás v
