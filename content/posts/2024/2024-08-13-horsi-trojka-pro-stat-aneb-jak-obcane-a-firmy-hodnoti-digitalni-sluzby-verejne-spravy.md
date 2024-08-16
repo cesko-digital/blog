@@ -76,7 +76,7 @@ Celý proces digitální transformace státu si zaslouží maximální koordinac
 
 ### V navazujících článcích přinášíme:
 
-* Hodnocení digitálních služeb státu očima hráčů v oblasti digitalizace veřejné správy, jako jsou zástupci ministerstva, úředníci, dodavatelé technologií, politici a další.
+* [Hodnocení digitálních služeb státu očima hráčů v oblasti digitalizace veřejné správy, jako jsou zástupci ministerstva, úředníci, dodavatelé technologií, politici a další.](https://blog.cesko.digital/2024/08/Verejne-digitalni-sluzby-jak-je-hodnoti-hraci-na-poli-digitalizace)
 * Naše návrhy a vize digitální transformace služeb státu.
 
 Pokud máte zájem se dozvědět více nebo se zapojit do našich snah, podívejte se na [web Digitálního partnerství](https://digitalnipartnerstvi.cesko.digital/). Můžete se k nám rovnou [přidat na Diskutuj.Digital](https://diskutuj.digital/) nebo nás kontaktovat na [digitalni.partnerstvi@cesko.digital](mailto:digitalni.partnerstvi@cesko.digital).
