@@ -62,7 +62,7 @@ Děti vám v **dětském koutku** pohlídá Sto skupin.
 
 ## Co nového v Pomáháme.Digital?
 
-V naší online příručce pro lidi ze sociálních služeb přibyly 2 nové návody o komunikaci s klienty a bezpečnosti [u aplikace Signal](https://www.pomahame.digital/enrol/index.php?id=103), 2 podobné návody [na Messenger](https://www.pomahame.digital/course/view.php?id=106) a návod [Co je to Elbot](https://www.pomahame.digital/enrol/index.php?id=110), a v čem je přínosný pro seniory. Příručka Pomáháme.Digital se také objevila v [newsletteru magazínu Siréna](https://www.csspraha.cz/post/5-tip%C5%AF-jak-nau%C4%8Dit-klienty-ovl%C3%A1dat-digit%C3%A1ln%C3%AD-n%C3%A1stroje). Děkujeme.
+V naší online příručce pro lidi ze sociálních služeb přibyly 2 nové návody o komunikaci s klienty a bezpečnosti [u aplikace Signal](https://www.pomahame.digital/enrol/index.php?id=103), 2 podobné návody [na Messenger](https://www.pomahame.digital/course/view.php?id=106) a návod [Co je to Elbot](https://www.pomahame.digital/enrol/index.php?id=110), a v čem je přínosný pro seniory. Příručka Pomáháme.Digital se také objevila v [newsletteru Magazínu Siréna](https://www.csspraha.cz/post/5-tip%C5%AF-jak-nau%C4%8Dit-klienty-ovl%C3%A1dat-digit%C3%A1ln%C3%AD-n%C3%A1stroje). Děkujeme.
 
 ## 🎧 Podcast: Komunitní Senzor vzduchu měří kvalitu ovzduší v Česku
 
