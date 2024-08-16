@@ -5,7 +5,7 @@ author: jakub.holzer
 tags:
   - newsletter
 cover: https://assets.cesko.digital/2b30b9f4.png
-date: 2024-08-16-12-11
+date: 2024-08-16-01-11
 slug: cist-digital-61
 description: Už víme, jak jste spokojeni s digitálními službami státu. Výsledky
   našich rozhovorů s občany a firmami nejsou úplně povzbudivé, ale máme plán,
