@@ -1,6 +1,6 @@
 ---
 title: "číst.digital/61: Digitální služby státu si od vás vysloužily trojku |
-  Zveme vás na naše 5. narozeniny – program odtajněn!"
+  Efektivnější neziskovky - nasdílíme data a zkušenosti - přihlaste se"
 author: jakub.holzer
 tags:
   - newsletter
@@ -12,7 +12,7 @@ description: Už víme, jak jste spokojeni s digitálními službami státu. Vý
   jak to změnit. Nezapomeňte se přihlásit na zářijovou online akci, kde vám
   představíme, jak mohou být neziskovky efektivnější díky našim zkušenostem z
   našeho projektu Nezisk.Digital. A přečtěte si, jak konkrétně díky kurzu
-  Nezisk.Digital zlešila své pracovní procesy organizace Blízký soused.
+  Nezisk.Digital zlepšila své pracovní procesy organizace Blízký soused.
 lang: cs
 ---
 > # 📍 Pro veřejnou správu
@@ -62,7 +62,7 @@ Děti vám v **dětském koutku** pohlídá Sto skupin.
 
 ## Co nového v Pomáháme.Digital?
 
-V naší online příručce pro lidi ze sociálních služeb přibyly 2 nové návody o komunikaci s klienty a bezpečnosti u aplikace Signal, 2 podobné návody na Messenger a návod Co je to Elbot, a v čem je přínosný pro seniory. Příručka Pomáháme.Digital se také objevila v [newsletteru magazínu Siréna](https://www.csspraha.cz/post/5-tip%C5%AF-jak-nau%C4%8Dit-klienty-ovl%C3%A1dat-digit%C3%A1ln%C3%AD-n%C3%A1stroje).
+V naší online příručce pro lidi ze sociálních služeb přibyly 2 nové návody o komunikaci s klienty a bezpečnosti [u aplikace Signal](https://www.pomahame.digital/enrol/index.php?id=103), 2 podobné návody [na Messenger](https://www.pomahame.digital/course/view.php?id=106) a návod [Co je to Elbot](https://www.pomahame.digital/enrol/index.php?id=110), a v čem je přínosný pro seniory. Příručka Pomáháme.Digital se také objevila v [newsletteru magazínu Siréna](https://www.csspraha.cz/post/5-tip%C5%AF-jak-nau%C4%8Dit-klienty-ovl%C3%A1dat-digit%C3%A1ln%C3%AD-n%C3%A1stroje). Děkujeme.
 
 ## 🎧 Podcast: Komunitní Senzor vzduchu měří kvalitu ovzduší v Česku
 
@@ -70,7 +70,7 @@ Díky projektu Senzor vzduchu si můžeme být jistí, co právě dýcháme. V n
 
 ## Rok 2023 v Česko.Digital
 
-Chcete naservírovat, co všechno se nám podařilo v loňském roce, a jaký měly naše aktivity dopad? Prolistujte si naši výroční zprávu.
+Chcete naservírovat, co všechno se nám podařilo v loňském roce, a jaký měly naše aktivity dopad? Prolistujte si naši [výroční zprávu](https://assets.cesko.digital/4b37ec4e.pdf).
 
 # Nejbližší akce
 
