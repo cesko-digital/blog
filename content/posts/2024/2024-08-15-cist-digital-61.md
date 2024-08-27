@@ -15,6 +15,10 @@ description: Už víme, jak jste spokojeni s digitálními službami státu. Vý
   Nezisk.Digital zlepšila své pracovní procesy organizace Blízký soused.
 lang: cs
 ---
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/42CaPeAES64EP0q1t4zqqt?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
 > # 📍 Pro veřejnou správu
 
 # Horší trojka pro stát za digitální služby
@@ -53,10 +57,7 @@ Děti vám v **dětském koutku** pohlídá Sto skupin.
 **Program** (stage, cca 40 minut)
 
 * 1. rok - Vzniká organizace Česko.Digital - proč a jak?
-* 2. rok - Máme první úspěšné projekty s neziskovými organizacemi.
-* 3. rok - Společně a rychle reagujeme na dobu covidovou a covidové projekty pomáhají, kde je potřeba.
-* 4. rok - Opět společně a rychle reagujeme na důsledky války na Ukrajině a vznikají projekty na pomoc příchozím z Ukrajiny.
-* 5. rok - Nechceme hasit požáry, chceme pomoci veřejné správě a neziskovým organizacím, aby uměli využívat potenciál digitálních technologií a spouštíme projekty Nezisk.Digital, Digitální partnerství a Digitální inkluze.
+  2. rok - Máme první úspěšné projekty s neziskovými organizacemi.
 
 # Digitální jednohubky
 
