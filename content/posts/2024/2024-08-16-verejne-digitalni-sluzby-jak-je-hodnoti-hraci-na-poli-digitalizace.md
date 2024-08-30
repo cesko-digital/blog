@@ -7,7 +7,8 @@ slug: Verejne-digitalni-sluzby-jak-je-hodnoti-hraci-na-poli-digitalizace
 description: Jak jste spokojeni s digitálními službami státu, kde konkrétně
   vidíte jejich rezervy a co od nich vlastně očekáváte? Přesně to nás v
   Česko.Digital zajímalo, a proto jsme v dubnu a květnu letošního roku provedli
-  anketu mezi klienty státu – občany a firmami.
+  anketu nejen mezi občany a firmami, ale také hráči na poli digitalizace. Právě
+  jejich pohled vám v tomto textu představíme.
 lang: cs
 ---
 V [minulém článku](https://blog.cesko.digital/2024/08/horsi-trojka-pro-stat-aneb-jak-obcane-a-firmy-hodnoti-digitalni-sluzby-verejne-spravy) jste mohli zjistit, že podle našeho výzkumu hodnotí občané a firmy české veřejné digitální služby nepříliš lichotivě – školní známkou 3,2. Jak vidí jejich aktuální stav ti, kdo vidí do kuchyně, kde se tyto služby chystají, tedy hráči v oblasti digitalizace veřejné správy? Tímto termínem označujeme jedince či instituce, kteří připravují, plánují a tvoří veřejné digitální služby. 
