@@ -54,7 +54,7 @@ Ve čtvrtek 12. září jsme na akci „Efektivnější neziskovky? Využijte na
 
 # **Novinky v naší appce**
 
-V naší aplikaci přibyly **[veřejné uživatelské profily lidí](https://app.cesko.digital/people)**, kteří tvoří Česko.Digital. Je to důležitý krok, který nám mimo jiné umožní **lépe propojovat lidi**. Uvidíte u nich **jejich kompetence** i **zapojení v našich aktivitách**. Současná verze je tzv. MVP (minimum viable product), s profily ale máme řadu dalších velkolepých plánů! Jestli chcete, přidejte se, stačí aktualizovat a zveřejnit svůj profil **[tady](https://app.cesko.digital/account)**. Natočili jsme pro vás i** [video, jak na to](https://www.loom.com/share/458f0612ac5d4b66af70902cedd9e308)**.
+V naší aplikaci přibyly **[veřejné uživatelské profily lidí](https://app.cesko.digital/people)**, kteří tvoří Česko.Digital. Je to důležitý krok, který nám mimo jiné umožní **lépe propojovat lidi**. Uvidíte u nich **jejich kompetence** i **zapojení v našich aktivitách**. Současná verze je tzv. MVP (minimum viable product), s profily ale máme řadu dalších velkolepých plánů! Jestli chcete, přidejte se, stačí aktualizovat a zveřejnit svůj profil **[tady](https://app.cesko.digital/account)**. Natočili jsme pro vás i **[video, jak na to](https://www.loom.com/share/458f0612ac5d4b66af70902cedd9e308)**.
 
 # Chcete ve své neziskovce pracovat mnohem efektivněji?
 
