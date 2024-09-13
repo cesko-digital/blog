@@ -59,7 +59,7 @@ V naší aplikaci přibyly **[veřejné uživatelské profily lidí](https://ap
 # Chcete ve své neziskovce pracovat mnohem efektivněji?
 
 Hlaste se do jarního běhu online kurzu Nezisk Digital!\
-duben–červen 2025
+březen–červen 2025
 
 **\> [Přihlásit se](https://airtable.com/appBMJcLnBva02IEy/shrlymCJWH9WCdGRq)** [](https://airtable.com/appBMJcLnBva02IEy/shrlymCJWH9WCdGRq) 
 
@@ -73,7 +73,7 @@ Dobrovolníci a dobrovolnice, experti a expertky, stakeholdeři, minulí i souč
 
 ## Co nového v Pomáháme.Digital?
 
-**Už 200 pracovníků a pracovnic**, například z Člověk v tísni, Charita ČR nebo Armáda spásy, naši příručku využívá ve své práci. V **pořadu Sama doma** ji také představila naše kolegyně Lujza Kotryová spolu s ředitelkou České asociace streetwork Martinou Zikmundovou, jednou z ambasadorek projektu. V příručce máme také **[nové návody](https://www.pomahame.digital/)** – **Mapu bez domova** (mapa a databáze návazných služeb) a **Čáru** (aplikace pomáhající lidem bez domova, závislým na drogách nebo propuštěným z vězení). Všechny novinky shrneme na **showcase #5**, která se bude konat začátkem října.
+**Už 220 pracovníků a pracovnic**, například z Člověk v tísni, Charita ČR nebo Armáda spásy, naši příručku využívá ve své práci. V **pořadu Sama doma** ji také představila naše kolegyně Lujza Kotryová spolu s ředitelkou České asociace streetwork Martinou Zikmundovou, jednou z ambasadorek projektu. V příručce máme také **[nové návody](https://www.pomahame.digital/)** – **Mapu bez domova** (mapa a databáze návazných služeb) a **Čáru** (aplikace pomáhající lidem bez domova, závislým na drogách nebo propuštěným z vězení). Všechny novinky shrneme na **showcase #5**, která se bude konat v říjnu.
 
 ## **Kurzy Jak na e-government**
 
@@ -95,7 +95,7 @@ Děkujeme a loučíme se v dobrém s Julií Baraniakovou! Její práci od zář�
 
 Zjistěte, jak nejen pomocí digitálních nástrojů zlepšit efektivitu své neziskovky. Konkrétní ukázky, tipy a zkušenosti vám nasdílejí účastníci našeho kurzu Nezisk.Digital. Přímo z první ruky se dozvíte, jak zmapovali slabá místa i skutečné potřeby své organizace a představí vám, na jaké konkrétní problémy se zaměřili a proč. Eventy jsou tentokrát dva a v každém z nich vám svou dosavadní cestu kurzem odprezentuje 10 neziskovek.
 
-**[\> REGISTRUJTE SE](https://airtable.com/appBMJcLnBva02IEy/shrQ3U5Ie9gFJPAQB)**
+**[\> REGISTRUJ SE](https://airtable.com/appBMJcLnBva02IEy/shrQ3U5Ie9gFJPAQB)**
 
 ## Jak navrhovat digitální řešení pro všechny
 
