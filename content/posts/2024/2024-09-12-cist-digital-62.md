@@ -6,7 +6,7 @@ author: jakub.holzer
 tags:
   - newsletter
 cover: https://assets.cesko.digital/e837e75e.png
-date: 2024-09-13-08-17
+date: 2024-09-13-12-22
 slug: cist-digital-62
 description: Jak hodnotí digitální služby státu ti, kteří se okolo digitalizace
   pohybují? To vám prozradí další díl seriálu o výsledcích naší ankety. Pusťte
