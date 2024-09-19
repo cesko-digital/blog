@@ -51,19 +51,19 @@ A možná ještě jasnější jsou citace respondentů výzkumu:
 
 Díky porozumění tomu, co neziskovkám brání v digitální transformaci, jsme náš kurz postavili na 3 základních pilířích:
 
-* **Aktivním učením**
+* #### **Aktivním učením**
 
 Během kurzu řeší každá organizace svůj reálný problém. Součástí je vzájemné učení se, sdílení dobré praxe a omylů mezi neziskovými organizacemi.
 
-* **Průvodcování**
+* #### **Průvodcování**
 
 Organizace provedou kurzem průvodci se zkušenostmi s digitální transformací. Pomohou jim odstranit největší překážky, motivují je a jsou pro ně oporou v celém kurzu.
 
-* **Měkkých dovednostech**
+* #### **Měkkých dovednostech**
 
 Organizace se naučí rozumět svým potřebám a slabinám a ví, kde jim technologie může pomoci.
 
-### **S jakými motivacemi se neziskovky hlásí do kurzu?**
+## **S jakými motivacemi se neziskovky hlásí do kurzu?**
 
 > „*Jako nezisková organizace dlouhodobě bojujeme s financemi a lidskými kapacitami. Největší motivace pro nás je zvýšení efektivity, které ulehčí lidským kapacitám a tím nároku na finance.*“
 >
