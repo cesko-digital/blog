@@ -113,7 +113,7 @@ K jakým změnám došlo u kurzistů po jarním běhu? Jak se v organizaci posun
 
 \* \*obě citace pravděpodobně reflektují hlubší uvědomění si vlastních potřeb a slabin, což mohlo vést k poklesu v sebehodnocení tohoto kritéria.)\*\*
 
-![](unnamed.png "Průměrné hodnoty sebehodnocení osmi organizací z jarního běhu 2024 oproti době před kurzem.")
+![](https://assets.cesko.digital/0d5d54bd.png "Průměrné hodnoty sebehodnocení osmi organizací z jarního běhu 2024 oproti době před kurzem.")
 
 # Celková spokojenost s kurzem
 
@@ -135,7 +135,7 @@ A tohle si uvědomili a osvojili v MigAct, další zúčastněné organizaci, kt
 
 👉 jak nastavit cíle pro svou marketingovou komunikaci, které budou lépe reflektovat jejich strategii
 
-![](unnamed-1-.png "Kurz Nezisk.Digital - hodnocení jarního běhu")
+![](https://assets.cesko.digital/89c736d4.png "Kurz Nezisk.Digital - hodnocení jarního běhu")
 
 # Zapojte se!
 
