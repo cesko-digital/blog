@@ -11,7 +11,7 @@ description: Minulý týden jsme sdíleli naše hlavní poznatky, data i osobní
   zkušenosti průvodců či účastníků našich kurzů Nezisk.Digital. Kurz jsme
   navrhli pro organizace ze sociální oblasti tak, abychom pomocí digitálních
   nástrojů podpořili efektivitu jejich práce. V tomto článku přinášíme vše
-  podstatné, co na prezentaci zaznělo. Pro ty aktivní z vás máme i řadu výzev k
+  podstatné, co na eventu zaznělo. Pro ty aktivní z vás máme i řadu výzev k
   zapojení – například do mapování neziskového sektoru.
 lang: cs
 ---
@@ -33,7 +33,7 @@ To jsou jen některá data z rozsáhlého průzkumu Sdružení Via a Nadace OSF 
 
 # Náš výzkum aneb proč NNO nedokáží plně využívat technologie
 
-Českým neziskovkám dnes pomáháme s efektivitou. Abychom věděli jak na to, nejprve jsme provedli [vlastní výzkum](https://docs.google.com/presentation/d/1ljpaPzXolnRsTdMDO_xJviY-vR4geiBHKhEXqeICuio/edit#slide=id.g28036a03f5e_2_230). Ten nám pomohl identifikovat bariéry ve 3 základních oblastech, které neziskovkám brání adoptovat digitální řešení:
+Českým neziskovkám dnes pomáháme s efektivitou. Abychom věděli, jak na to, nejprve jsme provedli [vlastní výzkum](https://docs.google.com/presentation/d/1ljpaPzXolnRsTdMDO_xJviY-vR4geiBHKhEXqeICuio/edit#slide=id.g28036a03f5e_2_230). Ten nám pomohl identifikovat bariéry ve 3 základních oblastech, které neziskovkám brání adoptovat digitální řešení:
 
 1. **Není jim jasné, co potřebují zlepšit pomocí technologií**
 2. **Chybí jim podpora i motivace, aby s technologiemi mohly pracovat**
@@ -49,7 +49,7 @@ A možná ještě jasnější jsou citace respondentů výzkumu:
 
 # Kurz Nezisk.Digital
 
-Díky porozumění tomu, co neziskovkám brání v digitální transformaci, jsme náš kurz postavili na 3 základních pilířích:
+Když jsme porozuměli tomu, co neziskovkám brání v digitální transformaci, přišli jsme s řešením. Speciálně pro jejich potřeby jsme navrhli kurz, který stojí na 3 základních pilířích:
 
 * #### **Aktivním učením**
 
@@ -99,9 +99,9 @@ K jakým změnám došlo u kurzistů po jarním běhu? Jak se v organizaci posun
 
 * **Pokles o 7,5 % u kritéria „Máte nadefinovaný jasný cíl organizace (vize, mise)“** 
 
-> *„Protože my jsme se taky mysleli, že to máme hezky rozjetý a pak jsme zjistili, že vlastně to jde daleko líp a jednodušeji. A že se s tím zbytečně plácáme. Takže moc děkujeme Česko.Digital za tuhle příležitost a doufám, že ty další další běhy budou pro všechny, stejně tak přínosný, jako byly pro nás.“* **(Blízký Soused)**
+> *„Mysleli jsme si, že to máme hezky rozjetý a pak jsme zjistili, že to jde daleko líp a jednodušeji, a že se s tím zbytečně plácáme. Takže moc děkujeme Česko.Digital za tuhle příležitost a doufám, že ty další běhy budou pro všechny stejně tak přínosný, jako byly pro nás.“* **(Blízký Soused)**
 >
-> \*„Určitě pro nás bylo strašně důležité to, že jsme si ty vize a ty nápady mohli přehledně sepsat. Mohli jsme to říkat naší paní mentorce, která nás trošku korigovala a vlastně jsme si utřídili nějakou tu vizi toho digitálna.“ \***\*(Ledovec)**
+> „*Určitě pro nás bylo strašně důležité to, že jsme si ty vize a ty nápady mohli přehledně sepsat. Mohli jsme to říkat naší paní mentorce, která nás trošku korigovala a vlastně jsme si utřídili nějakou tu vizi toho digitálna*.“ ***(Ledovec)**
 
 \* *tato citace může naznačovat proces, kdy organizace více zkoumá samu sebe (někdy možná i poprvé v takové hloubce), a odhaluje nejasnosti ohledně svého skutečného poslání.*
 
@@ -111,7 +111,7 @@ K jakým změnám došlo u kurzistů po jarním běhu? Jak se v organizaci posun
 >
 > *„Paradoxně, přestože nejsem IT zdatná a nejsem příznivcem těchto dovedností, jsem moc vděčná tomu kurzu, že mi to pomohlo přemýšlet o tom, co se dá udělat pro to, aby lidi, kteří jsou podobně na tom jako já, mohli o tom přemýšlet jako o něčem, co vlastně chtějí.“* * **(Ledovec)**
 
-\* \*obě citace pravděpodobně reflektují hlubší uvědomění si vlastních potřeb a slabin, což mohlo vést k poklesu v sebehodnocení tohoto kritéria.)\*\*
+\* *obě citace pravděpodobně reflektují hlubší uvědomění si vlastních potřeb a slabin, což mohlo vést k poklesu v sebehodnocení tohoto kritéria.)*
 
 ![](https://assets.cesko.digital/0d5d54bd.png "Průměrné hodnoty sebehodnocení osmi organizací z jarního běhu 2024 oproti době před kurzem.")
 
