@@ -11,7 +11,7 @@ description: Minulý týden jsme sdíleli naše hlavní poznatky, data i osobní
   zkušenosti průvodců či účastníků našich kurzů Nezisk.Digital. Kurz jsme
   navrhli pro organizace ze sociální oblasti tak, abychom pomocí digitálních
   nástrojů podpořili efektivitu jejich práce. V tomto článku přinášíme vše
-  podstatné, co na prezentaci zaznělo. Pro ty aktivní z vás máme i řadu výzev k
+  podstatné, co na eventu zaznělo. Pro ty aktivní z vás máme i řadu výzev k
   zapojení – například do mapování neziskového sektoru.
 lang: cs
 ---
@@ -33,7 +33,7 @@ To jsou jen některá data z rozsáhlého průzkumu Sdružení Via a Nadace OSF 
 
 # Náš výzkum aneb proč NNO nedokáží plně využívat technologie
 
-Českým neziskovkám dnes pomáháme s efektivitou. Abychom věděli jak na to, nejprve jsme provedli [vlastní výzkum](https://docs.google.com/presentation/d/1ljpaPzXolnRsTdMDO_xJviY-vR4geiBHKhEXqeICuio/edit#slide=id.g28036a03f5e_2_230). Ten nám pomohl identifikovat bariéry ve 3 základních oblastech, které neziskovkám brání adoptovat digitální řešení:
+Českým neziskovkám dnes pomáháme s efektivitou. Abychom věděli, jak na to, nejprve jsme provedli [vlastní výzkum](https://docs.google.com/presentation/d/1ljpaPzXolnRsTdMDO_xJviY-vR4geiBHKhEXqeICuio/edit#slide=id.g28036a03f5e_2_230). Ten nám pomohl identifikovat bariéry ve 3 základních oblastech, které neziskovkám brání adoptovat digitální řešení:
 
 1. **Není jim jasné, co potřebují zlepšit pomocí technologií**
 2. **Chybí jim podpora i motivace, aby s technologiemi mohly pracovat**
