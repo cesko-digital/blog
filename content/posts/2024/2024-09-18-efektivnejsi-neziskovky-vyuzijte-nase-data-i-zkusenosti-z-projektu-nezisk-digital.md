@@ -111,7 +111,7 @@ K jakým změnám došlo u kurzistů po jarním běhu? Jak se v organizaci posun
 >
 > *„Paradoxně, přestože nejsem IT zdatná a nejsem příznivcem těchto dovedností, jsem moc vděčná tomu kurzu, že mi to pomohlo přemýšlet o tom, co se dá udělat pro to, aby lidi, kteří jsou podobně na tom jako já, mohli o tom přemýšlet jako o něčem, co vlastně chtějí.“* * **(Ledovec)**
 
-\* \*obě citace pravděpodobně reflektují hlubší uvědomění si vlastních potřeb a slabin, což mohlo vést k poklesu v sebehodnocení tohoto kritéria.)\*\*
+\* *obě citace pravděpodobně reflektují hlubší uvědomění si vlastních potřeb a slabin, což mohlo vést k poklesu v sebehodnocení tohoto kritéria.)*
 
 ![](https://assets.cesko.digital/0d5d54bd.png "Průměrné hodnoty sebehodnocení osmi organizací z jarního běhu 2024 oproti době před kurzem.")
 
