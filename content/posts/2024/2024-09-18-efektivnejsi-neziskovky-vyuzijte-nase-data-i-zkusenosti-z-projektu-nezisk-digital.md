@@ -101,7 +101,7 @@ K jakým změnám došlo u kurzistů po jarním běhu? Jak se v organizaci posun
 
 > *„Mysleli jsme si, že to máme hezky rozjetý a pak jsme zjistili, že to jde daleko líp a jednodušeji, a že se s tím zbytečně plácáme. Takže moc děkujeme Česko.Digital za tuhle příležitost a doufám, že ty další běhy budou pro všechny stejně tak přínosný, jako byly pro nás.“* **(Blízký Soused)**
 >
-> \*„*Určitě pro nás bylo strašně důležité to, že jsme si ty vize a ty nápady mohli přehledně sepsat. Mohli jsme to říkat naší paní mentorce, která nás trošku korigovala a vlastně jsme si utřídili nějakou tu vizi toho digitálna*.“ ***\*(Ledovec)**
+> „*Určitě pro nás bylo strašně důležité to, že jsme si ty vize a ty nápady mohli přehledně sepsat. Mohli jsme to říkat naší paní mentorce, která nás trošku korigovala a vlastně jsme si utřídili nějakou tu vizi toho digitálna*.“ ***(Ledovec)**
 
 \* *tato citace může naznačovat proces, kdy organizace více zkoumá samu sebe (někdy možná i poprvé v takové hloubce), a odhaluje nejasnosti ohledně svého skutečného poslání.*
 
