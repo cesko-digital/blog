@@ -21,7 +21,7 @@ Pokud dáváte přednost videoverzi, můžete si pustit kompletní [záznam](htt
 
 
 
-### Data z českého nezisku
+# Data z českého nezisku
 
 Věděli jste, že:
 
@@ -35,7 +35,7 @@ To jsou jen některá data z rozsáhlého průzkumu Sdružení Via a Nadace OSF 
 
 
 
-### Náš výzkum aneb proč NNO nedokáží plně využívat technologie
+# Náš výzkum aneb proč NNO nedokáží plně využívat technologie
 
 Českým neziskovkám dnes pomáháme s efektivitou. Abychom věděli jak na to, nejprve jsme provedli [vlastní výzkum](https://docs.google.com/presentation/d/1ljpaPzXolnRsTdMDO_xJviY-vR4geiBHKhEXqeICuio/edit#slide=id.g28036a03f5e_2_230). Ten nám pomohl identifikovat bariéry ve 3 základních oblastech, které neziskovkám brání adoptovat digitální řešení:
 
@@ -51,7 +51,9 @@ A možná ještě jasnější jsou citace respondentů výzkumu:
 >
 > *„Nechceme to dělat stylem pokus omyl.“*
 
-### Kurz Nezisk.Digital
+# Kurz Nezisk.Digital
+
+
 
 Díky porozumění tomu, co neziskovkám brání v digitální transformaci, jsme náš kurz postavili na 3 základních pilířích:
 
@@ -67,7 +69,9 @@ Organizace provedou kurzem průvodci se zkušenostmi s digitální transformací
 
 Organizace se naučí rozumět svým potřebám a slabinám a ví, kde jim technologie může pomoci.
 
-**S jakými motivacemi se neziskovky hlásí do kurzu?**
+
+
+### **S jakými motivacemi se neziskovky hlásí do kurzu?**
 
 > „*Jako nezisková organizace dlouhodobě bojujeme s financemi a lidskými kapacitami. Největší motivace pro nás je zvýšení efektivity, které ulehčí lidským kapacitám a tím nároku na finance.*“
 >
@@ -77,7 +81,7 @@ Organizace se naučí rozumět svým potřebám a slabinám a ví, kde jim techn
 >
 > „*Naše organizace má týmy hodně poskládané z lidí na částečný úvazek, já osobně pracuji převážně z domu, úplně z jiného města, proto je důležité mít správně nastavenou komunikaci a procesy přenosu informací, aby to fungovalo.*“
 
-### Index digitální transformace
+# Index digitální transformace
 
 Abychom mohli měřit, jak neziskové organizace využívají potenciál technologií, sestavili jsme vlastní **Index digitální transformace**. Ten neobsahuje jen technická kritéria, ale i měkké dovednosti, strategické uvažování a další kritéria, která jsou také nutnou podmínkou úspěšné digitální transformace organizace. Pracujeme s ním před kurzem, po kurzu a po 6 měsících od ukončení kurzu. Index jsme vytvořili na základě rozhovorů s organizacemi a výzkumu digitálních indexů jako jsou DigiComp EU, Harvard Business Review, Red Hat, McKinsey, Accenture a další.
 
@@ -117,11 +121,9 @@ K jakým změnám došlo u kurzistů po jarním běhu? Jak se v organizaci posun
 
 \* \*obě citace pravděpodobně reflektují hlubší uvědomění si vlastních potřeb a slabin, což mohlo vést k poklesu v sebehodnocení tohoto kritéria.)\*\*
 
-
-
 ![](unnamed.png "Průměrné hodnoty sebehodnocení osmi organizací z jarního běhu 2024 oproti době před kurzem.")
 
-### Celková spokojenost s kurzem
+# Celková spokojenost s kurzem
 
 Kurz se těší vysoké spokojenosti většiny zapojených. Nejčastěji oceňují praktický přístup k řešení problémů, pomoc průvodců a konzultantů, vzájemné sdílení nebo možnost učit se přímo na svých reálných projektech. 
 
@@ -141,37 +143,41 @@ A tohle si uvědomili a osvojili v MigAct, další zúčastněné organizaci, kt
 
 👉 jak nastavit cíle pro svou marketingovou komunikaci, které budou lépe reflektovat jejich strategii
 
-
-
 ![](unnamed-1-.png)
 
-### Zapojte se!
+# Zapojte se!
 
 
 
-### Projděte kurzem Nezisk.Digital
+## Projděte kurzem Nezisk.Digital
 
 Jste malá nebo střední neziskovka ze sociální oblasti a chcete se naučit pracovat efektivněji? Pokud máte možnost čerpat podporu de minimis a využíváte (nebo budete využívat) platformu MS 365 či Google Workspace, držíme vám místo! Vyplňte prosím formulář níže – nezávaznou přihlášku do jarního běhu kurzu, který poběží od března do června 2025.
 
 **[Předběžně se hlásíme](https://airtable.com/appBMJcLnBva02IEy/shrlymCJWH9WCdGRq)**
 
-### Staňte se průvodcem nebo tech-expertkou
+
+
+## Staňte se průvodcem nebo tech-expertkou
 
 Klíčovou součástí kurzu jsou [průvodci\*průvodkyně a tech-experti\*expertky](https://app.cesko.digital/opportunities/recGLCcg5xF0wsi5e), kteří provedou svou neziskovku celým kurzem. Rozšíříte si obzory a získáte spoustu nových kontaktů i know-how od nás i od ostatních. Pro jarní běh kurzu stále hledáme 20 z vás. 
 
 **[To mě zajímá](https://airtable.com/apppZX1QC3fl1RTBM/shrAuq9tVRMtiksIJ)**
 
-### **Doporučte kurz Nezisk.Digital dalším neziskovkám**
+
+
+## **Doporučte kurz Nezisk.Digital dalším neziskovkám**
 
 V každém běhu pomůžeme s efektivitou 20 organizacím. Napadá vás nějaká, které by kurz mohl pomoci – třeba už na jaře? Klidně jí přepošlete tento článek nebo odkaz [na stránky kurzu](https://app.cesko.digital/projects/nezisk-digital) s podrobnými informacemi.
 
-### Přijďte si pro další inspiraci z projektu Nezisk.Digital
+## Přijďte si pro další inspiraci z projektu Nezisk.Digital
 
 Rádi bychom vás pozvali na dva nadcházející online eventy Nezisk.Digital 1 a 2, kde si můžete poslechnout prezentace všech 20 neziskovek, které aktuálně prochází naším podzimním kurzem. Ukáží vám, co jim kurz konkrétně přináší, a jak jim to celkově jde. 
 
 **[Kouknu na termíny akcí](https://app.cesko.digital/events)**
 
-### Mapujte s námi neziskový sektor
+
+
+## Mapujte s námi neziskový sektor
 
 Naším cílem je podpořit systémovou změnu, aby neziskové organizace díky technologiím fungovaly rychle, efektivně a rozhodovaly se strategicky na základě dat.
 
