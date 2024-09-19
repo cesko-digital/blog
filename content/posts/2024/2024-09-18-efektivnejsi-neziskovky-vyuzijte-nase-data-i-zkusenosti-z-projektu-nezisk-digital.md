@@ -49,7 +49,7 @@ A možná ještě jasnější jsou citace respondentů výzkumu:
 
 # Kurz Nezisk.Digital
 
-Díky porozumění tomu, co neziskovkám brání v digitální transformaci, jsme náš kurz postavili na 3 základních pilířích:
+Když jsme porozuměli tomu, co neziskovkám brání v digitální transformaci, přišli jsme s řešením. Speciálně pro jejich potřeby jsme navrhli kurz, který stojí na 3 základních pilířích:
 
 * #### **Aktivním učením**
 
