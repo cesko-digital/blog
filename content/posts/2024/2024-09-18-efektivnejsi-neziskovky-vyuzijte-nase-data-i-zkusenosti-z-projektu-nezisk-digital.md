@@ -101,7 +101,7 @@ K jakým změnám došlo u kurzistů po jarním běhu? Jak se v organizaci posun
 
 > *„Mysleli jsme si, že to máme hezky rozjetý a pak jsme zjistili, že to jde daleko líp a jednodušeji, a že se s tím zbytečně plácáme. Takže moc děkujeme Česko.Digital za tuhle příležitost a doufám, že ty další běhy budou pro všechny stejně tak přínosný, jako byly pro nás.“* **(Blízký Soused)**
 >
-> „*Určitě pro nás bylo strašně důležité to, že jsme si ty vize a ty nápady mohli přehledně sepsat. Mohli jsme to říkat naší paní mentorce, která nás trošku korigovala a vlastně jsme si utřídili nějakou tu vizi toho digitálna*.“ ***(Ledovec)**
+> „*Určitě pro nás bylo strašně důležité to, že jsme si ty vize a ty nápady mohli přehledně sepsat. Mohli jsme to říkat naší paní mentorce, která nás trošku korigovala a vlastně jsme si utřídili nějakou tu vizi toho digitálna*.“ **\*(Ledovec)**
 
 \* *tato citace může naznačovat proces, kdy organizace více zkoumá samu sebe (někdy možná i poprvé v takové hloubce), a odhaluje nejasnosti ohledně svého skutečného poslání.*
 
@@ -112,6 +112,10 @@ K jakým změnám došlo u kurzistů po jarním běhu? Jak se v organizaci posun
 > *„Paradoxně, přestože nejsem IT zdatná a nejsem příznivcem těchto dovedností, jsem moc vděčná tomu kurzu, že mi to pomohlo přemýšlet o tom, co se dá udělat pro to, aby lidi, kteří jsou podobně na tom jako já, mohli o tom přemýšlet jako o něčem, co vlastně chtějí.“* * **(Ledovec)**
 
 \* *obě citace pravděpodobně reflektují hlubší uvědomění si vlastních potřeb a slabin, což mohlo vést k poklesu v sebehodnocení tohoto kritéria.)*
+
+
+
+Průměrné hodnoty sebehodnocení osmi organizací z jarního běhu 2024 oproti době před kurzem
 
 ![](https://assets.cesko.digital/0d5d54bd.png "Průměrné hodnoty sebehodnocení osmi organizací z jarního běhu 2024 oproti době před kurzem.")
 
