@@ -19,8 +19,6 @@ A proč to děláme? Naší hodnotou je otevřené sdílení jakéhokoliv know-h
 
 Pokud dáváte přednost videoverzi, můžete si pustit kompletní [záznam](https://youtu.be/5IOahkEausM) nebo si prohlédnout [prezentaci](https://docs.google.com/presentation/d/1z0MG9WBTUUKLhRUuJPIqWj6gaGYpS-58tQv7GtX-yf8/edit#slide=id.g2f7643f1186_0_196), kterou jsme na eventu promítali.
 
-
-
 # Data z českého nezisku
 
 Věděli jste, že:
@@ -32,8 +30,6 @@ Věděli jste, že:
 To jsou jen některá data z rozsáhlého průzkumu Sdružení Via a Nadace OSF z roku 2023, která dobře ilustrují, že české neziskovky **stále nedokáží využívat potenciál digitálních technologií**. Výsledkem je například pomalejší, chaotičtější a nákladnější vedení projektů, které mají nižší dopad.
 
 **[Chci vidět více dat](https://osf.cz/publikace/stav-digitalizace-v-ceskem-nezisku-2023/)**
-
-
 
 # Náš výzkum aneb proč NNO nedokáží plně využívat technologie
 
@@ -53,8 +49,6 @@ A možná ještě jasnější jsou citace respondentů výzkumu:
 
 # Kurz Nezisk.Digital
 
-
-
 Díky porozumění tomu, co neziskovkám brání v digitální transformaci, jsme náš kurz postavili na 3 základních pilířích:
 
 * **Aktivním učením**
@@ -68,8 +62,6 @@ Organizace provedou kurzem průvodci se zkušenostmi s digitální transformací
 * **Měkkých dovednostech**
 
 Organizace se naučí rozumět svým potřebám a slabinám a ví, kde jim technologie může pomoci.
-
-
 
 ### **S jakými motivacemi se neziskovky hlásí do kurzu?**
 
@@ -143,11 +135,9 @@ A tohle si uvědomili a osvojili v MigAct, další zúčastněné organizaci, kt
 
 👉 jak nastavit cíle pro svou marketingovou komunikaci, které budou lépe reflektovat jejich strategii
 
-![](unnamed-1-.png)
+![](unnamed-1-.png "Kurz Nezisk.Digital - hodnocení jarního běhu")
 
 # Zapojte se!
-
-
 
 ## Projděte kurzem Nezisk.Digital
 
@@ -155,15 +145,11 @@ Jste malá nebo střední neziskovka ze sociální oblasti a chcete se naučit p
 
 **[Předběžně se hlásíme](https://airtable.com/appBMJcLnBva02IEy/shrlymCJWH9WCdGRq)**
 
-
-
 ## Staňte se průvodcem nebo tech-expertkou
 
 Klíčovou součástí kurzu jsou [průvodci\*průvodkyně a tech-experti\*expertky](https://app.cesko.digital/opportunities/recGLCcg5xF0wsi5e), kteří provedou svou neziskovku celým kurzem. Rozšíříte si obzory a získáte spoustu nových kontaktů i know-how od nás i od ostatních. Pro jarní běh kurzu stále hledáme 20 z vás. 
 
 **[To mě zajímá](https://airtable.com/apppZX1QC3fl1RTBM/shrAuq9tVRMtiksIJ)**
-
-
 
 ## **Doporučte kurz Nezisk.Digital dalším neziskovkám**
 
@@ -174,8 +160,6 @@ V každém běhu pomůžeme s efektivitou 20 organizacím. Napadá vás nějaká
 Rádi bychom vás pozvali na dva nadcházející online eventy Nezisk.Digital 1 a 2, kde si můžete poslechnout prezentace všech 20 neziskovek, které aktuálně prochází naším podzimním kurzem. Ukáží vám, co jim kurz konkrétně přináší, a jak jim to celkově jde. 
 
 **[Kouknu na termíny akcí](https://app.cesko.digital/events)**
-
-
 
 ## Mapujte s námi neziskový sektor
 
