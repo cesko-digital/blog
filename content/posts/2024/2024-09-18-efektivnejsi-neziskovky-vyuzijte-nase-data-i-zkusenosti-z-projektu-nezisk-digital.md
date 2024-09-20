@@ -77,43 +77,31 @@ Organizace se naučí rozumět svým potřebám a slabinám a ví, kde jim techn
 
 Abychom mohli měřit, jak neziskové organizace využívají potenciál technologií, sestavili jsme vlastní **Index digitální transformace**. Ten neobsahuje jen technická kritéria, ale i měkké dovednosti, strategické uvažování a další kritéria, která jsou také nutnou podmínkou úspěšné digitální transformace organizace. Pracujeme s ním před kurzem, po kurzu a po 6 měsících od ukončení kurzu. Index jsme vytvořili na základě rozhovorů s organizacemi a výzkumu digitálních indexů jako jsou DigiComp EU, Harvard Business Review, Red Hat, McKinsey, Accenture a další.
 
-K jakým změnám došlo u kurzistů po jarním běhu? Jak se v organizaci posunuli v rámci různých kritérií našeho digitálního indexu, komentují Tereza Šašková z organizace Blízký Soused a Martina Podlipná z organizace Ledovec.
+K jakým změnám došlo u kurzistů po jarním běhu? Jak se v organizaci posunuli v rámci různých kritérií našeho digitálního indexu, komentuje Tereza Šašková z organizace Blízký Soused.
 
 * **Nárůst o 75,5 % u kritéria „Víme, kde nám technologie může pomoci a máme plán implementace“**
 
 > *„Určitě pro nás bylo strašně důležité, že jsme si různé vize a nápady, co jsme měli v hlavě, mohli přehledně sepsat. Naše průvodkyně nás trošku korigovala a my si utřídili vizi toho digitálna.“* **(Blízký Soused)**
->
-> *„Přineslo nám to odpověď na otázky, které jsme si tak jako tak kladli. Pomohlo nám to ty otázky promýšlet strukturovaně a v širším kontextu.“* **(Ledovec)**
 
 * **Nárůst o 54,1 % u kritéria „Aktivně prioritizujeme zdroje na implementaci technologií“**
 
 > *„Implementace proběhla dobře a jsem i ráda, že to proběhlo ještě během kurzu... Místopředsedkyně Pavla je v tomhle strašnej nadšenec, takže jsme to docela hrnuli i během toho kurzu.“* **(Blízký Soused)**
->
-> *„Pokračujeme v procesu implementace. Čeká nás teď další schůzka – ajťák, ředitel a já – a až tohle dotáhneme, tak ten testovací provoz počítám, že do konce prázdnin uděláme.“* **(Ledovec)**
 
 * **Nárůst o 40,6 % u kritéria „Orientujeme se v možnostech, jaké technologie poskytuje“**
 
 > *„Dostali jsme kontakty na technické mentory, kteří nám pomohli třeba s OneDrivem, což jsme používali, ale vlastně špatně. Takže to byla další super věc v kurzu, které si vážíme.“* **(Blízký Soused)**
->
-> *„Myslím si, že nám to pomohlo i systematičtěji přemýšlet o procesech v organizaci a o způsobech, jak na problémy reagovat.“* **(Ledovec)**
 
 * **Pokles o 7,5 % u kritéria „Máte nadefinovaný jasný cíl organizace (vize, mise)“** 
 
 > *„Mysleli jsme si, že to máme hezky rozjetý a pak jsme zjistili, že to jde daleko líp a jednodušeji, a že se s tím zbytečně plácáme. Takže moc děkujeme Česko.Digital za tuhle příležitost a doufám, že ty další běhy budou pro všechny stejně tak přínosný, jako byly pro nás.“* **(Blízký Soused)**
->
-> „*Určitě pro nás bylo strašně důležité to, že jsme si ty vize a ty nápady mohli přehledně sepsat. Mohli jsme to říkat naší paní mentorce, která nás trošku korigovala a vlastně jsme si utřídili nějakou tu vizi toho digitálna*.“ **\*(Ledovec)**
 
 \* *tato citace může naznačovat proces, kdy organizace více zkoumá samu sebe (někdy možná i poprvé v takové hloubce), a odhaluje nejasnosti ohledně svého skutečného poslání.*
 
 * **Pokles o 3,6 % u kritéria „Rozumíte svým potřebám a slabinám“** 
 
 > *„Když jsme se naučili ty nástroje užívat jednodušeji díky kurzu, bylo snazší to kolegům vysvětlit. Ale uvědomili jsme si také, kde jsme dělali chyby a co jsme neznali.“* * **(Blízký Soused)**
->
-> *„Paradoxně, přestože nejsem IT zdatná a nejsem příznivcem těchto dovedností, jsem moc vděčná tomu kurzu, že mi to pomohlo přemýšlet o tom, co se dá udělat pro to, aby lidi, kteří jsou podobně na tom jako já, mohli o tom přemýšlet jako o něčem, co vlastně chtějí.“* * **(Ledovec)**
 
 \* *obě citace pravděpodobně reflektují hlubší uvědomění si vlastních potřeb a slabin, což mohlo vést k poklesu v sebehodnocení tohoto kritéria.)*
-
-
 
 Průměrné hodnoty sebehodnocení osmi organizací z jarního běhu 2024 oproti době před kurzem
 
