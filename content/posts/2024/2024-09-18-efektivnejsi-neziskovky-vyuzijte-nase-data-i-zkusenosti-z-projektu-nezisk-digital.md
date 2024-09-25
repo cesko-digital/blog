@@ -79,7 +79,7 @@ K jakým změnám došlo u kurzistů po jarním běhu? Jak se v organizaci posun
 
 > *„Určitě pro nás bylo strašně důležité, že jsme si různé vize a nápady, co jsme měli v hlavě, mohli přehledně sepsat. Naše průvodkyně nás trošku korigovala a my si utřídili vizi toho digitálna.“* **(Blízký Soused)**
 >
-> *„Přineslo nám to odpověď na otázky, které jsme si tak jako tak kladli. Pomohlo nám to ty otázky promýšlet strukturovaně a v širším kontextu.“ **(Ledovec)***
+> \*„Přineslo nám to odpověď na otázky, které jsme si tak jako tak kladli. Pomohlo nám to ty otázky promýšlet strukturovaně a v širším kontextu.“ **(Ledovec)***
 
 * **Nárůst o 54,1 % u kritéria „Aktivně prioritizujeme zdroje na implementaci technologií“**
 
@@ -97,9 +97,7 @@ K jakým změnám došlo u kurzistů po jarním běhu? Jak se v organizaci posun
 
 > *„Mysleli jsme si, že to máme hezky rozjetý a pak jsme zjistili, že to jde daleko líp a jednodušeji, a že se s tím zbytečně plácáme. Takže moc děkujeme Česko.Digital za tuhle příležitost a doufám, že ty další běhy budou pro všechny stejně tak přínosný, jako byly pro nás.“* **(Blízký Soused)**
 >
-> *„Určitě pro nás bylo strašně důležité to, že jsme si ty vize a ty nápady mohli přehledně sepsat. Mohli jsme to konzultovat s naší mentorkou, která nás korigovala a my jsme si utřídili vizi využívání digitálních technologií.“ ** **(Ledovec)**
-
-
+> „Určitě pro nás bylo strašně důležité to, že jsme si ty vize a ty nápady mohli přehledně sepsat. Mohli jsme to konzultovat s naší mentorkou, která nás korigovala a my jsme si utřídili vizi využívání digitálních technologií.“ \*\* **(Ledovec)**
 
 \* *tato citace může naznačovat proces, kdy organizace více zkoumá samu sebe (někdy možná i poprvé v takové hloubce), a odhaluje nejasnosti ohledně svého skutečného poslání.*
 
