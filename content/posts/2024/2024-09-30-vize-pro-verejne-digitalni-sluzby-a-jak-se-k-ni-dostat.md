@@ -46,7 +46,7 @@ Výsledky naší ankety ukazují, že je třeba provést mnoho změn, aby digit�
 
 ## Naše nejbližší kroky:
 
-### 1. Výzkum
+### **1. Výzkum**
 
 * **Výzkum uživatelských potřeb**\
   Na naši anketu z roku 2024 navážeme obdobným, ale podrobnějším výzkumem uživatelských potřeb, který zpřesní a doplní naše dosavadní zjištění. Obsáhneme v něm všechny cílové skupiny české populace včetně podnikatelů a firem a zaměříme se na jejich překážky, potřeby a očekávání ohledně digitálních veřejných služeb a také vytvoříme jejich persony.
@@ -57,11 +57,11 @@ Výsledky naší ankety ukazují, že je třeba provést mnoho změn, aby digit�
 
   Výzkumnou částí navazujeme na naše předchozí výzkumné aktivity z projektu Digitální inkluze, ve kterém jsme zkoumali specifické skupiny digitálně vyloučených a ohrožených obyvatel. Tentokrát se zaměříme i na všechny ostatní uživatele digitálních služeb státu.
 
-### 2. Metrika pro měření kvality digitalizace
+### **2. Metrika pro měření kvality digitalizace**
 
 Na základě zahraniční praxe navrhneme metriku, kterou budeme dlouhodobě měřit kvalitu digitalizace veřejných služeb v Česku. To nám umožní sledovat pokrok a efektivitu digitalizačních projektů a pomůže státu lépe porozumět potřebám jeho klientů.
 
-### 3. Mapa aktivit a další kroky
+### **3. Mapa aktivit a další kroky**
 
 Vytvoříme mapu, která ukáže komplexitu digitální transformace veřejné správy a odhalí tzv. pákové body -- tedy místa v systému, jejichž zlepšení může spustit řetězovou reakci dalších pozitivních změn.
 
