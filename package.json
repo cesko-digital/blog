@@ -12,7 +12,7 @@
   "dependencies": {
     "feed": "^4.2.2",
     "gray-matter": "^4.0.3",
-    "marked": "^13.0.1",
+    "marked": "^14.1.2",
     "next": "14.x",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -23,18 +23,18 @@
     "unified": "^11.0.5"
   },
   "devDependencies": {
-    "@typescript-eslint/parser": "^7.14.1",
-    "@playwright/test": "^1.45.0",
-    "@types/jest": "^29.5.12",
+    "@typescript-eslint/parser": "^8.8.0",
+    "@playwright/test": "^1.47.2",
+    "@types/jest": "^29.5.13",
     "@types/js-yaml": "^4.0.9",
     "@types/marked": "^6.0.0",
-    "@types/node": "^20.14.9",
+    "@types/node": "^22.7.4",
     "@types/react": "18",
     "eslint-config-next": "14.x",
     "jest": "^29.7.0",
     "js-yaml": "^4.1.0",
-    "ts-jest": "^29.1.5",
-    "typescript": "^5.5.2"
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.6.2"
   },
   "jest": {
     "preset": "ts-jest",
