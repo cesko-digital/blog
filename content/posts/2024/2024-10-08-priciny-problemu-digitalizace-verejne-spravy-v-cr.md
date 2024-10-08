@@ -56,7 +56,7 @@ Nedostatečná standardizace a interoperabilita mezi různými systémy e-govern
 
 Mnoho úředníků nemá dostatečné digitální dovednosti, což komplikuje zavádění a práci s novými technologiemi. Chybí pravidelná školení a podpora, které by úředníkům poskytly potřebné kompetence k efektivní správě a provozu digitálních služeb.
 
-Tento bod doplňujeme průzkumem Aspen institutu: Podle 69 % stávajících zaměstnanců státní správy ve službách státu nepracují ti nejschopnější. Práce ve státní správě neláká 60 % vysokoškoláků ve věku 25--40 let.
+Tento bod doplňujeme průzkumem Aspen institutu: Podle 69 % stávajících zaměstnanců státní správy ve službách státu nepracují ti nejschopnější. Práce ve státní správě neláká 60 % vysokoškoláků ve věku 25–40 let.
 
 ## Nedostatečné financování
 
