@@ -65,3 +65,11 @@ I když vláda deklaruje podporu digitalizace, financování projektů je často
 ## Nedostatek metrik
 
 Chybí systematické hodnocení digitalizačních projektů z hlediska spokojenosti uživatelů, efektivity investic a dalších klíčových ukazatelů.
+
+**V souvisejících článcích přinášíme:** 
+
+* [Horší trojka pro stát aneb jak občané a firmy hodnotí digitální služby veřejné správy](https://blog.cesko.digital/2024/08/horsi-trojka-pro-stat-aneb-jak-obcane-a-firmy-hodnoti-digitalni-sluzby-verejne-spravy)
+* [Veřejné digitální služby – jak je hodnotí hráči na poli digitalizace?](https://blog.cesko.digital/2024/08/Verejne-digitalni-sluzby-jak-je-hodnoti-hraci-na-poli-digitalizace)
+* [Vize pro veřejné digitální služby, a jak se k ní dostat](https://blog.cesko.digital/2024/09/vize-pro-verejne-digitalni-sluzby-a-jak-se-k-ni-dostat)
+
+Pokud máte zájem dozvědět se více nebo se zapojit do našich snah, podívejte se na [web Digitálního partnerství](https://www.cesko.digital/projekty/digitalni-partnerstvi/home). Můžete se k nám rovnou [přidat na Diskutuj.Digital](https://diskutuj.digital/) nebo nás kontaktovat na [digitalni.partnerstvi@cesko.digital](mailto:digitalni.partnerstvi@cesko.digital).
