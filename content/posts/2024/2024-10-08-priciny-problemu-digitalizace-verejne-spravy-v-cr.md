@@ -30,13 +30,13 @@ Během rozhovorů s hráči v oblasti digitalizace státních služeb jsme ident
 
 # Příčiny uvedené ve státních strategiích
 
-Vizí Digitálního Česka (strategie vlády pro digitální transformaci Česka) je digitální stát, který rozumí potřebám občanů, snadno se používá a technologicky se vyvíjí. [Materiály Digitálního Česka](https://digitalnicesko.gov.cz/vize) uvádí oblasti či procesy, které je třeba zlepšit, abychom digitální stát opravdu plně fungoval. Podobné body uvádí i další dokumenty jako [Informační koncepce ČR](https://archi.gov.cz/ikcr#informacni_koncepce_cr), [Koncepce Klientsky orientovaná veřejná správa 2030](https://www.mvcr.cz/clanek/koncepce-klientsky-orientovana-verejna-sprava-2030.aspx) nebo [Strategie a priority v oblasti digitalizace](https://digitalnicesko.gov.cz/dia/). V nedávném rozhovoru pro Seznam zprávy uvádí Jan Hainz z Digitální a informační agentury ještě další dvě příčiny: současnou složitost veřejných zakázek a tzv. vendor lock-in, kdy jsou státní IT systémy závislé na konkrétním dodavateli.
+Vizí Digitálního Česka (strategie vlády pro digitální transformaci Česka) je digitální stát, který rozumí potřebám občanů, snadno se používá a technologicky se vyvíjí. [Materiály Digitálního Česka](https://digitalnicesko.gov.cz/vize) uvádí oblasti či procesy, které je třeba zlepšit, aby digitální stát opravdu plně fungoval. Podobné body uvádí i další dokumenty jako [Informační koncepce ČR](https://archi.gov.cz/ikcr#informacni_koncepce_cr), [Koncepce Klientsky orientovaná veřejná správa 2030](https://www.mvcr.cz/clanek/koncepce-klientsky-orientovana-verejna-sprava-2030.aspx) nebo [Strategie a priority v oblasti digitalizace](https://digitalnicesko.gov.cz/dia/). V nedávném rozhovoru pro Seznam zprávy uvádí Jan Hainz z Digitální a informační agentury ještě další dvě příčiny: současnou složitost veřejných zakázek a tzv. vendor lock-in, kdy jsou státní IT systémy závislé na konkrétním dodavateli.
 
 ## Nedostatečná koordinace
 
 I když strategické dokumenty zdůrazňují potřebu lepší koordinace ministerstev a dalších subjektů při implementaci digitálních agend, reálná situace je tomu zatím vzdálená. Nízká úroveň komunikace, sdílení a koordinace vede k roztříštěným nebo duplicitním snahám a opožděné implementaci nových technologií. Digitalizační projekty často zasahují do kompetencí několika ministerstev, což proces ještě více komplikuje. Chybí efektivní centrální řízení digitalizace.
 
-## Služby nejsou proklientské
+## Služby nezohledňují své uživatele
 
 Digitální služby ve veřejné správě nejsou navrhovány s dostatečným nebo žádným ohledem na dobrou uživatelskou zkušenost. To vede k neintuitivním službám a časté frustraci uživatelů při jejich používání. Zároveň není kladen dostatečný důraz na zpětnou vazbu od uživatelů.
 
@@ -46,7 +46,7 @@ I přes růst významu datové analýzy a jejího využití pro rozhodování ve
 
 ## Zastaralá legislativa
 
-Stávající legislativa nedrží krok s technologickým pokrokem, což což brzdí rozvoj digitálních služeb. Právní rámce jsou zastaralé a nejsou dostatečně přizpůsobeny potřebám digitální společnosti.
+Stávající legislativa nedrží krok s technologickým pokrokem, což brzdí rozvoj digitálních služeb. Právní rámce jsou zastaralé a nejsou dostatečně přizpůsobeny potřebám digitální společnosti.
 
 ## Nízká standardizace a interoperabilita
 
@@ -56,7 +56,7 @@ Nedostatečná standardizace a interoperabilita mezi různými systémy e-govern
 
 Mnoho úředníků nemá dostatečné digitální dovednosti, což komplikuje zavádění a práci s novými technologiemi. Chybí pravidelná školení a podpora, které by úředníkům poskytly potřebné kompetence k efektivní správě a provozu digitálních služeb.
 
-Tento bod doplňujeme průzkumem Aspen institutu: Podle 69 % stávajících zaměstnanců státní správy ve službách státu nepracují ti nejschopnější. Práce ve státní správě neláká 60 % vysokoškoláků ve věku 25–40 let.
+Tento bod doplňujeme průzkumem Aspen institutu: Podle 69 % stávajících zaměstnanců státní správy nepracují ve službách státu ti nejschopnější. Práce ve státní správě neláká 60 % vysokoškoláků ve věku 25–40 let.
 
 ## Nedostatečné financování
 
