@@ -87,7 +87,7 @@ Příručka pro lidi ze sociálních služeb se pěkně rozjíždí. **Už 330 
 
 ## **Opět si odnášíme ceny**
 
-[Tohle se povedlo!](https://www.linkedin.com/feed/update/urn:li:activity:7245442480165330944/) Velká gratulace našim ambasadorům a ambasadorkám! Jejich osvěta na sociálních sítích získala **stříbrnou medaili v soutěži Fenix Awards**. Druhou příčku získal i náš speciální **web[ inkluze.cesko.digital](http://inkluze.cesko.digital/)** v kategorii Microsite – i tady patří velká gratulace všem, kteří se zapojili a přispěli svým dílem do skládačky.
+Tohle se povedlo! Velká gratulace našim ambasadorům a ambasadorkám! Jejich osvěta na sociálních sítích získala **stříbrnou medaili v soutěži Fenix Awards**. Druhou příčku získal i náš speciální **web[ inkluze.cesko.digital](http://inkluze.cesko.digital/)** v kategorii Microsite – i tady patří velká gratulace všem, kteří se zapojili a přispěli svým dílem do skládačky.
 
 - - -
 
