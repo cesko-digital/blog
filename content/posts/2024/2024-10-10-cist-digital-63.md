@@ -25,16 +25,19 @@ Snadné vyřízení z pohodlí domova, Jedno vyplnění, žádné opakování ne
 [**> Přečtu si**](https://blog.cesko.digital/2024/09/vize-pro-verejne-digitalni-sluzby-a-jak-se-k-ni-dostat)**\
 **
 
-Sdílíme poznatky z kurzu Nezisk.Digital
-=======================================
+Sdílíme poznatky z projektu Nezisk.Digital
+==========================================
 
 12\. září jsme na akci „**Efektivnější neziskovky? Využijte naše data i zkušenosti z projektu Nezisk.Digital**" sdíleli výsledky, data, dobrou praxi i konkrétní zkušenosti z našeho projektu a kurzu Nezisk.Digital. Můžete se [podívat na záznam události](https://youtu.be/5IOahkEausM) a nebo si vše přečíst v přehledném článku na našem blogu (zjistíte tu také, jak se do projektu můžete zapojit). Jednotlivým oblastem se budeme podrobněji věnovat v sedmidílném seriálu na našich sociálních sítích. **\
 **
 
 **> [Kouknu na blog](https://blog.cesko.digital/2024/09/Efektivnejsi-neziskovky-vyuzijte-nase-data-i-zkusenosti-z-projektu-Nezisk-Digital)**
 
-**Podepište petici za strategický přístup k digitalizaci státní správy**
-========================================================================
+- - -
+### | PRO KOMUNITU
+
+**Podepište petici za strategický přístup k digitalizaci státní správy **
+=========================================================================
 
 Souhlasíte s tím, že je důležité **zachovat prioritu digitalizace veřejných služeb na nejvyšší politické úrovni**? Máme obavy, že současné kroky mohou zpomalit vývoj digitální transformace a ohrozit tak budoucnost Česka. Dejte politikům vědět, že vám na kvalitní digitalizaci záleží! My už jsme podepsali.
 
@@ -46,6 +49,14 @@ Petice (iniciovaná i členy naší správní rady Evou Pavlíkovou a Jakubem Ne
 ****> [Podepíšu to!](https://portal.gov.cz/e-petice/882-vyzva-za-strategicky-pristup-k-digitalizaci-kvalita-flexibilita-a-udrzitelnost-ve-statnich-projektech)******[\
 ](https://portal.gov.cz/e-petice/882-vyzva-za-strategicky-pristup-k-digitalizaci-kvalita-flexibilita-a-udrzitelnost-ve-statnich-projektech)****
 
+**Co si myslíte o komunitě Česko.Digital?**
+===========================================
+
+V posledním roce prošlo Česko.Digital poměrně výraznou proměnou svého směřování i aktivit. Všechny z vás jsme se o tom snažili srozumitelně a otevřeně informovat, ale nejsme si jistí, zda se nám to podařilo. Budeme proto moc rádi, když si najdete pár minut na vyplnění dotazníku níže (klidně anonymně). Moc nám to pomůže zjistit, jak vnímáte roli komunity a vlastní roli v ní. Váš názor je pro nás opravdu důležitý a pomůže nám zmapovat aktuální stav. Díky moc!
+
+**> [Vyplním dotazník](https://airtable.com/appbQ40ga82eCmwcD/pagG6vRwpXdEx5AUj/form)**
+
+- - -
 ### | PRO NEZISKOVÉ ORGANIZACE
 
 Jak pomohl kurz [Nezisk.Digital](http://nezisk.digital/) organizaci Arkádie?
@@ -64,20 +75,8 @@ Arkádie z Teplicka je jednou z 8 neziskovek, kterým jsme v jarním běhu onlin
 
 👉 v Airtable si vytvořili přehlednou databázi s profily a údaji o svých pracovnících
 
-Více o kurzu na [https://nezisk.digital  ](https://nezisk.digital/)
-
-Bezplatný kurz Nezisk.Digital je finančně podpořen Evropskou unií -- grantem z programu Zaměstnanost plus. Děkujeme!**\
+Více o kurzu na [Nezisk.Digital](https://nezisk.digital/). Bezplatný kurz Nezisk.Digital je finančně podpořen Evropskou unií -- grantem z programu Zaměstnanost plus. Děkujeme!**\
 **
-
-
-### | PRO KOMUNITU
-
-**Co si myslíte o komunitě Česko.Digital?**
-===========================================
-
-V posledním roce prošlo Česko.Digital poměrně výraznou proměnou svého směřování i aktivit. Všechny z vás jsme se o tom snažili srozumitelně a otevřeně informovat, ale nejsme si jistí, zda se nám to podařilo. Budeme proto moc rádi, když si najdete pár minut na vyplnění dotazníku níže (klidně anonymně). Moc nám to pomůže zjistit, jak vnímáte roli komunity a vlastní roli v ní. Váš názor je pro nás opravdu důležitý a pomůže nám zmapovat aktuální stav. Díky moc!
-
-**> [Vyplním dotazník](https://airtable.com/appbQ40ga82eCmwcD/pagG6vRwpXdEx5AUj/form)**
 
 
 Chcete ve své neziskovce pracovat mnohem efektivněji?
@@ -86,71 +85,64 @@ Chcete ve své neziskovce pracovat mnohem efektivněji?
 Hlaste se do jarního běhu online kurzu Nezisk Digital!\
 březen--červen 2025
 
-**> [Přihlásit se](https://airtable.com/appBMJcLnBva02IEy/shrlymCJWH9WCdGRq)**
+**> [Registruji naší organizaci](https://airtable.com/appBMJcLnBva02IEy/shrlymCJWH9WCdGRq)**
+
+- - -
+
+# **Digitální jednohubky**
+
+Co nového v Pomáháme.Digital?
 
 
-**Digitální jednohubky**
-========================
 
-******Co nového v Pomáháme.Digital?****\
-**
--------------------------------------------
+Příručka pro lidi ze sociálních služeb se pěkně rozjíždí. **Už 330 pracovníků a pracovnic** příručku využívá ve své práci. V září v ní přibyly **3 nové návody** -- [Rodičovský příspěvek v aplikaci Jenda](https://www.pomahame.digital/course/view.php?id=113), [Přídavek na dítě v aplikaci Jenda](https://www.pomahame.digital/course/view.php?id=114) a [Bezpečnost na Snapchatu](https://www.pomahame.digital/course/view.php?id=115). Všechny novinky včetně ambasadorského programu shrneme na [online showcase #5](https://app.cesko.digital/events/showcase-digitalni-inkluze-5), která se bude konat 31. října.
 
-Příručka pro lidi ze sociálních služeb se pěkně rozjíždí. **Už 320 pracovníků a pracovnic** příručku využívá ve své práci. V září v ní přibyly **3 nové návody** -- [Rodičovský příspěvek v aplikaci Jenda](https://www.pomahame.digital/course/view.php?id=113), [Přídavek na dítě v aplikaci Jenda](https://www.pomahame.digital/course/view.php?id=114) a [Bezpečnost na Snapchatu](https://www.pomahame.digital/course/view.php?id=115). Všechny novinky včetně ambasadorského programu shrneme na online showcase #5, která se bude konat 31. října.**\
-**
+## **Opět si odnášíme ceny**
 
-**Opět si odnášíme ceny**
--------------------------
+[Tohle se povedlo!](https://www.linkedin.com/feed/update/urn:li:activity:7245442480165330944/) Velká gratulace našim ambasadorům a ambasadorkám! Jejich osvěta na sociálních sítích získala **stříbrnou medaili v soutěži Fenix Awards**. Druhou příčku získal i náš speciální **web[ inkluze.cesko.digital](http://inkluze.cesko.digital/)** v kategorii Microsite -- i tady patří velká gratulace všem, kteří se zapojili a přispěli svým dílem do skládačky.
+- - -
+# Nejbližší akce
 
-[Tohle se povedlo!](https://www.linkedin.com/feed/update/urn:li:activity:7245442480165330944/) Velká gratulace našim ambasadorům a ambasadorkám! Jejich osvěta na sociálních sítích získala **stříbrnou medaili v soutěži Fenix Awards**. Druhou příčku získal i náš speciální **web[ inkluze.cesko.digital](http://inkluze.cesko.digital/)** v kategorii Microsite -- i tady patří velká gratulace všem, kteří se zapojili a přispěli svým dílem do skládačky.**\
-**
+# Event Nezisk.Digital #1
 
-Nejbližší akce
-==============
-
-Event Nezisk.Digital #1
-=======================
-
-16\. října 2024, 15:00 - 16:30, online
+16. října 2024, 15:00 - 16:30, online
 
 &
 
-18\. října 2024, 9:00--10.30, online
+18. října 2024, 9:00--10.30, online
 
 Zjistěte, jak nejen pomocí digitálních nástrojů zlepšit efektivitu své neziskovky. Konkrétní ukázky, tipy a zkušenosti vám nasdílejí účastníci našeho kurzu Nezisk.Digital. Přímo z první ruky se dozvíte, jak zmapovali slabá místa i skutečné potřeby své organizace a představí vám, na jaké konkrétní problémy se zaměřili a proč. Eventy jsou tentokrát dva a v každém z nich vám svou dosavadní cestu kurzem odprezentuje 10 neziskovek.
 
-[**> REGISTRUJTE SE**](https://airtable.com/appBMJcLnBva02IEy/shrQ3U5Ie9gFJPAQB) 
+**[\> REGISTRUJI SE](https://airtable.com/appBMJcLnBva02IEy/shrQ3U5Ie9gFJPAQB)** 
 
-Jak navrhovat digitální řešení pro všechny
-==========================================
+# Jak navrhovat digitální řešení pro všechny
 
-workshop Česko.Digital na Maker Faire Brno
-------------------------------------------
+## workshop Česko.Digital na Maker Faire Brno
 
-19\. října 2024, 11:00--13.00
+19. října 2024, 11:00--13.00
 
 offline
 
 Vyzkoušejte si, jaké je to být designérem digitálních řešení pro lidi, kteří mají k digitálnu daleko. Budeme vycházet ze zkušeností s naším oceněným projektem Digitální inkluze. Projdeme ideační fází, vybrainstormujeme možná řešení a načrtneme jednoduché prototypy. Workshopem vás provedou designérky z Česko.Digital, Lujza Kotryová a Anežka Malčíková. Na workshopu je jen 15 míst, účastníci musí mít koupenou vstupenku na [Maker Faire Brno](https://makerfaire.cz/).
 
-[**> REGISTRUJTE SI SVÉ MÍSTO**](https://docs.google.com/forms/d/e/1FAIpQLSdje9BpjLjqxTL5iUVNWHKhvahzpMjnBCf0FIX9-ZuK1N9Ffg/viewform) 
+**[\> REGISTRUJI SI SVÉ MÍSTO](https://docs.google.com/forms/d/e/1FAIpQLSdje9BpjLjqxTL5iUVNWHKhvahzpMjnBCf0FIX9-ZuK1N9Ffg/viewform)** 
 
-Showcase Digitální inkluze #5
-=============================
+# Využijte vylepšenou digi příručku pro lidi v sociálních službách
 
-31\. října 2024, 9:00--10:00
+31. října 2024, 9:00--10:00
 
 online
 
 Naše příručka [Pomáháme.Digital](https://www.pomahame.digital/) pro lidi v sociálních službách a jejich digitálně ohrožené klienty se od jara pěkně rozšířila.  A to jak obsahem, tak počtem svých uživatelů. Ukážeme vám, co je nového. Jaké jsme přidali návody, jak vypadá ambasadorský program nebo jak školíme nové organizace v tomto specifickém, ale velmi praktickém know-how. Kromě sociálních neziskovek zveme i zástupce*zástupkyně asociací, svazů a nadací v oblasti sociální práce a kohokoliv, kdo má zájem.
 
-[**> REGISTRUJTE SE**](https://airtable.com/appQje7L2ZbXHIP4t/shrp4HjFiYTb1SlXp)
+**[\> REGISTRUJI SE](https://airtable.com/appQje7L2ZbXHIP4t/shrp4HjFiYTb1SlXp)**
 
-Kurz Nezisk.Digital -- otázky a odpovědi
-=======================================
-13\. listopadu 2024, 09:00--10:30\
+# Kurz Nezisk.Digital – otázky a odpovědi
+
+13. listopadu 2024, 09:00–10:30\
 online
 
 Náš online kurz Nezisk.Digital, ve kterém se naučíte co nejvíce zefektivnit svou práci v týmu, získal od zúčastněných neziskovek i jejich průvodců*průvodkyň parádní hodnocení 92/100 za celkovou spokojenost. To je sice dobré lákadlo, ale vy možná **máte spoustu otázek, abyste se mohli lépe rozhodnout, jestli se do kurzu přihlásit**. Toto setkání je tu přesně od toho.
 
-[**> REGISTRUJTE SE**](https://airtable.com/appBMJcLnBva02IEy/shrJc5IKJgbJQh2Jg)
+**[\> REGISTRUJI SE](https://airtable.com/appBMJcLnBva02IEy/shrJc5IKJgbJQh2Jg)**
+- - -
