@@ -5,7 +5,7 @@ author: jakub.holzer
 tags:
   - newsletter
 cover: https://assets.cesko.digital/3d1c0eac.png
-date: 2024-10-11-03-16
+date: 2024-10-11-10-55
 slug: cist-digital-63
 description: Abychom veřejné digitální služby mohli zkvalitnit, musíme nejprve
   vědět, co od nich jejich uživatelé očekávají. To jsme zjišťovali v hloubkových
