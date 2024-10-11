@@ -15,7 +15,10 @@ description: Abychom veřejné digitální služby mohli zkvalitnit, musíme nej
   Nezisk.Digital a připojujeme i konkrétní přínos kurzu pro organizaci Arkádie.
 lang: cs
 ---
-### \| PRO VEŘEJNOU SPRÁVU
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2kDixDLStP3J67xJTlGljz?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+### | PRO VEŘEJNOU SPRÁVU
 
 # **Vize pro veřejné digitální služby, a jak se k ní dostat**
 
@@ -31,7 +34,7 @@ Ve čtvrtek 12. září jsme na akci „**Efektivnější neziskovky? Využijte 
 
 - - -
 
-### \| PRO KOMUNITU
+### | PRO KOMUNITU
 
 # **Podepište petici za strategický přístup k digitalizaci státní správy** 
 
