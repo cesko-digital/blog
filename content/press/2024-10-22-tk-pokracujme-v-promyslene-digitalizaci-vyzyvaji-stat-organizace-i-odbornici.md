@@ -1,6 +1,6 @@
 ---
 title: Pokračujme v promyšlené digitalizaci, vyzývají stát organizace i odborníci
-author: martina.habova
+author: jakub.holzer
 cover: https://assets.cesko.digital/7ff8df45.png
 date: 2024-10-22-09-55
 slug: tk-pokracujme-v-promyslene-digitalizaci-vyzyvaji-stat-organizace-i-odbornici
