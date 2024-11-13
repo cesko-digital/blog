@@ -16,19 +16,25 @@ lang: cs
 ---
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2kDixDLStP3J67xJTlGljz?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+# **Hledá se...** 
+
+# **\> Digital Policy Analyst**
+
+Také si přejete moderní stát s vyladěnými digitálními službami? My už na tom pracujeme a právě hledáme vizionářského vedoucí*ho našeho projektu Digitální partnerství – bude řídit jeho tým, strategii a vůbec všechny aktivity, které povedou k lepším a přívětivějším digitálním službám státu.\
+\
+Inzerát na LinkedInu najdete [tady](https://www.linkedin.com/jobs/view/4069697354/). Díky za sdílení!\
+\
+**[\> Více o pozici](https://app.cesko.digital/opportunities/recHxEPc24ElnRdNZ)**
+
+- - -
+
 ### \| PRO VEŘEJNOU SPRÁVU
 
-# **Vize pro veřejné digitální služby, a jak se k ní dostat**
+# Co brání digitalizaci veřejné správy v Česku?
 
-Snadné vyřízení z pohodlí domova, Jedno vyplnění, žádné opakování nebo Otevřenost a ochota k pomoci. To jsou některé z představ, jak by měly ideálně vypadat digitální služby státu podle občanů, firem a hráčů na poli digitalizace. Za Česko.Digital doplňujeme naše plánované kroky, jak se k tomuto vysněnému, ale reálnému stavu co nejvíce přiblížit.
+Díky našim hloubkovým rozhovorům a výzkumům dalších organizací tušíme, jak [veřejnost, firmy](https://blog.cesko.digital/2024/08/horsi-trojka-pro-stat-aneb-jak-obcane-a-firmy-hodnoti-digitalni-sluzby-verejne-spravy) a [hráči na poli digitalizace](https://blog.cesko.digital/2024/08/Verejne-digitalni-sluzby-jak-je-hodnoti-hraci-na-poli-digitalizace) hodnotí digitální služby státu a [jak si představují jejich ideální stav](https://blog.cesko.digital/2024/09/vize-pro-verejne-digitalni-sluzby-a-jak-se-k-ni-dostat). V Česko.Digital jsme také navrhli možné [kroky, jak se k tomuto ideálu dostat](https://blog.cesko.digital/2024/09/vize-pro-verejne-digitalni-sluzby-a-jak-se-k-ni-dostat). V posledním, 4. díle našeho seriálu se zaměřujeme na **příčiny, proč současné digitální služby státu lidem nevyhovují a proč jde digitalizace tak pomalu**. V úrovni digitalizace státní správy (je Česko dle indikátoru DESI na předposledním, 26. místě v EU)!
 
-**[\> Přečtu si](https://blog.cesko.digital/2024/09/vize-pro-verejne-digitalni-sluzby-a-jak-se-k-ni-dostat)**
-
-# Sdílíme poznatky z projektu Nezisk.Digital
-
-Ve čtvrtek 12. září jsme na akci „**Efektivnější neziskovky? Využijte naše data i zkušenosti z projektu Nezisk.Digital**" sdíleli výsledky, data, dobrou praxi i konkrétní zkušenosti z našeho projektu a kurzu Nezisk.Digital. Můžete se [podívat na záznam události](https://youtu.be/5IOahkEausM) a nebo si vše přečíst v přehledném článku na našem blogu (zjistíte tu také, jak se do projektu můžete zapojit). Jednotlivým oblastem se budeme podrobněji věnovat v sedmidílném seriálu na našich sociálních sítích. 
-
-**\> [Kouknu na blog](https://blog.cesko.digital/2024/09/Efektivnejsi-neziskovky-vyuzijte-nase-data-i-zkusenosti-z-projektu-Nezisk-Digital)**
+**\> [Kouknu na blog](https://blog.cesko.digital/2024/10/priciny-problemu-digitalizace-verejne-spravy-v-cr)**
 
 - - -
 
