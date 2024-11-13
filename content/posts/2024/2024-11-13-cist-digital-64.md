@@ -34,22 +34,19 @@ Inzerát na LinkedInu najdete [tady](https://www.linkedin.com/jobs/view/40696973
 
 Díky našim hloubkovým rozhovorům a výzkumům dalších organizací tušíme, jak [veřejnost, firmy](https://blog.cesko.digital/2024/08/horsi-trojka-pro-stat-aneb-jak-obcane-a-firmy-hodnoti-digitalni-sluzby-verejne-spravy) a [hráči na poli digitalizace](https://blog.cesko.digital/2024/08/Verejne-digitalni-sluzby-jak-je-hodnoti-hraci-na-poli-digitalizace) hodnotí digitální služby státu a [jak si představují jejich ideální stav](https://blog.cesko.digital/2024/09/vize-pro-verejne-digitalni-sluzby-a-jak-se-k-ni-dostat). V Česko.Digital jsme také navrhli možné [kroky, jak se k tomuto ideálu dostat](https://blog.cesko.digital/2024/09/vize-pro-verejne-digitalni-sluzby-a-jak-se-k-ni-dostat). V posledním, 4. díle našeho seriálu se zaměřujeme na **příčiny, proč současné digitální služby státu lidem nevyhovují a proč jde digitalizace tak pomalu**. V úrovni digitalizace státní správy (je Česko dle indikátoru DESI na předposledním, 26. místě v EU)!
 
-**\> [Kouknu na blog](https://blog.cesko.digital/2024/10/priciny-problemu-digitalizace-verejne-spravy-v-cr)**
+**\> [Přečtu si to](https://blog.cesko.digital/2024/10/priciny-problemu-digitalizace-verejne-spravy-v-cr)**
 
 - - -
 
-### \| PRO KOMUNITU
+### \| PRO NEZISK
 
-# **Podepište petici za strategický přístup k digitalizaci státní správy** 
+# **Koukněte, co je nového v projektu Digitální inkluze** 
 
-Souhlasíte s tím, že je důležité **zachovat prioritu digitalizace veřejných služeb na nejvyšší politické úrovni**? Máme obavy, že současné kroky mohou zpomalit vývoj digitální transformace a ohrozit tak budoucnost Česka. Dejte politikům vědět, že vám na kvalitní digitalizaci záleží! My už jsme podepsali.
 
-Petice (iniciovaná i členy naší správní rady Evou Pavlíkovou a Jakubem Nešetřilem) žádá o dodržování strategie digitalizace veřejné správy, která zajistí kontinuitu, efektivitu či transparentnost při vytváření digitálních služeb státu. Tento proces a řešení by měly být dlouhodobě udržitelné bez závislosti na politických cyklech nebo dodavatelích a měly by plnit zejména potřeby klientů státu (občanů, organizací, firem...), ale i úředníků a úřednic.
+Naše příručka [Pomáháme.Digital](https://www.pomahame.digital/) pro lidi v sociálních službách a jejich digitálně ohrožené klienty se od jara pěkně rozšířila. A to jak obsahem, tak počtem svých uživatelů, kterých je už přes 550! Na 5. pokračování online showcase s názvem „Využijte vylepšenou digi příručku pro lidi v sociálních službách" jsme vám ukázali **všechny novinky jako návody, ambasadorský program nebo školení nových organizací**. Jestli jste to nestihli, pusťte si kompletní záznam nebo mrkněte na [prezentaci v pdf](https://drive.google.com/file/d/1HPPMMhb-IwqSVVNYIkWDLz0wvEg820gz/view).**\
+**
 
-Kromě případného podpisu také **sdílejte petici ve svých kruzích**, ať je nás co nejvíce. Děkujeme!
-
-**\> [Podepíšu to!](https://portal.gov.cz/e-petice/882-vyzva-za-strategicky-pristup-k-digitalizaci-kvalita-flexibilita-a-udrzitelnost-ve-statnich-projektech)**
-
+[**> Mrknu na záznam**](https://youtu.be/E3GZhIV8-9k)
 # **Co si myslíte o komunitě Česko.Digital?**
 
 V posledním roce prošlo Česko.Digital poměrně výraznou proměnou svého směřování i aktivit. Všechny z vás jsme se o tom snažili srozumitelně a otevřeně informovat, ale nejsme si jistí, zda se nám to podařilo. Budeme proto moc rádi, když si najdete pár minut na vyplnění dotazníku níže (klidně anonymně). Moc nám to pomůže zjistit, jak vnímáte roli komunity a vlastní roli v ní. Váš názor je pro nás opravdu důležitý a pomůže nám zmapovat aktuální stav. Díky moc!
