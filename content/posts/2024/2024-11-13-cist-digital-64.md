@@ -4,7 +4,7 @@ title: "číst.digital/64: Hledá se Digital Policy Analyst | Proč digitalizace
 author: jakub.holzer
 tags:
   - newsletter
-cover: https://assets.cesko.digital/3d1c0eac.png
+cover: https://assets.cesko.digital/20f33d29.png
 date: 2024-11-12-07-00
 slug: cist-digital-64
 description: Jaké překážky stojí v cestě digitalizaci české veřejné správy?
