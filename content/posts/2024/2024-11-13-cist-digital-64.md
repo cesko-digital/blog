@@ -70,7 +70,7 @@ Bezplatný kurz Nezisk.Digital je finančně podpořen Evropskou unií -- grante
 
 #### březen–červen 2025
 
-**\> [Registruji naší organizaci](https://airtable.com/appBMJcLnBva02IEy/shrlymCJWH9WCdGRq)**
+**\> [Registruji naši organizaci](https://airtable.com/appBMJcLnBva02IEy/shrlymCJWH9WCdGRq)**
 
 - - -
 
@@ -101,65 +101,55 @@ Náš online kurz Nezisk.Digital, ve kterém se naučíte co nejvíce zefektivni
 
 **[\> REGISTRUJI SE](https://airtable.com/appBMJcLnBva02IEy/shrJc5IKJgbJQh2Jg)** 
 
-# Jak navrhovat digitální řešení pro všechny
+# Event Nezisk.Digital #2
 
-## workshop Česko.Digital na Maker Faire Brno
+online 27. listopadu 2024, 15:00–16:30 anebo\
+online 29. listopadu 2024, 9:00–10:30\
 
-sobota 19. října 2024, 11:00–13.00\
-offline
+**Jaký přínos může mít kurz Nezisk.Digital pro vaši neziskovku?** Koncem listopadu už budou mít jeho účastníci a účastnice za sebou všechny 4 moduly kurzu. Tentokrát vás seznámí s tím, jak si vybrali, nastavili a jak momentálně implementují digitální nástroje, kterými řeší svá slabá místa. Žádná teorie, 100% praxe. Více o eventu: [1. termín ](https://app.cesko.digital/events/event-nezisk-digital-podzim24-2b)| [2. termín](https://app.cesko.digital/events/event-nezisk-digital-podzim24-2a).
 
-Vyzkoušejte si, jaké je to být designérem digitálních řešení pro lidi, kteří mají k digitálnu daleko. Budeme vycházet ze zkušeností s naším oceněným projektem Digitální inkluze. Projdeme ideační fází, vybrainstormujeme možná řešení a načrtneme jednoduché prototypy. Workshopem vás provedou designérky z Česko.Digital, Lujza Kotryová a Anežka Malčíková. Na workshopu je jen 15 míst, účastníci musí mít koupenou vstupenku na [Maker Faire Brno](https://makerfaire.cz/).
+**[\> REGISTRACE](https://airtable.com/appBMJcLnBva02IEy/shrDf7dO040rmvbAm)** 
 
-**[\> REGISTRUJI SE](https://docs.google.com/forms/d/e/1FAIpQLSdje9BpjLjqxTL5iUVNWHKhvahzpMjnBCf0FIX9-ZuK1N9Ffg/viewform)** 
+# Digitální transformace nezisku: co jí brání a jak to změnit
 
-# Využijte vylepšenou digi příručku pro lidi v sociálních službách
-
-čtvrtek 31. října 2024, 9:00–10:00\
+středa 4. prosince 2024, 09:00–10:00\
 online
 
-Naše příručka [Pomáháme.Digital](https://www.pomahame.digital/) pro lidi v sociálních službách a jejich digitálně ohrožené klienty se od jara pěkně rozšířila.  A to jak obsahem, tak počtem svých uživatelů. Ukážeme vám, co je nového. Jaké jsme přidali návody, jak vypadá ambasadorský program nebo jak školíme nové organizace v tomto specifickém, ale velmi praktickém know-how. Kromě sociálních neziskovek zveme i zástupce*zástupkyně asociací, svazů a nadací v oblasti sociální práce a kohokoliv, kdo má zájem.
+Digitální transformace neziskového sektoru v Česku čelí mnoha výzvám. Přijďte si poslechnout, jaké příležitosti jsme odhalili díky 15 rozhovorům s experty a expertkami, a **jak chceme potřebným systémovým změnám pomáhat** na svět nejen v roce 2025 -- a také, jak nám s tím můžete pomoct vy. [Více o události](https://app.cesko.digital/events/digitalni-transformace-nezisku).
 
-**[\> REGISTRUJI SE](https://airtable.com/appQje7L2ZbXHIP4t/shrp4HjFiYTb1SlXp)**
-
-# Kurz Nezisk.Digital – otázky a odpovědi
-
-středa 13. listopadu 2024, 09:00–10:30
-online
-
-Náš online kurz Nezisk.Digital, ve kterém se naučíte co nejvíce zefektivnit svou práci v týmu, získal od zúčastněných neziskovek i jejich průvodců*průvodkyň parádní hodnocení 92/100 za celkovou spokojenost. To je sice dobré lákadlo, ale vy možná **máte spoustu otázek, abyste se mohli lépe rozhodnout, jestli se do kurzu přihlásit**. Toto setkání je tu přesně od toho.
-
-**[\> REGISTRUJI SE](https://airtable.com/appBMJcLnBva02IEy/shrJc5IKJgbJQh2Jg)**
+**[\> BUDU TAM](https://airtable.com/appBMJcLnBva02IEy/shr7e5GpqzKrYFvII)**
 
 - - -
 
-# Hledáš pomoc nebo radu pro svou organizaci? Poptej se na Tržišti!
+# Hledáte pomoc nebo radu pro svou organizaci?
 
-**[\> MRKNU NA TRŽIŠTĚ](https://diskutuj.digital/c/trziste/5)**
+**[\> MRKNĚTE NA NAŠE TRŽIŠTĚ](https://diskutuj.digital/c/trziste/5)**
 
-# Diskutuj o digitalizaci Česka!
+# Diskutujme o digitalizaci Česka!
 
-Digitální transformace státu, nástroje, inovace i podpultovky. Pojď se s námi bavit o všem, co souvisí s digitální budoucností Česka, která prospěje veřejné správě, nezisku i byznysu.
+Digitální transformace státu, nástroje, inovace i podpultovky. Pojď se s námi bavit o všem, co souvisí s digitální budoucností Česka.
 
 **Aktuální a nejžhavější témata:**
 
-## Agilní vývoj ve veřejné správě
+## SPF, DKIM, DMARC a doručitelnost pošty z Google aplikací
 
-Software se tímhle způsobem dělá desítky let a troufnu si říct, že převažující výsledky a data tvrdí opak. „Jasné zadání“ je u softwaru utopie. „Tuším, co dostanu,“ je utopie...
+Poraďte prosím. Máme potíže s doručitelností legitimních e-mailů z Google Workspace i přes správně nastavené SPF a DKIM. Řešili jste někdy podobný problém, nebo víte o řešení?
 
-**[\> ZAPOJÍM SE DO DISKUZE](https://diskutuj.digital/t/agilni-vyvoj-ve-verejne-sprave/291)**
+**[\> ZAPOJÍM SE DO DISKUZE](https://diskutuj.digital/t/spf-dkim-dmarc-a-dorucitelnost-posty-z-googlich-aplikaci/876/1)**
 
-## Pomoc s otestováním kurzu Smartphone není chůva
+## Správce IT pro Centrum paliativní péče
 
-Pomůžete nám otestovat kurz pro “low-skilled people” a lidi z vyloučených lokalit? “Smartphone není chůva” je název nového kurzu, který vyrábíme ve spolupráci s belgickou neziskovkou v rámci Erasmu+...
+Tým, který mění péči o nevyléčitelně nemocné, hledá dlouhodobou IT podporou – správa hardware, software, síťových zařízení a technická podpora... Práce na dálku s občasnou přítomností, 700 Kč/hod.
 
-**[\> CHCI DISKUTOVAT](https://diskutuj.digital/t/pomoc-s-otestovanim-kurzu-smartphone-neni-chuva/827)**
+**[\> ZAJÍMÁ MĚ TO](https://diskutuj.digital/t/spravce-it-pro-centrum-paliativni-pece-dlouhodoba-spoluprace/874)**
 
-# Příležitosti k zapojení
+# Volné pozice v Česko.Digital
 
-Připoj se k neziskové organizaci s největší komunitou expertních dobrovolníků, zástupců neziskových organizací, veřejné správy a byznysu v Evropě. Všechny příležitosti najdeš na našich stránkách.
+#### Pro dobrovolnice i profíky
+#### na pár hodin i na full-time
 
-**[\> Nakouknu na Příležitosti k zapojení](https://app.cesko.digital/)**
+**[\> Není mi to volné](https://app.cesko.digital/)**
 
-# Děkujeme, že tě baví číst.digital!
+# Děkujeme, že vás baví číst.digital!
 
-C﻿hceš, aby ti náš newsletter chodil přímo do e-mailové schránky? [Přihlas se k jeho odběru](https://ceskodigital.ecomailapp.cz/public/form/6-3fdfd544852ed7431aa64f3b9481afb9).
+C﻿hcete, aby vám náš newsletter chodil přímo do e-mailové schránky? [Přihlaste se k jeho odběru](https://ceskodigital.ecomailapp.cz/public/form/6-3fdfd544852ed7431aa64f3b9481afb9).
