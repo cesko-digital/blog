@@ -127,7 +127,7 @@ Digitální transformace neziskového sektoru v Česku čelí mnoha výzvám. P�
 
 Digitální transformace státu, nástroje, inovace i podpultovky. Pojď se s námi bavit o všem, co souvisí s digitální budoucností Česka.
 
-**Aktuální a nejžhavější témata:**
+### **Aktuální a nejžhavější témata:**
 
 ## SPF, DKIM, DMARC a doručitelnost pošty z Google aplikací
 
@@ -144,9 +144,11 @@ Tým, který mění péči o nevyléčitelně nemocné, hledá dlouhodobou IT po
 # Volné pozice v Česko.Digital
 
 #### Pro dobrovolnice i profíky
+
 #### na pár hodin i na full-time
 
 **[\> Není mi to volné](https://app.cesko.digital/)**
+
 
 # Děkujeme, že vás baví číst.digital!
 
