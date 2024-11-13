@@ -42,42 +42,33 @@ Díky našim hloubkovým rozhovorům a výzkumům dalších organizací tušíme
 
 # **Koukněte, co je nového v projektu Digitální inkluze** 
 
+Naše příručka [Pomáháme.Digital](https://www.pomahame.digital/) pro lidi v sociálních službách a jejich digitálně ohrožené klienty se od jara pěkně rozšířila. A to jak obsahem, tak počtem svých uživatelů, kterých je už přes 550! Na 5. pokračování online showcase s názvem „Využijte vylepšenou digi příručku pro lidi v sociálních službách" jsme vám ukázali **všechny novinky jako návody, ambasadorský program nebo školení nových organizací**. Jestli jste to nestihli, pusťte si kompletní záznam nebo mrkněte na [prezentaci v pdf](https://drive.google.com/file/d/1HPPMMhb-IwqSVVNYIkWDLz0wvEg820gz/view).
 
-Naše příručka [Pomáháme.Digital](https://www.pomahame.digital/) pro lidi v sociálních službách a jejich digitálně ohrožené klienty se od jara pěkně rozšířila. A to jak obsahem, tak počtem svých uživatelů, kterých je už přes 550! Na 5. pokračování online showcase s názvem „Využijte vylepšenou digi příručku pro lidi v sociálních službách" jsme vám ukázali **všechny novinky jako návody, ambasadorský program nebo školení nových organizací**. Jestli jste to nestihli, pusťte si kompletní záznam nebo mrkněte na [prezentaci v pdf](https://drive.google.com/file/d/1HPPMMhb-IwqSVVNYIkWDLz0wvEg820gz/view).**\
-**
+**[\> Mrknu na záznam](https://youtu.be/E3GZhIV8-9k)**
 
-[**> Mrknu na záznam**](https://youtu.be/E3GZhIV8-9k)
-# **Co si myslíte o komunitě Česko.Digital?**
+# **Jak pomohl kurz organizaci Replug me Education?**
 
-V posledním roce prošlo Česko.Digital poměrně výraznou proměnou svého směřování i aktivit. Všechny z vás jsme se o tom snažili srozumitelně a otevřeně informovat, ale nejsme si jistí, zda se nám to podařilo. Budeme proto moc rádi, když si najdete pár minut na vyplnění dotazníku níže (klidně anonymně). Moc nám to pomůže zjistit, jak vnímáte roli komunity a vlastní roli v ní. Váš názor je pro nás opravdu důležitý a pomůže nám zmapovat aktuální stav. Díky moc!
+Replug me Education je jednou z 8 neziskovek, kterým jsme v jarním běhu online [kurzu Nezisk.Digital](http://nezisk.digital) pomohli s technologickým rozvojem. Organizace většinou tvořená psychology se zaměřuje na digitální wellbeing a učí děti i dospělé zdravě používat digitální technologie. Máme radost, že jsme jim mohli pomoci na jejich cestě k efektivnější práci.
 
-**\> [Vyplním dotazník](https://airtable.com/appbQ40ga82eCmwcD/pagG6vRwpXdEx5AUj/form)**
+Kateřina Macková a Jana Klusáková nám prozradily, co pod vedením mentorky Kristýny Pustelníkové zjistily a na čem i s dalšími kolegy*němi začali pracovat:
 
-- - -
+👉 jako hlavní téma ke zlepšení si zvolili zavedení CRM systému a zautomatizování péče o své nové klienty. Vše dosud dělali ručně a tedy pomalu
 
-### \| PRO NEZISKOVÉ ORGANIZACE
+👉 identifikovali všechny kroky a potřeby v automatizaci prodeje svých produktů
 
-# Jak pomohl kurz [Nezisk.Digital](http://nezisk.digital/) organizaci Arkádie?
+👉 v celém procesu objevili mnoho důležitých detailů, které by jinak nebrali v potaz
 
-Arkádie z Teplicka je jednou z 8 neziskovek, kterým jsme v jarním běhu online kurzu Nezisk.Digital pomohli posunout se nejen technologicky vpřed. Organizace, která zaměstnává více než 90 lidí s různými handicapy, se díky našemu kurzu úspěšně vydala cestou digitalizace. Alena Tonová a Karel Klášterka prozradili, co pod vedením průvodce Jana Jelínka zjistili a do čeho se pustili:
+👉 konzultace s průvodkyní jim pomohly sestavit správnou poptávku na nový CRM systém
 
-👉 jako své hlavní téma ke zlepšení si vybrali nastavení efektivní komunikace 
+👉 kurz jim umožnil věnovat čas hledání vhodného řešení. Díky konzultacím s nezávislou průvodkyní se také vyhnuli unáhleným rozhodnutím
 
-👉 definovali si nástroje, které budou používat – Office 365, OneDrive, Teams a sdílený kalendář\
-👉 ze serverového úložiště přejdou na cloud
-
-👉 vytvořili si standardy pro interní komunikaci
-
-👉 uvědomili si, že místo externí firmy potřebují vlastního IT pracovníka
-
-👉 v Airtable si vytvořili přehlednou databázi s profily a údaji o svých pracovnících
-
-Více o kurzu na [Nezisk.Digital](https://nezisk.digital/). Bezplatný kurz Nezisk.Digital je finančně podpořen Evropskou unií – grantem z programu Zaměstnanost plus. Děkujeme!
+Bezplatný kurz Nezisk.Digital je finančně podpořen Evropskou unií -- grantem z programu Zaměstnanost plus a také MPSV. Děkujeme!
 
 # Chcete ve své neziskovce pracovat mnohem efektivněji?
 
-Hlaste se do jarního běhu online kurzu Nezisk Digital!\
-březen–červen 2025
+#### Hlaste se do jarního běhu online kurzu Nezisk Digital!\
+
+#### březen–červen 2025
 
 **\> [Registruji naší organizaci](https://airtable.com/appBMJcLnBva02IEy/shrlymCJWH9WCdGRq)**
 
@@ -85,27 +76,30 @@ březen–červen 2025
 
 # **Digitální jednohubky**
 
-## Co nového v Pomáháme.Digital?
+## Nové návody v Pomáháme.Digital
 
-Příručka pro lidi ze sociálních služeb se pěkně rozjíždí. **Už 330 pracovníků a pracovnic** příručku využívá ve své práci. V září v ní přibyly **3 nové návody** – [Rodičovský příspěvek v aplikaci Jenda](https://www.pomahame.digital/course/view.php?id=113), [Přídavek na dítě v aplikaci Jenda](https://www.pomahame.digital/course/view.php?id=114) a [Bezpečnost na Snapchatu](https://www.pomahame.digital/course/view.php?id=115). Všechny novinky včetně ambasadorského programu shrneme na [online showcase #5](https://app.cesko.digital/events/showcase-digitalni-inkluze-5), která se bude konat 31. října.
+Už **554 pracovníků a pracovnic** ze sociálních služeb, kteří pracují s více než 10 000 klienty, využívá naši [příručku Pomáháme.Digital](https://Pomahame.Digital). Naposledy v ní přibyly 2 nové návody -- **[Jak zmapovat zadlužení klienta online](https://www.pomahame.digital/course/view.php?id=119)** a **[tři online průvodci životními situacemi](https://www.pomahame.digital/course/view.php?id=118)** (aneb jak zjistit, na jakou pomoc mají lidé v nouzi nárok).
 
-## **Opět si odnášíme ceny**
+## Záznamy z Event Nezisk.Digital #1
 
-Tohle se povedlo! Velká gratulace našim ambasadorům a ambasadorkám! Jejich osvěta na sociálních sítích získala **stříbrnou medaili v soutěži Fenix Awards**. Druhou příčku získal i náš speciální **web[ inkluze.cesko.digital](http://inkluze.cesko.digital/)** v kategorii Microsite – i tady patří velká gratulace všem, kteří se zapojili a přispěli svým dílem do skládačky.
+Pokud jste tuhle skvělou příležitost nakouknout do kurzu Nezisk.Digital nestihli, podívejte se na záznam **[první](https://www.youtube.com/watch?v=k4dpx7IVzuI)** a **[druhé](https://www.youtube.com/watch?v=KebENeyBmzU)** skupiny. Aktuální účastníci a účastnice z řad neziskovek tu sdíleli své zkušenosti, aha momenty a tipy, které posbírali na své dosavadní cestě za vyšší efektivitou.
+
+## Zase soutěžíme
+
+Náš projekt Digitální inkluze jede. Po letošním prvním místě na European Digital Skills Awards a dvou stříbrech v tuzemské Fenix Awards je nominován do dalšího kola **World Summit Awards jako nejinovativnější digitální řešení v kategorii Learning & Education** za Českou republiku.
 
 - - -
 
 # Nejbližší akce
 
-# Event Nezisk.Digital #1
+# Kurz Nezisk.Digital – Otázky a odpovědi
 
-středa 16. října 2024, 15:00–16:30, online
-& 
-pátek 18. října 2024, 9:00–10.30, online
+středa 13. listopadu 2024, 09:00–10:30
+online
 
-Zjistěte, jak nejen pomocí digitálních nástrojů zlepšit efektivitu své neziskovky. Konkrétní ukázky, tipy a zkušenosti vám nasdílejí účastníci našeho kurzu Nezisk.Digital. Přímo z první ruky se dozvíte, jak zmapovali slabá místa i skutečné potřeby své organizace a představí vám, na jaké konkrétní problémy se zaměřili a proč. Eventy jsou tentokrát dva a v každém z nich vám svou dosavadní cestu kurzem odprezentuje 10 neziskovek.
+Náš online kurz Nezisk.Digital, ve kterém se naučíte co nejvíce zefektivnit svou práci v týmu, získal od zúčastněných neziskovek a jejich průvodců*průvodkyň parádní hodnocení 92/100 za celkovou spokojenost. To je sice pěkné lákadlo, ale vy **možná máte spoustu otázek a nejasností, abyste mohli lépe zvážit svou registraci**. „Otázky a odpovědi" jsou tu přesně od toho! [Více o události](https://app.cesko.digital/events/nezisk-digital-QA-jarni-kurz-2025).
 
-**[\> REGISTRUJI SE](https://airtable.com/appBMJcLnBva02IEy/shrQ3U5Ie9gFJPAQB)** 
+**[\> REGISTRUJI SE](https://airtable.com/appBMJcLnBva02IEy/shrJc5IKJgbJQh2Jg)** 
 
 # Jak navrhovat digitální řešení pro všechny
 
@@ -120,7 +114,7 @@ Vyzkoušejte si, jaké je to být designérem digitálních řešení pro lidi, 
 
 # Využijte vylepšenou digi příručku pro lidi v sociálních službách
 
-čtvrtek 31. října 2024, 9:00–10:00
+čtvrtek 31. října 2024, 9:00–10:00\
 online
 
 Naše příručka [Pomáháme.Digital](https://www.pomahame.digital/) pro lidi v sociálních službách a jejich digitálně ohrožené klienty se od jara pěkně rozšířila.  A to jak obsahem, tak počtem svých uživatelů. Ukážeme vám, co je nového. Jaké jsme přidali návody, jak vypadá ambasadorský program nebo jak školíme nové organizace v tomto specifickém, ale velmi praktickém know-how. Kromě sociálních neziskovek zveme i zástupce*zástupkyně asociací, svazů a nadací v oblasti sociální práce a kohokoliv, kdo má zájem.
