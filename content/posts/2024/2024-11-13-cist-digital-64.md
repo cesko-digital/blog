@@ -62,7 +62,7 @@ Kateřina Macková a Jana Klusáková nám prozradily, co pod vedením mentorky 
 
 👉 kurz jim umožnil věnovat čas hledání vhodného řešení. Díky konzultacím s nezávislou průvodkyní se také vyhnuli unáhleným rozhodnutím
 
-Bezplatný kurz Nezisk.Digital je finančně podpořen Evropskou unií -- grantem z programu Zaměstnanost plus a také MPSV. Děkujeme!
+Bezplatný kurz Nezisk.Digital je finančně podpořen Evropskou unií – grantem z programu Zaměstnanost plus a také MPSV. Děkujeme!
 
 # Chcete ve své neziskovce pracovat mnohem efektivněji?
 
@@ -78,7 +78,7 @@ Bezplatný kurz Nezisk.Digital je finančně podpořen Evropskou unií -- grante
 
 ## Nové návody v Pomáháme.Digital
 
-Už **554 pracovníků a pracovnic** ze sociálních služeb, kteří pracují s více než 10 000 klienty, využívá naši [příručku Pomáháme.Digital](https://Pomahame.Digital). Naposledy v ní přibyly 2 nové návody -- **[Jak zmapovat zadlužení klienta online](https://www.pomahame.digital/course/view.php?id=119)** a **[tři online průvodci životními situacemi](https://www.pomahame.digital/course/view.php?id=118)** (aneb jak zjistit, na jakou pomoc mají lidé v nouzi nárok).
+Už **554 pracovníků a pracovnic** ze sociálních služeb, kteří pracují s více než 10 000 klienty, využívá naši [příručku Pomáháme.Digital](https://Pomahame.Digital). Naposledy v ní přibyly 2 nové návody – **[Jak zmapovat zadlužení klienta online](https://www.pomahame.digital/course/view.php?id=119)** a **[tři online průvodci životními situacemi](https://www.pomahame.digital/course/view.php?id=118)** (aneb jak zjistit, na jakou pomoc mají lidé v nouzi nárok).
 
 ## Záznamy z Event Nezisk.Digital #1
 
@@ -115,7 +115,7 @@ online 29. listopadu 2024, 9:00–10:30\
 středa 4. prosince 2024, 09:00–10:00\
 online
 
-Digitální transformace neziskového sektoru v Česku čelí mnoha výzvám. Přijďte si poslechnout, jaké příležitosti jsme odhalili díky 15 rozhovorům s experty a expertkami, a **jak chceme potřebným systémovým změnám pomáhat** na svět nejen v roce 2025 -- a také, jak nám s tím můžete pomoct vy. [Více o události](https://app.cesko.digital/events/digitalni-transformace-nezisku).
+Digitální transformace neziskového sektoru v Česku čelí mnoha výzvám. Přijďte si poslechnout, jaké příležitosti jsme odhalili díky 15 rozhovorům s experty a expertkami, a **jak chceme potřebným systémovým změnám pomáhat** na svět nejen v roce 2025 – a také, jak nám s tím můžete pomoct vy. [Více o události](https://app.cesko.digital/events/digitalni-transformace-nezisku).
 
 **[\> BUDU TAM](https://airtable.com/appBMJcLnBva02IEy/shr7e5GpqzKrYFvII)**
 
