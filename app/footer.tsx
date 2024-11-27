@@ -4,10 +4,6 @@ const socialLinks = [
     name: "Facebook",
   },
   {
-    url: "https://twitter.com/CeskoDigital",
-    name: "Twitter",
-  },
-  {
     url: "https://www.linkedin.com/company/cesko-digital/",
     name: "LinkedIn",
   },
