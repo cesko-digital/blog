@@ -5,8 +5,8 @@ cover: https://assets.cesko.digital/75b40de5.jpg
 date: 2024-11-28-03-04
 slug: odchazime_z_x
 description: "Česko.Digital opouští Twitter/X a přechází na decentralizovaný
-  Mastodon. X se v rukou Elona Muska stala nástrojem pro manipulaci veřejného
-  mínění. "
+  Mastodon. Síť X se v rukou Elona Muska stala nástrojem pro manipulaci
+  veřejného mínění. "
 lang: cs
 ---
 \# Proč Česko.Digital odchází z Twitteru/X
