@@ -9,7 +9,7 @@ description: "Česko.Digital opouští Twitter/X a přechází na decentralizova
   veřejného mínění. "
 lang: cs
 ---
-Twitter kdysi bývala živá síť plná zajímavých lidí a konverzací. Možná si ještě pamatujete jeho dřevní začátky, kdy fungoval posíláním textových zpráv. Řada lidí si dnes Twitter nostalgicky spojuje s optimistickou „zlatou éru internetu“. Bohužel, nutno dodat: bývávalo. Její přejmenování na X po akvizici Elonem Muskem tuto éru aspoň pro Twitter uzavřelo. Sympatické modré logo s ptáčkem symbolicky nahradilo černé X a zajímavé konverzace se rychle začaly topit v řádění botů, dezinformací a ultrapravicové nenávisti.
+Twitter kdysi bývala živá síť plná zajímavých lidí a konverzací. Možná si ještě pamatujete jeho dřevní začátky, kdy fungoval posíláním textových zpráv. Řada lidí si dnes Twitter nostalgicky spojuje s optimistickou „zlatou érou internetu“. Bohužel, nutno dodat: bývávalo. Její přejmenování na X po akvizici Elonem Muskem tuto éru aspoň pro Twitter uzavřelo. Sympatické modré logo s ptáčkem symbolicky nahradilo černé X a zajímavé konverzace se rychle začaly topit v řádění botů, dezinformací a ultrapravicové nenávisti.
 
 Změnu kurzu pravděpodobně očekávat nemůžeme, protože současný majitel síť využívá k masivní manipulaci veřejného mínění ve svůj prospěch – viz nepokrytou podporu Donalda Trumpa a fake news o Kamale Harris během posledních prezidentských voleb v USA. Twitter už zkrátka není a zřejmě nebude fér hřiště a místo, kde chceme jako Česko.Digital dále působit. Proto odcházíme.
 
