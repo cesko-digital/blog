@@ -62,12 +62,11 @@ Máme výborné renomé, spoustu skvělých zářezů z minulých let a hlavně 
 
 ### \| PRO KOMUNITU
 
-#  **Kurz Nezisk.Digital – hledáme tech-expertky i průvodce**
+# **Kurz Nezisk.Digital – hledáme tech-expertky i průvodce**
 
 Do jarního online kurzu Nezisk.Digital hledáme dobrovolné [průvodce a průvodkyně ](https://app.cesko.digital/opportunities/recP8PO9DhSXwERTr)a [především tech-experty a expertky](https://app.cesko.digital/opportunities/recGLCcg5xF0wsi5e), kteří v kurzu pomáhají zúčastněným neziskovkám se zaváděním digitálních nástrojů.\
 
 Celý kurz je online a naši dobrovolníci ho hodnotí jako skvělou osobní i pracovní zkušenost. Koukněte, co si z něj odnáší průvodci [Jana Šibrová](https://ceskodigital.ecomailapp.cz/campaigns/render/729/479ab3ceaac446891b1c94355aac890d) a [Honza Štefanides](https://www.linkedin.com/feed/update/urn:li:activity:7271825856623251456/).
-
 
 - - -
 
@@ -85,22 +84,24 @@ Dejte nám vědět na **jindrich@cesko.digital** nebo ve vlákně na fóru **[di
 
 ## Jak pomohl kurz Nezisk.Digital organizaci České priority?
 
-V minulém běhu jsme pomohli i think-tanku **České priority**. Jeho zástupci se v kurzu naučili zautomatizovat rutinní procesy a zefektivnit projektové řízení i interní komunikaci.
+V minulém běhu jsme pomohli i think-tanku **České priority**. Jeho zástupci se v kurzu naučili zautomatizovat rutinní procesy a zefektivnit projektové řízení i interní komunikaci. Všechny přínosy čtěte v [postu na LinkedIn](https://www.linkedin.com/company/cesko-digital/). 
 
-**[\> ČTĚTE VÍCE NA LINKEDIN](https://www.linkedin.com/feed/update/urn:li:activity:7251544551423635456)**
+## Nová metodika pro výběrka softwaru
+
+Naše spřízněná Asociace softwarových agentur (ASWA) spolu s Ministerstvem pro místní rozvoj daly dohromady metodiku pro přípravu a realizaci výběrových řízení na softwarové produkty a služby. Dáváme velký [palec nahoru](https://www.linkedin.com/feed/update/urn:li:activity:7257780293510533121/)! Metodiku si můžete zobrazit [tady](https://portal-vz.cz/wp-content/uploads/2017/09/NSVZ_JAK-PRIPRAVIT-MODERNI-VYBEROVE-RIZENI_online-1.pdf). 
 
 - - -
 
 # Nejbližší akce
 
-# Meetup #5 – Digitální inkluze
+## Meetup #5 – Digitální inkluze
 
 **26. února, 17:00 – offline**\
 Na této akci si ukážeme, jak se nám daří motivovat sociální pracovníky k využívání digitálních nástrojů.
 
 **[\> REGISTRUJI SE](https://app.cesko.digital/events/meetup-ceskodigital-5)**
 
-# Digitální transformace nezisku: reálné příběhy, data a příležitosti
+## Digitální transformace nezisku: reálné příběhy, data a příležitosti
 
 **25. února, 9:00–10:30 – online**\
 Podělíme se o nová data a zkušenosti z digitální transformace 8 neziskovek.
@@ -109,17 +110,25 @@ Podělíme se o nová data a zkušenosti z digitální transformace 8 neziskovek
 
 - - -
 
-### Diskutujme o digitalizaci Česka!
+## Diskutujme o digitalizaci Česka!
 
-#### Aktuální a žhavá témata na fóru Diskutuj.Digital:
+### Aktuální a žhavá témata na fóru Diskutuj.Digital:
 
 * **Anketa: AI zapisovatelé a boti na online konferencích – ano, nebo ne?**\
   **[\> HLASOVAT](https://diskutuj.digital/t/ai-zapisovatele-a-boti-na-online-konferencich-ano-nebo-ne/928)**
-* **Nápad: Online konzultace pomocí webkamery s institucemi**\
+* **Nápad: Online konzultace pomocí webkamery s veřejnými institucemi**\
   **[\> ZAJÍMÁ MĚ TO](https://diskutuj.digital/t/online-konzultace-pomoci-webkamery-s-institucemi/905)**
 
 - - -
 
-### Děkujeme, že vás baví číst.digital!
+# Volné pozice v Česko.Digital
 
-**[\> PŘIHLÁSIT SE K ODBĚRU NEWSLETTERU](https://ceskodigital.ecomailapp.cz/public/form/8-0ff8f206695a872edfb6fade7b6458ba)**
+#### Pro dobrovolnice i profíky
+
+#### na pár hodin i na full-time
+
+**[\> Není mi to volné](https://app.cesko.digital/)**
+
+# Děkujeme, že vás baví číst.digital!
+
+Chcete, aby vám náš newsletter chodil přímo do e-mailové schránky? [Přihlaste se k jeho odběru](https://ceskodigital.ecomailapp.cz/public/form/6-3fdfd544852ed7431aa64f3b9481afb9).
