@@ -4,7 +4,7 @@ title: "číst.digital/65: Zkoumáme digitalizaci českého nezisku | Hledáme n
 author: jakub.holzer
 tags:
   - newsletter
-cover: https://assets.cesko.digital/20f33d29.png
+cover: https://assets.cesko.digital/971f22e7.png
 date: 2024-12-13-12-54
 slug: cist-digital-65
 description: Co brání českému nezisku v digitální transformaci, a jak to můžeme
