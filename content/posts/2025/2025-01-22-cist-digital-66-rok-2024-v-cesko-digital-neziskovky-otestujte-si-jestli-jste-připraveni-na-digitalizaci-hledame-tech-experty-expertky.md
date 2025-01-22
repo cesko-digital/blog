@@ -22,7 +22,7 @@ Je za námi další rok plný velkých změn, krůčků a kroků vpřed. Děkuje
 
 2️⃣ [Kurz Nezisk Digital](https://nezisk.digital/): náš mentorovaný online kurz efektivity úspěšně absolvovalo 27 neziskovek ze sociální oblasti. Celkově jeho přínos ohodnotily 92 body ze 100. Z kurzu jsme sdíleli spoustu poznatků a dat, které může kdokoli využít.
 
-3️⃣[ Diskutuj.Digital](http://diskutuj.digital/): naše otevřené diskuzní fórum se pěkně etablovalo a pořád krásně roste. Diskutujeme tu s vámi o eDokladech, digitálních nástrojích, inovacích a všem, co vás z digitálního světa zajímá.
+3️⃣ [Diskutuj.Digital](http://diskutuj.digital/): naše otevřené diskuzní fórum se pěkně etablovalo a pořád krásně roste. Diskutujeme tu s vámi o eDokladech, digitálních nástrojích, inovacích a všem, co vás z digitálního světa zajímá.
 
 4️⃣ [Festival kreativní byrokracie](https://creativebureaucracy.cz/): přes 330 úředníků a úřednic se sešlo na Jatkách78. Inspirace, přednášky, panely, workshopy i koncert udělaly i tento ročník nezapomenutelným.
 
@@ -95,9 +95,7 @@ Hledám jednoduchou aplikaci, která nahlas přečte jakýkoliv vybraný text v 
 
 Honza Matucha nabízí vzdělávání v rámci IT dovedností podle vašich potřeb (od Excelu až po AI). Projekt je hrazen z evropských dotací a je určen pro firmy i nezisk a jejich zaměstnance. Stále má volné dny, ozvěte se mu.
 
-
-
-## Volné pozice v Česko.Digital 
+## Volné pozice v Česko.Digital
 
 Pro dobrovolnice i profíky
 
