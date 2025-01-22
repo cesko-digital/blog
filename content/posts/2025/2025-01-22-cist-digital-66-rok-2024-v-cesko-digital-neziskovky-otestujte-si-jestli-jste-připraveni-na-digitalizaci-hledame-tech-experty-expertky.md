@@ -38,15 +38,16 @@ Děkujeme, že jste toho všeho součástí!
 
 ## Otestujte si, jestli jste připraveni
 
+
 V českém neziskovém sektoru dlouhodobě chybí finance a lidé, což vede k nižším mzdám, přepracovanosti a nižšímu dopadu aktivit. Jak z toho ven? Nejschůdnější cestu nabízí promyšlené zapojení digitálních nástrojů, které dokáží zautomatizovat spoustu procesů a výrazně tak šetřit čas a peníze – a to i v nezisku.
 
-Než se ale do takové digitální transformace pustíte, je dobré se připravit. Vyžaduje totiž změny nejen v počítačích, ale i v hlavách lidí a v organizaci samotné. Díky našemu testu můžete zjistit, jak jste aktuálně připraveni na digitalizaci vaší neziskovky.
+Než se ale do takové digitální transformace pustíte, je dobré se na ni předem připravit. Transformace totiž vyžaduje změny nejen v počítačích, ale i v hlavách lidí a v organizaci samotné. Díky našemu testu, resp. sadě 5 otázek můžete zjistit, jak jste aktuálně připraveni na digitalizaci vaší neziskovky. Otázky jsou součástí našeho blogového článku.
 
-A když zjistíte, že ne (nebudete žádnou výjimkou), nevěste hlavu. V Česko.Digital plánujeme založit  „ekosystém digitální transformace nezisku“. Půjde o spolupracující síť expertních neziskovek, firem, nadací a dalších organizací, které neziskovkám budou koordinovaně nabízet různé formy pomoci a služeb na jejich cestě digitální transformace.
+A když zjistíte, že připraveni nejste? Nevěšte hlavu, nebudete žádnou výjimkou. Zároveň máme dobrou zprávu: v Česko.Digital začínáme rozvíjet „ekosystém digitální transformace nezisku“. Půjde o spolupracující síť expertních neziskovek, firem, nadací a dalších organizací, které neziskovkám budou koordinovaně nabízet různé formy pomoci a služeb na jejich cestě digitální transformace.
 
 [\> Více v článku](https://blog.cesko.digital/2025/01/test-pripravenosti-nno-na-digitaliazci)
 
-Pokud vás toto téma a naše související snahy zajímají, přihlaste se k odběru našeho měsíčního newsletteru. Nabídneme vám v něm také výsledky našich výzkumů, ale i příležitosti k vašemu zapojení. 
+Pokud vás téma digitální transformace v nezisku a naše související aktivity zajímají, přihlaste se k odběru nového měsíčního newsletteru. Nabídneme vám v něm také výsledky našich výzkumů, ale i příležitosti k zapojení.
 
 [\> Chci odebírat newsletter](https://ceskodigital.ecomailapp.cz/public/form/8-0ff8f206695a872edfb6fade7b6458ba)
 
@@ -78,7 +79,7 @@ Podělíme se o nová data a poznatky z projektu Nezisk.Digital. Zjistíte, jak 
 **Meetup #5 – Digitální inkluze**
 
 25. února, 18:00\
-v Opero, Salvátorská 8, Praha 1
+    v Opero, Salvátorská 8, Praha 1
 
 Na téhle offline akci si ukážeme, jak se nám daří motivovat sociální pracovníky a pracovnice k využívání digitálních nástrojů v Pomáháme.Digital i pomáhat neziskovkám s digitálním růstem v Nezisk.Digital. To vše díky vám! Dobrovolníkům a dobrovolnicím. Pojďme to oslavit! Více o eventu.
 
