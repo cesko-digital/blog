@@ -44,7 +44,7 @@ Než se ale do takové digitální transformace pustíte, je dobré se připravi
 
 A když zjistíte, že ne (nebudete žádnou výjimkou), nevěste hlavu. V Česko.Digital plánujeme založit  „ekosystém digitální transformace nezisku“. Půjde o spolupracující síť expertních neziskovek, firem, nadací a dalších organizací, které neziskovkám budou koordinovaně nabízet různé formy pomoci a služeb na jejich cestě digitální transformace.
 
-[> Více na blogu
+[\> Více na blogu](https://blog.cesko.digital/2025/01/test-pripravenosti-nno-na-digitaliazci)
 
 ](https://blog.cesko.digital/2025/01/test-pripravenosti-nno-na-digitaliazci)Pokud vás toto téma a naše související snahy zajímají, přihlaste se k odběru našeho měsíčního newsletteru. Nabídneme vám v něm také výsledky našich výzkumů, ale i příležitosti k vašemu zapojení. 
 
