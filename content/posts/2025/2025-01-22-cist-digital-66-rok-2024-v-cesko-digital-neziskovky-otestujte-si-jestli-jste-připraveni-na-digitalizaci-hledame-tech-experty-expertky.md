@@ -36,7 +36,7 @@ Děkujeme, že jste toho všeho součástí!
 
 ## Digitální transformace vaší neziskovky?
 
-Otestujte si, jestli jste připraveni
+## Otestujte si, jestli jste připraveni
 
 V českém neziskovém sektoru dlouhodobě chybí finance a lidé, což vede k nižším mzdám, přepracovanosti a nižšímu dopadu aktivit. Jak z toho ven? Nejschůdnější cestu nabízí promyšlené zapojení digitálních nástrojů, které dokáží zautomatizovat spoustu procesů a výrazně tak šetřit čas a peníze – a to i v nezisku.
 
