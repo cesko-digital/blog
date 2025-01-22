@@ -81,7 +81,7 @@ V naší příručce pro lidi ze sociálních služeb a jejich klienty v prosinc
 
 Na téhle offline akci si ukážeme, jak se nám daří motivovat sociální pracovníky a pracovnice k využívání digitálních nástrojů v Pomáháme.Digital i pomáhat neziskovkám s digitálním růstem v Nezisk.Digital. To vše díky vám! Dobrovolníkům a dobrovolnicím. Pojďme to oslavit! Více o eventu.
 
-> [Registruji se](https://airtable.com/appzzeZuZPAlDmgNl/shrYtsvhW56mHt8jt)
+\> [Registruji se](https://airtable.com/appzzeZuZPAlDmgNl/shrYtsvhW56mHt8jt)
 
 ## Diskutujme o digitalizaci Česka!
 
@@ -95,7 +95,9 @@ Hledám jednoduchou aplikaci, která nahlas přečte jakýkoliv vybraný text v 
 
 Honza Matucha nabízí vzdělávání v rámci IT dovedností podle vašich potřeb (od Excelu až po AI). Projekt je hrazen z evropských dotací a je určen pro firmy i nezisk a jejich zaměstnance. Stále má volné dny, ozvěte se mu.
 
-Volné pozice v Česko.Digital 
+
+
+## Volné pozice v Česko.Digital 
 
 Pro dobrovolnice i profíky
 
