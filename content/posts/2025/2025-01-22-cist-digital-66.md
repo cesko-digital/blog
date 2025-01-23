@@ -6,7 +6,7 @@ tags:
   - newsletter
 cover: https://assets.cesko.digital/901d2748.jpg
 date: 2025-01-22-11-12
-slug: cist-digital-66-rok-2024-v-Cesko.Digital-neziskovky-otestujte-si-jestli-jste-připraveni-na-digitalizaci-hledame-tech-experty-expertky
+slug: cist-digital-66
 description: Vítáme vás v roce dvacátém pátém! Těšíte se ne na něj? My jsme plní
   očekávání. Náš tým posílí noví kolegové a jako předsevzetí jsme si dali
   vylepšit naše stávající projekty a nastartovat nové. Třeba ten, který by měl
