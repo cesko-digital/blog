@@ -42,15 +42,15 @@ Na konci tohoto textu si pak můžete stáhnout naši průběžnou **výzkumnou 
 
 ## Důsledky problémů
 
-Hlavním důsledkem těchto problémů je **méně efektivní fungování**. Neziskovky jsou pak při naplňování svého poslání méně úspěšné, než by mohly. Konkrétně jim:
+Hlavním důsledkem těchto problémů je **méně efektivní fungování**. Neziskovky jsou pak při naplňování svého poslání méně úspěšné, než by mohly. Konkrétně jim chybí:
 
-* **Chybí jasná a dlouhodobá strategie**\
+* **Jasná a dlouhodobá strategie**\
   Vedení organizací kvůli nedostatku financí nemůže dlouhodobě plánovat. A kvůli nedostatku manažerských kompetencí chybí správně nastavené cíle, pracovní postupy a pozice.
-* **Chybí volné prostředky**\
+* **Volné prostředky**\
   Bez nevázaných peněz je velmi obtížné investovat do rozvoje svých lidí a organizace.
-* **Chybí digitálně kompetentní zaměstnanci**\
+* **Digitálně kompetentní zaměstnanci**\
   To spolu s neefektivně nastavenou strategií a manuálním vykonáváním rutinních činností vede k dlouhodobému pracovnímu přetížení a riziku vyhoření.
-* **Chybí čas pro rozvoj**\
+* **Čas pro rozvoj**\
   Organizacím na rozvoj zaměstnanců*zaměstnankyň nechybí jen peníze, ale i čas.
 
 - - -
@@ -71,7 +71,7 @@ Jde o to, aby každá neziskovka na své cestě digitální transformace dostala
 
 # Nechte si na e-mail poslat výzkumnou zprávu o digitalizaci nezisku
 
-Digitalizace českého nezisku je **náročný úkol** – ale my věříme, že efektivněji fungující neziskovky, připravené čelit výzvám budoucnosti, za tu práci stojí.  
+Digitalizace českého nezisku je náročný úkol – ale my věříme, že efektivněji fungující neziskovky, připravené čelit výzvám budoucnosti, za tu práci stojí.  
 
 📩 Pokud nás chcete jen sledovat nebo být přímo součástí této změny, **[přihlaste se k odběru našeho měsíčního newsletteru](https://ceskodigital.ecomailapp.cz/public/form/8-0ff8f206695a872edfb6fade7b6458ba)**. Obratem vám do schránky pošleme nejnovější **Průběžnou výzkumnou zprávu: Digitální transformace českého neziskového sektoru**.  
 
