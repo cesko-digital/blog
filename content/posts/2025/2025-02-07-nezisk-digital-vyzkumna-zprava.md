@@ -18,14 +18,14 @@ lang: cs
 ---
 V tomto článku vám přiblížíme, co dnes neziskovkám nejčastěji komplikuje cestu k vyšší efektivitě a cílům – respektive, co jim brání, aby si mohly lépe budovat vlastní digitální infrastrukturu. Zmapujeme příčiny, problémy a důsledky nejrůznějších systémových překážek a nastíníme naši strategii, jak v tomto směru neziskovkám plánujeme pomoci.
 
-Na konci tohoto textu si pak můžete stáhnout naši průběžnou **výzkumnou zprávu: Digitální transformace českého neziskového sektoru**. Na 27 stránkách se tu o tomto tématu a naší strategii pomoci dozvíte podrobné a průběžně aktualizované informace. 
+Na konci tohoto textu si pak můžete stáhnout naši průběžnou **výzkumnou zprávu: Digitální transformace českého neziskového sektoru**. Na 27 stránkách se tu o tomto tématu a naší strategii pomoci dozvíte podrobné informace. 
 
 # Co brzdí digitální transformaci českého nezisku?
 
 ## Příčiny problémů
 
 * **Financování závislé na grantech a darech**\
-  Většina neziskovek spoléhá na granty a dotace, které jsou nejen těžko předvídatelné, časově či projektově omezené, ale také administrativně náročné. Mnozí donoři navíc nepovažují investice do rozvoje organizace za oprávněné výdaje.
+  Většina neziskovek spoléhá na granty a dotace, které jsou nejen těžko předvídatelné, časově či projektově omezené, ale také administrativně náročné. Mnozí donoři navíc mají pocit, že investice do zázemí a rozvoje organizací nevedou k naplňování jejich poslání.
 * **Neagilní práce na projektech**\
   Většina grantů neumožňuje průběžné úpravy projektů, ani pokud by je to mělo vylepšit. Organizace pak nemohou pracovat agilně či iterativně – např. průběžně upravovat projekty na základě testování či zpětné vazby.
 * **Nízké mzdy**\
@@ -37,7 +37,7 @@ Na konci tohoto textu si pak můžete stáhnout naši průběžnou **výzkumnou 
 
 * **Nedostatek manažerských kompetencí**\
   Nízké mzdy nelákají lidi s manažerskými zkušenostmi. Ti jsou přitom zásadní pro efektivnější fungování organizací.
-* **Neefektivní nakládání se zdroji**\
+* **Vysoký podíl rutinní práce**\
   Lidé v nezisku často tráví velký objem času rutinními a administrativními činnostmi na úkor skutečného smyslu organizace. Velká část z této manuální práce se přitom dá potenciálně zautomatizovat pomocí integrovaných digitálních nástrojů.
 
 ## Důsledky problémů
@@ -51,7 +51,7 @@ Hlavním důsledkem těchto problémů je **méně efektivní fungování**. Nez
 * **Chybí digitálně kompetentní zaměstnanci**\
   To spolu s neefektivně nastavenou strategií a manuálním vykonáváním rutinních činností vede k dlouhodobému pracovnímu přetížení a riziku vyhoření.
 * **Chybí čas pro rozvoj**\
-  Organizacím na rozvoj zaměstnanců nechybí jen peníze, ale i čas.
+  Organizacím na rozvoj zaměstnanců*zaměstnankyň nechybí jen peníze, ale i čas.
 
 - - -
 
@@ -69,10 +69,10 @@ Proto začínáme rozvíjet **„ekosystém digitální transformace nezisku“*
 
 Jde o to, aby každá neziskovka na své cestě digitální transformace dostala takovou podporu, jakou právě potřebuje.
 
-# Odebírejte newsletter
+# Nechte si na e-mail poslat výzkumnou zprávu o digitalizaci nezisku
 
 Digitalizace českého nezisku je **náročný úkol** – ale my věříme, že efektivněji fungující neziskovky, připravené čelit výzvám budoucnosti, za tu práci stojí.  
 
-📩 Pokud nás chcete jen sledovat nebo být přímo součástí této změny,  **[přihlaste se k odběru našeho měsíčního newsletteru](https://ceskodigital.ecomailapp.cz/public/form/8-0ff8f206695a872edfb6fade7b6458ba)**. Obratem vám do schránky pošleme nejnovější **Průběžnou výzkumnou zprávu: Digitální transformace českého neziskového sektoru**.  
+📩 Pokud nás chcete jen sledovat nebo být přímo součástí této změny, **[přihlaste se k odběru našeho měsíčního newsletteru](https://ceskodigital.ecomailapp.cz/public/form/8-0ff8f206695a872edfb6fade7b6458ba)**. Obratem vám do schránky pošleme nejnovější **Průběžnou výzkumnou zprávu: Digitální transformace českého neziskového sektoru**.  
 
-[Zprávu si můžete v pdf formátu stáhnout i zde](https://drive.google.com/file/d/11N0bO-pAT_tEaJ41xoQA5DBNx9VD8RA9/view).
+*Pokud nechcete odebírat newsletter, zprávu si můžete stáhnout [zde](https://drive.google.com/file/d/11N0bO-pAT_tEaJ41xoQA5DBNx9VD8RA9/view).*
