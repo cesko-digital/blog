@@ -59,7 +59,7 @@ Hlavním důsledkem těchto problémů je **méně efektivní fungování**. Nez
 
 ## Test pro neziskovky
 
-*Splňujete 5 klíčových kritérií úspěšné digitalizace vaší neziskovky? **👉** [Podívejte se na to](https://blog.cesko.digital/2025/01/test-pripravenosti-nno-na-digitaliazci).*
+*Splňujete 5 klíčových kritérií úspěšné digitalizace vaší neziskovky? **👉** **[Podívejte se na to](https://blog.cesko.digital/2025/01/test-pripravenosti-nno-na-digitaliazci).***
 
 - - -
 
@@ -75,6 +75,6 @@ Jde o to, aby každá neziskovka na své cestě digitální transformace dostala
 
 Digitalizace českého nezisku je náročný úkol – ale my věříme, že efektivněji fungující neziskovky, připravené čelit výzvám budoucnosti, za tu práci stojí.  
 
-📩 Pokud nás chcete jen sledovat nebo být přímo součástí této změny, **[přihlaste se k odběru našeho měsíčního newsletteru](https://ceskodigital.ecomailapp.cz/public/form/8-0ff8f206695a872edfb6fade7b6458ba)**. Obratem vám do schránky pošleme nejnovější **Průběžnou výzkumnou zprávu: Digitální transformace českého neziskového sektoru**.  
+📩 Pokud nás chcete jen sledovat nebo být přímo součástí této změny, **[přihlaste se k odběru našeho měsíčního newsletteru](https://ceskodigital.ecomailapp.cz/public/form/9-54057be166928eb6fcc57504dc847797)**. Obratem vám do schránky pošleme nejnovější **Průběžnou výzkumnou zprávu: Digitální transformace českého neziskového sektoru**.  
 
 *Pokud nechcete odebírat newsletter, zprávu si můžete stáhnout [zde](https://drive.google.com/file/d/11N0bO-pAT_tEaJ41xoQA5DBNx9VD8RA9/view).*
