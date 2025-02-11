@@ -59,7 +59,7 @@ Hlavním důsledkem těchto problémů je **méně efektivní fungování**. Nez
 
 ## Test pro neziskovky
 
-*Splňujete 5 klíčových kritérií úspěšné digitalizace vaší neziskovky? **👉** [Podívejte se na to](https://blog.cesko.digital/2025/01/test-pripravenosti-nno-na-digitalizaci).*
+*Splňujete 5 klíčových kritérií úspěšné digitalizace vaší neziskovky? **👉** [Podívejte se na to](https://blog.cesko.digital/2025/01/test-pripravenosti-nno-na-digitaliazci).*
 
 - - -
 
