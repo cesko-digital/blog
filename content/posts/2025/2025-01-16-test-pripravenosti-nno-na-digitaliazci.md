@@ -59,13 +59,10 @@ Pokud jste v testu zjistili, že nejste na digitalizaci zatím připraveni, nejs
 
 * **Podfinancování zázemí a rozvoje**\
   Investice do zázemí a rozvoje organizací v Česku nebývají vnímány jako investice do naplňování jejich poslání. Neziskovky pak nemají finance na hardware, software, budování interních dovedností nebo najímání odborníků. Tato situace pramení z dlouhodobého podceňování těchto potřeb i ze strany správních rad organizací, jejich donorů nebo institucí veřejné správy. Naopak, často panuje dlouhodobý tlak na co nejnižší nepřímé náklady, kam tyto potřeby patří.
-
 * **Nevstřícní dodavatelé služeb**\
   Dodavatelé technologií či konzultanti jsou v drtivé většině orientovaní na firemní svět a proto nerozumí potřebám neziskovek. Naopak jejich jazyk je pro neziskové organizace těžko pochopitelný a ty si pak mezi nimi nedokáží vybrat vhodné dodavatele.
-
 * **Chybějící odborníci a nízké mzdy**\
   V nezisku chybí IT pracovníci a vedoucí s manažerskými kompetencemi, protože lidé s těmito dovednostmi dávají přednost lépe placeným pozicím v komerční sféře. Neziskovkám navíc na trhu práce konkuruje i veřejná správa.
-
 * **Změna v myšlení neziskovek**\
   Lidé z nezisku (v porovnání s komerční sférou) mají vyšší tendenci nedůvěřovat nebo se nezajímat o digitální technologie. Častěji nerozumí jejich užitku, jazyku a není jim vlastní myšlení potřebné pro práci s nimi. Kvůli tomu nemají dostatečné digitální dovednosti. Úspěch digitální transformace ale přímo vyžaduje, aby členové organizace cítili vnitřní motivaci ke změnám, získali potřebné dovednosti a měli příležitost je uplatnit.
 
@@ -79,4 +76,4 @@ V roce 2025 vydáme průběžnou výzkumnou zprávu o digitální transformaci �
 
 # Odebírejte nový newsletter
 
-Pokud vás téma digitální transformace nezisku a naše snahy o budování podpůrného ekosystému zajímají, **[přihlaste se k odběru našeho měsíčního newsletteru](https://ceskodigital.ecomailapp.cz/public/form/8-0ff8f206695a872edfb6fade7b6458ba)**. Kromě pravidelného shrnutí našich aktivit v oblasti digitalizace nezisku vám v něm nabídneme také konkrétní příležitosti k vašemu zapojení.
+Pokud vás téma digitální transformace nezisku a naše snahy o budování podpůrného ekosystému zajímají, **[přihlaste se k odběru našeho měsíčního newsletteru](https://ceskodigital.ecomailapp.cz/public/form/9-54057be166928eb6fcc57504dc847797)**. Kromě pravidelného shrnutí našich aktivit v oblasti digitalizace nezisku vám v něm nabídneme také konkrétní příležitosti k vašemu zapojení.
