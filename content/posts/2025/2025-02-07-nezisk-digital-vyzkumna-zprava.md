@@ -53,6 +53,8 @@ Hlavním důsledkem těchto problémů je **méně efektivní fungování**. Nez
 * **Čas pro rozvoj**\
   Organizacím na rozvoj zaměstnanců*zaměstnankyň nechybí jen peníze, ale i čas.
 
+![](zprava-ilustrace.png "„Strom problémů“ – ukázka z výzkumné zprávy.")
+
 - - -
 
 ## Test pro neziskovky
