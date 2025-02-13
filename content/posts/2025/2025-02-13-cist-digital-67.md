@@ -38,11 +38,13 @@ Už vám to můžeme prozradit. Po několikaměsíčním výběrku vítáme na p
 
 Bára povede náš marketing s cílem zviditelnit naše projekty a hodnoty, oslovit ty správné partnery a posílit vnímání Česko.Digital jako tahouna, experta a propojovatele v oblasti digitální transformace nezisku a veřejných služeb. Najít profesionálku jejího kalibru nebylo snadné, ale čekání se vyplatilo – je skvělé, že se k nám Bára připojuje právě teď, kdy je před námi několik velkých a strategických projektů.
 
-## Společně a digitálně: nové Desatero pro digitální stát
+## Digitální jednohubky
+
+### Společně a digitálně: nové Desatero pro digitální stát
 
 Platforma Společně a digitálně, jejíž jsme součástí spolu s dalšími neziskovkami zaměřenými na digitalizaci státu (členy jsou například Hlídač státu, ASWA či Lobbio), právě dokončila aktualizaci svého **[Desatera – 10 klíčových doporučení pro efektivní digitalizaci veřejné správy](https://spolecneadigitalne.cz/)**. Původní Desatero vzniklo v roce 2021 a po třech letech nastal čas reflektovat změny v různých agendách digitalizace. S aktualizovanou verzí chceme v nadcházejících měsících aktivně pracovat ve veřejném prostoru a zapojit se do diskusí o budoucnosti digitálního Česka.
 
-## Nové návody v Pomáháme.Digital
+### Nové návody v Pomáháme.Digital
 
 V naší příručce pro lidi ze sociálních služeb a jejich klienty v lednu přibyly dva nové návody:  
 
@@ -51,7 +53,7 @@ V naší příručce pro lidi ze sociálních služeb a jejich klienty v lednu p
 
 O naší příručce také **[napsal portál Žena-in.cz](https://zena-in.cz/clanek/pomahame-digital-webova-prirucka-ktera-bojuje-proti-digitalni-propasti-v-cesku)**. V únoru určitě nezapomeňte na setkání veškerého dobrovolnictva, které se na projektu Digitální inkluze podílelo (více mezi událostmi níže).
 
-## 50 dalších nápadů pro digitální inkluzi
+### 50 dalších nápadů pro digitální inkluzi
 
 Příručka Pomáháme.Digital je jeden z nápadů, jak pomoci digitálně ohroženým a vyloučeným, ale určitě ne jediný. Ve skutečnosti nás jich napadlo dalších 50, kterým se ale z kapacitních důvodů nemůžeme věnovat. Pokud se také zabýváte pomocí v této oblasti, **[všechny nápady jsou volně dostupné pro vaše využití](https://www.cesko.digital/projekty/digitalni-inkluze/nevyuzita-reseni)**!
 
@@ -100,7 +102,7 @@ na pár hodin i na full time
 
 **\> [Není mi to volné](https://app.cesko.digital/)**
 
-## Děkujeme, že vás baví číst.digital!
+### Děkujeme, že vás baví číst.digital!
 
 Chcete, aby vám náš newsletter chodil přímo do e-mailové schránky? [Přihlaste se k jeho odběru](https://ceskodigital.ecomailapp.cz/public/form/6-3fdfd544852ed7431aa64f3b9481afb9). \
 Že radši posloucháte? Máme i [audioverzi](https://creators.spotify.com/pod/show/poslouchatdigital/).
