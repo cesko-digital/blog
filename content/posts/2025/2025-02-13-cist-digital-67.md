@@ -79,6 +79,8 @@ Na téhle offline akci si ukážeme, jak se nám daří motivovat sociální pra
 
 > **\> [Registruji se](https://airtable.com/appzzeZuZPAlDmgNl/shrYtsvhW56mHt8jt)**
 
+- - -
+
 ## Diskutujme o digitalizaci Česka!
 
 Digitální transformace státu, nástroje, inovace i podpultovky. Pojďte se bavit o všem, co souvisí s digitální současností i budoucností Česka.
@@ -92,16 +94,14 @@ Julie zakládá přehled služeb a sbírá tipy na appky z oblastí trávení vo
 **[X je mrtev, ať žije Bluesky?](https://diskutuj.digital/t/x-je-mrtev-at-zije-bluesky/893)**
 
 Odcházíte z X na alternativy Bluesky nebo Mastodon? Co si o nich myslíte?
-
 - - -
-
 ## Volné pozice v Česko.Digital
 
 Pro dobrovolnice i profíky\
 na pár hodin i na full time
 
 **\> [Není mi to volné](https://app.cesko.digital/)**
-
+- - -
 ### Děkujeme, že vás baví číst.digital!
 
 Chcete, aby vám náš newsletter chodil přímo do e-mailové schránky? [Přihlaste se k jeho odběru](https://ceskodigital.ecomailapp.cz/public/form/6-3fdfd544852ed7431aa64f3b9481afb9). \
