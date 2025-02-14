@@ -1,17 +1,17 @@
 ---
-title: "číst.digital/67: Máme Služby.Digital, novou Head of Marketing i
-  výzkumnou zprávu o digitální transformaci českého nezisku"
+title: "číst.digital/67: Máme novou výzkumnou zprávu o digitální transformaci
+  českého nezisku, novou Head of Marketing i přejmenované Služby.Digital"
 author: jakub.holzer
 tags:
   - newsletter
 cover: https://assets.cesko.digital/7da3a867.png
-date: 2025-02-17-07-00
+date: 2025-02-14-10-09
 slug: cist-digital-67
-description: Leden do Česko.Digital zavál samé změny. Přejmenovali jsme náš
-  stěžejní projekt a po dlouhých výběrových řízeních konečně představujeme první
-  z nových posil našeho nejužšího týmu. V projektu Nezisk.Digital jsme také
-  zveřejnili podrobnou výzkumnou zprávu, která naznačuje, jak chceme usnadnit
-  digitální transformaci českého nezisku. A možná spolu s vámi!
+description: "Leden do Česko.Digital zavál samé novinky a změny. V projektu
+  Nezisk.Digital jsme zveřejnili podrobnou výzkumnou zprávu, která naznačuje,
+  jak chceme usnadnit digitální transformaci českého nezisku. Přejmenovali jsme
+  náš stěžejní projekt a po dlouhých výběrových řízeních konečně představujeme
+  první z nových posil našeho nejužšího týmu. "
 lang: cs
 ---
 ## Máme Služby.Digital
