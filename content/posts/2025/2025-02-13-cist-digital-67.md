@@ -57,6 +57,10 @@ O naší příručce také **[napsal portál Žena-in.cz](https://zena-in.cz/cla
 
 Příručka Pomáháme.Digital je jeden z nápadů, jak pomoci digitálně ohroženým a vyloučeným, ale určitě ne jediný. Ve skutečnosti nás jich napadlo dalších 50, kterým se ale z kapacitních důvodů nemůžeme věnovat. Pokud se také zabýváte pomocí v této oblasti, **[všechny nápady jsou volně dostupné pro vaše využití](https://www.cesko.digital/projekty/digitalni-inkluze/nevyuzita-reseni)**!
 
+### Eva Pavlíková na vlnách ČRo o digitalizaci státu
+
+Říká, že „digitalizace se v Česku dlouho podceňovala, ale současná vláda jí dává prioritu. Přesto chybí systematický postup a prozákaznický přístup (...) Ideální služba je taková, o které vůbec nevím“. Eva Pavlíková, členka správní rady Česko.Digital, se v pořadu Osobnost Plus rozpovídala také o digitálním vyloučení, důvěře Čechů v politiky a instituce nebo Ivanu Bartošovi. **[Pusťte si celý podcast](https://open.spotify.com/episode/2fWl0iCCtPOPPQzpcftoVx?si=62d36c49f409425c)**.
+
 - - -
 
 ## Nejbližší akce
@@ -94,14 +98,18 @@ Julie zakládá přehled služeb a sbírá tipy na appky z oblastí trávení vo
 **[X je mrtev, ať žije Bluesky?](https://diskutuj.digital/t/x-je-mrtev-at-zije-bluesky/893)**
 
 Odcházíte z X na alternativy Bluesky nebo Mastodon? Co si o nich myslíte?
+
 - - -
+
 ## Volné pozice v Česko.Digital
 
 Pro dobrovolnice i profíky\
 na pár hodin i na full time
 
 **\> [Není mi to volné](https://app.cesko.digital/)**
+
 - - -
+
 ### Děkujeme, že vás baví číst.digital!
 
 Chcete, aby vám náš newsletter chodil přímo do e-mailové schránky? [Přihlaste se k jeho odběru](https://ceskodigital.ecomailapp.cz/public/form/6-3fdfd544852ed7431aa64f3b9481afb9). \
