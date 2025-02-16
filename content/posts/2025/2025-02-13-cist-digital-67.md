@@ -59,7 +59,7 @@ Příručka Pomáháme.Digital je jeden z nápadů, jak pomoci digitálně ohro�
 
 ### Eva Pavlíková na vlnách ČRo o digitalizaci státu
 
-Říká, že „digitalizace se v Česku dlouho podceňovala, ale současná vláda jí dává prioritu. Přesto chybí systematický postup a prozákaznický přístup (...) Ideální služba je taková, o které vůbec nevím“. Eva Pavlíková, členka správní rady Česko.Digital, se v pořadu Osobnost Plus rozpovídala také o digitálním vyloučení, důvěře Čechů v politiky a instituce nebo Ivanu Bartošovi. **[Pusťte si celý podcast](https://open.spotify.com/episode/2fWl0iCCtPOPPQzpcftoVx?si=62d36c49f409425c)**.
+Říká, že „digitalizace se v Česku dlouho podceňovala, ale současná vláda jí dává prioritu. Přesto chybí systematický postup a prozákaznický přístup (...) Ideální služba je taková, o které vůbec nevím“. Eva Pavlíková, členka správní rady Česko.Digital, se v pořadu Osobnost Plus rozpovídala také o digitálním vyloučení, důvěře Čechů v politiky a instituce nebo Ivanu Bartošovi. **Pusťte si celý podcast na [ČRo Plus](https://plus.rozhlas.cz/cesko-digitalizuje-ale-kazde-ministerstvo-zvlast-je-potreba-sjednotit-rika-9413246) nebo [Spotify](https://open.spotify.com/episode/2fWl0iCCtPOPPQzpcftoVx?si=62d36c49f409425c).**
 
 - - -
 
