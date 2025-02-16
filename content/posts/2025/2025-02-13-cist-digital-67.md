@@ -14,6 +14,10 @@ description: "Leden do Česko.Digital zavál samé novinky a změny. V projektu
   první z nových posil našeho nejužšího týmu. "
 lang: cs
 ---
+### [audioverze newsletteru → poslouchat.digital](https://open.spotify.com/episode/0lTqAdP6NaqCbeKrec34UN?si=Z0sGAmQKR8qE1M4mn4W78g)
+
+- - -
+
 ## Máme Služby.Digital
 
 Náš projekt Digitální partnerství jsme přejmenovali na **[Služby.Digital](https://sluzby.digital)**. Nový název lépe odpovídá cíli celého projektu – digitálním veřejným službám, které budou uživatelsky přívětivé.
