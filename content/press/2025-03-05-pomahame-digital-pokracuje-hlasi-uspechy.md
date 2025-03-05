@@ -4,7 +4,7 @@ title: Stát digitalizuje, ale až třetina lidí v Česku mu nerozumí. Projekt
 author: jindrich.oukropec
 cover: https://photos.smugmug.com/Meetup-5-digit%C3%A1ln%C3%AD-inkluze/i-JWQh6Wq/0/LsLSXCjrsgKVSZj5p5gbBsqLLwQ4Gv9VnqRMfQRRL/X3/pomahej-digital-074-X3.jpg
 date: 2025-03-05-09-06
-slug: pomahame-digital-pokracuje-hlasi-uspechy
+slug: tz-pomahame-digital-pokracuje-hlasi-uspechy
 description: Stát postupně digitalizuje své služby, až třetina dospělých ale
   není na jejich využívání připravena. Projekt Pomáháme.Digital tuto nerovnost
   řeší skrze digitální vzdělávání v sociálních službách. Školí sociální
