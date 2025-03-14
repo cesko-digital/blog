@@ -72,7 +72,6 @@ Blanka k nám přichází z Oddělení evropské digitální agendy na Úřadu v
 
 ![](https://assets.cesko.digital/dc61efc6.png)
 
-
 ## Otestujte své digitální dovednosti v IT Fitness Test 2025
 
 Za necelý měsíc od spuštění nového ročníku testu už si svou úroveň digitálních dovedností ověřilo 12 085 žáků, studentů, učitelů a dalších zájemců*zájemkyň. Pomozte překonat hranici 30 000 účastníků a zjistěte, jak jste na tom vy sami nebo vaši žáci! Čeká vás 16 otázek z oblastí internetu, bezpečnosti nebo sociálních sítí, 12 pokročilých úloh pro opravdové digi experty, bezplatný certifikát i soutěž o ceny od Alza.cz. Testování končí 30. června. 👉 **[Otestujte své digitální dovednosti](https://itfitness.eu/cs/)**.
@@ -120,9 +119,8 @@ na pár hodin i na full time
 
 ### Děkujeme, že vás baví číst.digital!
 
-Chcete, aby vám náš newsletter chodil přímo do e-mailové schránky? [Přihlaste se k jeho odběru](https://ceskodigital.ecomailapp.cz/public/form/6-3fdfd544852ed7431aa64f3b9481afb9). Že radši posloucháte? Máme i [audioverzi](https://poslouchat.digital/).
+Chcete, aby vám tento newsletter chodil do e-mailové schránky? [Přihlaste se k jeho odběru](https://ceskodigital.ecomailapp.cz/public/form/6-3fdfd544852ed7431aa64f3b9481afb9). Máme i jeho [audioverzi](https://poslouchat.digital/).
 
-Dávají vám naše aktivity smysl? 
-Moc nám pomůžete, když je budete sdílet dál. 
+Dávají vám naše aktivity smysl? Moc nám pomůžete, když je budete sdílet dál. 
 
 Děkujeme a digitálu zdar!
