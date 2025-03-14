@@ -83,15 +83,15 @@ Za necelý měsíc od spuštění nového ročníku testu už si svou úroveň d
 
 ### 📅 Workshop: Digitalizace pro NNO
 
-**3. dubna 2025, 14:00–17:00**\
-**HUB Mladá Boleslav, 2. patro**  
+Kdy: 3. dubna 2025, 14:00–17:00\
+Kde: HUB Mladá Boleslav, 2. patro  
 
 Náš kolega, service designer Matěj Malecha, vás provede tématy digitalizace, strategického plánování a efektivního řízení týmů v neziskových organizacích. Přijďte získat praktické tipy, jak nastavit udržitelnou strategii, zjednodušit procesy a udržet rovnováhu mezi vizí a každodenním řízením. **[Více informací a registrace](https://hubmb.cz/akce/zdrava-organizace-digitalizova/)**.
 
 ### 📅 Otevřené setkání Nezisk.Digital: Procesy a poznatky
 
-**23. dubna 2025, 09:00** a/nebo **25. dubna 2025, 09:00**\
-**Online na Google Meet**  
+Kdy: 23. dubna 2025, 09:00 a/nebo 25. dubna 2025, 09:00\
+Kde: Online na Google Meet
 
 Naučte se, jak pomocí digitálních nástrojů zlepšit efektivitu své organizace. Konkrétní ukázky, tipy a zkušenosti vám nasdílí účastníci našeho kurzu Nezisk.Digital. Inspirujte se jejich cestou!  Více informací a registrace na [1. termín ](https://app.cesko.digital/events/event-nezisk-digital-jaro-23_4) a [2. termín](https://app.cesko.digital/events/event-nezisk-digital-jaro2025_25_4).
 
