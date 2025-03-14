@@ -72,7 +72,6 @@ Blanka k nám přichází z Oddělení evropské digitální agendy na Úřadu v
 
 ![](https://assets.cesko.digital/dc61efc6.png)
 
-
 ## Otestujte své digitální dovednosti v IT Fitness Test 2025
 
 Za necelý měsíc od spuštění nového ročníku testu už si svou úroveň digitálních dovedností ověřilo 12 085 žáků, studentů, učitelů a dalších zájemců*zájemkyň. Pomozte překonat hranici 30 000 účastníků a zjistěte, jak jste na tom vy sami nebo vaši žáci! Čeká vás 16 otázek z oblastí internetu, bezpečnosti nebo sociálních sítí, 12 pokročilých úloh pro opravdové digi experty, bezplatný certifikát i soutěž o ceny od Alza.cz. Testování končí 30. června. 👉 **[Otestujte své digitální dovednosti](https://itfitness.eu/cs/)**.
@@ -83,15 +82,15 @@ Za necelý měsíc od spuštění nového ročníku testu už si svou úroveň d
 
 ### 📅 Workshop: Digitalizace pro NNO
 
-**3. dubna 2025, 14:00–17:00**\
-**HUB Mladá Boleslav, 2. patro**  
+Kdy: 3. dubna 2025, 14:00–17:00\
+Kde: HUB Mladá Boleslav, 2. patro  
 
 Náš kolega, service designer Matěj Malecha, vás provede tématy digitalizace, strategického plánování a efektivního řízení týmů v neziskových organizacích. Přijďte získat praktické tipy, jak nastavit udržitelnou strategii, zjednodušit procesy a udržet rovnováhu mezi vizí a každodenním řízením. **[Více informací a registrace](https://hubmb.cz/akce/zdrava-organizace-digitalizova/)**.
 
 ### 📅 Otevřené setkání Nezisk.Digital: Procesy a poznatky
 
-**23. dubna 2025, 09:00** a/nebo **25. dubna 2025, 09:00**\
-**Online na Google Meet**  
+Kdy: 23. dubna 2025, 09:00 a/nebo 25. dubna 2025, 09:00\
+Kde: Online na Google Meet
 
 Naučte se, jak pomocí digitálních nástrojů zlepšit efektivitu své organizace. Konkrétní ukázky, tipy a zkušenosti vám nasdílí účastníci našeho kurzu Nezisk.Digital. Inspirujte se jejich cestou!  Více informací a registrace na [1. termín ](https://app.cesko.digital/events/event-nezisk-digital-jaro-23_4) a [2. termín](https://app.cesko.digital/events/event-nezisk-digital-jaro2025_25_4).
 
@@ -120,9 +119,8 @@ na pár hodin i na full time
 
 ### Děkujeme, že vás baví číst.digital!
 
-Chcete, aby vám náš newsletter chodil přímo do e-mailové schránky? [Přihlaste se k jeho odběru](https://ceskodigital.ecomailapp.cz/public/form/6-3fdfd544852ed7431aa64f3b9481afb9). Že radši posloucháte? Máme i [audioverzi](https://poslouchat.digital/).
+Chcete, aby vám tento newsletter chodil do e-mailové schránky? [Přihlaste se k jeho odběru](https://ceskodigital.ecomailapp.cz/public/form/6-3fdfd544852ed7431aa64f3b9481afb9). Máme i jeho [audioverzi](https://poslouchat.digital/).
 
-Dávají vám naše aktivity smysl? 
-Moc nám pomůžete, když je budete sdílet dál. 
+Dávají vám naše aktivity smysl? Moc nám pomůžete, když je budete sdílet dál. 
 
 Děkujeme a digitálu zdar!
