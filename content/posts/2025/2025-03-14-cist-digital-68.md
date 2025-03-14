@@ -8,7 +8,7 @@ tags:
 cover: https://assets.cesko.digital/7da3a867.png
 date: 2025-03-17-01-16
 slug: cist-digital-68
-description: "👋 Vítejte u toho nejnovějšího z Česko.Digital!  Kurz
+description: "👋 Vítejte u toho nejnovějšího z Česko.Digital! Kurz
   Nezisk.Digital má nové webovky – zapojíte se do podzimního běhu, ať už jako
   neziskovka, tech-expert nebo průvodkyně? Ohlédneme se za nedávnými eventy
   Digitální transformace nezisku a Meetupem #5, kde se začala psát nová etapa
