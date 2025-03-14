@@ -6,7 +6,7 @@ author: jakub.holzer
 tags:
   - newsletter
 cover: https://assets.cesko.digital/7da3a867.png
-date: 2025-03-14-10-16
+date: 2025-03-17-01-16
 slug: cist-digital-68
 description: "👋 Vítejte u toho nejnovějšího z Česko.Digital!  Kurz
   Nezisk.Digital má nové webovky – zapojíte se do podzimního běhu, ať už jako
@@ -41,14 +41,12 @@ Všechny poznatky, data i dobrou praxi můžete volně využít ve svých aktivi
 
 ## Pracujeme na systémových změnách českého nezisku
 
-Novinky přináší i naše systémová linka projektu Nezisk.Digital. V únoru jsme zorganizovali dva workshopy se zástupci a zástupkyněmi organizací, kteří projevili zájem o spolupráci v rámci ekosystému digitální transformace nezisku. Objevily se tu i dvě konkrétní příležitosti, na kterých začínáme pracovat:\
+Novinky přináší i naše systémová linka projektu Nezisk.Digital. V únoru jsme zorganizovali dva workshopy se zástupci a zástupkyněmi organizací, kteří projevili zájem o spolupráci v rámci ekosystému digitální transformace nezisku. Objevily se tu i dvě konkrétní příležitosti, na kterých začínáme pracovat:
 
 🔹vytvoření **modelu digitální vyspělosti organizace**, který by odpovídal realitě malých a středních neziskovek; \
 🔹**osvětová kampaň cílená na střešní organizace, asociace** a další subjekty, které neziskovky sdružují. 
 
 Pokud byste se o jednom či druhém chtěli dozvědět více a případně se zapojit, pište na [matej.malecha@cesko.digital](mailto:matej.malecha@cesko.digital).
-
- 📢 **Pozvánka:** 3. dubna od 14:30 vás zveme na **[workshop o digitální transformaci neziskovky](https://hubmb.cz/akce/zdrava-organizace-digitalizova/)**, který pořádáme ve spolupráci s HUB Mladá Boleslav.
 
 ## Příručka Pomáháme.Digital se osamostatnila
 
@@ -66,11 +64,14 @@ V projektu [Služby.Digital](https://Sluzby.Digital) (dříve Digitální partne
 
 ## Blanka Šoulavá je nová vedoucí projektu Služby.Digital
 
-A když vás odkazujeme na Blanku, je na místě vám ji blíže představit. Máme velkou radost, že jsme tuto odbornici na veřejnou politiku a digitální agendu mohli přivítat v našem týmu. Blanka je totiž pro Služby.Digital jako stvořená. Vystudovala mezinárodní teritoriální studia na Fakultě sociálních věd Univerzity Karlovy, studovala na SciencesPo v Paříži, ekonomii na University of London a také veřejnou politiku a mezinárodní vztahy na Harvard Kennedy School. Tady mimo jiné spolupracovala s Ash Center for Democratic Governance and Innovation a zaměřovala se na digitalizaci veřejných služeb, regulaci technologií nebo vyjednávání.\
+A když vás odkazujeme na Blanku, je na místě vám ji blíže představit. Máme velkou radost, že jsme tuto odbornici na veřejnou politiku a digitální agendu mohli přivítat v našem týmu. Blanka je totiž pro Služby.Digital jako stvořená. Vystudovala mezinárodní teritoriální studia na Fakultě sociálních věd Univerzity Karlovy, studovala na SciencesPo v Paříži, ekonomii na University of London a také veřejnou politiku a mezinárodní vztahy na Harvard Kennedy School. Tady mimo jiné spolupracovala s Ash Center for Democratic Governance and Innovation a zaměřovala se na digitalizaci veřejných služeb, regulaci technologií nebo vyjednávání.
 
 Přitom všem stihla pracovat, studovat nebo dobrovolničit v Číně, Indii, Jordánsku a Myanmaru. Podílela se na prezidentské kampani Michala Horáčka, pracovala v Evropském parlamentu nebo spolupracovala s Asociací pro mezinárodní otázky.
 
 Blanka k nám přichází z Oddělení evropské digitální agendy na Úřadu vlády ČR, kde se jako vedoucí tohoto týmu věnovala koordinaci pozic ČR v evropské digitální agendě včetně vyjednávání Aktu o umělé inteligenci, odborné podpoře místopředsedy vlády pro digitalizaci nebo projektu Týden pro digitální Česko.
+
+![](https://assets.cesko.digital/dc61efc6.png)
+
 
 ## Otestujte své digitální dovednosti v IT Fitness Test 2025
 
@@ -96,7 +97,7 @@ Naučte se, jak pomocí digitálních nástrojů zlepšit efektivitu své organi
 
 - - -
 
-## Diskutujme o digitalizaci Česka!
+## Diskutujte s námi o digitalizaci Česka!
 
 Digitální transformace státu, nástroje, inovace i podpultovky. Pojďte se bavit o všem, co souvisí s digitální současností i budoucností Česka.
 
