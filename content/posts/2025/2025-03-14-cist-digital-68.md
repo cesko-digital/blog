@@ -5,7 +5,7 @@ title: "číst.digital/68: Hledáme expertní dobrovolnictvo pro podzimní kurz
 author: jakub.holzer
 tags:
   - newsletter
-cover: https://assets.cesko.digital/7da3a867.png
+cover: https://assets.cesko.digital/b51ee99c.jpg
 date: 2025-03-17-01-16
 slug: cist-digital-68
 description: "👋 Vítejte u toho nejnovějšího z Česko.Digital! Kurz
