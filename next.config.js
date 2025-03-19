@@ -1,4 +1,7 @@
 module.exports = {
+  images: {
+    remotePatterns: [{ hostname: "assets.cesko.digital" }],
+  },
   async redirects() {
     return [
       {
