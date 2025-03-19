@@ -7,7 +7,7 @@ import {
   getAllBlogPosts,
   getAllPressReleases,
 } from "shared/site-data";
-import { markdownToHTML } from "shared/utils";
+import { getResizedImageUrl, markdownToHTML } from "shared/utils";
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
 
@@ -113,11 +113,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       title: post.title,
       description: post.description,
-      images: [
-        {
-          url: post.coverImageUrl,
-        },
-      ],
+      images: getResizedImageUrl(post.coverImageUrl, 1920),
     },
   };
 }

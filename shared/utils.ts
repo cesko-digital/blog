@@ -47,3 +47,17 @@ export function notEmpty<T>(value: T | null | undefined): value is T {
   const testDummy: T = value;
   return true;
 }
+
+/**
+ * Return a URL to a resized image
+ *
+ * This is (mis)using the undocumented Next.js image URL scheme,
+ * if Vercel changes something, will this go down in flames?
+ */
+export const getResizedImageUrl = (
+  sourceImageUrl: string,
+  targetWidth: 640 | 1080 | 1920 | 3840
+) =>
+  `/_next/image/?url=${encodeURIComponent(
+    sourceImageUrl
+  )}&w=${targetWidth}&q=75`;
