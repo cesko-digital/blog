@@ -13,8 +13,6 @@ description: "Vítejte u toho nejnovějšího z Česko.Digital! Jarní kurz
   zapojit v různých rolích a pomoci nám měnit Česko k lepšímu! "
 lang: cs
 ---
-
-
 ## Kurz Nezisk.Digital – zamluvte si své místo
 
 **Hledáme expertní dobrovolnictvo i neziskovky**  
@@ -61,7 +59,7 @@ Pokrok a další plány našeho projektu [Služby.Digital](http://https.//sluzby
 2. Následně přijde na řadu kvantitativní výzkum, který nám pomůže identifikovat problémy a navrhnout řešení.
 
 V květnu a červnu nás čekají prezentace na[](https://isss.cz)
-**[ISSS – konferenci o eGovernmentu a digitalizaci ](https://isss.cz/)**a [Festivalu kreativní byrokracie](https://creativebureaucracy.cz).\
+**[ISSS – konferenci o eGovernmentu a digitalizaci ](https://isss.cz/)**a [Festivalu kreativní byrokracie](https://creativebureaucracy.cz).
 
 Uvidíme se tam s vámi? Kolem Služby.Digital se také pomalu rodí komunita sledujících, spolupracovníků či partnerů. Chcete se také přidat? **[Nechte nám na sebe kontakt, ozveme se!](https://airtable.com/app8N3Mk33MCxMuUk/shrztLCZYDebyxSPv)** 
 
@@ -69,31 +67,28 @@ A pokud náhodou **pracujete pro stát na kvalitě digitálních služeb**, př�
 
 ## Festival kreativní byrokracie bude!
 
-Je to potvrzeno: **19. června 2025** se v Kampusu Hybernská proběhne další ročník oblíbené akce všech inovátorů a otevřených hlav, které působí nebo pomáhají ve státní správě i samosprávě. Chcete být u toho? Do prodeje míří lístky, tak běžte pro ně na stránky festivalu!🎟️ Lístky už jsou v prodeji na [stránkách festivalu](https://creativebureaucracy.cz).
+Je to potvrzeno: **19. června 2025** v Kampusu Hybernská proběhne další ročník oblíbené akce všech inovátorů a otevřených hlav, které působí nebo pomáhají ve státní správě i samosprávě. Chcete být u toho? Do prodeje míří lístky, tak běžte pro ně na stránky festivalu!🎟️ Lístky už jsou v prodeji na [stránkách festivalu](https://creativebureaucracy.cz).
 
 ## Nejbližší akce
 
 ### 📅 Otevřené setkání Nezisk.Digital: Procesy a poznatky
 
-23. dubna 2025, 09:00 a/nebo\
-24. dubna 2025, 09:00\
-    📍 online na Google Meet  
+Kdy: 23. dubna 2025, 09:00 a/nebo 25. dubna 2025, 09:00\
+Kde: Online na Google Meet
 
-Naučte se, jak pomocí digitálních nástrojů zlepšit efektivitu své organizace. Konkrétní ukázky, tipy a zkušenosti vám nasdílejí účastníci našeho kurzu Nezisk.Digital. Inspirujte se jejich cestou![ ](https://app.cesko.digital/events/event-nezisk-digital-jaro2025_25_4)Více info [zde](https://app.cesko.digital/events/event-nezisk-digital-jaro-23_4) a [zde](https://app.cesko.digital/events/event-nezisk-digital-jaro2025_25_4).
+Naučte se, jak pomocí digitálních nástrojů zlepšit efektivitu své organizace. Konkrétní ukázky, tipy a zkušenosti vám nasdílí účastníci našeho kurzu Nezisk.Digital. Inspirujte se jejich cestou!  Více informací a registrace na [1. termín ](https://app.cesko.digital/events/event-nezisk-digital-jaro-23_4) a [2. termín](https://app.cesko.digital/events/event-nezisk-digital-jaro2025_25_4).
 
 **[\> Registruji se](https://airtable.com/appBMJcLnBva02IEy/shrQ3U5Ie9gFJPAQB)**
 
-📅 Kurz Nezisk.Digital – Otázky a odpovědi 2
+### 📅 Kurz Nezisk.Digital – Otázky a odpovědi 2
 
-30. dubna 2025, 09:00\
-    📍 online na Google Meet  
+KDY: 30. dubna 2025, 09:00\
+KDE: online na Google Meet  
 
 Vše, co chcete vědět o kurzu Nezisk.Digital a nebojíte se zeptat. 
 [Více info](https://app.cesko.digital/events/nezisk-digital-QA).
 
 [\> Registrace](https://app.cesko.digital/events/nezisk-digital-QA)
-
-[](https://app.cesko.digital/events/nezisk-digital-QA)
 
 ## Diskutujte s námi o digitalizaci Česka!
 
