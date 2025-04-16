@@ -100,3 +100,22 @@ Digitální transformace státu, nástroje, inovace i podpultovky. Pojďte se ba
   Freelo? Basecamp? Kanban board? Google Docs? Co používáte a (ne)doporučujete?
 * [Digitální demokracie – vize eGovernmentu](https://diskutuj.digital/t/digitalni-demokracie-vize-egovernmentu/1253)
   Vzniká nová politická strana Digitální demokracie, jejímž hlavním cílem je digitalizace a zefektivnění veřejné správy. Pod příspěvkem se rozvinula zajímavá diskuze o tomto nelehkém poslání.
+
+- - -
+
+## Volné pozice v Česko.Digital
+
+Pro dobrovolnice i profíky\
+na pár hodin i na full time
+
+**\> [Není mi to volné](https://app.cesko.digital/)**
+
+- - -
+
+### Děkujeme, že vás baví číst.digital!
+
+Chcete, aby vám tento newsletter chodil do e-mailové schránky? [Přihlaste se k jeho odběru](https://ceskodigital.ecomailapp.cz/public/form/6-3fdfd544852ed7431aa64f3b9481afb9). Máme i jeho [audioverzi](https://poslouchat.digital/).
+
+Dávají vám naše aktivity smysl? Moc nám pomůžete, když je budete sdílet dál. 
+
+Děkujeme a digitálu zdar!
