@@ -13,6 +13,10 @@ description: "Vítejte u toho nejnovějšího z Česko.Digital! Jarní kurz
   zapojit v různých rolích a pomoci nám měnit Česko k lepšímu! "
 lang: cs
 ---
+### [audioverze newsletteru → poslouchat.digital](https://poslouchat.digital)
+
+- - -
+
 ## Kurz Nezisk.Digital – zamluvte si své místo
 
 **Hledáme expertní dobrovolnictvo i neziskovky**  
