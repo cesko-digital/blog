@@ -1,9 +1,11 @@
 ---
-title: číst.digital/69
+title: "číst.digital/69: Podzimní kurz Nezisk.Digital hledá expertní
+  dobrovolnictvo i neziskovky | Vytváříme model digitální vyspělosti neziskovky
+  | Služby.Digital míří ke spolupráci se státem"
 author: jakub.holzer
 tags:
   - newsletter
-cover: https://assets.cesko.digital/ea884b04.jfif
+cover: https://assets.cesko.digital/aec40272.png
 date: 2025-04-16-03-25
 slug: cist-digital-69
 description: "Vítejte u toho nejnovějšího z Česko.Digital! Jarní kurz
@@ -28,14 +30,14 @@ lang: cs
 **Chcete prvně nahlédnout přímo do kurzu?** Pak se připojte na online setkání, kde vám 20 organizací nasdílí své zkušenosti, tipy i „aha momenty“ z kurzu, kterým právě prochází. Jejich know-how můžete využít ve svých organizacích nebo projektech. 
 Připojte se na: 
 
-💻 **Otevřené setkání Nezisk.Digital: Procesy a poznatky** (23. 4. a/nebo 25. 4. [Více info a registrace.](http://app.cesko.digital/events)
+💻 **Otevřené setkání Nezisk.Digital: Procesy a poznatky** (23. 4. a/nebo 25. 4.) [Více info a registrace.](http://app.cesko.digital/events)
 
 ## Znáte neziskovku, které by náš kurz mohl pomoci?
 
 Budeme rádi, když jí přepošlete náš připravený e-mail s veškerými informacemi, nasdílíte pozvánku na sociální sítě nebo ji vložíte do svého newsletteru.\
 📎 [Složka s propagačními materiály](https://drive.google.com/drive/folders/1uszIK2WI1gbA7sIoEreue_2qctDUDuGo)
 
-> Jenom podotýkáme, že podzimní kurz je určen výhradně sociálně zaměřeným organizacím.
+> Pro jistotu podotýkáme, že podzimní kurz je určen výhradně sociálně zaměřeným organizacím.
 
 ## Hledáme tech-expertky i průvodce pro podzimní kurz
 
@@ -63,9 +65,9 @@ Pokrok a další plány našeho projektu [Služby.Digital](http://https.//sluzby
 2. Následně přijde na řadu kvantitativní výzkum, který nám pomůže identifikovat problémy a navrhnout řešení.
 
 V květnu a červnu nás čekají prezentace na[](https://isss.cz)
-**[ISSS – konferenci o eGovernmentu a digitalizaci ](https://isss.cz/)**a [Festivalu kreativní byrokracie](https://creativebureaucracy.cz).
+**[ISSS – konferenci o eGovernmentu a digitalizaci ](https://isss.cz/)**a **[Festivalu kreativní byrokracie](https://creativebureaucracy.cz)**. Uvidíme se tam s vámi? 
 
-Uvidíme se tam s vámi? Kolem Služby.Digital se také pomalu rodí komunita sledujících, spolupracovníků či partnerů. Chcete se také přidat? **[Nechte nám na sebe kontakt, ozveme se!](https://airtable.com/app8N3Mk33MCxMuUk/shrztLCZYDebyxSPv)** 
+Kolem Služby.Digital se také pomalu rodí komunita sledujících, spolupracovníků či partnerů. Chcete se také přidat? **[Nechte nám na sebe kontakt, ozveme se!](https://airtable.com/app8N3Mk33MCxMuUk/shrztLCZYDebyxSPv)** 
 
 A pokud náhodou **pracujete pro stát na kvalitě digitálních služeb**, příp. tématech souvisejících s měřením uživatelské přívětivosti, ozvěte se prosím přímo Blance na [blanka.soulava@cesko.digital](mailto:blanka.soulava@cesko.digital)
 
