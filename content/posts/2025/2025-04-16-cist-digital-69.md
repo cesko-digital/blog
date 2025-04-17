@@ -65,7 +65,7 @@ Pokrok a další plány našeho projektu [Služby.Digital](http://https.//sluzby
 2. Následně přijde na řadu kvantitativní výzkum, který nám pomůže identifikovat problémy a navrhnout řešení.
 
 V květnu a červnu nás čekají prezentace na[](https://isss.cz)
-**[ISSS – konferenci o eGovernmentu a digitalizaci ](https://isss.cz/)**a **[Festivalu kreativní byrokracie](https://creativebureaucracy.cz)**. Uvidíme se tam s vámi? 
+**[ISSS – konferenci o eGovernmentu a digitalizaci](https://isss.cz/)** a **[Festivalu kreativní byrokracie](https://creativebureaucracy.cz)**. Uvidíme se tam s vámi? 
 
 Kolem Služby.Digital se také pomalu rodí komunita sledujících, spolupracovníků či partnerů. Chcete se také přidat? **[Nechte nám na sebe kontakt, ozveme se!](https://airtable.com/app8N3Mk33MCxMuUk/shrztLCZYDebyxSPv)** 
 
