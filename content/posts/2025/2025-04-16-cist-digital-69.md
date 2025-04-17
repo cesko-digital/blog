@@ -13,7 +13,7 @@ description: "Vítejte u toho nejnovějšího z Česko.Digital! Jarní kurz
   zapojit v různých rolích a pomoci nám měnit Česko k lepšímu! "
 lang: cs
 ---
-### [audioverze newsletteru → poslouchat.digital](https://poslouchat.digital)
+### audioverze tohoto newsletteru vyjde výjimečně po Velikonocích na [poslouchat.digital](https://poslouchat.digital)
 
 - - -
 
@@ -28,7 +28,7 @@ lang: cs
 **Chcete prvně nahlédnout přímo do kurzu?** Pak se připojte na online setkání, kde vám 20 organizací nasdílí své zkušenosti, tipy i „aha momenty“ z kurzu, kterým právě prochází. Jejich know-how můžete využít ve svých organizacích nebo projektech. 
 Připojte se na: 
 
-💻 **Otevřené setkání Nezisk.Digital: Procesy a poznatky**, které proběhne 23. 4. a také 25. 4. [Více info a registrace.](http://app.cesko.digital/events)
+💻 **Otevřené setkání Nezisk.Digital: Procesy a poznatky** (23. 4. a/nebo 25. 4. [Více info a registrace.](http://app.cesko.digital/events)
 
 ## Znáte neziskovku, které by náš kurz mohl pomoci?
 
