@@ -22,14 +22,14 @@ lang: cs
 
 ## Propagujeme Služby.Digital
 
-V pondělí 12. 5. jsme představili Služby.Digital na ISSS – konferenci o eGovernmentu a digitalizaci. Mluvili jsme o našich cílech, našem výzkumu se STEM mezi firmami, ale i politiky, samosprávami či dodavateli služeb o jejich představě o digitálním státě. Zmínili jsme naši analýzu podceněného managementu kvality digitálních služeb státu i chystaná doporučení pro vládu. Naše 13min vystoupení si můžete přehrát jako [audio](https://poslouchat.digital) nebo pročíst ve formě [prezentace](https://www.sluzby.digital/#media).
+V pondělí 12. 5. jsme představili [Služby.Digital](http://https.//sluzby.digital) na [ISSS – konferenci o eGovernmentu a digitalizaci](https://isss.cz/). Mluvili jsme o našich cílech, našem výzkumu se STEM mezi firmami, ale i politiky, samosprávami či dodavateli služeb o jejich představě o digitálním státě. Zmínili jsme naši analýzu podceněného managementu kvality digitálních služeb státu i chystaná doporučení pro vládu. Naše 13min vystoupení si můžete přehrát jako [audio](https://archiv.isss.cz/archiv/2025/download/audio/po_ms_blok0830-1000_1-kotara-taborsky.mp3) nebo pročíst ve formě [prezentace](https://archiv.isss.cz/archiv/2025/download/prezentace/cesko-digital_soulava.pdf).
 
-Příští měsíc nás potkáte na [Innovations United](https://innovationsunited.cz) (3.–4. 6.) a [Festivalu kreativní byrokracie](https://creativebureaucracy.cz) (19. 6.), který spolupořádáme.
+Příští měsíc nás potkáte na [Innovations United](https://startupdisrupt.com/main-event/innovations-united-2025-prague-castle/) (3.–4. 6.) a [Festivalu kreativní byrokracie](https://creativebureaucracy.cz) (19. 6.), který spolupořádáme.
 
 👉 Máte zkušenost se sběrem zpětné vazby uživatelů v oblasti digitalizace veřejných služeb?\
 📬 Ozvěte se Blance na [blanka.soulava@cesko.digital](mailto:blanka.soulava@cesko.digital)
 
-Kolem Služby.Digital se také rodí komunita sledujících, spolupracovníků či partnerů. Chcete se také přidat? [Nechte nám na sebe kontakt, ozveme se!](https://airtable.com/app8N3Mk33MCxMuUk/shrztLCZYDebyxSPv)
+Kolem Služby.Digital se také rodí komunita sledujících, spolupracovníků či partnerů. Chcete se také přidat? Nechte nám na sebe kontakt, ozveme se!
 
 - - -
 
