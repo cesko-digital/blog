@@ -54,8 +54,10 @@ S následující ostrou verzí nás už brzy čeká slušná výzva: chceme, aby
 👉 Chcete pomocí modelu zjistit, jak na tom vaše organizace je? Beta verzi modelu jsme přetavili do online dotazníku, který si už teď můžete vyplnit.\
 👉 Znáte kohokoli, kdo by dotazník mohl dostat k jakýmkoli neziskovkám?\
 \
-📬 Pište prosím Matějovi na [matej.malecha@cesko.digital](mailto:matej.malecha@cesko.digital)\
-[Více o průzkumu digitální vyspělosti nezisku 2025](https://www.cesko.digital/projekty/nezisk-digital)
+📬 Pište prosím Matějovi na [matej.malecha@cesko.digital](mailto:matej.malecha@cesko.digital)
+
+[](mailto:matej.malecha@cesko.digital)\
+[Více o průzkumu digitální vyspělosti nezisku 2025](https://docs.google.com/document/d/10zfOP-sj8JL9pJuvIi_O2228F8_vk8aLTfHN48TycFQ/edit?tab=t.0#heading=h.u5c7sgoj2uz8)
 
 - - -
 
@@ -67,7 +69,7 @@ Jak to zařídit, abyste ve vaší neziskovce nepálili čas a energii na zbyte�
 [4. 6. (první skupina)](https://app.cesko.digital/events/event-nezisk-digital-jaro2025-4_6) \
 a/nebo [6. 6. (druhá skupina)](https://app.cesko.digital/events/event-nezisk-digital-jaro25_6_6)\
 📍 online na Google Meet\
-👉 [Registrujte se na setkání](https://app.cesko.digital/events)
+👉 [Registrujte se na setkání](https://airtable.com/appBMJcLnBva02IEy/shrDf7dO040rmvbAm)
 
 Tentokrát vás zástupci*zástupkyně neziskovek seznámí s digitálními nástroji, kterými se rozhodli své potíže řešit. Poví, jak si je s pomocí vlastních průvodců*průvodkyň a tech-konzultantů*konzultantek vybrali a nastavili a případně, jak se jim daří začlenit je do svého každodenního fungování.
 
@@ -121,7 +123,7 @@ Neziskovka Spolu dětempodporující děti v dětských domovech by uvítala va�
 
 ## Volné pozice v Česko.Digital
 
-Pro dobrovolnice i profíky\
+dobrovolné i profi\
 na pár hodin i na full time
 
 **\> [Není mi to volné](https://app.cesko.digital/)**
