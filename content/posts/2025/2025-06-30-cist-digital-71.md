@@ -5,7 +5,7 @@ title: "číst.digital/71: Vyzkoušejte Sken digitální vyspělosti neziskovky 
 author: jakub.holzer
 tags:
   - newsletter
-cover: https://assets.cesko.digital/c1dcb357.png
+cover: https://assets.cesko.digital/9a7d0a65.png
 date: 2025-06-30-07-17
 slug: cist-digital-71
 description: Vítejte u novinek z Česko.Digital! V minulém měsíci se toho událo
