@@ -89,6 +89,8 @@ Z programu musíme vypíchnout i **panelovku**, kterou moderovala naše Blanka �
 
 Atmosféra byla úžasná: chuť poznávat nové věci, sdílet zkušenosti a otevřeně debatovat, jak zlepšit stát jste tu mohli cítit na každém kroku. Díky všem, kdo jste dorazili a ukázali, že pracovat pro stát je jedinečná mise. Kde jinde totiž najdete organizaci s 10,5 miliony zákazníků, že?
 
+- - -
+
 ## Diskutujte s námi o digitalizaci Česka!
 
 Digitální transformace státu, nástroje, inovace i podpultovky. Pojďte se bavit o všem, co souvisí s digitální současností i budoucností Česka.
