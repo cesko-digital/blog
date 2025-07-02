@@ -1,21 +1,19 @@
 ---
-title: "číst.digital/71: Vyzkoušejte Sken digitální vyspělosti neziskovky |
-  Zapojte se do Hybatelů digitálního Česka | Kurz Nezisk.Digital úspěšně
-  zakončen"
+title: "číst.digital/71: Zapojte se do Hybatelů digitálního Česka | Kurz
+  Nezisk.Digital úspěšně zakončen | Staň se tech-expertem*expertkou pro
+  neziskovky!"
 author: jakub.holzer
 tags:
   - newsletter
 cover: https://assets.cesko.digital/9a7d0a65.png
 date: 2025-06-30-07-17
 slug: cist-digital-71
-description: Vítejte u novinek z Česko.Digital! V minulém měsíci se toho událo
+description: "Vítejte u novinek z Česko.Digital! V minulém měsíci se toho událo
   tolik, že i tento newsletter značně nabobtnal. Příště se to nebude opakovat!
   😄   Kurz Nezisk.Digital zakončil jarní běh s výbornými statistikami a ohlasy
   – přidejte se do podzimního běhu jako experti a expertky na MS365 nebo Google
-  Workspace! Zjistěte, jak digitálně vyspělá je vaše organizace díky našemu
-  online Skenu, který vám doporučí i tipy, co dál. Festival kreativní byrokracie
-  přivítal přes 450 nadšenců a na jedno místo jsme sezvali významné Hybatele
-  digitálního Česka.
+  Workspace! Festival kreativní byrokracie přivítal přes 450 nadšenců a na jedno
+  místo jsme sezvali významné Hybatele digitálního Česka. "
 lang: cs
 ---
 ### audioverze newsletterů na [poslouchat.digital](https://poslouchat.digital)
