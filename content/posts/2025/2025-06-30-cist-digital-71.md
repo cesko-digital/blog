@@ -22,15 +22,24 @@ lang: cs
 
 - - -
 
-## Jak digitálně vyspělá je vaše organizace? Oskenujte se!
+## Uspořádali jsme setkání Hybatelů digitálního Česka
 
-V Česko.Digital jsme spustili [Sken digitální vyspělosti organizace](https://sken.cesko.digital), bezplatnou online službu, která neziskovkám pomáhá odhalit, jak na tom jsou s digitalizací. Dozvíte se **skóre své digitální vyspělosti**, získáte **praktická doporučení na míru** a přehledné grafy hodnotící vaši komunikaci, spolupráci, procesy i bezpečnost.
+Se [Služby.Digital](https://sluzby.digital) usilujeme o uživatelsky přívětivé a kvalitní digitální služby státu. A proto kromě jiného budujeme otevřený okruh hybatelů a hybatelek ze státu, byznysu a nezisku – lidí, kteří nám s touto misí pomůžou.
 
-Výsledky můžete snadno sdílet s kolegy, partnery nebo donátory. Navíc nám tím pomůžete zmapovat reálné potřeby českých neziskovek a zajistit jim lepší podporu do budoucna.
+Prvním z těchto aktérů jsme **18. 6. v pražském Hrzánském paláci** ukázali předběžné výsledky **největšího výzkumu digitální transformace Česka** ([více viz prezentace z této akce](https://cesko.digital)). Náš výzkum, který je prvním krokem k potřebným systémovým změnám, například ukázal, že:
 
-👉 Sken funguje zatím v pilotním režimu jen **do konce června 2025**, proto neváhejte a vyplňte ho co nejdříve. A pokud vám dává smysl, sdílejte ho dál – pomůžete tím celému neziskovému sektoru. 💙  
+* **9 z 10 občanů** považuje za své právo vyřídit úřední záležitosti online, ale pouze **4 z 10** jsou spokojeni se současným stavem digitalizace.  
+* **Významná část** jinak digitálně zdatných občanů má potíže s využíváním digitálních služeb státu.  
+* **Třetina firem** kvůli chybě ve službách státu přišla o množství času, peněz nebo obchodních příležitostí.  
+* Státní správa neumí používat data pro řízení sama sebe.
 
-> [Vyplnit Sken](https://sken.cesko.digital)
+Hlavním bodem večera byla diskuse mezi **Michalem Strculou (CEO Air Bank)** a **Martinem Mesršmídem (ředitel Digitální a informační agentury)**. Mimo jiné debatovali, jak navrhovat digitální služby státu s ohledem na občany nebo jak proměnit jejich uživatelskou přívětivost v prioritu.
+
+Setkání také svými zkušenostmi ozdobil **Richard Pope**, spolutvůrce britského portálu *GOV.UK*. Nasdílel světové trendy v digitalizaci veřejných služeb. Upozornil, že de facto všechny veřejné služby jsou do určité míry digitální nebo že vidí rostoucí trend, kdy digitalizace ve stále více zemích získává **politickou prioritu i větší lidské a finanční zdroje**. Richard se během této akce potkal s českými digitálními zmocněnci a zástupci DIA a hned následující den zahájil Festival kreativní byrokracie.
+
+👉 **Staňte se také členem*členkou Hybatelů digitálního Česka!** Mimo jiné získáte informace z první ruky, pozvánky na další akce a hlavně šanci měnit Česko k lepšímu!  
+
+> **[Stát se Hybatelem](https://cesko.digital)**
 
 - - -
 
@@ -60,26 +69,6 @@ Stačí, když se orientuješ v digitálních technologiích, umíš srozumiteln
 
 - - -
 
-## Uspořádali jsme setkání Hybatelů digitálního Česka
-
-Se [Služby.Digital](https://sluzby.digital) usilujeme o uživatelsky přívětivé a kvalitní digitální služby státu. A proto kromě jiného budujeme otevřený okruh hybatelů a hybatelek ze státu, byznysu a nezisku – lidí, kteří nám s touto misí pomůžou.
-
-Prvním z těchto aktérů jsme **18. 6. v pražském Hrzánském paláci** ukázali předběžné výsledky **největšího výzkumu digitální transformace Česka** ([více viz prezentace z této akce](https://cesko.digital)). Náš výzkum, který je prvním krokem k potřebným systémovým změnám, například ukázal, že:
-
-* **9 z 10 občanů** považuje za své právo vyřídit úřední záležitosti online, ale pouze **4 z 10** jsou spokojeni se současným stavem digitalizace.  
-* **Významná část** jinak digitálně zdatných občanů má potíže s využíváním digitálních služeb státu.  
-* **Třetina firem** kvůli chybě ve službách státu přišla o množství času, peněz nebo obchodních příležitostí.  
-* Státní správa neumí používat data pro řízení sama sebe.
-
-Hlavním bodem večera byla diskuse mezi **Michalem Strculou (CEO Air Bank)** a **Martinem Mesršmídem (ředitel Digitální a informační agentury)**. Mimo jiné debatovali, jak navrhovat digitální služby státu s ohledem na občany nebo jak proměnit jejich uživatelskou přívětivost v prioritu.
-
-Setkání také svými zkušenostmi ozdobil **Richard Pope**, spolutvůrce britského portálu *GOV.UK*. Nasdílel světové trendy v digitalizaci veřejných služeb. Upozornil, že de facto všechny veřejné služby jsou do určité míry digitální nebo že vidí rostoucí trend, kdy digitalizace ve stále více zemích získává **politickou prioritu i větší lidské a finanční zdroje**. Richard se během této akce potkal s českými digitálními zmocněnci a zástupci DIA a hned následující den zahájil Festival kreativní byrokracie.
-
-👉 **Staňte se také členem*členkou Hybatelů digitálního Česka!** Mimo jiné získáte informace z první ruky, pozvánky na další akce a hlavně šanci měnit Česko k lepšímu!  
-
-> **[Stát se Hybatelem](https://cesko.digital)**
-
-- - -
 
 ## Festival kreativní byrokracie 2025 je za námi
 
@@ -91,9 +80,17 @@ Atmosféra byla úžasná: chuť poznávat nové věci, sdílet zkušenosti a ot
 
 - - -
 
+## Sken digitální vyspělosti vaší organizace? Zase na podzim
+
+Nestihli jste vyplnit náš Sken digitální vyspělosti organizace, který neziskovkám pomáhá zjistit, jak jsou na tom s úrovní digitalizace? Nevadí! Na podzim chystáme jeho vylepšenou verzi. Přihlaste se na čekací listinu a buďte mezi prvními, kdo se k němu dostanou: sken.nezisk.digital (formulář zde zveřejníme v následujících dnech).
+
+- - -
+
 ## Diskutujte s námi o digitalizaci Česka!
 
 Digitální transformace státu, nástroje, inovace i podpultovky. Pojďte se bavit o všem, co souvisí s digitální současností i budoucností Česka.
+
+- - -
 
 **Aktuální témata na Diskutuj.Digital:**
 
