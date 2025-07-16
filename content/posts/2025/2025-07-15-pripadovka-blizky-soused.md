@@ -3,7 +3,7 @@ title: "Případová studie: Blízký soused – Digitalizace jako cesta ke klie
 author: jakub.holzer
 tags:
   - nezisk-digital
-cover: https://assets.cesko.digital/149a8ad2.jpg
+cover: https://assets.cesko.digital/72aa4d44.png
 date: 2025-07-15-01-04
 slug: pripadovka-blizky-soused
 description: uvodní text...
@@ -11,25 +11,30 @@ lang: cs
 ---
 ## **Blízký soused: Digitalizace jako cesta ke klientovi**
 
-### **Medailonek organizace**  
+Čtyři úspěšné běhy [kurzu **Nezisk.Digital**](https://nezisk.digital) jsou za námi. Výsledky nám dělají radost: desítky neziskových organizací, které díky kurzu dokázaly výrazně zefektivnit svou práci. Každá z nich je jiná. Každá hledala řešení na své specifické potřeby s podporou expertů, kteří se jí věnovali individuálně a na míru. Na každé této cestě digitální transformace jsme ale objevili něco inspirativního, o co stojí za to podělit se dál.
+
+Představujeme vám několik příběhů organizací, kterým digitalizace otevřela úplně nové možnosti – nejen online, ale především v reálném světě. 
+
+První z mimořádně inspirativních příkladů je organizace **Blízký soused**. Díky promyšlené digitalizaci se jejich pozitivní dopad na životy klientů změnil velmi hmatatelně. Poprvé mají ve svém týmu kolegyni, která nepůsobí v Plzni ani v jejím okolí, ale až v dalekém Děčíně. Digitalizace jim umožnila rozšířit své působení tam, kam by se jinak nikdy nedostali.
+
+Podívejte se s námi na jejich případovku.
+
+### **Medailonek organizace**
+
 Jsme nezisková organizace, která se věnuje volnočasovým výchovně-vzdělávacím aktivitám pro děti ze sociálně znevýhodněných rodin, zejména z romské komunity. Naším mottem je: „Pomáháme dětem být dětmi, aby z nich vyrostli lepší dospělí.“ V Plzni a okolí provozujeme klubové centrum, kde se pravidelně setkáváme s dětmi v rámci doučování i volnočasových aktivit. Služby poskytujeme bezplatně a vycházíme z principů svobodného, rovného a individuálního přístupu, důvěry a aktivizace klienta.
 
 Tým tvoří zhruba 15 zaměstnanců – směs majority i romské komunity, VŠ absolventi různých oborů (pedagogika, sociální práce, ekonomie...) i pouze zaměstnanci se základním vzděláním, všichni převážně využívající částečné úvazky. Pracujeme jak v klubovnách, tak v terénu – díky růstu týmu dokážeme pokrývat víc lokalit v Plzni i menších městech.
 
 ### **Digitalizace jako organizační proměna**
 
-Digitalizační změna v Blízkém sousedovi nezačala jako technologický projekt, ale jako potřeba reagovat na rostoucí tým, zvýšit přehlednost a umožnit každému pracovníkovi samostatně fungovat. Díky účasti v [kurzu Nezisk.Digital](https://www.cesko.digital/projekty/nezisk-digital/kurz) se rozběhl transformační proces, který vedl ke konkrétním technickým změnám, ale i k hlubším změnám v chodu organizace.
+Digitalizační změna v Blízkém sousedovi nezačala jako technologický projekt, ale jako **potřeba reagovat na rostoucí tým, zvýšit přehlednost a umožnit každému pracovníkovi samostatně fungovat**. Díky účasti v [kurzu Nezisk.Digital](https://www.cesko.digital/projekty/nezisk-digital/kurz) se rozběhl transformační proces, který vedl ke konkrétním technickým změnám, ale i k hlubším změnám v chodu organizace.
 
 Zavedení nástrojů jako Microsoft Teams, OneDrive, sdílený kalendář nebo jednotné digitální docházky přineslo:
 
 * přehlednost v plánování aktivit a přístupnosti informací,
-
 * výrazné zjednodušení organizace schůzek, výjezdů i dokumentace,
-
 * možnost rozšíření aktivit do více lokalit,
-
 * větší samostatnost pracovníků a menší závislost na vedoucí,
-
 * plynulejší pracovní komunikaci oddělenou od osobní (např. skrze plánované odesílání zpráv v Teams).
 
 ### **Klíčová role vedení a ambasadorů změny**
@@ -49,13 +54,9 @@ Ambasadoři změny tedy nevznikli formálním rozhodnutím, ale přirozeně – 
 Z pohledu klienta se proměna projevila několika konkrétními způsoby:
 
 * **Spolehlivější služby** – lepší plánování a přehlednost vedly ke snížení zmatků a rušení akcí
-
 * **Více dostupnosti v terénu** – efektivní logistika umožňuje častější výjezdy do okolních obcí
-
 * **Lepší informovanost** – pracovníci lépe evidují a sdílejí výstupy z aktivit, např. fotky
-
 * **Větší klid pracovníků** – méně chaosu, více soustředění na děti a přímou práci
-
 * **Profesionalita** – většina pracovníků působí jistěji, přehledněji, s větší důvěryhodností
 
 Navíc díky digitalizaci může organizace plánovat interní porady a školení efektivněji – běžné provozní věci řeší online a osobní setkání tak mohou být zaměřená na odborný rozvoj (např. základy krizové intervence, marketing, kyberbezpečnost).
@@ -72,15 +73,14 @@ Organizace nyní plánuje navázat mimo jiné tím, že komunitní pracovníci a
 
 ### **Shrnutí dopadů**
 
-| Oblast | Změna |
-| ----- | ----- |
-| **Znalosti a dovednosti** | Práce s nástroji Microsoft 365, plánování, dokumentace, práce s úložištěm |
-| **Postoje** | Přijetí digitalizace jako nástroje usnadnění práce, zvýšení pocitu kompetence |
-| **Chování** | Větší samostatnost pracovníků, pravidelná online komunikace a sdílení |
-| **Strategie** | Rozvoj vnitřních kapacit, posilování leadershipu, definice pozic a rolí v týmu |
-| **Dopad na klienty** | Kvalitnější služby, více pozornosti klientům, dostupnost i v odlehlejších lokalitách |
-| **Role vedení** | Aktivní podpora digitalizace, promyšlené řízení změny, silní interní ambasadoři |
-| **Udržitelnost** | Zapojení nových zaměstnanců do změn, plány na posílení vybavení a školení |
+| Oblast                    | Změna                                                                                |
+| ------------------------- | ------------------------------------------------------------------------------------ |
+| **Znalosti a dovednosti** | Práce s nástroji Microsoft 365, plánování, dokumentace, práce s úložištěm            |
+| **Postoje**               | Přijetí digitalizace jako nástroje usnadnění práce, zvýšení pocitu kompetence        |
+| **Chování**               | Větší samostatnost pracovníků, pravidelná online komunikace a sdílení                |
+| **Strategie**             | Rozvoj vnitřních kapacit, posilování leadershipu, definice pozic a rolí v týmu       |
+| **Dopad na klienty**      | Kvalitnější služby, více pozornosti klientům, dostupnost i v odlehlejších lokalitách |
+| **Role vedení**           | Aktivní podpora digitalizace, promyšlené řízení změny, silní interní ambasadoři      |
+| **Udržitelnost**          | Zapojení nových zaměstnanců do změn, plány na posílení vybavení a školení            |
 
 Zde je k dispozici pro doplnění i videomedailonek [Blízký soused](https://www.youtube.com/watch?v=dG8hJJ-gF1I&list=PLOX5xelTsEv_Dvcal3LVLvf3P82wKIE7k&index=8).
-
