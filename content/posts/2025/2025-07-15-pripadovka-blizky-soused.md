@@ -11,13 +11,13 @@ lang: cs
 ---
 ## **Blízký soused: Digitalizace jako cesta ke klientovi**
 
-Čtyři úspěšné běhy [kurzu **Nezisk.Digital**](https://nezisk.digital) jsou za námi. Výsledky nám dělají radost: desítky neziskových organizací, které díky kurzu dokázaly výrazně zefektivnit svou práci. Každá z nich je jiná. Každá hledala řešení na své specifické potřeby s podporou expertů, kteří se jí věnovali individuálně a na míru. Na každé této cestě digitální transformace jsme ale objevili něco inspirativního, o co stojí za to podělit se dál.
+Čtyři úspěšné běhy [kurzu **Nezisk.Digital**](https://nezisk.digital) jsou za námi a výsledky nám opravdu dělají radost: desítky neziskových organizací dokázaly výrazně zefektivnit svou práci. Každá z nich je přitom jiná. Každá hledala řešení na své specifické potřeby s podporou expertů, kteří se jí věnovali individuálně a na míru. A na většině těchto cest digitálních transformací jsme objevili něco inspirativního, o co stojí za to podělit se dál.
 
-Představujeme vám několik příběhů organizací, kterým digitalizace otevřela úplně nové možnosti – nejen online, ale především v reálném světě. 
+Představujeme vám proto několik příběhů neziskovek, kterým digitalizace otevřela úplně nové možnosti – nejen online, ale především v reálném světě.
 
-První z mimořádně inspirativních příkladů je organizace **Blízký soused**. Díky promyšlené digitalizaci se jejich pozitivní dopad na životy klientů změnil velmi hmatatelně. Poprvé mají ve svém týmu kolegyni, která nepůsobí v Plzni ani v jejím okolí, ale až v dalekém Děčíně. Digitalizace jim umožnila rozšířit své působení tam, kam by se jinak nikdy nedostali.
+První z inspirativních příkladů je organizace **Blízký soused**. Díky promyšlené digitalizaci se jejich pozitivní dopad na životy klientů změnil velmi hmatatelně. Poprvé mají ve svém týmu kolegyni, která nepůsobí v Plzni ani v jejím okolí, ale až v dalekém Děčíně. Digitalizace jim umožnila rozšířit své působení tam, kam by se jinak nikdy nedostali.
 
-Podívejte se s námi na jejich případovku.
+Podívejte se s námi na jejich „případovku“.
 
 ### **Medailonek organizace**
 
