@@ -4,9 +4,9 @@ author: jakub.holzer
 tags:
   - nezisk-digital
 cover: https://assets.cesko.digital/72aa4d44.png
-date: 2025-07-15-01-04
+date: 2025-07-16-12-32
 slug: pripadovka-blizky-soused
-description: uvodní text...
+description: Jak kurz Nezisk.Digital pomohl organizaci Blízký soused? (případová studie)
 lang: cs
 ---
 ## **Blízký soused: Digitalizace jako cesta ke klientovi**
