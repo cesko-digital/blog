@@ -25,6 +25,8 @@ Jsme nezisková organizace, která se věnuje volnočasovým výchovně-vzdělá
 
 Tým tvoří zhruba 15 zaměstnanců – směs majority i romské komunity, VŠ absolventi různých oborů (pedagogika, sociální práce, ekonomie...) i pouze zaměstnanci se základním vzděláním, všichni převážně využívající částečné úvazky. Pracujeme jak v klubovnách, tak v terénu – díky růstu týmu dokážeme pokrývat víc lokalit v Plzni i menších městech.
 
+![](https://assets.cesko.digital/792b0b1f.png)
+
 ### **Digitalizace jako organizační proměna**
 
 Digitalizační změna v Blízkém sousedovi nezačala jako technologický projekt, ale jako **potřeba reagovat na rostoucí tým, zvýšit přehlednost a umožnit každému pracovníkovi samostatně fungovat**. Díky účasti v [kurzu Nezisk.Digital](https://www.cesko.digital/projekty/nezisk-digital/kurz) se rozběhl transformační proces, který vedl ke konkrétním technickým změnám, ale i k hlubším změnám v chodu organizace.
