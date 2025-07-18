@@ -65,7 +65,7 @@ Z pohledu klienta se proměna projevila několika konkrétními způsoby:
 
 Navíc díky digitalizaci může organizace plánovat interní porady a školení efektivněji – běžné provozní věci řeší online a osobní setkání tak mohou být zaměřená na odborný rozvoj (např. základy krizové intervence, marketing, kyberbezpečnost).
 
-Díky digitalizaci se povedla ještě jedna zásadní změna: zaměstnání první kolegyně na dálku a rozšíření služeb daleko za hranice Plzeňska. „Od tohoto měsíce máme zaměstnanou první remote kolegyni. Věnuje se romské komunitě v Děčíně, zatímco zbytek týmu pracuje a bydlí v Plzni a okolních městech. Dříve by nebylo možné někoho efektivně zaměstnávat na takovouto vzdálenost, ale díky nástrojům a procesům, které jsme nastavili napříč týmem to možné je a dosah naší práce se tak opět výrazně zvýší,“ popsala Pavla.
+Díky digitalizaci se povedla ještě jedna zásadní změna: zaměstnání první kolegyně na dálku a rozšíření služeb daleko za hranice Plzeňska. „Od tohoto měsíce máme zaměstnanou první remote kolegyni. Věnuje se romské komunitě v Děčíně, zatímco zbytek týmu pracuje a bydlí v Plzni a okolních městech. Dříve by nebylo možné někoho efektivně zaměstnávat na takovouto vzdálenost, ale díky nástrojům a procesům, které jsme nastavili napříč týmem to možné je a dosah naší práce se tak opět výrazně zvýší,“ popsala Pavla. Na fotkách výše můžete vidět právě výpravu klientů z Děčína do Národního muzea v Praze. 
 
 ### **Výzvy a udržitelnost**
 
