@@ -51,6 +51,8 @@ Jejich práce zároveň inspirovala další kolegy – zejména mladší a techn
 
 Ambasadoři změny tedy nevznikli formálním rozhodnutím, ale přirozeně – díky zájmu, důvěře a sdílení know-how. Tento přístup podpořil sebevědomí týmu, zvýšil pocit kompetence i vnitřní motivaci učit se dál.
 
+![](https://assets.cesko.digital/032d95de.jpg)
+
 ### **Dopady na služby a klienty**
 
 Z pohledu klienta se proměna projevila několika konkrétními způsoby:
