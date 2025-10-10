@@ -22,7 +22,6 @@ Součástí večera byl panel s experty, prezentace výsledků našeho výzkumu 
 
 ## Proč digitalizovat nezisk?
 
-
 Čas, peníze a lidské zdroje jsou v českém nezisku velmi nedostatkové zboží. 
 
 Digitalizace a automatizace přináší způsoby, **jak mohou neziskovky svoji práci dělat lépe, levněji, efektivněji a s větším dopadem**. Místo tabulek a rutiny se mohou více soustředit na své klienty a poslání. A tady se počítá každá ušetřená hodina.
@@ -40,8 +39,7 @@ Stát a firmy se digitalizují – ale neziskový sektor zatím zůstává pozad
 
 - - -
 
-## Jak si český nezisk 
-vede v digitalizaci?
+## Jak si český nezisk vede v digitalizaci?
 
 Z online **[Skenu digitální vyspělosti](https://sken.nezisk.digital/)**, který v červnu absolvovalo 164 neziskovek, například víme, že:
 
