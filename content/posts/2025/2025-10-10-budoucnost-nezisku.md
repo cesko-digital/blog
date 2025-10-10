@@ -127,3 +127,11 @@ a pojďme spolu probrat, jak můžeme český nezisk posunout dál.
 **Lucie Ottinger**\
 Head of Partnerships, Česko.Digital\
 [lucie.ottinger@cesko.digital](mailto:lucie.ottinger@cesko.digital)
+
+
+
+*„Stejně jako Česko.Digital i my v Nadaci PPF věříme, že digitalizace a inovace mají zásadní vliv na růst a přínos neziskových aktivit, které přispívají k rozvoji společnosti, i na celkové fungování státu. Proto jsme podpořili dlouhodobý projekt orientovaný na systémovou změnu, jehož cílem je posílit digitální kompetence ve veřejné sféře, aby v budoucnu dokázala sama nacházet a realizovat potřebná řešení,” říká Jana Tomas Sedláčková, členka správní rady Nadace PPF.“*
+
+\- Jana Tomas Sedláčková, členka správní rady Nadace PPF.
+
+Naši práci pro český nezisk dokážeme dělat jen díky partnerům jako je například Nadace PPF. Pro udržitelnost ale potřebujeme další.
