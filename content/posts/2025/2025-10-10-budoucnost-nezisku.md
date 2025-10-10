@@ -6,7 +6,9 @@ tags:
 cover: https://assets.cesko.digital/a9f68dbe.jpg
 date: 2025-10-10-02-31
 slug: budoucnost-nezisku
-description: ___
+description: Ve středu 8. 10. jsme se potkali s padesátkou lidí, kteří věří, že
+  digitalizace může český nezisk posunout dopředu. Přinášíme souhrn i výzvy pro
+  vás.
 lang: cs
 ---
 Ve středu 8. 10. jsme se v pražském STRV potkali s padesátkou lidí, kteří věří, že digitalizace může český nezisk posunout dopředu – byli mezi nimi zástupci **nadací, firem, veřejné správy, odborníků i neziskových organizací**. Společně jsme otevřeli téma, které je pro Česko zásadní: **jak zefektivnit a zvýšit dopad neziskového sektoru pomocí digitálních technologií a jak nastartovat jeho skutečnou digitální transformaci**.
@@ -118,7 +120,7 @@ Touto podporou zajistíte dlouhodobé fungování aktivit, které pro nezisk dě
 
 Máme jasný plán, zkušenost i partnery. Chceme, aby každá neziskovka v Česku měla šanci fungovat moderně, efektivně a s důvěrou. Chcete nám s touto misí finančně, expertně, advokačně či jinak pomoci?
 
-### 👉 [Domluvte si schůzku s Lucií Ottinger](https://airtable.com/appBMJcLnBva02IEy/pagAHR7A4tKaYiyWd/form)
+### 👉 [Domluvte si schůzku s Lucií Ottinger](https://calendly.com/lucie-ottinger-cesko/60min?month=2025-10)
 
 a pojďme spolu probrat, jak můžeme český nezisk posunout dál.
 
