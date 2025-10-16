@@ -31,9 +31,7 @@ Z našich výzkumů víme, že to není marná snaha. **Česko má obrovský pot
 ## Co pro to děláme?
 
 * **přinášíme data a analýzy**, které zjišťují názory a zkušenosti všech uživatelů i poskytovatelů služeb a také odhalují strukturální bariéry digitalizace,
-  
 * **navrhujeme systémová řešení a prosazujeme jejich přenesení do praxe**,  
-
 * **propojujeme klíčové aktéry** – stát, firmy, experty i nezisk – kteří s námi sdílí ambici dostat Česko mezi evropskou digitální špičku.
 
 - - -
@@ -43,12 +41,8 @@ Z našich výzkumů víme, že to není marná snaha. **Česko má obrovský pot
 Naše práce přináší první konkrétní výsledky. **Všechny výstupy volně sdílíme na [našem novém webu](https://sluzby.digital):**
 
 * **„Digitální stát na půl plynu“** – náš hlavní výstup, který shrnuje zjištění výzkumů, odhaluje hlavní bariéry digitalizace i naše doporučení pro vládu.  
-
 * **Podrobné výzkumné zprávy od STEM** k jednotlivým šetřením – názory a zkušenosti více než 2 000 občanů, přes 300 firem, 70 hodin hloubkových rozhovorů se stakeholdery a 8 fokusních skupin se zástupci veřejné správy i dodavatelů.  
-
 * **Analýza managementu kvality digitálních služeb státu & návrh metriky.**
-
-Do obrazu problémů digitalizace služeb státu a našich řešení vás rychle uvede náš **[one-pager](https://assets.cesko.digital/2f5a8f47.pdf)**.
 
 Prohlédnout si můžete také **[celou prezentaci ze setkání na Úřadu vlády](https://docs.google.com/presentation/d/1uapraxJcUyI4cc9tlJuXfus8jclpsiw4/edit?usp=sharing&ouid=100695613666858527082&rtpof=true&sd=true)** s vystoupeními CEO Jana Kotary, vedoucí projektu Blanky Šoulavé a analytika STEM Jiřího Táborského.
 
@@ -132,6 +126,23 @@ Získáte prioritní přístup k dalším výstupům projektu, zapojíte se do i
 Pomozte nám z digitalizace udělat téma pro každého – sdílejte naše data, výstupy i příklady dobré praxe.
 
 Rádi s vámi osobně probereme, jak se můžete do naší mise zapojit.\
-**Domluvte si schůzku s Lucií Ottinger, Head of Partnerships 👇**
+**Domluvte si schůzku s Lucií Ottinger, Head of Partnerships Česko.Digital 👇**
 
 ### [Dám si schůzku s Lucií](https://calendly.com/lucie-ottinger-cesko/60min?month=2025-10)
+
+[](https://calendly.com/lucie-ottinger-cesko/60min?month=2025-10)
+
+- - -
+
+*„Stejně jako Česko.Digital i my v Nadaci PPF věříme, že digitalizace a inovace mají zásadní vliv na růst a přínos neziskových aktivit, které přispívají k rozvoji společnosti, i na celkové fungování státu. Proto jsme podpořili dlouhodobý projekt orientovaný na systémovou změnu, jehož cílem je posílit digitální kompetence ve veřejné sféře, aby v budoucnu dokázala sama nacházet a realizovat potřebná řešení.“* 
+
+**Jana Tomas Sedláčková**, členka správní rady Nadace PPF
+
+
+
+*„Česko.Digital podporujeme, protože je to jedna z mála organizací v Česku, která se skutečně snaží zkvalitňovat digitální stát. Dělají to nezištně a jejich agendou je prosté zlepšení stávajícího stavu, ne vlastní prospěch. Digitalizace je pro nás zásadní. Je totiž nástrojem, který zlepší život občanům této země. Díky ní dostaneme kvalitnější a transparentnější služby státu.“*
+
+**Adam Berdár**, Sales Director, NTT DATA CZ
+
+
+Projekt Služby.Digital funguje jen díky našim partnerům. Podpořili nás Aliance pro moderní stát, Nadace PPF, NTT DATA CZ a Fakturoid. Děkujeme! **Abychom ale mohli pokračovat dál, potřebujeme širší pomoc.**
