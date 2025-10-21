@@ -22,7 +22,7 @@ V projektu **[Služby.Digital](https://sluzby.digital/)** **pomáháme státu zl
 
 * zjednodušují život lidem i firmám,  
 * šetří státu peníze tím, že snižují byrokratickou zátěž,  
-* zvyšují důvěru občanů ve veřejné instituce – ta je dnes v Česku na [chvostu zemí OECD (data 2024)](https://www.google.com/url?q=https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/07/oecd-survey-on-drivers-of-trust-in-public-institutions-2024-results_eeb36452/9a20554b-en.pdf&sa=D&source=docs&ust=1761055401594473&usg=AOvVaw3l39ce_quTuPsxN-D2dWTM).
+* zvyšují důvěru občanů ve veřejné instituce – ta je dnes v Česku na [chvostu zemí OECD (2024)](https://www.google.com/url?q=https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/07/oecd-survey-on-drivers-of-trust-in-public-institutions-2024-results_eeb36452/9a20554b-en.pdf&sa=D&source=docs&ust=1761055401594473&usg=AOvVaw3l39ce_quTuPsxN-D2dWTM).
 
 Z našich výzkumů víme, že to není marná snaha. **Česko má obrovský potenciál** i skvělé podmínky stát se opravdovým digitálním lídrem Evropy. Jen ho zatím nedokáže naplno využít. **Poptávka tu je:** 94 % občanů a firem chtějí moderní digitální stát.
 
@@ -137,6 +137,9 @@ Jak se zapojit, s vámi také rádi probereme osobně.\
 
 - - -
 
+
+Projekt Služby.Digital funguje jen díky našim partnerům. Podpořili nás Aliance pro moderní stát, Nadace PPF, NTT DATA CZ a Fakturoid. Děkujeme! **Abychom ale mohli pokračovat dál, potřebujeme širší pomoc.**
+
 *„Stejně jako Česko.Digital i my v Nadaci PPF věříme, že digitalizace a inovace mají zásadní vliv na růst a přínos neziskových aktivit, které přispívají k rozvoji společnosti, i na celkové fungování státu. Proto jsme podpořili dlouhodobý projekt orientovaný na systémovou změnu, jehož cílem je posílit digitální kompetence ve veřejné sféře, aby v budoucnu dokázala sama nacházet a realizovat potřebná řešení.“* 
 
 **Jana Tomas Sedláčková**, členka správní rady Nadace PPF
@@ -144,5 +147,3 @@ Jak se zapojit, s vámi také rádi probereme osobně.\
 *„Česko.Digital podporujeme, protože je to jedna z mála organizací v Česku, která se skutečně snaží zkvalitňovat digitální stát. Dělají to nezištně a jejich agendou je prosté zlepšení stávajícího stavu, ne vlastní prospěch. Digitalizace je pro nás zásadní. Je totiž nástrojem, který zlepší život občanům této země. Díky ní dostaneme kvalitnější a transparentnější služby státu.“*
 
 **Adam Berdár**, Sales Director, NTT DATA CZ
-
-Projekt Služby.Digital funguje jen díky našim partnerům. Podpořili nás Aliance pro moderní stát, Nadace PPF, NTT DATA CZ a Fakturoid. Děkujeme! **Abychom ale mohli pokračovat dál, potřebujeme širší pomoc.**
