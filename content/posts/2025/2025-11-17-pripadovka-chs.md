@@ -46,6 +46,8 @@ Díky jasnějšímu toku informací mezi odborníky a středisky v terénu je v 
 Klíčovým prvkem úspěchu bylo aktivní zapojení vedení organizace, které od počátku vysílalo jasný signál, že digitalizace je jednou z prioritních oblastí. Právě díky tomuto postoji se podařilo překonat počáteční obavy a vytvořit prostředí, kde bylo možné experimentovat a hledat nové cesty.
 Vedle toho se postupně vyprofilovala interní ambasadorka – členka a dobrovolnice ČHS, která prošla kurzem a začala pomáhat svým kolegům s orientací v nových nástrojích i se změnou návyků. Její role je dnes klíčová nejen při zavádění dalších změn, ale i při kultivaci otevřeného a podpůrného prostředí pro učení se. Přetrvávající výzvou je, jak v této roli nezůstávat osamocená a jak podporovat aktivizaci členské základny.
 
+![](https://assets.cesko.digital/862ed1ab.jpg)
+
 ### **Jak to vidí vedení organizace**
 
 *„Věděli jsme, že bez podpory shora se nic nezmění. Ale nechtěli jsme digitalizaci nařídit – šlo nám o to vytvořit prostor, kde se lidé budou chtít zapojit, protože v tom sami uvidí smysl.“*
