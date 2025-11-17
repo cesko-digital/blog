@@ -3,7 +3,7 @@ title: "Případová studie: Česká hiporehabilitační společnost – Digital
   impuls pro systematický rozvoj"
 author: bara
 cover: https://assets.cesko.digital/87337f39.jpg
-date: 2025-11-17-02-50
+date: 2025-10-17-02-50
 slug: pripadovka-chs
 description: Jak kurz Nezisk.Digital pomohl České hiporehabilitační společnosti?
   (případová studie)
