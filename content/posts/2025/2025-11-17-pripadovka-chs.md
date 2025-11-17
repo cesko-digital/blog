@@ -19,7 +19,7 @@ Tým tvoří zhruba 8 expertních dobrovolníků a jedna asistentka s placeným 
 
 ![](https://assets.cesko.digital/a29c0068.jpg)
 
-**Co nám přinesl kurz nezisk.digital?** 
+**Digitalizace jako vnitřní efektivita a vnější dopad**
 
 Kurz nezisk.digital pro nás nebyl jen školením o nástrojích, ale impulsem k proměně způsobu, jakým jako organizace fungujeme – především v oblasti spolupráce a sdílení. Díky zavedení jednotné komunikační platformy (Google Chat) se nám začíná dařit více propojovat střediska a pracovní tým společnosti, které dříve fungovaly poměrně izolovaně. 
 
@@ -68,8 +68,6 @@ Vedle toho se postupně vyprofilovala interní “ambasadorka” – členka a d
 ·   	„Nešlo o to být ajťákem. Šlo o to nebát se zkoušet nové věci a být ostatním k ruce. I já jsem se toho spoustu učila za pochodu.“
   *– účastnice z členského střediska*
 
- 
-
 Co nám to přineslo 
 
 *„Dřív to byly digitální ostrůvky. Teď máme společný jazyk i nástroje, které zrychlují a zjednodušují spolupráci.“* 
@@ -94,8 +92,6 @@ Cítíme, že jsme na dobré cestě, ale víme, toho máme ještě spoustu před
 
 Digitalizace nám dává nástroj, ale klíčem zůstávají lidé. A jejich schopnost propojit se, sdílet a učit se společně.
 
-
-
 **Shrnutí dopadu: Co se změnilo v šesti klíčových oblastech?**
 
 **Znalosti a dovednosti:** Práce s cloudem, nástroje pro komunikaci, sdílení dokumentů
@@ -109,7 +105,5 @@ Digitalizace nám dává nástroj, ale klíčem zůstávají lidé. A jejich sch
 **Dopad na klienty:** Více prostoru pro přímou podporu
 
 **Udržitelnost:** Plán na vytvoření digitálního týmu, zájem o další školení
-
-
 
 Zde je k dispozici pro doplnění i video medailonek[ Česká hiporehabilitační společnost](https://www.youtube.com/watch?v=u2X3E_5Gv-g).
