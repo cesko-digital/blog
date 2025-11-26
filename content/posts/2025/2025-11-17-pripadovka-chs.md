@@ -100,3 +100,12 @@ Digitalizace poskytuje nástroj, ale klíčem zůstávají lidé. A jejich schop
 **Udržitelnost:** Plán na vytvoření digitálního týmu, zájem o další školení
 
 Zde je k dispozici pro doplnění i video medailonek[ Česká hiporehabilitační společnost](https://www.youtube.com/watch?v=u2X3E_5Gv-g).
+
+- - -
+
+### Chtěli byste taky lépe fungovat a co nejvíce času věnovat svému poslání?
+
+👉 [Registrace do dalšího online kurzu Nezisk.Digital jsou právě otevřeny](https://www.cesko.digital/projekty/nezisk-digital/online-kurz-nezisk-digital).
+
+Hlásit se můžete do jarního i podzimního běhu 2026. Díky grantu Nadace ČEZ ho můžete absolvovat bezplatně a navíc si nechat proplatit další náklady na svůj rozvoj (grant je nutné podat pouze během ledna).
+
