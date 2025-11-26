@@ -11,7 +11,7 @@ lang: cs
 ---
 ## **Blízký soused: Digitalizace jako cesta ke klientovi**
 
-Čtyři úspěšné běhy [kurzu **Nezisk.Digital**](https://nezisk.digital) jsou za námi a výsledky nám opravdu dělají radost: desítky neziskových organizací dokázaly výrazně zefektivnit svou práci. Každá z nich je přitom jiná. Každá hledala řešení na své specifické potřeby s podporou expertů, kteří se jí věnovali individuálně a na míru. A na většině těchto cest digitálních transformací jsme objevili něco inspirativního, o co stojí za to podělit se dál.
+Čtyři úspěšné běhy **[online kurzu Nezisk.Digital](https://www.cesko.digital/projekty/nezisk-digital/online-kurz-nezisk-digital)** jsou za námi a výsledky nám opravdu dělají radost: desítky neziskových organizací dokázaly výrazně zefektivnit svou práci. Každá z nich je přitom jiná. Každá hledala řešení na své specifické potřeby s podporou expertů, kteří se jí věnovali individuálně. A na většině těchto cest digitálních transformací jsme objevili něco inspirativního, o co stojí za to podělit se dál.
 
 Představujeme vám proto několik příběhů neziskovek, kterým digitalizace otevřela úplně nové možnosti – nejen online, ale především v reálném světě.
 
@@ -89,4 +89,6 @@ Organizace nyní plánuje navázat mimo jiné tím, že komunitní pracovníci a
 | **Role vedení**           | Aktivní podpora digitalizace, promyšlené řízení změny, silní interní ambasadoři      |
 | **Udržitelnost**          | Zapojení nových zaměstnanců do změn, plány na posílení vybavení a školení            |
 
-Zde je k dispozici pro doplnění i videomedailonek [Blízký soused](https://www.youtube.com/watch?v=dG8hJJ-gF1I&list=PLOX5xelTsEv_Dvcal3LVLvf3P82wKIE7k&index=8).
+Podívat se můžete i na videomedailonek organizace [Blízký soused](https://www.youtube.com/watch?v=dG8hJJ-gF1I&list=PLOX5xelTsEv_Dvcal3LVLvf3P82wKIE7k&index=8).
+
+### 👉 Chtěli byste taky lépe fungovat? [Registrace do online kurzu Nezisk.Digital (jaro a podzim 2026) jsou právě otevřeny](https://www.cesko.digital/projekty/nezisk-digital/online-kurz-nezisk-digital).
