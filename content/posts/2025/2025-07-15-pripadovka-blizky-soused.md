@@ -93,7 +93,8 @@ Podívat se můžete i na videomedailonek organizace [Blízký soused](https://w
 
 - - -
 
-### Chtěli byste taky lépe fungovat a co nejvíce času věnovat svému poslání? \
+### Chtěli byste taky lépe fungovat a co nejvíce času věnovat svému poslání?
+
 👉 [Registrace do dalšího online kurzu Nezisk.Digital jsou právě otevřeny](https://www.cesko.digital/projekty/nezisk-digital/online-kurz-nezisk-digital).
 
 Hlásit se můžete do jarního i podzimního běhu 2026. Díky grantu Nadace ČEZ ho můžete absolvovat bezplatně a navíc si nechat proplatit další náklady na svůj rozvoj (grant je nutné podat pouze během ledna).
