@@ -91,4 +91,7 @@ Organizace nyní plánuje navázat mimo jiné tím, že komunitní pracovníci a
 
 Podívat se můžete i na videomedailonek organizace [Blízký soused](https://www.youtube.com/watch?v=dG8hJJ-gF1I&list=PLOX5xelTsEv_Dvcal3LVLvf3P82wKIE7k&index=8).
 
-### 👉 Chtěli byste taky lépe fungovat? [Registrace do online kurzu Nezisk.Digital (jaro a podzim 2026) jsou právě otevřeny](https://www.cesko.digital/projekty/nezisk-digital/online-kurz-nezisk-digital).
+
+### Chtěli byste taky lépe fungovat a co nejvíce času věnovat svému poslání? 
+👉 [Registrace do dalšího online kurzu Nezisk.Digital jsou právě otevřeny](https://www.cesko.digital/projekty/nezisk-digital/online-kurz-nezisk-digital). 
+Hlásit se můžete do jarního i podzimního běhu 2026. Díky grantu Nadace ČEZ ho můžete mít zcela zdarma (grant je nutné podat během ledna).
