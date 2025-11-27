@@ -8,7 +8,7 @@ description: Jak v organizaci Locika pokročili v digitalizaci díky účasti v
   kurzu Nezisk.Digital?
 lang: cs
 ---
-
+Přihlašování do jarního běhu [kurzu Nezisk.Digital](https://www.cesko.digital/projekty/nezisk-digital/home#online-kurz) už je v plném proudu. Chystá se vaše neziskovka zúčastnit? Přinášíme další případovou studii organizace, která kurzem prošla. Locika bojuje za život dětí a rodin bez násilí a má za sebou letos velký úspěch – i díky Locice vešel v platnost zákon, který tělesné trestání dětí označuje za nepřijatelné. V případovce se dozvíte, jak organizaci digitalizace pomohla k ještě většímu dopadu. Také uvidíte, že díky expertům, kteří neziskovky kurzem provázejí, může vzniknout i řešení zcela na míru. Čtěte – [a pak se přihlaste](https://www.cesko.digital/projekty/nezisk-digital/home#online-kurz)!  
 
 ### Medailonek organizace
 
@@ -39,7 +39,6 @@ transformace. Locika zvolila postup „od potřeb k nástrojům“. Během kurzu
 
 ![](https://assets.cesko.digital/f0fd6d7a.jpg)
 
-### 
 Vybrané nástroje a řešení
 
 Locika implementovala a využívá několik digitálních nástrojů:
