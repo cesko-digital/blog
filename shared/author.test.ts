@@ -1,3 +1,4 @@
+import test from "node:test";
 import { getAllAuthors } from "./author";
 
 test("Decode authors", () => {

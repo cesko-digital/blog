@@ -3,7 +3,6 @@ import {
   decodePostDate,
   stripBlogPostBody,
   getPostPath,
-  PostMetadata,
   dateWithTimeZone,
 } from "./post";
 import {
@@ -11,49 +10,57 @@ import {
   readBlogPost,
   getFilesRecursively,
 } from "./post-loading";
+import test from "node:test";
+import assert from "node:assert";
 
-describe("Decoding primitives", () => {
-  test("Date timezone support", () => {
-    expect(dateWithTimeZone("UTC", 2022, 0, 10)).toEqual(
-      new Date("2022-01-10T00:00:00.000Z")
-    );
-    expect(dateWithTimeZone("UTC", 2022, 0, 10, 10)).toEqual(
-      new Date("2022-01-10T10:00:00.000Z")
-    );
-    expect(dateWithTimeZone("Europe/Prague", 2022, 0, 10, 10)).toEqual(
-      new Date("2022-01-10T09:00:00.000Z")
-    );
-  });
-  test("Post date", () => {
-    expect(decodePostDate("2022-01-10-01-25")).toEqual(
-      new Date("2022-01-10T00:25:00.000Z")
-    );
-    expect(decodePostDate("2021-8-24")).toEqual(
-      new Date("2021-08-23T22:00:00.000Z")
-    );
-  });
-  test("Post path", () => {
-    expect(getPostPath(new Date("2022-01-10T00:25:00.000Z"), "foo")).toBe(
-      "/2022/01/foo"
-    );
-    expect(getPostPath(new Date("2022-12-10T00:25:00.000Z"), "foo")).toBe(
-      "/2022/12/foo"
-    );
-  });
+test("Decode date with timezone support", () => {
+  assert.deepEqual(
+    dateWithTimeZone("UTC", 2022, 0, 10),
+    new Date("2022-01-10T00:00:00.000Z")
+  );
+  assert.deepEqual(
+    dateWithTimeZone("UTC", 2022, 0, 10, 10),
+    new Date("2022-01-10T10:00:00.000Z")
+  );
+  assert.deepEqual(
+    dateWithTimeZone("Europe/Prague", 2022, 0, 10, 10),
+    new Date("2022-01-10T09:00:00.000Z")
+  );
 });
 
-describe("Decode post metadata", () => {
-  test("Basic metadata", () => {
-    expect(
-      decodeMetadata({
-        title: "Spolupráce s Česko.Digital",
-        author: "marek",
-        cover: "https://data.cesko.digital/img/clanek-pohyb-je-reseni/2.png",
-        date: "2022-01-10-01-25",
-        slug: "pribeh-inkubacniho-procesu",
-        description: "Příběh tříměsíčního designového procesu…",
-      })
-    ).toEqual<PostMetadata>({
+test("Get post path", () => {
+  assert.equal(
+    getPostPath(new Date("2022-01-10T00:25:00.000Z"), "foo"),
+    "/2022/01/foo"
+  );
+  assert.equal(
+    getPostPath(new Date("2022-12-10T00:25:00.000Z"), "foo"),
+    "/2022/12/foo"
+  );
+});
+
+test("Decode post date", () => {
+  assert.strictEqual(
+    decodePostDate("2022-01-10-01-25").toISOString(),
+    "2022-01-10T00:25:00.000Z"
+  );
+  assert.strictEqual(
+    decodePostDate("2021-8-24").toISOString(),
+    "2021-08-23T22:00:00.000Z"
+  );
+});
+
+test("Decode basic metadata", () => {
+  assert.deepStrictEqual(
+    decodeMetadata({
+      title: "Spolupráce s Česko.Digital",
+      author: "marek",
+      cover: "https://data.cesko.digital/img/clanek-pohyb-je-reseni/2.png",
+      date: "2022-01-10-01-25",
+      slug: "pribeh-inkubacniho-procesu",
+      description: "Příběh tříměsíčního designového procesu…",
+    }),
+    {
       title: "Spolupráce s Česko.Digital",
       path: "/2022/01/pribeh-inkubacniho-procesu",
       authorId: "marek",
@@ -65,20 +72,22 @@ describe("Decode post metadata", () => {
       lang: "cs",
       langVersion: undefined,
       tags: [],
-    });
-  });
-  test("Language versions", () => {
-    expect(
-      decodeMetadata({
-        title: "Spolupráce s Česko.Digital",
-        author: "marek",
-        cover: "https://data.cesko.digital/img/clanek-pohyb-je-reseni/2.png",
-        date: "2022-01-10-01-25",
-        slug: "pribeh-inkubacniho-procesu",
-        description: "Příběh tříměsíčního designového procesu…",
-        langVersion: { cs: "/2019/11/rozhovor-vereha" },
-      })
-    ).toEqual<PostMetadata>({
+    }
+  );
+});
+
+test("Decode metadata for language versions", () => {
+  assert.deepStrictEqual(
+    decodeMetadata({
+      title: "Spolupráce s Česko.Digital",
+      author: "marek",
+      cover: "https://data.cesko.digital/img/clanek-pohyb-je-reseni/2.png",
+      date: "2022-01-10-01-25",
+      slug: "pribeh-inkubacniho-procesu",
+      description: "Příběh tříměsíčního designového procesu…",
+      langVersion: { cs: "/2019/11/rozhovor-vereha" },
+    }),
+    {
       title: "Spolupráce s Česko.Digital",
       path: "/2022/01/pribeh-inkubacniho-procesu",
       authorId: "marek",
@@ -90,20 +99,20 @@ describe("Decode post metadata", () => {
       lang: "cs",
       langVersion: new Map([["cs", "/2019/11/rozhovor-vereha"]]),
       tags: [],
-    });
-  });
+    }
+  );
 });
 
 test("Parse post path", () => {
-  expect(parsePostPath("2022-01-26-cist-digital-30.md")).toEqual([
+  assert.deepStrictEqual(parsePostPath("2022-01-26-cist-digital-30.md"), [
     new Date("2022-01-26"),
     "cist-digital-30",
   ]);
-  expect(() => parsePostPath("2021-2-90-cist-digital.md")).toThrow();
-  expect(() => parsePostPath("2021-2-cist-digital.md")).toThrow();
-  expect(() => parsePostPath("2021-2-12-.md")).toThrow();
-  expect(() => parsePostPath("2021-2-12-křeč.md")).toThrow();
-  expect(() => parsePostPath("2021-2-12-sleva-50%.md")).toThrow();
+  assert.throws(() => parsePostPath("2021-2-90-cist-digital.md"));
+  assert.throws(() => parsePostPath("2021-2-cist-digital.md"));
+  assert.throws(() => parsePostPath("2021-2-12-.md"));
+  assert.throws(() => parsePostPath("2021-2-12-křeč.md"));
+  assert.throws(() => parsePostPath("2021-2-12-sleva-50%.md"));
 });
 
 test("Parse all posts", () => {
@@ -134,5 +143,5 @@ test("Strip blog post body", () => {
     tags: [],
     body: "foo",
   }) as any;
-  expect(meta["body"]).toBeUndefined();
+  assert.equal(meta["body"], undefined);
 });
