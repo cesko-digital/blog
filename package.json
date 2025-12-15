@@ -10,9 +10,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "feed": "^4.2.2",
+    "feed": "^5.1.0",
     "gray-matter": "^4.0.3",
-    "marked": "^13.0.1",
+    "marked": "^17.0.1",
     "next": "14.x",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -26,14 +26,14 @@
     "@playwright/test": "^1.57.0",
     "@types/js-yaml": "^4.0.9",
     "@types/marked": "^6.0.0",
-    "@types/node": "^20.14.9",
+    "@types/node": "^24.10.1",
     "@types/react": "18",
-    "@typescript-eslint/parser": "^7.14.1",
-    "eslint-config-next": "14.x",
+    "@typescript-eslint/parser": "^8.48.1",
+    "eslint-config-next": "16.x",
     "glob-bin": "^1.0.0",
     "js-yaml": "^4.1.1",
     "tsx": "^4.21.0",
-    "typescript": "^5.5.2"
+    "typescript": "^5.9.3"
   },
   "prettier": {
     "quoteProps": "consistent"
