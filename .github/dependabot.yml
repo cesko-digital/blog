@@ -7,6 +7,20 @@ updates:
     # https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns
     cooldown:
       default-days: 7
+    ignore:
+      # We have to do these manually
+      - dependency-name: "next"
+        update-types: ["version-update:semver-major"]
+      - dependency-name: "react"
+        update-types: ["version-update:semver-major"]
+      - dependency-name: "@types/react"
+        update-types: ["version-update:semver-major"]
+      - dependency-name: "react-dom"
+        update-types: ["version-update:semver-major"]
+      - dependency-name: "@types/react-dom"
+        update-types: ["version-update:semver-major"]
+      - dependency-name: "tailwindcss"
+        update-types: ["version-update:semver-major"]
     groups:
       dev-dependencies:
         patterns:
