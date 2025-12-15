@@ -4,6 +4,9 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "monthly"
+    # https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns
+    cooldown:
+      default-days: 7
     groups:
       dev-dependencies:
         patterns:
