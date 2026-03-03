@@ -35,7 +35,14 @@ Cílem nebylo zavádět technologie pro technologie samotné, ale vytvořit syst
 Kurz Nezisk.Digital použili jako strukturovaná rámec i motivaci pro zahájení digitální
 transformace. Zvolili jsme postup „od potřeb k nástrojům“. Nejprve jsme si vyjasnili, kde vzniká největší zátěž, a teprve poté jsme hledali vhodná řešení. \
 \
-Už během kurzu jsme nasadili dva nástroje, přičemž evidence financí byla dokončována s podporou experta až po skončení kurzu – finanční reporting byl dotažen tak, aby nahradil ruční přepisy z účetního systému „Pohoda“. Vedení průběžně vyhodnocovalo návrhy týmu v nákupu a zavádění dalších softwarů: co je relevantní, co se vrátí v efektivitě, a co organizace reálně dokáže ufinancovat (kombinace dotací, darů a slev pro NNO). Po kurzu bylo tempo udržené díky novým výzvám a vlastní iniciativě týmu; digitalizace se promítla i do rozpočtu jako strategická položka, ne „bokovka“.
+Už během kurzu jsme nasadili dva nástroje. Oblast financí jsme s podporou průvodce dokončovali i po skončení kurzu, aby finanční reporting skutečně nahradil ruční přepisy z účetního systému Pohoda. \
+\
+Vedení průběžně vyhodnocovalo návrhy týmu v nákupu a zavádění dalších softwarů: \
+Co je relevantní?
+Co se vrátí v efektivitě?
+Co dokážeme dlouhodobě financovat?
+
+Po kurzu jsme tempo udrželi díky novým výzvám a iniciativě týmu; digitalizace se promítla i do rozpočtu jako strategická položka, ne „bokovka“.
 
 *„Nyní již i zaměstnanci sami tlačí na to, že nechtějí dělat všechno ručně a že chtějí technologie využívat, takže bych řekla, že jsme se za poslední rok určitě posunuli a já to cítím i v rozpočtu, protože položka software tvoří mnohem vyšší částku než v minulosti, vlastně zásadně vyšší než dřív. Naučili jsme se digitální možnosti využívat, i když to není úplně levná záležitost. Pokud nám částečně pomohou dotace, tak jsme schopni to ufinancovat. Digitalizace se stala důležitým prvkem v rozvoji Centra Locika“*
 
@@ -43,32 +50,38 @@ Už během kurzu jsme nasadili dva nástroje, přičemž evidence financí byla 
 
 ![](https://assets.cesko.digital/f0fd6d7a.jpg)
 
-Vybrané nástroje a řešení
+#### Vybrané nástroje a řešení
 
 Locika implementovala a využívá několik digitálních nástrojů:
 
-**• Freelo**: Pro komunikační a projektové řízení. Tento nástroj pomáhá s termíny a šetří čas.
+**• Freelo**: Pro komunikační a projektové řízení. Přináší přehled o úkolech, termínech a odpovědnostech. Šetří čas.
 
-**• Kontingenční tabulka v Excelu:** Pro finanční řízení projektů. Vzhledem k tomu, že organizace nenašla vhodný komerční nástroj pro neziskové organizace, mentor Karel Pešata naprogramoval kontingenční tabulku v Excelu, která funguje skvěle. Data se do ní přetahují z účetního softwaru Pohoda. Toto řešení je ušito na míru Locice a je o něj zájem i u jiných neziskovek.
+**• Kontingenční tabulka v Excelu:** Protože jsme nenašli vhodný komerční nástroj pro neziskové organizace, průvodce Karel Pešata naprogramoval kontingenční tabulku v Excelu, která funguje skvěle. Data se do ní přetahují z účetního softwaru Pohoda. Toto řešení nám ušil na míru a je o něj zájem i u jiných neziskovek.
 
 **• Smart Emailing:** Pro evidenci dárců a fundraising. Zavedení této databáze umožnilo efektivnější práci s dárci.
 
-### Přístup vedení a implementace (technická a lidská)
+### Implementace v praxi
 
-Vedení organizace aktivně podporuje digitalizaci a vnímá ji jako součást strategického rozvoje. Za digitalizaci v Locice není zodpovědný jeden člověk, ale celé vedení, které na pravidelných poradách projednává požadavky týmu. Ve vedení vždy posuzují, zda je požadavek relevantní a zda se investice do technologie vrátí v efektivnější práci. 
+Digitalizaci jsme uchopili jako kombinaci technických a lidských kroků.
 
-Freelo sjednotilo projektovou komunikaci a termíny. Pro finance bylo mentorem vytvořeno řešení na míru v Excelu – výrazně to zrychlilo reporting a odstranilo chyby z ručních přepisů. Postupně byl pořízen i další software včetně AI nástrojů (opatrně je používán pro texty a sumarizace, ne pro výpočty rozpočtů).
+Freelo sjednotilo projektovou komunikaci a řízení termínů.
 
-V organizaci Locika zkombinovali opakovaná krátká školení s individuálním zaškolováním. Mladší kolegové táhli adopci nástrojů, u seniornějších pracovnic se šlo cestou konkrétních přínosů: snazší dohledání informací, méně dotazů od kolegů, méně papírů. Externí mentor pomohl držet rytmus a dotahovat úkoly. Locika sdílí zkušenosti s dalšími NNO (konference, vzájemné učení), aby změna nebyla jednorázová, ale průběžně živená praxí.
+Pro finance bylo vytvořeno řešení na míru v Excelu – reporting se výrazně zrychlil a odstranily se chyby z ručních přepisů.
 
-### **Dopad digitalizace: Co se povedlo a jak to lze pozorovat**
+Postupně jsme pořídili další software, včetně AI nástrojů (využívaných opatrně pro texty a sumarizace, nikoli pro rozpočtové výpočty).
+
+V implementaci jsme kombinovali krátká opakovaná školení s individuálním zaškolováním. Mladší kolegové pomáhali s adopcí nástrojů, u seniornějších kolegyň jsme zdůrazňovali konkrétní přínosy: méně papírů, méně dotazů, snazší dohledání informací.
+
+Externí průvodce pomáhal držet rytmus a dotahovat úkoly. Zároveň sdílíme zkušenosti s dalšími neziskovkami, aby se změna neopírala jen o jednorázový impuls.
+
+### **Co nám kurz přinesl**
 
 Digitalizace přinesla Locice řadu konkrétních a měřitelných výsledků:
 
 **• Úspora času a zvýšená efektivita:** Nástroje jako Freelo a kontingenční tabulka výrazně
 ušetřily čas. Celkově efektivnější práce umožňuje věnovat se jiným důležitým věcem.
 
-**• Zlepšení finančního řízení:** Customizované excelové řešení pro finance funguje skvěle a umožňuje snadné kopírování dat z účetnictví.
+**• Zlepšení finančního řízení:** Reporting je rychlejší, přehlednější a méně zatížený chybami z ručních přepisů.
 
 **• Růst fundraisingu:** Díky zakoupené databázi dárců (Smart Emailing) a aktivní komunikaci s nimi se počet pravidelných dárců povedlo zvýšit o 200 %.
 
@@ -80,7 +93,7 @@ ušetřily čas. Celkově efektivnější práce umožňuje věnovat se jiným d
 
 **• Větší přehled o možnostech technologií:** Organizace má nyní dle vedení dobrý přehled o tom, jaké možnosti technologie poskytují a kde mohou pomoci.
 
-*„Díky vám máme 2 skvělé programy, který využíváme, a já jsem nadšená. A strašně nám to pomohlo. Oba ty programy nám opravdu ušetří strašně moc času, který můžeme využít k další naší práci.“*
+*„Díky vám máme dva užitečné programy, které využíváme, a já jsem nadšená. Opravdu strašně nám to pomohlo. Oba nám ušetří hromadu času, který můžeme využít k naší další práci.“*
 
 \- Helena Kubatová, finanční manažerka 
 
