@@ -119,4 +119,6 @@ zaměstnanců, zejména u těch, kteří s technologiemi stále bojují.
 
 **Role vedení:** Kolektivní leadership; průběžné vyhodnocování návrhů; zajištění financí (dotace, dary, NNO slevy).
 
-**Udržitelnost:** Pravidelné evaluace, sdílení know-how, lehký mentoring; průběžné dolaďování procesů místo velkých jednorázových skoků.
+**Udržitelnost:** Pravidelné evaluace, sdílení know-how, lehký mentoring; průběžné dolaďování procesů místo velkých jednorázových skoků.\
+
+Pokud chcete i ve své organizaci nastavit digitalizaci systematicky a s jasným přesahem do efektivity i dopadu, podívejte se na další běh [kurzu Nezisk.Digital](https://www.cesko.digital/projekty/nezisk-digital/home#online-kurz).
