@@ -8,7 +8,7 @@ description: Jak v organizaci Locika pokročili v digitalizaci díky účasti v
   kurzu Nezisk.Digital?
 lang: cs
 ---
-Přihlašování do jarního běhu [kurzu Nezisk.Digital](https://www.cesko.digital/projekty/nezisk-digital/home#online-kurz) už je v plném proudu. Chystá se vaše neziskovka zúčastnit? Přinášíme další případovou studii organizace, která kurzem prošla. Locika bojuje za život dětí a rodin bez násilí a má za sebou letos velký úspěch – i díky Locice vešel v platnost zákon, který tělesné trestání dětí označuje za nepřijatelné. V případovce se dozvíte, jak organizaci digitalizace pomohla k ještě většímu dopadu. Také uvidíte, že díky expertům, kteří neziskovky kurzem provázejí, může vzniknout i řešení zcela na míru. Čtěte – [a pak se přihlaste ](https://www.cesko.digital/projekty/nezisk-digital/home#online-kurz),-)
+Přihlašování do nového běhu [kurzu Nezisk.Digital](https://www.cesko.digital/projekty/nezisk-digital/online-kurz-nezisk-digital?utm_source=blog&utm_medium=blogpost) už je v plném proudu. Chystá se vaše neziskovka zúčastnit? Přinášíme další případovou studii organizace, která kurzem prošla. Dozvíte se, jak organizaci digitalizace pomohla organizaci Locika k ještě většímu dopadu. Také uvidíte, že díky expertům, kteří neziskovky kurzem provázejí, může vzniknout i řešení zcela na míru. Čtěte – [a pokud potřebujete také pomoct, přihlaste se](https://www.cesko.digital/projekty/nezisk-digital/online-kurz-nezisk-digital?utm_source=blog&utm_medium=blogpost) ,-)
 
 ### Medailonek organizace
 
@@ -50,16 +50,6 @@ Po kurzu jsme tempo udrželi díky novým výzvám a iniciativě týmu; digitali
 
 ![](https://assets.cesko.digital/f0fd6d7a.jpg)
 
-#### Vybrané nástroje a řešení
-
-Locika implementovala a využívá několik digitálních nástrojů:
-
-**• Freelo**: Pro komunikační a projektové řízení. Přináší přehled o úkolech, termínech a odpovědnostech. Šetří čas.
-
-**• Kontingenční tabulka v Excelu:** Protože jsme nenašli vhodný komerční nástroj pro neziskové organizace, průvodce Karel Pešata naprogramoval kontingenční tabulku v Excelu, která funguje skvěle. Data se do ní přetahují z účetního softwaru Pohoda. Toto řešení nám ušil na míru a je o něj zájem i u jiných neziskovek.
-
-**• Smart Emailing:** Pro evidenci dárců a fundraising. Zavedení této databáze umožnilo efektivnější práci s dárci.
-
 ### Implementace v praxi
 
 Digitalizaci jsme uchopili jako kombinaci technických a lidských kroků.
@@ -73,6 +63,16 @@ Postupně jsme pořídili další software, včetně AI nástrojů (využívaný
 V implementaci jsme kombinovali krátká opakovaná školení s individuálním zaškolováním. Mladší kolegové pomáhali s adopcí nástrojů, u seniornějších kolegyň jsme zdůrazňovali konkrétní přínosy: méně papírů, méně dotazů, snazší dohledání informací.
 
 Externí průvodce pomáhal držet rytmus a dotahovat úkoly. Zároveň sdílíme zkušenosti s dalšími neziskovkami, aby se změna neopírala jen o jednorázový impuls.
+
+#### Vybrané nástroje a řešení
+
+Locika implementovala a využívá několik digitálních nástrojů:
+
+**• Freelo**: Pro komunikační a projektové řízení. Přináší přehled o úkolech, termínech a odpovědnostech. Šetří čas.
+
+**• Kontingenční tabulka v Excelu:** Protože jsme nenašli vhodný komerční nástroj pro neziskové organizace, průvodce Karel Pešata naprogramoval kontingenční tabulku v Excelu, která funguje skvěle. Data se do ní přetahují z účetního softwaru Pohoda. Toto řešení nám ušil na míru a je o něj zájem i u jiných neziskovek.
+
+**• Smart Emailing:** Pro evidenci dárců a fundraising. Zavedení této databáze umožnilo efektivnější práci s dárci.
 
 ### **Co nám kurz přinesl**
 
@@ -111,7 +111,7 @@ zaměstnanců, zejména u těch, kteří s technologiemi stále bojují.
 
 ### Klíčové změny a jejich dopad
 
-**Rychlý nárůst digitálních kompetencí:** Freelo, Excel/reporting, CRM, AI); opakovaná mikroškolení a 1:1 podpora.
+**Rychlý nárůst digitálních kompetencí:** Freelo, Excel/reporting, CRM, AI; opakovaná mikroškolení a 1:1 podpora.
 
 **Strategie:** Digitalizace jako priorita vedení; jasná kritéria relevance a návratnosti; rozpočtová ukotvenost.
 
@@ -119,6 +119,6 @@ zaměstnanců, zejména u těch, kteří s technologiemi stále bojují.
 
 **Role vedení:** Kolektivní leadership; průběžné vyhodnocování návrhů; zajištění financí (dotace, dary, NNO slevy).
 
-**Udržitelnost:** Pravidelné evaluace, sdílení know-how, lehký mentoring; průběžné dolaďování procesů místo velkých jednorázových skoků.\
+**Udržitelnost:** Pravidelné evaluace, sdílení know-how, lehký mentoring; průběžné dolaďování procesů místo velkých jednorázových skoků.
 
-Pokud chcete i ve své organizaci nastavit digitalizaci systematicky a s jasným přesahem do efektivity i dopadu, podívejte se na další běh [kurzu Nezisk.Digital](https://www.cesko.digital/projekty/nezisk-digital/home#online-kurz).
+Pokud chcete i ve své organizaci nastavit digitalizaci systematicky a s jasným přesahem do efektivity i dopadu, podívejte se na další běh [kurzu Nezisk.Digital](https://www.cesko.digital/projekty/nezisk-digital/online-kurz-nezisk-digital?utm_source=blog&utm_medium=blogpost).
