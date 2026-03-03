@@ -4,8 +4,7 @@ author: jakub.holzer
 cover: https://assets.cesko.digital/ef1c985e.png
 date: 2025-11-25-03-15
 slug: pripadovka-locika
-description: Jak v organizaci Locika pokročili v digitalizaci díky účasti v
-  kurzu Nezisk.Digital?
+description: Jak pomohl organizaci Locika kurz Nezisk.Digital?
 lang: cs
 ---
 Přihlašování do nového běhu [kurzu Nezisk.Digital](https://www.cesko.digital/projekty/nezisk-digital/online-kurz-nezisk-digital?utm_source=blog&utm_medium=blogpost) už je v plném proudu. Chystá se vaše neziskovka zúčastnit? Přinášíme další případovou studii organizace, která kurzem prošla. Dozvíte se, jak organizaci digitalizace pomohla organizaci Locika k ještě většímu dopadu. Také uvidíte, že díky expertům, kteří neziskovky kurzem provázejí, může vzniknout i řešení zcela na míru. Čtěte – [a pokud potřebujete také pomoct, přihlaste se](https://www.cesko.digital/projekty/nezisk-digital/online-kurz-nezisk-digital?utm_source=blog&utm_medium=blogpost) ,-)
