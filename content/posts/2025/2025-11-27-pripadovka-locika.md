@@ -32,8 +32,10 @@ Cílem nebylo zavádět technologie pro technologie samotné, ale vytvořit syst
 
 ### Jak jsme postupovali
 
-Kurz Nezisk.Digital použili trochu jako povinnost a motivaci pro zahájení digitální
-transformace. Locika zvolila postup „od potřeb k nástrojům“. Během kurzu nasadili dva nástroje, přičemž evidence financí byla dokončována s podporou mentora až po skončení kurzu – finanční reporting byl dotažen tak, aby nahradil ruční přepisy z účetního systému „Pohoda“. Vedení průběžně vyhodnocovalo návrhy týmu v nákupu a zavádění dalších softwarů: co je relevantní, co se vrátí v efektivitě, a co organizace reálně dokáže ufinancovat (kombinace dotací, darů a slev pro NNO). Po kurzu bylo tempo udržené díky novým výzvám a vlastní iniciativě týmu; digitalizace se promítla i do rozpočtu jako strategická položka, ne „bokovka“.
+Kurz Nezisk.Digital použili jako strukturovaná rámec i motivaci pro zahájení digitální
+transformace. Zvolili jsme postup „od potřeb k nástrojům“. Nejprve jsme si vyjasnili, kde vzniká největší zátěž, a teprve poté jsme hledali vhodná řešení. \
+\
+Už během kurzu jsme nasadili dva nástroje, přičemž evidence financí byla dokončována s podporou experta až po skončení kurzu – finanční reporting byl dotažen tak, aby nahradil ruční přepisy z účetního systému „Pohoda“. Vedení průběžně vyhodnocovalo návrhy týmu v nákupu a zavádění dalších softwarů: co je relevantní, co se vrátí v efektivitě, a co organizace reálně dokáže ufinancovat (kombinace dotací, darů a slev pro NNO). Po kurzu bylo tempo udržené díky novým výzvám a vlastní iniciativě týmu; digitalizace se promítla i do rozpočtu jako strategická položka, ne „bokovka“.
 
 *„Nyní již i zaměstnanci sami tlačí na to, že nechtějí dělat všechno ručně a že chtějí technologie využívat, takže bych řekla, že jsme se za poslední rok určitě posunuli a já to cítím i v rozpočtu, protože položka software tvoří mnohem vyšší částku než v minulosti, vlastně zásadně vyšší než dřív. Naučili jsme se digitální možnosti využívat, i když to není úplně levná záležitost. Pokud nám částečně pomohou dotace, tak jsme schopni to ufinancovat. Digitalizace se stala důležitým prvkem v rozvoji Centra Locika“*
 
