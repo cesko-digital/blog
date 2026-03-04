@@ -1,6 +1,5 @@
 ---
-title: "Případová studie: Digitalizace v Žebříku – větší přehled, nové nástroje
-  i pobočka"
+title: "Případovka: Digitalizace v Žebříku – větší přehled, nové nástroje i pobočka"
 author: jakub.holzer
 cover: https://assets.cesko.digital/c5d9c576.jpg
 date: 2026-03-04-02-42
@@ -100,4 +99,4 @@ Posílení manažerských dovedností, pojmenování a řešení obav, práce s 
 
 - - -
 
-👉 Pokud chcete i ve své organizaci nastavit práci systematicky a s jasným přesahem do efektivity i dopadu, podívejte se na další běh [kurzu Nezisk.Digital](https://www.cesko.digital/projekty/nezisk-digital/online-kurz-nezisk-digital?utm_source=blog&utm_medium=blogpost).
+👉 Chcete také pomoci s profesionalizací své organizace? Nahradit chaos klidem a přehledem, propojit nástroje a vyladit procesy a hlavně mít více času na své poslání i větší dopad? Podívejte se na další běh online [kurzu Nezisk.Digital](https://www.cesko.digital/projekty/nezisk-digital/online-kurz-nezisk-digital?utm_source=blog&utm_medium=blogpost), kde se tohle vše naučíte.
