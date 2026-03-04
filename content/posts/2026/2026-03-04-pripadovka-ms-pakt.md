@@ -1,5 +1,6 @@
 ---
-title: "Případovka: Digitalizace v MS Pakt "
+title: "Případovka: Digitalizace v MS PAKT – Jak systematické IT vzdělávání
+  sjednotilo tým a nastavilo dlouhodobý rozvoj"
 author: jakub.holzer
 cover: https://assets.cesko.digital/c5d9c576.jpg
 date: 2026-03-04-05-23
@@ -45,7 +46,7 @@ Nezajímaly nás jen samotné výstupy kurzu, ale i systém, na kterém je posta
 
 Nešlo nám tedy o jednorázové zlepšení, ale o nastavení dlouhodobého způsobu práce.
 
-Implementace v praxi
+## Implementace v praxi
 
 Od začátku nám bylo jasné, že změna vyžaduje vyhrazený čas. Implementace zahrnovala řadu menších kroků – od sběru informací a rozhovorů s vedoucími týmů až po tvorbu konkrétních vzdělávacích materiálů.
 
@@ -59,7 +60,59 @@ Během procesu sehráli důležitou roli průvodce a technický expert.
 Důležitá pro nás byla také podpora vedení.
 
 *„Když se jako tým shodneme, že něco je problém a brzdí nás to, tak ten nadřízený proti tomu neoponuje, ale naopak nás v tom podpoří.“*
-– Anton Husovský\
-\
+– Anton Husovský
 
-Co nám kurz přinesl
+## Co nám kurz přinesl
+
+### 1️⃣ Ucelený systém IT vzdělávání
+
+Vytvořili jsme přehledný a udržitelný systém IT vzdělávání, který sjednocuje znalosti napříč organizací a nevisí na jednotlivcích.
+
+Vzdělávací SharePoint slouží jako jednotné místo pro osnovy, skripty a materiály.
+
+### 2️⃣ Měření digitálních dovedností
+
+Zavedli jsme vstupní dotazník, který nám umožňuje sledovat úroveň IT gramotnosti a cíleně plánovat další vzdělávání. Díky tomu víme, kde má smysl podporu posílit.
+
+### 3️⃣ Systematický přístup k digitalizaci
+
+Digitalizace už u nás není nahodilá. Nastavili jsme proces sběru potřeb, plánování vzdělávání, přípravy obsahů i jejich ukládání.
+
+Zaměstnanci mají jednotné místo, kde nacházejí potřebné materiály.
+
+### 4️⃣ Přenos know-how a udržitelnost
+
+Naučili jsme se principy, které můžeme používat i bez externí podpory. Zdokumentované postupy a sjednocené formáty materiálů vytvářejí základ pro další rozvoj.
+
+Digitalizace se tak pro nás stává dlouhodobým procesem, nikoli jednorázovým projektem.
+
+## Co si z toho mohou odnést další organizace?
+
+Příběh MS PAKT ukazuje, že digitalizace nemusí začínat zaváděním nových nástrojů. Může začít systematickým nastavením procesů a vzdělávání.
+
+Zkušenost týmu potvrzuje několik věcí:
+
+Nestačí mít robustní nástroje – je potřeba je umět používat.
+
+Systematické IT vzdělávání může sjednotit dovednosti napříč týmem.
+
+Podpora průvodce pomáhá nasměrovat energii správným směrem.
+
+Podpora vedení je klíčová pro to, aby se změny skutečně zavedly.
+
+MS PAKT dnes pracuje s jasně nastaveným systémem IT vzdělávání a má vytvořené podmínky pro další rozvoj digitálních dovedností v organizaci.
+
+
+
+## Klíčové změny a jejich dopad
+
+
+**Znalosti a dovednosti:** Vznikl ucelený systém IT vzdělávání, který sjednocuje znalosti napříč organizací. Došlo k přenosu know-how a posílení orientace v digitálních nástrojích Microsoft.
+
+**Strategie:** Organizace systematicky uchopila oblast IT vzdělávání – nastavila proces sběru potřeb, plánování kurzů, přípravy obsahů a jejich ukládání. Digitalizace je vedená jasnými postupy a cíli.
+
+**Chování:** Zaměstnanci mají jednotné místo, kde nacházejí potřebné materiály a mohou rozvíjet své digitální dovednosti.
+
+**Role vedení:** Vedení poskytlo podporu – tým získal čas pro práci v kurzu, nové postupy nebyly blokovány a bylo umožněno testování inovací.
+
+**Udržitelnost:** Zdokumentované postupy, sjednocené formáty materiálů a měření IT gramotnosti umožňují, aby digitalizace pokračovala i bez externí podpory.
