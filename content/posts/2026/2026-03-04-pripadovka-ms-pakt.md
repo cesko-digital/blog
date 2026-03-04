@@ -1,8 +1,8 @@
 ---
-title: "Případovka: Digitalizace v MS PAKT – Jak systematické IT vzdělávání
-  sjednotilo tým a nastavilo dlouhodobý rozvoj"
+title: "Případovka: Digitalizace v MS PAKT – systém v procesech a nástrojích
+  sjednotil tým a nastavil dlouhodobý rozvoj"
 author: jakub.holzer
-cover: https://assets.cesko.digital/c5d9c576.jpg
+cover: https://assets.cesko.digital/fd70f705.png
 date: 2026-03-04-05-23
 slug: pripadovka-ms-pakt
 description: Jak kurz Nezisk.Digital pomohl organizaci MS PAKT?
@@ -88,17 +88,15 @@ Digitalizace se tak pro nás stává dlouhodobým procesem, nikoli jednorázový
 
 ## Co si z toho mohou odnést další organizace?
 
-Příběh MS PAKT ukazuje, že digitalizace nemusí začínat zaváděním nových nástrojů. Může začít systematickým nastavením procesů a vzdělávání.
-
 Zkušenost týmu potvrzuje několik věcí:
 
 Nestačí mít robustní nástroje – je potřeba je umět používat.
 
 Systematické IT vzdělávání může sjednotit dovednosti napříč týmem.
 
-Podpora průvodce pomáhá nasměrovat energii správným směrem.
+Podpora průvodce kurzu pomáhá nasměrovat energii správným směrem.
 
-Podpora vedení je klíčová pro to, aby se změny skutečně zavedly.
+Podpora vedení organizace je klíčová pro to, aby se změny skutečně zavedly.
 
 MS PAKT dnes pracuje s jasně nastaveným systémem IT vzdělávání a má vytvořené podmínky pro další rozvoj digitálních dovedností v organizaci.
 
