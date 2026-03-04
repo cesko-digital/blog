@@ -8,7 +8,7 @@ slug: pripadovka-unipa
 description: Jak kurz Nezisk.Digital pomohl organizaci UNIPA? (případová studie)
 lang: cs
 ---
-Přinášíme další případovku organizace, která prošla naším online kurzem Nezisk.Digital. Dozvíte se, jak digitalizace pomohla v UNIPA k ještě většímu dopadu. Tentokrát uvidíte, že díky našim expertům, kteří neziskovky kurzem provázejí, může vzniknout i řešení zcela na míru. Čtěte – [a pokud potřebujete také pomoct, přihlaste se do kurzu.](https://www.cesko.digital/projekty/nezisk-digital/online-kurz-nezisk-digital?utm_source=blog&utm_medium=blogpost)
+V případovce UNIPA uvidíte, jak přechod z nepřehledných tabulek na profesionální CRM systém zjednodušil týmu práci a otevírá nové cesty v komunikaci s klienty. A také, že díky našim expertům může vzniknout i řešení zcela na míru. A nezapomeňte – [a pokud potřebujete pomoct s profesionalizací své organizace, přihlaste se do kurzu.](https://www.cesko.digital/projekty/nezisk-digital/online-kurz-nezisk-digital?utm_source=blog&utm_medium=blogpost)
 
 
 ## Medailonek organizace
