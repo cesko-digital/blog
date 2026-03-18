@@ -37,6 +37,8 @@ V Expertní síti se hodí **různé specializace** – od automatizací, integr
 
 👉 Chcete přinést své know-how tam, kde může mít skutečný dopad – a zároveň získat nové zkušenosti i kontakty?[ Domluvte si online call s Matějem Malechou.](https://appt.link/matej-malecha/web-conference-30)
 
+- - -
+
 ## **Hledá se tech-expert*ka na Make.com a AI automatizace**
 
 Máte zkušenosti s **Make.com, automatizacemi nebo zapojením AI do workflow**? Přidejte se jako tech-expert*ka do našeho online kurzu Nezisk.Digital (jaro či podzim 2026) a pomozte veřejně prospěšným organizacím zjednodušit jejich každodenní fungování.
@@ -44,6 +46,8 @@ Máte zkušenosti s **Make.com, automatizacemi nebo zapojením AI do workflow**?
 V kurzu organizace spolupracují s průvodci*průvodkyněmi a právě experty*expertkami, kteří jim pomáhají analyzovat jejich potřeby, doporučit a nastavit vhodné digitální nástroje a nastavit nové workflow tak, aby organizace ve výsledky šetřily energii a měly více času na své poslání.
 
 👉[ Více informací na našem webu](https://app.cesko.digital/opportunities/recGLCcg5xF0wsi5e)
+
+- - -
 
 ## **10 dalších organizací projde naší digitální proměnou**
 
@@ -63,6 +67,8 @@ Jan Štefanides, Lukáš Souček, Hoang Doan, Honza Pobořil, Eva Hermanová, Iv
 
 ![](loga-nno-kurz-jaro-2026.png)
 
+- - -
+
 ## **Nestihli jste jarní kurz? Stíháte podzimní!**
 
 Jarní běh je už plný, ale v podzimním kurzu stále zbývá několik míst – konkrétně až 6. Podzimní běh proběhne od 1. 9. do 11. 12. 2026 a **přihlášky uzavíráme už 30. 4.** Více o online kurzu Nezisk.Digital [ZDE](https://www.cesko.digital/projekty/nezisk-digital/online-kurz-nezisk-digital?utm_source=mailing&utm_medium=email&utm_campaign=blog).
@@ -75,6 +81,8 @@ Zájemci a zájemkyně se mohou připojit na dobrovolné online setkání **Pře
 
 [Hlásíme se na online představení kurzu](https://airtable.com/appBMJcLnBva02IEy/shrRhqG8uH2S5z0Pt)
 
+- - -
+
 ## **Aktuálně ve Služby.Digital**
 
 V našem [projektu Služby.Digital](https://www.cesko.digital/projekty/sluzby-digital/home), který usiluje o lepší digitální služby státu, momentálně pracujeme:
@@ -85,7 +93,7 @@ V našem [projektu Služby.Digital](https://www.cesko.digital/projekty/sluzby-di
 Chcete se k nám přidat se svou expertizou nebo nás podpořit jinak?
 👉 [Rádi vás přivítáme mezi Hybatele digitálního Česka.](https://crm.cesko.digital/?entryPoint=leadCaptureForm&id=68b00b184635910d7)
 
-
+- - -
 
 ## **👩‍💻 Ze světa digitalizace Česka**
 
@@ -113,7 +121,7 @@ Vláda schválila [nový nový statut Rady vlády pro informační společnost (
 
 [Zmocněncem pro digitalizaci a strategickou bezpečnost se v lednu stal poslanec ANO, Robert Králíček](https://vlada.gov.cz/cz/ppov/zmocnenci_vlady/vladni-zmocnenec-pro-digitalizaci-a-strategickou-bezpecnost-224824/). Na společné schůzce jsme mluvili o hlavních prioritách vlády v oblasti digitalizace služeb pro nadcházející rok a možné spolupráci na tématu managementu kvality služeb.
 
-Další důležitou osobností současné vlády v oblasti digitalizace je potom **náměstek ministra vnitra Lukáš Klučka**, který také[ zahajoval březnovou konferenci Digitální Česko](<>), kde mluvil o hlavních prioritách vlády.
+Další důležitou osobností současné vlády v oblasti digitalizace je potom **náměstek ministra vnitra Lukáš Klučka**, který také [zahajoval březnovou konferenci Digitální Česko](<>), kde mluvil o hlavních prioritách vlády.
 
 Vláda také jmenovala **vládním zmocněncem pro AI bývalého šéfa prg.ai Lukáše Kačenu**, což je důležité i v návaznosti na řadu úkolů, které vyplývají z nově schválené [Hospodářské strategie pro oblast digitalizace služeb státu](https://mpo.gov.cz/strategie).
 
@@ -139,8 +147,10 @@ V pondělí 9. března vláda odvolala ředitele Digitální a informační agen
 
 ## **📰 Z médií**
 
-* V[ posledním newsletteru ekonomického komentátora Davida Klimeše](https://davidklimes.cz/newsletter/273) nám vyšel komentář k aktuální digitalizaci státu. [Čtěte ho na našem blogu](https://blog.cesko.digital/2026/03/klimes-taborsky-soulava).
+* V [posledním newsletteru ekonomického komentátora Davida Klimeše](https://davidklimes.cz/newsletter/273) nám vyšel komentář k aktuální digitalizaci státu. [Čtěte ho na našem blogu](https://blog.cesko.digital/2026/03/klimes-taborsky-soulava).
 * [Síť na obranu demokracie](https://www.ochranademokracie.cz/) vydala svou[ zprávu o stavu demokracie v ČR](https://tinyurl.com/Zprava2025) včetně Demometru za rok 2025. Obsahuje kapitoly o veřejné správě a občanské společnosti.
+
+- - -
 
 ## **🔭 Akce na obzoru**
 
@@ -148,13 +158,13 @@ V pondělí 9. března vláda odvolala ředitele Digitální a informační agen
 
 otevřené online setkání nejen pro zájemce o podzimní kurz Nezisk.Digital. Probereme to hlavní ohledně vaší možné účasti i dotazy, které vás zajímají.
 
-👉[ Registrujte si místo už teď](https://airtable.com/appBMJcLnBva02IEy/shrRhqG8uH2S5z0Pt).
+👉 [Registrujte si místo už teď](https://airtable.com/appBMJcLnBva02IEy/shrRhqG8uH2S5z0Pt).
 
 ### **červen (datum teprve ohlásíme) | Showcase Digitální & odolnější**
 
 představíme náš dlouho připravovaný dokument popisující, jak díky digitalizaci posílit kapacity a profesionalizaci veřejně prospěšných organizací a také odolnost české společnosti. Setkání bude online.
 
-![]()
+- - -
 
 ## **IT Fitness Test startuje. A hledá i nové posily do týmu**
 
@@ -162,14 +172,19 @@ Do dalšího ročníku IT Fitness Testu se právě hledají dobrovolníci a dobr
 
 A už 18. března startuje samotný [IT Fitness Test 2026](https://itfitness.eu/cs/) – největší bezplatné online testování digitálních dovedností pro žáky, studenty i pedagogy v Česku. V minulém ročníku se zapojilo přes 63 000 lidí. Test je zdarma a školy ho zvládnou **během jedné vyučovací hodiny**. Zapojit se může kdokoliv i mimo školy až do 31. října. Podrobnosti najdete na [webu IT Fitness Testu](https://itfitness.eu/cs/).
 
+- - -
+
 Náš spřátelený Svět neziskovek nabízí nový intenzivní e-learning, který je **nejkomplexnějším online balíčkem fundraisingového know-how** v ČR i SR. Mix videí, textů a case studies, které se vám budou hodit pro úspěšný fundraising ve své organizaci. Na kurzu pracovalo 12 expertů a expertek po celý rok. Bude to stát za to!
 
 👉 [Více o e-learningu Světa Neziskovek](https://onlineproneziskovky.thinkific.com/courses/jak-na-uspesny-fundraising?utm_source=partneri&utm_medium=affiliate&utm_campaign=FRe-learning&utm_content=fundraising%2C+e-learning)
 
+- - -
+
 ## **Hledáte pomoc nebo radu pro svou organizaci?**
 
-
 👉 [Zamiřte na naše Tržiště](https://trziste.diskutuj.digital/)
+
+- - -
 
 ## **Diskutujte s námi o digitalizaci Česka!**
 
@@ -177,9 +192,22 @@ Digitální transformace státu, nástroje, inovace i podpultovky. Pojďte se ba
 
 👉 **Aktuální témata na fóru [Diskutuj.Digital](https://diskutuj.digital/)**
 
+- - -
+
 ## **Volné pozice v Česko.Digital**
 
 Dobrovolné i profi
 na pár hodin i na full-time
 \
 👉[Není mi to volné!](https://app.cesko.digital/opportunities)
+
+- - -
+
+### Děkujeme, že vás baví číst.digital!
+
+Chcete, aby vám tento newsletter chodil do e-mailové schránky? [Přihlaste se k jeho odběru](https://ceskodigital.ecomailapp.cz/public/form/6-3fdfd544852ed7431aa64f3b9481afb9).
+
+Dávají vám naše aktivity smysl? Moc nám pomůžete, když je budete sdílet dál. 
+
+Děkujeme a digitálu zdar!
+
