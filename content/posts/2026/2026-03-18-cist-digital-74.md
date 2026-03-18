@@ -27,7 +27,7 @@ Hledáme další odborníky a odbornice do naší Expertní sítě – **dlouhod
 
 Co z toho? Zkušenosti, pocit ze smysluplné pomoci, spolupráci s Česko.Digital jako položku do CV nebo nové klienty.
 
-Jako dobrovolní experti*expertky byste se aktuálně zapojovali do naší nové služby[ Konzultace s expertem na digitalizaci](https://www.cesko.digital/projekty/nezisk-digital/digitalni-expert?utm_source=mailing&utm_medium=email&utm_campaign=blog). Konzultace je jednorázová, trvá hodinu a je online.
+Jako dobrovolní experti*expertky byste se aktuálně zapojovali do naší nové služby [Konzultace s expertem na digitalizaci](https://www.cesko.digital/projekty/nezisk-digital/digitalni-expert?utm_source=mailing&utm_medium=email&utm_campaign=blog). Konzultace je jednorázová, trvá hodinu a je online.
 
 Vaše zapojení je **časově flexibilní**. Termíny si domlouváte sami podle svých možností (většinou jde o jednotky hodin měsíčně). Pokud jste freelanceři, může být pro vás zajímavé, že na konzultaci můžete plynule **navázat placenou spoluprací**. Tu si domlouváte s organizací po vlastní ose.
 
@@ -35,7 +35,7 @@ Klíčová je **konzultační kompetence**, tedy dobře se ptát a pak navrhnout
 
 V Expertní síti se hodí **různé specializace** – od automatizací, integrací a low-code nástrojů až po pokročilé využití Google Workspace nebo Microsoft 365. Hodí se i přehled o SaaS nástrojích pro správu úkolů či kontaktů nebo zkušenosti s digitalizací financí a HR. Obecně jsme ale rádi za každého člověka, protože rozpětí poptávek je velké: od „nevím, jak se přihlásit do Google Admin Console“ po „chceme hostovat vlastní aplikaci na Google Cloud“.
 
-👉 Chcete přinést své know-how tam, kde může mít skutečný dopad – a zároveň získat nové zkušenosti i kontakty?[ Domluvte si online call s Matějem Malechou.](https://appt.link/matej-malecha/web-conference-30)
+👉 Chcete přinést své know-how tam, kde může mít skutečný dopad – a zároveň získat nové zkušenosti i kontakty? [Domluvte si online call s Matějem Malechou.](https://appt.link/matej-malecha/web-conference-30)
 
 - - -
 
@@ -45,7 +45,7 @@ Máte zkušenosti s **Make.com, automatizacemi nebo zapojením AI do workflow**?
 
 V kurzu organizace spolupracují s průvodci*průvodkyněmi a právě experty*expertkami, kteří jim pomáhají analyzovat jejich potřeby, doporučit a nastavit vhodné digitální nástroje a nastavit nové workflow tak, aby organizace ve výsledky šetřily energii a měly více času na své poslání.
 
-👉[ Více informací na našem webu](https://app.cesko.digital/opportunities/recGLCcg5xF0wsi5e)
+👉 [Více informací na našem webu](https://app.cesko.digital/opportunities/recGLCcg5xF0wsi5e)
 
 - - -
 
@@ -73,7 +73,7 @@ Jan Štefanides, Lukáš Souček, Hoang Doan, Honza Pobořil, Eva Hermanová, Iv
 
 Jarní běh je už plný, ale v podzimním kurzu stále zbývá několik míst – konkrétně až 6. Podzimní běh proběhne od 1. 9. do 11. 12. 2026 a **přihlášky uzavíráme už 30. 4.** Více o online kurzu Nezisk.Digital [ZDE](https://www.cesko.digital/projekty/nezisk-digital/online-kurz-nezisk-digital?utm_source=mailing&utm_medium=email&utm_campaign=blog).
 
-Kurzovné můžete opět financovat díky Nadaci ČEZ, tentokrát z[ grantu Podpora regionů pro rok 2026](https://www.nadacecez.cz/cs/vyhlasovana-grantova-rizeni/podpora-regionu-110046).
+Kurzovné můžete opět financovat díky Nadaci ČEZ, tentokrát z [grantu Podpora regionů pro rok 2026](https://www.nadacecez.cz/cs/vyhlasovana-grantova-rizeni/podpora-regionu-110046).
 
 Tentokrát je pole pro grantisty širší (financování je pro organizace z oblastí podpory dětí a mládeže, zdravotnictví, sociální péče, osob s handicapem, vědy, vzdělání, kultury, sportu nebo životního prostředí).
 
@@ -121,7 +121,7 @@ Vláda schválila [nový nový statut Rady vlády pro informační společnost (
 
 [Zmocněncem pro digitalizaci a strategickou bezpečnost se v lednu stal poslanec ANO, Robert Králíček](https://vlada.gov.cz/cz/ppov/zmocnenci_vlady/vladni-zmocnenec-pro-digitalizaci-a-strategickou-bezpecnost-224824/). Na společné schůzce jsme mluvili o hlavních prioritách vlády v oblasti digitalizace služeb pro nadcházející rok a možné spolupráci na tématu managementu kvality služeb.
 
-Další důležitou osobností současné vlády v oblasti digitalizace je potom **náměstek ministra vnitra Lukáš Klučka**, který také [zahajoval březnovou konferenci Digitální Česko](<>), kde mluvil o hlavních prioritách vlády.
+Další důležitou osobností současné vlády v oblasti digitalizace je potom **náměstek ministra vnitra Lukáš Klučka**, který také [zahajoval březnovou konferenci Digitální Česko](https://www.digitalni-cesko.eu/), kde mluvil o hlavních prioritách vlády.
 
 Vláda také jmenovala **vládním zmocněncem pro AI bývalého šéfa prg.ai Lukáše Kačenu**, což je důležité i v návaznosti na řadu úkolů, které vyplývají z nově schválené [Hospodářské strategie pro oblast digitalizace služeb státu](https://mpo.gov.cz/strategie).
 
@@ -137,7 +137,7 @@ DIA ušetřila státu 773 milionů korun (dle [zprávy o její činnosti za rok 
 
 Výzkum DIA jsme okomentovali 4. 3. na ČRo Plus (ve 14:20) a na Radiožurnálu (v 15:20).
 
-### **Vláda schválila finální podobu[ Hospodářské strategie](https://mpo.gov.cz/strategie)**
+### **Vláda schválila finální podobu [Hospodářské strategie](https://mpo.gov.cz/strategie)**
 
 Vítáme jasný harmonogram a rozdělení úkolů mezi konkrétní aktéry v oblasti digitalizace státu. Rezervy máme vůči některým posunutým termínům v oblasti digitalizace, ke kterým by z našeho pohledu nemělo docházet už ve fázi strategického plánování.
 
@@ -148,7 +148,7 @@ V pondělí 9. března vláda odvolala ředitele Digitální a informační agen
 ## **📰 Z médií**
 
 * V [posledním newsletteru ekonomického komentátora Davida Klimeše](https://davidklimes.cz/newsletter/273) nám vyšel komentář k aktuální digitalizaci státu. [Čtěte ho na našem blogu](https://blog.cesko.digital/2026/03/klimes-taborsky-soulava).
-* [Síť na obranu demokracie](https://www.ochranademokracie.cz/) vydala svou[ zprávu o stavu demokracie v ČR](https://tinyurl.com/Zprava2025) včetně Demometru za rok 2025. Obsahuje kapitoly o veřejné správě a občanské společnosti.
+* [Síť na obranu demokracie](https://www.ochranademokracie.cz/) vydala svou [zprávu o stavu demokracie v ČR](https://tinyurl.com/Zprava2025) včetně Demometru za rok 2025. Obsahuje kapitoly o veřejné správě a občanské společnosti.
 
 - - -
 
