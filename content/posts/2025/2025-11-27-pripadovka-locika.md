@@ -31,8 +31,7 @@ Cílem nebylo zavádět technologie pro technologie samotné, ale vytvořit syst
 
 ## Jak jsme postupovali
 
-Kurz Nezisk.Digital použili jako strukturovaná rámec i motivaci pro zahájení digitální
-transformace. Zvolili jsme postup „od potřeb k nástrojům“. Nejprve jsme si vyjasnili, kde vzniká největší zátěž, a teprve poté jsme hledali vhodná řešení. \
+Kurz Nezisk.Digital použili jako strukturovaný rámec i motivaci pro zahájení digitální transformace. Zvolili jsme postup „od potřeb k nástrojům“. Nejprve jsme si vyjasnili, kde vzniká největší zátěž, a teprve poté jsme hledali vhodná řešení. \
 \
 Už během kurzu jsme nasadili dva nástroje. Oblast financí jsme s podporou průvodce dokončovali i po skončení kurzu, aby finanční reporting skutečně nahradil ruční přepisy z účetního systému Pohoda. \
 \
@@ -43,7 +42,7 @@ Co dokážeme dlouhodobě financovat?
 
 Po kurzu jsme tempo udrželi díky novým výzvám a iniciativě týmu; digitalizace se promítla i do rozpočtu jako strategická položka, ne „bokovka“.
 
-*„Nyní již i zaměstnanci sami tlačí na to, že nechtějí dělat všechno ručně a že chtějí technologie využívat, takže bych řekla, že jsme se za poslední rok určitě posunuli a já to cítím i v rozpočtu, protože položka software tvoří mnohem vyšší částku než v minulosti, vlastně zásadně vyšší než dřív. Naučili jsme se digitální možnosti využívat, i když to není úplně levná záležitost. Pokud nám částečně pomohou dotace, tak jsme schopni to ufinancovat. Digitalizace se stala důležitým prvkem v rozvoji Centra Locika“*
+*„Nyní již i zaměstnanci sami tlačí na to, že nechtějí dělat všechno ručně a že chtějí technologie využívat, takže bych řekla, že jsme se za poslední rok určitě posunuli. Digitalizace se stala důležitým prvkem v rozvoji Centra Locika.“*
 
 \- Helena Kubatová, finanční manažerka
 
@@ -120,5 +119,6 @@ zaměstnanců, zejména u těch, kteří s technologiemi stále bojují.
 
 **Udržitelnost:** Pravidelné evaluace, sdílení know-how, lehký mentoring; průběžné dolaďování procesů místo velkých jednorázových skoků.
 
----
+- - -
+
 👉 Pokud chcete i ve své organizaci nastavit digitalizaci systematicky a s jasným přesahem do efektivity i dopadu, podívejte se na další běh [kurzu Nezisk.Digital](https://www.cesko.digital/projekty/nezisk-digital/online-kurz-nezisk-digital?utm_source=blog&utm_medium=blogpost).
