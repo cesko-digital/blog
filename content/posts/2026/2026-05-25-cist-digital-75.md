@@ -5,7 +5,7 @@ title: "🔵 číst.digital/75: Využijte naše digi konzultace zdarma | Hledám
 author: jakub.holzer
 tags:
   - newsletter
-cover: https://assets.cesko.digital/415385ab.png
+cover: https://assets.cesko.digital/cf544a3d.png
 date: 2026-05-25-09-42
 slug: cist-digital-75
 description: 👋 Vítejte u novinek z Česko.Digital! Pro podzimní kurz hledáme
