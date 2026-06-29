@@ -5,7 +5,7 @@ tags:
   - nezisk-digital
 cover: https://assets.cesko.digital/9e8ab5a0.png
 date: 2026-06-29-02-18
-slug: fokusky-blog-1
+slug: fokuska-1
 description: Digitalizace ve veřejně prospěšných organizacích často nevázne na
   tom, že by chyběly nástroje. Co chybí, je čas, kapacita a jasně definovaná
   pozice manažera*manažerky, která proces odřídí. Pokud má technologie opravdu
@@ -13,7 +13,7 @@ description: Digitalizace ve veřejně prospěšných organizacích často nevá
   rozhoduje a naplňuje své poslání.
 lang: cs
 ---
-*V listopadu 2025 jsme uspořádali tři fokusní skupiny se zástupci veřejně prospěšných organizací. Mapovali jsme to, jak řeší témata rozpočtu, lidí a fundraisingu v souvislosti s digitalizací. Toto je první ze dvou shrnujících článků, ve kterém ukazujeme, co organizace řeší uvnitř. V druhém díle navážeme tím, co by se mělo změnit systémově.*
+*V listopadu 2025 jsme uspořádali tři fokusní skupiny se zástupci veřejně prospěšných organizací. Mapovali jsme to, jak řeší témata rozpočtu, lidí a fundraisingu v souvislosti s digitalizací. Toto je první ze dvou shrnujících článků, ve kterém ukazujeme, co organizace řeší uvnitř. V [druhém díle](https://blog.cesko.digital/2026/06/fokuska-2) navážeme tím, co by se mělo změnit systémově.*
 
 - - -
 
