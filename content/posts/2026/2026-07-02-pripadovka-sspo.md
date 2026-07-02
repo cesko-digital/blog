@@ -123,3 +123,7 @@ A pokud se podaří vytvořit bezpečný prostor pro otevřenou diskusi, může 
 **Role vedení:** Kurz ukázal, že bez aktivního zapojení vedení a jasného rozhodovacího mandátu se digitalizační změny prosazují jen velmi obtížně.
 
 **Udržitelnost:** Přestože implementace zatím čeká na rozhodnutí vedení, organizace má připravené konkrétní návrhy, získané know-how i zaměstnance, kteří jsou připraveni v digitalizaci pokračovat.
+
+- - -
+
+👉 Chcete také pomoci s profesionalizací své organizace? Nahradit chaos klidem a přehledem, propojit nástroje a vyladit procesy a hlavně mít více času na své poslání i větší dopad? Podívejte se na další běh online [kurzu Nezisk.Digital](https://www.cesko.digital/projekty/nezisk-digital/online-kurz-nezisk-digital?utm_source=blog&utm_medium=blogpost), kde se tohle vše naučíte.
