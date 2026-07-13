@@ -10,9 +10,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "feed": "^5.1.0",
+    "feed": "^5.2.0",
     "gray-matter": "^4.0.3",
-    "marked": "^17.0.1",
+    "marked": "^17.0.3",
     "next": "14.x",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -23,14 +23,14 @@
     "unified": "^11.0.5"
   },
   "devDependencies": {
-    "@playwright/test": "^1.57.0",
+    "@playwright/test": "^1.58.2",
     "@types/js-yaml": "^4.0.9",
     "@types/marked": "^6.0.0",
-    "@types/node": "^24.10.1",
+    "@types/node": "^25.3.0",
     "@types/react": "18",
-    "@typescript-eslint/parser": "^8.48.1",
+    "@typescript-eslint/parser": "^8.56.0",
     "eslint-config-next": "16.x",
-    "glob-bin": "^1.0.0",
+    "glob-bin": "^1.1.0",
     "js-yaml": "^4.1.1",
     "tsx": "^4.21.0",
     "typescript": "^5.9.3"
